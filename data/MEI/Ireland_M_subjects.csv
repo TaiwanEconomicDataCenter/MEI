@@ -1,0 +1,141 @@
+,id,name
+0,XTNTVA01,International Trade > Net trade > Value (goods) > Total
+1,BSSPFT02,Business tendency surveys (manufacturing) > Selling prices > Future tendency > National indicator
+2,BSEMFT02,Business tendency surveys (manufacturing) > Employment > Future Tendency > National indicator
+3,BRCICP02,Business tendency surveys (retail trade) > Confidence indicators > Composite indicators > National indicator
+4,XTIMVA01,International Trade > Imports > Value (goods) > Total
+5,PRMNTO01,Production > Manufacturing > Total manufacturing > Total manufacturing
+6,SLRTTO01,Sales > Retail trade > Total retail trade > Volume
+7,CPGRLE01,Consumer Price Index > OECD Groups > All items non-food non-energy > Total
+8,PRENEL01,Production > Energy > Electricity > Total
+9,SLRTCR03,Sales > Retail trade > Car registration > Passenger cars
+10,BVCICP02,Business tendency surveys (services) > Confidence Indicators > Composite Indicators > National indicator
+11,BREMFT02,Business tendency surveys (retail trade) > Employment > Future tendency > National indicator
+12,IRSTCI01,Interest Rates > Immediate rates (< 24 hrs) > Call money/interbank rate > Total
+13,PRMNCG01,Production > Manufacturing > Consumer goods > Total
+14,BVEMFT02,Business tendency surveys (services) > Employment > Future tendency > National indicator
+15,CPGREN01,"Consumer Price Index > OECD Groups > Energy (Fuel, electricity & gasoline) > Total"
+16,CSESFT02,Consumer opinion surveys > Economic Situation > Future tendency > National indicator
+17,IR3TIB01,Interest Rates > 3-month or 90-day rates and yields > Interbank rates > Total
+18,BSXRLV02,Business tendency surveys (manufacturing) > Export order books or demand > Level > National indicator
+19,BSCICP02,Business tendency surveys (manufacturing) > Confidence indicators > Composite indicators > National indicator
+20,PRMNVG01,Production > Manufacturing > Investment goods > Total
+21,BCOBLV02,Business tendency surveys (construction) > Order books > Level > National indicator
+22,BRVSLV02,Business tendency surveys (retail trade) > Volume of stocks > Level > National indicator
+23,BSFGLV02,Business tendency surveys (manufacturing) > Finished goods stocks > Level > National indicator
+24,BRBUFT02,Business tendency surveys (retail trade) > Business situation - Activity > Future tendency > National indicator
+25,CSCICP02,Consumer opinion surveys > Confidence indicators > Composite indicators > National indicator
+26,XTEXVA01,International Trade > Exports > Value (goods) > Total
+27,PRMNIG01,Production > Manufacturing > Intermediate goods > Total
+28,CSCICP03,Consumer opinion surveys > Confidence indicators > Composite indicators > OECD Indicator
+29,CCUSSP01,"Currency Conversions > US$ exchange rate > Spot, end of period > USD:national currency"
+30,CCRETT01,Currency Conversions > Real effective exchange rates > Overall Economy > CPI
+31,BSCICP03,Business tendency surveys (manufacturing) > Confidence indicators > Composite indicators > OECD Indicator
+32,SPASTT01,Share Prices > All shares/broad > Total > Total
+33,CSINFT02,Consumer opinion surveys > Consumer prices (inflation) > Future tendency > National indicator
+34,SLRTTO02,Sales > Retail trade > Total retail trade > Value
+35,BSOBLV02,Business tendency surveys (manufacturing) > Order books > Level > National indicator
+36,BCEMFT02,Business tendency surveys (construction) > Employment > Future tendency > National indicator
+37,CPHPTT01,Consumer Price Index > Harmonised prices > All items > Total
+38,BCSPFT02,Business tendency surveys (construction) > Selling prices > Future tendency > National indicator
+39,CCUSMA02,Currency Conversions > US$ exchange rate > Average of daily rates > National currency:USD
+40,BVDEFT02,Business tendency surveys (services) > Demand evolution > Future tendency > National indicator
+41,IRLTLT01,Interest Rates > Long-term government bond yields > 10-year > Main (including benchmark)
+42,CPALTT01,Consumer Price Index > All items > Total > Total
+43,BSPRFT02,Business tendency surveys (manufacturing) > Production > Future Tendency > National indicator
+44,BVEMTE02,Business tendency surveys (services) > Employment > Tendency > National indicator
+45,PRINTO01,Production > Industry > Total industry > Total industry excluding construction
+46,BVDETE02,Business tendency surveys (services) > Demand evolution > Tendency > National indicator
+47,BSPRTE02,Business tendency surveys (manufacturing) > Production > Tendency > National indicator
+48,PIEATI01,Producer Prices Index > Economic activities > Industrial activities > Total
+49,PIEAFD02,Producer Prices Index > Economic activities > Manufacture of food products > Domestic
+50,PIEAFD01,Producer Prices Index > Economic activities > Manufacture of food products > Total
+51,PIEAMI01,Producer Prices Index > Economic activities > Mining and quarrying activities > Total
+52,PIEAMP01,Producer Prices Index > Economic activities > Manufacturing > Total
+53,PIEAMI02,Producer Prices Index > Economic activities > Mining and quarrying activities > Domestic
+54,PIEAMP02,Producer Prices Index > Economic activities > Manufacturing > Domestic
+55,LOCOEXNO,Leading Indicators OECD > Component series > Currency conversion > Normalised
+56,LOCOEXOR,Leading Indicators OECD > Component series > Currency conversion > Original series
+57,LOCOMANO,Leading Indicators OECD > Component series > Monetary Aggregates > Normalised
+58,LOCOPPNO,Leading Indicators OECD > Component series > Producer prices > Normalised
+59,LOCOPPOR,Leading Indicators OECD > Component series > Producer prices > Original series
+60,LOCOSPNO,Leading Indicators OECD > Component series > Share prices > Normalised
+61,LOCOSPOR,Leading Indicators OECD > Component series > Share prices > Original series
+62,LOCOTXNO,Leading Indicators OECD > Component series > Exports > Normalised
+63,LOCOTXOR,Leading Indicators OECD > Component series > Exports > Original series
+64,LOCOVRNO,Leading Indicators OECD > Component series > Car registration - sales > Normalised
+65,LOCOVROR,Leading Indicators OECD > Component series > Car registration - sales > Original series
+66,LOCOXGNO,Leading Indicators OECD > Component series > Exports of goods > Normalised
+67,LOCOXGOR,Leading Indicators OECD > Component series > Exports of goods > Original series
+68,LOLITOAA,Leading Indicators OECD > Leading indicators > CLI > Amplitude adjusted
+69,LOLITONO,Leading Indicators OECD > Leading indicators > CLI > Normalised
+70,LOLITOTR,Leading Indicators OECD > Leading indicators > CLI > Trend restored
+71,LORSGPNO,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Normalised
+72,LORSGPRT,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Ratio to trend
+73,LORSGPTD,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Trend
+74,LRHU24FE,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 15-24 > Females
+75,LRHU24MA,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 15-24 > Males
+76,LRHU24TT,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 15-24 > All persons
+77,LRHUADFE,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 25 and over > Females
+78,LRHUADMA,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 25 and over > Males
+79,LRHUADTT,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 25 and over > All persons
+80,LRHUTTFE,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Total > Females
+81,LRHUTTMA,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Total > Males
+82,LRHUTTTT,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Total > All persons
+83,LFHU24FE,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 15-24 > Females
+84,LFHU24MA,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 15-24 > Males
+85,LFHU24TT,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 15-24 > All persons
+86,LFHUADFE,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 25 and over > Females
+87,LFHUADMA,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 25 and over > Males
+88,LFHUADTT,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 25 and over > All persons
+89,LFHUTTFE,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Total > Females
+90,LFHUTTMA,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Total > Males
+91,LFHUTTTT,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Total > All persons
+92,LMUNRLTT,Labour - other labour market measures > Registered unemployment > Level > Total
+93,BVBUTE02,Business tendency surveys (services) > Business situation - Activity > Tendency > National indicator
+94,PREND401,"Production > Energy > Production and distribution of electricity, gas, steam and air conditioning > Total"
+95,CPHP0400,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Total"
+96,CP110000,Consumer Price Index > Restaurants and hotels (COICOP 11) > Total > Total
+97,CPHP0300,Consumer Price Index > Harmonised prices > Clothing and footwear (COICOP 03) > Total
+98,CPGRSE01,Consumer Price Index > OECD Groups > Services > Total
+99,CPHP0600,Consumer Price Index > Harmonised prices > Health (COICOP 06) > Total
+100,CPHP1200,Consumer Price Index > Harmonised prices > Miscellaneous goods and services (COICOP 12) > Total
+101,CP120000,Consumer Price Index > Miscellaneous goods and services (COICOP 12) > Total > Total
+102,CPHP0404,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling"
+103,CPHP0403,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance & repairs of the dwellings"
+104,CP040300,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance and repairs of the dwellings > Total"
+105,CPHPSE01,Consumer Price Index > Harmonised prices > Services > Total
+106,CPHP0900,Consumer Price Index > Harmonised prices > Recreation and culture  (COICOP 09) > Total
+107,CP040500,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels > Total"
+108,CPHP0702,Consumer Price Index > Harmonised prices > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment
+109,CP010000,Consumer Price Index > Food and non-Alcoholic beverages (COICOP 01) > Total > Total
+110,CP060000,Consumer Price Index > Health (COICOP 06) > Total > Total
+111,CP040400,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling > Total"
+112,CPHP1100,Consumer Price Index > Harmonised prices > Restaurants and hotels (COICOP 11) > Total
+113,CPHP0100,Consumer Price Index > Harmonised prices > Food and non-Alcoholic beverages (COICOP 01) > Total
+114,CPHP1000,Consumer Price Index > Harmonised prices > Education (COICOP 10) > Total
+115,CPHPLA01,"Consumer Price Index > Harmonised prices > All items less food, energy, tobacco, alcohol > Total"
+116,CP070000,Consumer Price Index > Transport (COICOP 07) > Total > Total
+117,CPHP0401,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing"
+118,CPHP0405,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels"
+119,CP050000,"Consumer Price Index > Furnishings, household equip. and routine household maintenance (COICOP 05) > Total > Total"
+120,CPHP0500,"Consumer Price Index > Harmonised prices > Furnishings, household equip. and routine household maintenance (COICOP 05) > Total"
+121,CPGRHO01,Consumer Price Index > OECD Groups > Housing > Total
+122,CP040000,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Total > Total"
+123,CPHP0700,Consumer Price Index > Harmonised prices > Transport (COICOP 07) > Total
+124,CPGRLH01,Consumer Price Index > OECD Groups > Services less housing > Total
+125,CP090000,Consumer Price Index > Recreation and culture  (COICOP 09) > Total > Total
+126,CP080000,Consumer Price Index > Communication (COICOP 08) > Total > Total
+127,CP030000,Consumer Price Index > Clothing and footwear (COICOP 03) > Total > Total
+128,CPHPEN01,Consumer Price Index > Harmonised prices > Energy > Total
+129,CP100000,Consumer Price Index > Education (COICOP 10) > Total > Total
+130,CPHP0200,"Consumer Price Index > Harmonised prices > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total"
+131,CP020000,"Consumer Price Index > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total > Total"
+132,CP040100,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing > Total"
+133,CPSDCTGY,Consumer Price Index > Statistical discrepancy > Contribution > Annual inflation
+134,CPHP0800,Consumer Price Index > Harmonised prices > Communication (COICOP 08) > Total
+135,CPGRGO01,Consumer Price Index > OECD Groups > Goods > Total
+136,CP070200,Consumer Price Index > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment > Total
+137,BRBUTE02,Business tendency surveys (retail trade) > Business situation - Activity > Tendency > National indicator
+138,BRODFT02,Business tendency surveys (retail trade) > Order intentions or Demand > Future tendency > National indicator
+139,CSCICP04,Consumer opinion surveys > Confidence indicators > Composite indicators > Normalised indicator

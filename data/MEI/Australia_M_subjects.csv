@@ -1,0 +1,194 @@
+,id,name
+0,XTNTVA01,International Trade > Net trade > Value (goods) > Total
+1,XTIMVA01,International Trade > Imports > Value (goods) > Total
+2,MABMM301,Monetary aggregates and their components > Broad money and components > M3 > M3
+3,SLRTCR03,Sales > Retail trade > Car registration > Passenger cars
+4,IRSTCI01,Interest Rates > Immediate rates (< 24 hrs) > Call money/interbank rate > Total
+5,IR3TBB01,Interest Rates > 3-month or 90-day rates and yields > Bank bills > Total
+6,CSESFT02,Consumer opinion surveys > Economic Situation > Future tendency > National indicator
+7,IR3TIB01,Interest Rates > 3-month or 90-day rates and yields > Interbank rates > Total
+8,CSCICP02,Consumer opinion surveys > Confidence indicators > Composite indicators > National indicator
+9,XTEXVA01,International Trade > Exports > Value (goods) > Total
+10,CSCICP03,Consumer opinion surveys > Confidence indicators > Composite indicators > OECD Indicator
+11,CCUSSP01,"Currency Conversions > US$ exchange rate > Spot, end of period > USD:national currency"
+12,CCRETT01,Currency Conversions > Real effective exchange rates > Overall Economy > CPI
+13,BSCICP03,Business tendency surveys (manufacturing) > Confidence indicators > Composite indicators > OECD Indicator
+14,SPASTT01,Share Prices > All shares/broad > Total > Total
+15,CSINFT02,Consumer opinion surveys > Consumer prices (inflation) > Future tendency > National indicator
+16,SLRTTO02,Sales > Retail trade > Total retail trade > Value
+17,CCUSMA02,Currency Conversions > US$ exchange rate > Average of daily rates > National currency:USD
+18,ODCNPI03,Orders > Construction > Permits issued > Dwellings / Residential buildings
+19,IRLTLT01,Interest Rates > Long-term government bond yields > 10-year > Main (including benchmark)
+20,MANMM101,Monetary aggregates and their components > Narrow money and components > M1 and components > M1
+21,LOCOBDNO,Leading Indicators OECD > Component series > BTS - Demand or orders inflow > Normalised
+22,LOCOBENO,Leading Indicators OECD > Component series > BTS - Employment > Normalised
+23,LOCOBPNO,Leading Indicators OECD > Component series > BTS - Production > Normalised
+24,LOCODWNO,Leading Indicators OECD > Component series > Construction > Normalised
+25,LOCODWOR,Leading Indicators OECD > Component series > Construction > Original series
+26,LOCOLTNO,Leading Indicators OECD > Component series > Long-term interest rate > Normalised
+27,LOCOLTOR,Leading Indicators OECD > Component series > Long-term interest rate > Original series
+28,LOCOSPNO,Leading Indicators OECD > Component series > Share prices > Normalised
+29,LOCOSPOR,Leading Indicators OECD > Component series > Share prices > Original series
+30,LOCOTTNO,Leading Indicators OECD > Component series > Terms of trade > Normalised
+31,LOLITOAA,Leading Indicators OECD > Leading indicators > CLI > Amplitude adjusted
+32,LOLITONO,Leading Indicators OECD > Leading indicators > CLI > Normalised
+33,LOLITOTR,Leading Indicators OECD > Leading indicators > CLI > Trend restored
+34,LORSGPNO,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Normalised
+35,LORSGPRT,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Ratio to trend
+36,LORSGPTD,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Trend
+37,LRAC24FE,Labour Force Survey - quarterly rates > Activity rate > Aged 15-24 > Females
+38,LRAC24MA,Labour Force Survey - quarterly rates > Activity rate > Aged 15-24 > Males
+39,LRAC24TT,Labour Force Survey - quarterly rates > Activity rate > Aged 15-24 > All persons
+40,LRAC25FE,Labour Force Survey - quarterly rates > Activity rate > Aged 25-54 > Females
+41,LRAC25MA,Labour Force Survey - quarterly rates > Activity rate > Aged 25-54 > Males
+42,LRAC25TT,Labour Force Survey - quarterly rates > Activity rate > Aged 25-54 > All persons
+43,LRAC55FE,Labour Force Survey - quarterly rates > Activity rate > Aged 55-64 > Females
+44,LRAC55MA,Labour Force Survey - quarterly rates > Activity rate > Aged 55-64 > Males
+45,LRAC55TT,Labour Force Survey - quarterly rates > Activity rate > Aged 55-64 > All persons
+46,LRAC64FE,Labour Force Survey - quarterly rates > Activity rate > Aged 15-64 > Females
+47,LRAC64MA,Labour Force Survey - quarterly rates > Activity rate > Aged 15-64 > Males
+48,LRAC64TT,Labour Force Survey - quarterly rates > Activity rate > Aged 15-64 > All persons
+49,LRACTTFE,Labour Force Survey - quarterly rates > Activity rate > Aged 15 and over > Females
+50,LRACTTMA,Labour Force Survey - quarterly rates > Activity rate > Aged 15 and over > Males
+51,LRACTTTT,Labour Force Survey - quarterly rates > Activity rate > Aged 15 and over > All persons
+52,LREM24FE,Labour Force Survey - quarterly rates > Employment rate > Aged 15-24 > Females
+53,LREM24MA,Labour Force Survey - quarterly rates > Employment rate > Aged 15-24 > Males
+54,LREM24TT,Labour Force Survey - quarterly rates > Employment rate > Aged 15-24 > All persons
+55,LREM25FE,Labour Force Survey - quarterly rates > Employment rate > Aged 25-54 > Females
+56,LREM25MA,Labour Force Survey - quarterly rates > Employment rate > Aged 25-54 > Males
+57,LREM25TT,Labour Force Survey - quarterly rates > Employment rate > Aged 25-54 > All persons
+58,LREM55FE,Labour Force Survey - quarterly rates > Employment rate > Aged 55-64 > Females
+59,LREM55MA,Labour Force Survey - quarterly rates > Employment rate > Aged 55-64 > Males
+60,LREM55TT,Labour Force Survey - quarterly rates > Employment rate > Aged 55-64 > All persons
+61,LREM64FE,Labour Force Survey - quarterly rates > Employment rate > Aged 15-64 > Females
+62,LREM64MA,Labour Force Survey - quarterly rates > Employment rate > Aged 15-64 > Males
+63,LREM64TT,Labour Force Survey - quarterly rates > Employment rate > Aged 15-64 > All persons
+64,LREMTTFE,Labour Force Survey - quarterly rates > Employment rate > Aged 15 and over > Females
+65,LREMTTMA,Labour Force Survey - quarterly rates > Employment rate > Aged 15 and over > Males
+66,LREMTTTT,Labour Force Survey - quarterly rates > Employment rate > Aged 15 and over > All persons
+67,LRHU24FE,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 15-24 > Females
+68,LRHU24MA,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 15-24 > Males
+69,LRHU24TT,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 15-24 > All persons
+70,LRHUADFE,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 25 and over > Females
+71,LRHUADMA,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 25 and over > Males
+72,LRHUADTT,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 25 and over > All persons
+73,LRHUTTFE,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Total > Females
+74,LRHUTTMA,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Total > Males
+75,LRHUTTTT,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Total > All persons
+76,LRIN24FE,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15-24 > Females
+77,LRIN24MA,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15-24 > Males
+78,LRIN24TT,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15-24 > All persons
+79,LRIN25FE,Labour Force Survey - quarterly rates > Inactivity rate > Aged 25-54 > Females
+80,LRIN25MA,Labour Force Survey - quarterly rates > Inactivity rate > Aged 25-54 > Males
+81,LRIN25TT,Labour Force Survey - quarterly rates > Inactivity rate > Aged 25-54 > All persons
+82,LRIN55FE,Labour Force Survey - quarterly rates > Inactivity rate > Aged 55-64 > Females
+83,LRIN55MA,Labour Force Survey - quarterly rates > Inactivity rate > Aged 55-64 > Males
+84,LRIN55TT,Labour Force Survey - quarterly rates > Inactivity rate > Aged 55-64 > All persons
+85,LRIN64FE,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15-64 > Females
+86,LRIN64MA,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15-64 > Males
+87,LRIN64TT,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15-64 > All persons
+88,LRINTTFE,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15 and over > Females
+89,LRINTTMA,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15 and over > Males
+90,LRINTTTT,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15 and over > All persons
+91,LRUN24FE,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-24 > Females
+92,LRUN24MA,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-24 > Males
+93,LRUN24TT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-24 > All persons
+94,LRUN25FE,Labour Force Survey - quarterly rates > Unemployment rate > Aged 25-54 > Females
+95,LRUN25MA,Labour Force Survey - quarterly rates > Unemployment rate > Aged 25-54 > Males
+96,LRUN25TT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 25-54 > All persons
+97,LRUN55FE,Labour Force Survey - quarterly rates > Unemployment rate > Aged 55-64 > Females
+98,LRUN55MA,Labour Force Survey - quarterly rates > Unemployment rate > Aged 55-64 > Males
+99,LRUN55TT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 55-64 > All persons
+100,LRUN64FE,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-64 > Females
+101,LRUN64MA,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-64 > Males
+102,LRUN64TT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-64 > All persons
+103,LRUNTTFE,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15 and over > Females
+104,LRUNTTMA,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15 and over > Males
+105,LRUNTTTT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15 and over > All persons
+106,LFAC24FE,Labour Force Survey - quarterly levels > Active population > Aged 15-24 > Females
+107,LFAC24MA,Labour Force Survey - quarterly levels > Active population > Aged 15-24 > Males
+108,LFAC24TT,Labour Force Survey - quarterly levels > Active population > Aged 15-24 > All persons
+109,LFAC25FE,Labour Force Survey - quarterly levels > Active population > Aged 25-54 > Females
+110,LFAC25MA,Labour Force Survey - quarterly levels > Active population > Aged 25-54 > Males
+111,LFAC25TT,Labour Force Survey - quarterly levels > Active population > Aged 25-54 > All persons
+112,LFAC55FE,Labour Force Survey - quarterly levels > Active population > Aged 55-64 > Females
+113,LFAC55MA,Labour Force Survey - quarterly levels > Active population > Aged 55-64 > Males
+114,LFAC55TT,Labour Force Survey - quarterly levels > Active population > Aged 55-64 > All persons
+115,LFAC64FE,Labour Force Survey - quarterly levels > Active population > Aged 15-64 > Females
+116,LFAC64MA,Labour Force Survey - quarterly levels > Active population > Aged 15-64 > Males
+117,LFAC64TT,Labour Force Survey - quarterly levels > Active population > Aged 15-64 > All persons
+118,LFACTTFE,Labour Force Survey - quarterly levels > Active population > Aged 15 and over > Females
+119,LFACTTMA,Labour Force Survey - quarterly levels > Active population > Aged 15 and over > Males
+120,LFACTTTT,Labour Force Survey - quarterly levels > Active population > Aged 15 and over > All persons
+121,LFEM24FE,Labour Force Survey - quarterly levels > Employed population > Aged 15-24 > Females
+122,LFEM24MA,Labour Force Survey - quarterly levels > Employed population > Aged 15-24 > Males
+123,LFEM24TT,Labour Force Survey - quarterly levels > Employed population > Aged 15-24 > All persons
+124,LFEM25FE,Labour Force Survey - quarterly levels > Employed population > Aged 25-54 > Females
+125,LFEM25MA,Labour Force Survey - quarterly levels > Employed population > Aged 25-54 > Males
+126,LFEM25TT,Labour Force Survey - quarterly levels > Employed population > Aged 25-54 > All persons
+127,LFEM55FE,Labour Force Survey - quarterly levels > Employed population > Aged 55-64 > Females
+128,LFEM55MA,Labour Force Survey - quarterly levels > Employed population > Aged 55-64 > Males
+129,LFEM55TT,Labour Force Survey - quarterly levels > Employed population > Aged 55-64 > All persons
+130,LFEM64FE,Labour Force Survey - quarterly levels > Employed population > Aged 15-64 > Females
+131,LFEM64MA,Labour Force Survey - quarterly levels > Employed population > Aged 15-64 > Males
+132,LFEM64TT,Labour Force Survey - quarterly levels > Employed population > Aged 15-64 > All persons
+133,LFEMTTFE,Labour Force Survey - quarterly levels > Employed population > Aged 15 and over > Females
+134,LFEMTTMA,Labour Force Survey - quarterly levels > Employed population > Aged 15 and over > Males
+135,LFEMTTTT,Labour Force Survey - quarterly levels > Employed population > Aged 15 and over > All persons
+136,LFESEETT,Labour Force Survey - quarterly levels > Employment - by professional status > Employees > Total
+137,LFHU24FE,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 15-24 > Females
+138,LFHU24MA,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 15-24 > Males
+139,LFHU24TT,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 15-24 > All persons
+140,LFHUADFE,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 25 and over > Females
+141,LFHUADMA,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 25 and over > Males
+142,LFHUADTT,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 25 and over > All persons
+143,LFHUTTFE,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Total > Females
+144,LFHUTTMA,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Total > Males
+145,LFHUTTTT,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Total > All persons
+146,LFIN24FE,Labour Force Survey - quarterly levels > Inactive population > Aged 15-24 > Females
+147,LFIN24MA,Labour Force Survey - quarterly levels > Inactive population > Aged 15-24 > Males
+148,LFIN24TT,Labour Force Survey - quarterly levels > Inactive population > Aged 15-24 > All persons
+149,LFIN25FE,Labour Force Survey - quarterly levels > Inactive population > Aged 25-54 > Females
+150,LFIN25MA,Labour Force Survey - quarterly levels > Inactive population > Aged 25-54 > Males
+151,LFIN25TT,Labour Force Survey - quarterly levels > Inactive population > Aged 25-54 > All persons
+152,LFIN55FE,Labour Force Survey - quarterly levels > Inactive population > Aged 55-64 > Females
+153,LFIN55MA,Labour Force Survey - quarterly levels > Inactive population > Aged 55-64 > Males
+154,LFIN55TT,Labour Force Survey - quarterly levels > Inactive population > Aged 55-64 > All persons
+155,LFIN64FE,Labour Force Survey - quarterly levels > Inactive population > Aged 15-64 > Females
+156,LFIN64MA,Labour Force Survey - quarterly levels > Inactive population > Aged 15-64 > Males
+157,LFIN64TT,Labour Force Survey - quarterly levels > Inactive population > Aged 15-64 > All persons
+158,LFINTTFE,Labour Force Survey - quarterly levels > Inactive population > Aged 15 and over > Females
+159,LFINTTMA,Labour Force Survey - quarterly levels > Inactive population > Aged 15 and over > Males
+160,LFINTTTT,Labour Force Survey - quarterly levels > Inactive population > Aged 15 and over > All persons
+161,LFUN24FE,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-24 > Females
+162,LFUN24MA,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-24 > Males
+163,LFUN24TT,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-24 > Total
+164,LFUN25FE,Labour Force Survey - quarterly levels > Unemployed population > Aged 25-54 > Females
+165,LFUN25MA,Labour Force Survey - quarterly levels > Unemployed population > Aged 25-54 > Males
+166,LFUN25TT,Labour Force Survey - quarterly levels > Unemployed population > Aged 25-54 > Total
+167,LFUN55FE,Labour Force Survey - quarterly levels > Unemployed population > Aged 55-64 > Females
+168,LFUN55MA,Labour Force Survey - quarterly levels > Unemployed population > Aged 55-64 > Males
+169,LFUN55TT,Labour Force Survey - quarterly levels > Unemployed population > Aged 55-64 > All persons
+170,LFUN64FE,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-64 > Females
+171,LFUN64MA,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-64 > Males
+172,LFUN64TT,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-64 > All persons
+173,LFUNTTFE,Labour Force Survey - quarterly levels > Unemployed population > Aged 15 and over > Females
+174,LFUNTTMA,Labour Force Survey - quarterly levels > Unemployed population > Aged 15 and over > Males
+175,LFUNTTTT,Labour Force Survey - quarterly levels > Unemployed population > Aged 15 and over > All persons
+176,LFWA24FE,Labour Force Survey - quarterly levels > Working age population > Aged 15-24 > Females
+177,LFWA24MA,Labour Force Survey - quarterly levels > Working age population > Aged 15-24 > Males
+178,LFWA24TT,Labour Force Survey - quarterly levels > Working age population > Aged 15-24 > All persons
+179,LFWA25FE,Labour Force Survey - quarterly levels > Working age population > Aged 25-54 > Females
+180,LFWA25MA,Labour Force Survey - quarterly levels > Working age population > Aged 25-54 > Males
+181,LFWA25TT,Labour Force Survey - quarterly levels > Working age population > Aged 25-54 > All persons
+182,LFWA55FE,Labour Force Survey - quarterly levels > Working age population > Aged 55-64 > Females
+183,LFWA55MA,Labour Force Survey - quarterly levels > Working age population > Aged 55-64 > Males
+184,LFWA55TT,Labour Force Survey - quarterly levels > Working age population > Aged 55-64 > All persons
+185,LFWA64FE,Labour Force Survey - quarterly levels > Working age population > Aged 15-64 > Females
+186,LFWA64MA,Labour Force Survey - quarterly levels > Working age population > Aged 15-64 > Males
+187,LFWA64TT,Labour Force Survey - quarterly levels > Working age population > Aged 15-64 > All persons
+188,LFWATTFE,Labour Force Survey - quarterly levels > Working age population > Aged 15 and over > Females
+189,LFWATTMA,Labour Force Survey - quarterly levels > Working age population > Aged 15 and over > Males
+190,LFWATTTT,Labour Force Survey - quarterly levels > Working age population > Aged 15 and over > All persons
+191,LMJVTTUV,Labour - other labour market measures > Job vacancies > Total > Unfilled vacancies (stock)
+192,CSCICP04,Consumer opinion surveys > Confidence indicators > Composite indicators > Normalised indicator

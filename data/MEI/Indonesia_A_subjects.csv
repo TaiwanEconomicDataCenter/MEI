@@ -1,0 +1,147 @@
+,id,name
+0,XTNTVA01,International Trade > Net trade > Value (goods) > Total
+1,IRSTCB01,Interest Rates > Immediate rates (< 24 hrs) > Central bank rates > Total
+2,XTIMVA01,International Trade > Imports > Value (goods) > Total
+3,PRMNTO01,Production > Manufacturing > Total manufacturing > Total manufacturing
+4,MABMM301,Monetary aggregates and their components > Broad money and components > M3 > M3
+5,XTEITT01,International Trade > Ratio: Exports to imports > Total > Total
+6,IRSTCI01,Interest Rates > Immediate rates (< 24 hrs) > Call money/interbank rate > Total
+7,CCUSSP02,"Currency Conversions > US$ exchange rate > Spot, end of period > National currency:USD"
+8,LCEAMN03,Labour Compensation > Earnings > Manufacturing > Monthly
+9,IR3TIB01,Interest Rates > 3-month or 90-day rates and yields > Interbank rates > Total
+10,XTEXVA01,International Trade > Exports > Value (goods) > Total
+11,CCRETT01,Currency Conversions > Real effective exchange rates > Overall Economy > CPI
+12,SPASTT01,Share Prices > All shares/broad > Total > Total
+13,IR3OBD01,Interest Rates > Other 3-month rates > Bank deposit rates > Total
+14,CCUSMA02,Currency Conversions > US$ exchange rate > Average of daily rates > National currency:USD
+15,CPALTT01,Consumer Price Index > All items > Total > Total
+16,MANMM101,Monetary aggregates and their components > Narrow money and components > M1 and components > M1
+17,NAEXKP01,National Accounts > GDP by Expenditure > Constant Prices > Gross Domestic Product - Total
+18,NAEXCP06,National Accounts > GDP by Expenditure > Current Prices > Exports of Goods and Services
+19,NAEXCP04,National Accounts > GDP by Expenditure > Current Prices > Gross Fixed Capital Formation
+20,NAEXCP07,National Accounts > GDP by Expenditure > Current Prices > less: Imports of Goods and Services
+21,NAEXCP01,National Accounts > GDP by Expenditure > Current Prices > Gross Domestic Product - Total
+22,NAEXCP05,National Accounts > GDP by Expenditure > Current Prices > Changes in inventories and net acquisition of valuables
+23,NAEXCP03,National Accounts > GDP by Expenditure > Current Prices > Government Final Consumption Expenditure
+24,NAGIGP01,National Accounts > National Accounts Deflators > Gross Domestic Product > GDP Deflator
+25,NAEXCP02,National Accounts > GDP by Expenditure > Current Prices > Private Final Consumption Expenditure
+26,NAEXKP03,National Accounts > GDP by Expenditure > Constant Prices > Government Final Consumption Expenditure
+27,NAEXKP06,National Accounts > GDP by Expenditure > Constant Prices > Exports of Goods and Services
+28,NAEXKP07,National Accounts > GDP by Expenditure > Constant Prices > Less: Imports of Goods and Services
+29,NAEXKP02,National Accounts > GDP by Expenditure > Constant Prices > Private Final Consumption Expenditure
+30,NAEXKP04,National Accounts > GDP by Expenditure > Constant Prices > Gross Fixed Capital Formation
+31,LORSGPOR,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Original series
+32,LRUNTTFE,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15 and over > Females
+33,LRUNTTMA,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15 and over > Males
+34,LRUNTTTT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15 and over > All persons
+35,LFACTTFE,Labour Force Survey - quarterly levels > Active population > Aged 15 and over > Females
+36,LFACTTMA,Labour Force Survey - quarterly levels > Active population > Aged 15 and over > Males
+37,LFACTTTT,Labour Force Survey - quarterly levels > Active population > Aged 15 and over > All persons
+38,LFEAAGTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Agriculture > All persons
+39,LFEACNTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Construction > All persons
+40,LFEAICTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Industry including construction > All persons
+41,LFEAINTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Industry excluding construction > All persons
+42,LFEAMNTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Manufacturing > All persons
+43,LFEASETT,Labour Force Survey - quarterly levels > Employment - by economic activity > Services > All persons
+44,LFEMTTFE,Labour Force Survey - quarterly levels > Employed population > Aged 15 and over > Females
+45,LFEMTTMA,Labour Force Survey - quarterly levels > Employed population > Aged 15 and over > Males
+46,LFEMTTTT,Labour Force Survey - quarterly levels > Employed population > Aged 15 and over > All persons
+47,LFESEETT,Labour Force Survey - quarterly levels > Employment - by professional status > Employees > Total
+48,LFUNTTFE,Labour Force Survey - quarterly levels > Unemployed population > Aged 15 and over > Females
+49,LFUNTTMA,Labour Force Survey - quarterly levels > Unemployed population > Aged 15 and over > Males
+50,LFUNTTTT,Labour Force Survey - quarterly levels > Unemployed population > Aged 15 and over > All persons
+51,B6BLSE01,Balance of payments BPM6 > Current account Balance > Services > Total Balance
+52,B6BLTT01,Balance of payments BPM6 > Current account Balance > Total > Total Balance
+53,B6CRSE01,Balance of payments BPM6 > Current account Credits > Services > Total Credits
+54,B6DBTD01,Balance of payments BPM6 > Current account Debits > Goods > Total Debits
+55,B6FADI01,Balance of payments BPM6 > Financial account > Direct investment > Direct investment Net
+56,B6DBSI01,Balance of payments BPM6 > Current account Debits > Secondary income > Total Debits
+57,B6FAPI03,Balance of payments BPM6 > Financial account > Portfolio investment > Portfolio investment Net incurrence of liabilities
+58,B6FATD01,Balance of payments BPM6 > Financial account > Financial account Net incurrence of liabilities > Total
+59,B6BLSI01,Balance of payments BPM6 > Current account Balance > Secondary income > Total Balance
+60,B6CRPI01,Balance of payments BPM6 > Current account Credits > Primary income > Total Credits
+61,B6DBPI01,Balance of payments BPM6 > Current account Debits > Primary income > Total Debits
+62,B6DBTT01,Balance of payments BPM6 > Current account Debits > Total > Total Debits
+63,B6DBSE02,Balance of payments BPM6 > Current account Debits > Services > Total Debits as % of Current account
+64,B6CACR00,Balance of payments BPM6 > Capital account > Capital account Credits > Capital account Credits
+65,B6CATT00,Balance of payments BPM6 > Capital account > Capital account Balance > Capital account Balance
+66,B6CRSI01,Balance of payments BPM6 > Current account Credits > Secondary income > Total Credits
+67,B6CRTT01,Balance of payments BPM6 > Current account Credits > Total > Total Credits
+68,B6FAFD01,Balance of payments BPM6 > Financial account > Financial derivatives > Financial derivatives Net
+69,B6FAOI03,Balance of payments BPM6 > Financial account > Other investment > Other investment Net incurrence of liabilities
+70,B6FATC01,Balance of payments BPM6 > Financial account > Financial account Net acquisition of financial assets > Total
+71,B6FAOI01,Balance of payments BPM6 > Financial account > Other investment > Other investment Net
+72,B6BLPI01,Balance of payments BPM6 > Current account Balance > Primary income > Total Balance
+73,B6BLTD01,Balance of payments BPM6 > Current account Balance > Goods > Total Balance
+74,B6CRTD01,Balance of payments BPM6 > Current account Credits > Goods > Total Credits
+75,B6DBSE01,Balance of payments BPM6 > Current account Debits > Services > Total Debits
+76,B6CRSE02,Balance of payments BPM6 > Current account Credits > Services > Total Credits as % of Current account
+77,B6DBSE03,Balance of payments BPM6 > Current account Debits > Services > Total Debits as % of Goods and Services
+78,B6FADI03,Balance of payments BPM6 > Financial account > Direct investment > Direct investment Net incurrence of liabilities
+79,B6EOTT01,Balance of payments BPM6 > Net errors and omissions > Net errors and omissions > Net errors and omissions Balance
+80,B6FATT01,Balance of payments BPM6 > Financial account > Financial account Net > Total
+81,B6FARA01,Balance of payments BPM6 > Financial account > Reserve assets > Reserve assets Net
+82,B6CRSE03,Balance of payments BPM6 > Current account Credits > Services > Total Credits as % of Goods and Services
+83,B6FADI02,Balance of payments BPM6 > Financial account > Direct investment > Direct investment Net acquisition of financial assets
+84,B6CADB00,Balance of payments BPM6 > Capital account > Capital account Debits > Capital account Debits
+85,B6FAOI02,Balance of payments BPM6 > Financial account > Other investment > Other investment Net acquisition of financial assets
+86,B6FAPI02,Balance of payments BPM6 > Financial account > Portfolio investment > Portfolio investment Net acquisition of financial assets
+87,B6FAPI10,Balance of payments BPM6 > Financial account > Portfolio investment > Portfolio investment Net
+88,B6BLTT02,Balance of payments BPM6 > Current account Balance > Total > Total Balance as % of GDP
+89,NAGICE01,National Accounts > National Accounts Deflators > Private Consumption Expenditure Deflator > Implicit Price Deflator Total
+90,PWCWCP03,Price Weights > Country weights > Consumer Prices > CPI country weights in percentage of G20
+91,P6DITT01,International investment position BPM6 > Direct investment > Total > Net
+92,P6FDTT02,International investment position BPM6 > Financial derivatives > Total > Assets
+93,P6PIEQ01,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Net
+94,P6PIDB02,International investment position BPM6 > Portfolio investment > Debt instruments > Assets
+95,P6OITC03,International investment position BPM6 > Other investment > Trade credit and advances > Liabilities
+96,P6PITT03,International investment position BPM6 > Portfolio investment > Total > Liabilities
+97,P6OISD01,International investment position BPM6 > Other investment > Special drawing rights > Net
+98,P6RATT01,International investment position BPM6 > Reserve assets > Total > Net
+99,P6DIEQ02,International investment position BPM6 > Direct investment > Equity and investment fund shares > Assets
+100,P6DIDB03,International investment position BPM6 > Direct investment > Debt instruments > Liabilities
+101,P6PIDB03,International investment position BPM6 > Portfolio investment > Debt instruments > Liabilities
+102,P6OILN01,International investment position BPM6 > Other investment > Loans > Net
+103,P6TTTT03,International investment position BPM6 > Financial account (IIP) > Total > Liabilities
+104,P6OITT02,International investment position BPM6 > Other investment > Total > Assets
+105,P6DIDB02,International investment position BPM6 > Direct investment > Debt instruments > Assets
+106,P6OICD02,International investment position BPM6 > Other investment > Currency and deposits > Assets
+107,P6FDTT01,International investment position BPM6 > Financial derivatives > Total > Net
+108,P6OILN02,International investment position BPM6 > Other investment > Loans > Assets
+109,P6OIOA01,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Net
+110,P6PIEQ03,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Liabilities
+111,P6PITT02,International investment position BPM6 > Portfolio investment > Total > Assets
+112,P6DITT03,International investment position BPM6 > Direct investment > Total > Liabilities
+113,P6OILN03,International investment position BPM6 > Other investment > Loans > Liabilities
+114,P6OIOA02,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Assets
+115,P6OITT03,International investment position BPM6 > Other investment > Total > Liabilities
+116,P6PIDB01,International investment position BPM6 > Portfolio investment > Debt instruments > Net
+117,P6OIOA03,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Liabilities
+118,P6OITT01,International investment position BPM6 > Other investment > Total > Net
+119,P6OISD02,International investment position BPM6 > Other investment > Special drawing rights > Assets
+120,P6RATT02,International investment position BPM6 > Reserve assets > Total > Assets
+121,P6TTTT01,International investment position BPM6 > Financial account (IIP) > Total > Net
+122,P6DIDB01,International investment position BPM6 > Direct investment > Debt instruments > Net
+123,P6DIEQ01,International investment position BPM6 > Direct investment > Equity and investment fund shares > Net
+124,P6DIEQ03,International investment position BPM6 > Direct investment > Equity and investment fund shares > Liabilities
+125,P6OICD03,International investment position BPM6 > Other investment > Currency and deposits > Liabilities
+126,P6OITC02,International investment position BPM6 > Other investment > Trade credit and advances > Assets
+127,P6TTTT02,International investment position BPM6 > Financial account (IIP) > Total > Assets
+128,P6OITC01,International investment position BPM6 > Other investment > Trade credit and advances > Net
+129,P6OICD01,International investment position BPM6 > Other investment > Currency and deposits > Net
+130,P6FDTT03,International investment position BPM6 > Financial derivatives > Total > Liabilities
+131,P6OISD03,International investment position BPM6 > Other investment > Special drawing rights > Liabilities
+132,P6PITT01,International investment position BPM6 > Portfolio investment > Total > Net
+133,P6PIEQ02,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Assets
+134,P6DITT02,International investment position BPM6 > Direct investment > Total > Assets
+135,CP060000,Consumer Price Index > Health (COICOP 06) > Total > Total
+136,CP010000,Consumer Price Index > Food and non-Alcoholic beverages (COICOP 01) > Total > Total
+137,CP030000,Consumer Price Index > Clothing and footwear (COICOP 03) > Total > Total
+138,CP040000,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Total > Total"
+139,CP050000,"Consumer Price Index > Furnishings, household equip. and routine household maintenance (COICOP 05) > Total > Total"
+140,CP070000,Consumer Price Index > Transport (COICOP 07) > Total > Total
+141,CP080000,Consumer Price Index > Communication (COICOP 08) > Total > Total
+142,CP090000,Consumer Price Index > Recreation and culture  (COICOP 09) > Total > Total
+143,CP100000,Consumer Price Index > Education (COICOP 10) > Total > Total
+144,CP110000,Consumer Price Index > Restaurants and hotels (COICOP 11) > Total > Total
+145,CP120000,Consumer Price Index > Miscellaneous goods and services (COICOP 12) > Total > Total

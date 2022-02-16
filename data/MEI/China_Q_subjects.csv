@@ -1,0 +1,124 @@
+,id,name
+0,XTNTVA01,International Trade > Net trade > Value (goods) > Total
+1,BSSPFT02,Business tendency surveys (manufacturing) > Selling prices > Future tendency > National indicator
+2,BSEMFT02,Business tendency surveys (manufacturing) > Employment > Future Tendency > National indicator
+3,IRSTCB01,Interest Rates > Immediate rates (< 24 hrs) > Central bank rates > Total
+4,XTIMVA01,International Trade > Imports > Value (goods) > Total
+5,BSCURT02,Business tendency surveys (manufacturing) > Capacity utilisation > Rate of capacity utilisation > National indicator
+6,MABMM301,Monetary aggregates and their components > Broad money and components > M3 > M3
+7,XTEITT01,International Trade > Ratio: Exports to imports > Total > Total
+8,BREMFT02,Business tendency surveys (retail trade) > Employment > Future tendency > National indicator
+9,IRSTCI01,Interest Rates > Immediate rates (< 24 hrs) > Call money/interbank rate > Total
+10,BVEMFT02,Business tendency surveys (services) > Employment > Future tendency > National indicator
+11,PRCNTO01,Production > Construction > Total construction > Total
+12,CCUSSP02,"Currency Conversions > US$ exchange rate > Spot, end of period > National currency:USD"
+13,IR3TTS01,Interest Rates > 3-month or 90-day rates and yields > Treasury securities > Total
+14,IR3TIB01,Interest Rates > 3-month or 90-day rates and yields > Interbank rates > Total
+15,BSCICP02,Business tendency surveys (manufacturing) > Confidence indicators > Composite indicators > National indicator
+16,BRVSLV02,Business tendency surveys (retail trade) > Volume of stocks > Level > National indicator
+17,BSFGLV02,Business tendency surveys (manufacturing) > Finished goods stocks > Level > National indicator
+18,BRBUFT02,Business tendency surveys (retail trade) > Business situation - Activity > Future tendency > National indicator
+19,XTEXVA01,International Trade > Exports > Value (goods) > Total
+20,CCRETT01,Currency Conversions > Real effective exchange rates > Overall Economy > CPI
+21,SPASTT01,Share Prices > All shares/broad > Total > Total
+22,BSOBLV02,Business tendency surveys (manufacturing) > Order books > Level > National indicator
+23,LCEATT03,Labour Compensation > Earnings > All activities > Monthly
+24,CCUSMA02,Currency Conversions > US$ exchange rate > Average of daily rates > National currency:USD
+25,CPALTT01,Consumer Price Index > All items > Total > Total
+26,PRINTO01,Production > Industry > Total industry > Total industry excluding construction
+27,MANMM101,Monetary aggregates and their components > Narrow money and components > M1 and components > M1
+28,NAEXCP01,National Accounts > GDP by Expenditure > Current Prices > Gross Domestic Product - Total
+29,LMUNRLTT,Labour - other labour market measures > Registered unemployment > Level > Total
+30,LMUNRRTT,Labour - other labour market measures > Registered unemployment > Rate > Total
+31,BSBUCT02,Business tendency surveys (manufacturing) > Business situation > Current > National indicator
+32,BSBUFT02,Business tendency surveys (manufacturing) > Business situation > Future tendency > National indicator
+33,B6BLTT01,Balance of payments BPM6 > Current account Balance > Total > Total Balance
+34,B6CRSE01,Balance of payments BPM6 > Current account Credits > Services > Total Credits
+35,B6FADI01,Balance of payments BPM6 > Financial account > Direct investment > Direct investment Net
+36,B6CACR00,Balance of payments BPM6 > Capital account > Capital account Credits > Capital account Credits
+37,B6CATT00,Balance of payments BPM6 > Capital account > Capital account Balance > Capital account Balance
+38,B6FATC01,Balance of payments BPM6 > Financial account > Financial account Net acquisition of financial assets > Total
+39,B6FAOI01,Balance of payments BPM6 > Financial account > Other investment > Other investment Net
+40,B6BLSI01,Balance of payments BPM6 > Current account Balance > Secondary income > Total Balance
+41,B6CRTD01,Balance of payments BPM6 > Current account Credits > Goods > Total Credits
+42,B6CRTT01,Balance of payments BPM6 > Current account Credits > Total > Total Credits
+43,B6DBSI01,Balance of payments BPM6 > Current account Debits > Secondary income > Total Debits
+44,B6BLPI01,Balance of payments BPM6 > Current account Balance > Primary income > Total Balance
+45,B6BLTD01,Balance of payments BPM6 > Current account Balance > Goods > Total Balance
+46,B6DBSE01,Balance of payments BPM6 > Current account Debits > Services > Total Debits
+47,B6CADB00,Balance of payments BPM6 > Capital account > Capital account Debits > Capital account Debits
+48,B6FAOI02,Balance of payments BPM6 > Financial account > Other investment > Other investment Net acquisition of financial assets
+49,B6FATD01,Balance of payments BPM6 > Financial account > Financial account Net incurrence of liabilities > Total
+50,B6FARA01,Balance of payments BPM6 > Financial account > Reserve assets > Reserve assets Net
+51,B6BLSE01,Balance of payments BPM6 > Current account Balance > Services > Total Balance
+52,B6DBTD01,Balance of payments BPM6 > Current account Debits > Goods > Total Debits
+53,B6CRPI01,Balance of payments BPM6 > Current account Credits > Primary income > Total Credits
+54,B6DBTT01,Balance of payments BPM6 > Current account Debits > Total > Total Debits
+55,B6CRSE02,Balance of payments BPM6 > Current account Credits > Services > Total Credits as % of Current account
+56,B6DBSE03,Balance of payments BPM6 > Current account Debits > Services > Total Debits as % of Goods and Services
+57,B6FATT01,Balance of payments BPM6 > Financial account > Financial account Net > Total
+58,B6DBSE02,Balance of payments BPM6 > Current account Debits > Services > Total Debits as % of Current account
+59,B6FADI03,Balance of payments BPM6 > Financial account > Direct investment > Direct investment Net incurrence of liabilities
+60,B6DBPI01,Balance of payments BPM6 > Current account Debits > Primary income > Total Debits
+61,B6EOTT01,Balance of payments BPM6 > Net errors and omissions > Net errors and omissions > Net errors and omissions Balance
+62,B6FAPI02,Balance of payments BPM6 > Financial account > Portfolio investment > Portfolio investment Net acquisition of financial assets
+63,B6CRSI01,Balance of payments BPM6 > Current account Credits > Secondary income > Total Credits
+64,B6FADI02,Balance of payments BPM6 > Financial account > Direct investment > Direct investment Net acquisition of financial assets
+65,B6FAFD01,Balance of payments BPM6 > Financial account > Financial derivatives > Financial derivatives Net
+66,B6FAOI03,Balance of payments BPM6 > Financial account > Other investment > Other investment Net incurrence of liabilities
+67,B6FAPI03,Balance of payments BPM6 > Financial account > Portfolio investment > Portfolio investment Net incurrence of liabilities
+68,B6FAPI10,Balance of payments BPM6 > Financial account > Portfolio investment > Portfolio investment Net
+69,B6CRSE03,Balance of payments BPM6 > Current account Credits > Services > Total Credits as % of Goods and Services
+70,B6BLTT02,Balance of payments BPM6 > Current account Balance > Total > Total Balance as % of GDP
+71,PIEATI01,Producer Prices Index > Economic activities > Industrial activities > Total
+72,CP010000,Consumer Price Index > Food and non-Alcoholic beverages (COICOP 01) > Total > Total
+73,P6DIEQ02,International investment position BPM6 > Direct investment > Equity and investment fund shares > Assets
+74,P6OIIP03,"International investment position BPM6 > Other investment > Insurance, pensions and standardised guarantee schemes > Liabilities"
+75,P6OILN01,International investment position BPM6 > Other investment > Loans > Net
+76,P6PIDB03,International investment position BPM6 > Portfolio investment > Debt instruments > Liabilities
+77,P6PITT01,International investment position BPM6 > Portfolio investment > Total > Net
+78,P6PIEQ02,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Assets
+79,P6RATT01,International investment position BPM6 > Reserve assets > Total > Net
+80,P6PITT03,International investment position BPM6 > Portfolio investment > Total > Liabilities
+81,P6DITT01,International investment position BPM6 > Direct investment > Total > Net
+82,P6OITT02,International investment position BPM6 > Other investment > Total > Assets
+83,P6OITC03,International investment position BPM6 > Other investment > Trade credit and advances > Liabilities
+84,P6TTTT03,International investment position BPM6 > Financial account (IIP) > Total > Liabilities
+85,P6OIEQ02,International investment position BPM6 > Other investment > Other equity > Assets
+86,P6OICD03,International investment position BPM6 > Other investment > Currency and deposits > Liabilities
+87,P6OICD01,International investment position BPM6 > Other investment > Currency and deposits > Net
+88,P6FDTT03,International investment position BPM6 > Financial derivatives > Total > Liabilities
+89,P6OITC02,International investment position BPM6 > Other investment > Trade credit and advances > Assets
+90,P6OITT03,International investment position BPM6 > Other investment > Total > Liabilities
+91,P6OIIP01,"International investment position BPM6 > Other investment > Insurance, pensions and standardised guarantee schemes > Net"
+92,P6PIDB01,International investment position BPM6 > Portfolio investment > Debt instruments > Net
+93,P6DIEQ01,International investment position BPM6 > Direct investment > Equity and investment fund shares > Net
+94,P6FDTT02,International investment position BPM6 > Financial derivatives > Total > Assets
+95,P6OIOA03,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Liabilities
+96,P6OITC01,International investment position BPM6 > Other investment > Trade credit and advances > Net
+97,P6OISD02,International investment position BPM6 > Other investment > Special drawing rights > Assets
+98,P6TTTT01,International investment position BPM6 > Financial account (IIP) > Total > Net
+99,P6RATT02,International investment position BPM6 > Reserve assets > Total > Assets
+100,P6OISD03,International investment position BPM6 > Other investment > Special drawing rights > Liabilities
+101,P6DIDB01,International investment position BPM6 > Direct investment > Debt instruments > Net
+102,P6OITT01,International investment position BPM6 > Other investment > Total > Net
+103,P6TTTT02,International investment position BPM6 > Financial account (IIP) > Total > Assets
+104,P6DIDB03,International investment position BPM6 > Direct investment > Debt instruments > Liabilities
+105,P6OILN03,International investment position BPM6 > Other investment > Loans > Liabilities
+106,P6DITT03,International investment position BPM6 > Direct investment > Total > Liabilities
+107,P6FDTT01,International investment position BPM6 > Financial derivatives > Total > Net
+108,P6OISD01,International investment position BPM6 > Other investment > Special drawing rights > Net
+109,P6OIIP02,"International investment position BPM6 > Other investment > Insurance, pensions and standardised guarantee schemes > Assets"
+110,P6DIDB02,International investment position BPM6 > Direct investment > Debt instruments > Assets
+111,P6OIEQ03,International investment position BPM6 > Other investment > Other equity > Liabilties
+112,P6OIOA02,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Assets
+113,P6PIDB02,International investment position BPM6 > Portfolio investment > Debt instruments > Assets
+114,P6DIEQ03,International investment position BPM6 > Direct investment > Equity and investment fund shares > Liabilities
+115,P6DITT02,International investment position BPM6 > Direct investment > Total > Assets
+116,P6OIOA01,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Net
+117,P6PIEQ03,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Liabilities
+118,P6OILN02,International investment position BPM6 > Other investment > Loans > Assets
+119,P6PITT02,International investment position BPM6 > Portfolio investment > Total > Assets
+120,P6PIEQ01,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Net
+121,P6OICD02,International investment position BPM6 > Other investment > Currency and deposits > Assets
+122,P6OIEQ01,International investment position BPM6 > Other investment > Other equity > Net

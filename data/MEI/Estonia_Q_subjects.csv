@@ -1,0 +1,397 @@
+,id,name
+0,XTNTVA01,International Trade > Net trade > Value (goods) > Total
+1,CCRETT02,Currency Conversions > Real effective exchange rates > Overall Economy > ULC
+2,XTIMVA01,International Trade > Imports > Value (goods) > Total
+3,PRMNTO01,Production > Manufacturing > Total manufacturing > Total manufacturing
+4,SLRTTO01,Sales > Retail trade > Total retail trade > Volume
+5,CPGRLE01,Consumer Price Index > OECD Groups > All items non-food non-energy > Total
+6,BSCURT02,Business tendency surveys (manufacturing) > Capacity utilisation > Rate of capacity utilisation > National indicator
+7,IRSTCI01,Interest Rates > Immediate rates (< 24 hrs) > Call money/interbank rate > Total
+8,LCEATT01,Labour Compensation > Earnings > All activities > Hourly
+9,PRCNTO01,Production > Construction > Total construction > Total
+10,CPGREN01,"Consumer Price Index > OECD Groups > Energy (Fuel, electricity & gasoline) > Total"
+11,CCUSSP02,"Currency Conversions > US$ exchange rate > Spot, end of period > National currency:USD"
+12,BSOITE02,Business tendency surveys (manufacturing) > Orders inflow > Tendency > National indicator
+13,IR3TIB01,Interest Rates > 3-month or 90-day rates and yields > Interbank rates > Total
+14,XTEXVA01,International Trade > Exports > Value (goods) > Total
+15,CCRETT01,Currency Conversions > Real effective exchange rates > Overall Economy > CPI
+16,SPASTT01,Share Prices > All shares/broad > Total > Total
+17,SLRTTO02,Sales > Retail trade > Total retail trade > Value
+18,CCUSMA02,Currency Conversions > US$ exchange rate > Average of daily rates > National currency:USD
+19,ODCNPI03,Orders > Construction > Permits issued > Dwellings / Residential buildings
+20,LCEAMN01,Labour Compensation > Earnings > Manufacturing > Hourly
+21,CPALTT01,Consumer Price Index > All items > Total > Total
+22,PRINTO01,Production > Industry > Total industry > Total industry excluding construction
+23,PITGND01,Producer Prices Index > Type of goods > Non durable consumer goods > Total
+24,PIEATI01,Producer Prices Index > Economic activities > Industrial activities > Total
+25,PITGCD02,Producer Prices Index > Type of goods > Durable consumer goods > Domestic
+26,PIEATI02,Producer Prices Index > Economic activities > Industrial activities > Domestic
+27,PIEAFD02,Producer Prices Index > Economic activities > Manufacture of food products > Domestic
+28,PIEAEN01,Producer Prices Index > Economic activities > Energy > Total
+29,PIEAEN02,Producer Prices Index > Economic activities > Energy > Domestic
+30,PIEAFD01,Producer Prices Index > Economic activities > Manufacture of food products > Total
+31,PITGCG01,Producer Prices Index > Type of goods > Consumer goods > Total
+32,PIEAMI01,Producer Prices Index > Economic activities > Mining and quarrying activities > Total
+33,PITGVG02,Producer Prices Index > Type of goods > Investments goods > Domestic
+34,PITGVG01,Producer Prices Index > Type of goods > Investments goods > Total
+35,PIEAMP01,Producer Prices Index > Economic activities > Manufacturing > Total
+36,PITGCG02,Producer Prices Index > Type of goods > Consumer goods > Domestic
+37,PIEAMI02,Producer Prices Index > Economic activities > Mining and quarrying activities > Domestic
+38,PITGND02,Producer Prices Index > Type of goods > Non durable consumer goods > Domestic
+39,PITGIG02,Producer Prices Index > Type of goods > Intermediate goods > Domestic
+40,PITGIG01,Producer Prices Index > Type of goods > Intermediate goods > Total
+41,PITGCD01,Producer Prices Index > Type of goods > Durable consumer goods > Total
+42,PIEAMP02,Producer Prices Index > Economic activities > Manufacturing > Domestic
+43,NAEXKP01,National Accounts > GDP by Expenditure > Constant Prices > Gross Domestic Product - Total
+44,NAEXCP06,National Accounts > GDP by Expenditure > Current Prices > Exports of Goods and Services
+45,NAEXCP04,National Accounts > GDP by Expenditure > Current Prices > Gross Fixed Capital Formation
+46,NAEXCP07,National Accounts > GDP by Expenditure > Current Prices > less: Imports of Goods and Services
+47,NAEXCP01,National Accounts > GDP by Expenditure > Current Prices > Gross Domestic Product - Total
+48,NAEXCP05,National Accounts > GDP by Expenditure > Current Prices > Changes in inventories and net acquisition of valuables
+49,NAEXCP03,National Accounts > GDP by Expenditure > Current Prices > Government Final Consumption Expenditure
+50,NAGIGP01,National Accounts > National Accounts Deflators > Gross Domestic Product > GDP Deflator
+51,NAEXCP02,National Accounts > GDP by Expenditure > Current Prices > Private Final Consumption Expenditure
+52,NAEXKP03,National Accounts > GDP by Expenditure > Constant Prices > Government Final Consumption Expenditure
+53,NAEXKP06,National Accounts > GDP by Expenditure > Constant Prices > Exports of Goods and Services
+54,NAEXKP07,National Accounts > GDP by Expenditure > Constant Prices > Less: Imports of Goods and Services
+55,NAEXKP02,National Accounts > GDP by Expenditure > Constant Prices > Private Final Consumption Expenditure
+56,NAEXKP04,National Accounts > GDP by Expenditure > Constant Prices > Gross Fixed Capital Formation
+57,ULQECU01,Unit Labour Costs > Early Estimate of Quarterly ULC indicators > Labour Compensation per Unit of Labour Input > Total
+58,ULQELP01,Unit Labour Costs > Early Estimate of Quarterly ULC indicators > Labour Productivity > Total
+59,ULQEUL01,Unit Labour Costs > Early Estimate of Quarterly ULC indicators > Unit Labour Costs > Total
+60,LORSGPOR,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Original series
+61,LRAC24FE,Labour Force Survey - quarterly rates > Activity rate > Aged 15-24 > Females
+62,LRAC24MA,Labour Force Survey - quarterly rates > Activity rate > Aged 15-24 > Males
+63,LRAC24TT,Labour Force Survey - quarterly rates > Activity rate > Aged 15-24 > All persons
+64,LRAC25FE,Labour Force Survey - quarterly rates > Activity rate > Aged 25-54 > Females
+65,LRAC25MA,Labour Force Survey - quarterly rates > Activity rate > Aged 25-54 > Males
+66,LRAC25TT,Labour Force Survey - quarterly rates > Activity rate > Aged 25-54 > All persons
+67,LRAC55FE,Labour Force Survey - quarterly rates > Activity rate > Aged 55-64 > Females
+68,LRAC55MA,Labour Force Survey - quarterly rates > Activity rate > Aged 55-64 > Males
+69,LRAC55TT,Labour Force Survey - quarterly rates > Activity rate > Aged 55-64 > All persons
+70,LRAC64FE,Labour Force Survey - quarterly rates > Activity rate > Aged 15-64 > Females
+71,LRAC64MA,Labour Force Survey - quarterly rates > Activity rate > Aged 15-64 > Males
+72,LRAC64TT,Labour Force Survey - quarterly rates > Activity rate > Aged 15-64 > All persons
+73,LRAC74FE,Labour Force Survey - quarterly rates > Activity rate > Aged 15-74 > Females
+74,LRAC74MA,Labour Force Survey - quarterly rates > Activity rate > Aged 15-74 > Males
+75,LRAC74TT,Labour Force Survey - quarterly rates > Activity rate > Aged 15-74 > All persons
+76,LRACTTFE,Labour Force Survey - quarterly rates > Activity rate > Aged 15 and over > Females
+77,LRACTTMA,Labour Force Survey - quarterly rates > Activity rate > Aged 15 and over > Males
+78,LRACTTTT,Labour Force Survey - quarterly rates > Activity rate > Aged 15 and over > All persons
+79,LREM24FE,Labour Force Survey - quarterly rates > Employment rate > Aged 15-24 > Females
+80,LREM24MA,Labour Force Survey - quarterly rates > Employment rate > Aged 15-24 > Males
+81,LREM24TT,Labour Force Survey - quarterly rates > Employment rate > Aged 15-24 > All persons
+82,LREM25FE,Labour Force Survey - quarterly rates > Employment rate > Aged 25-54 > Females
+83,LREM25MA,Labour Force Survey - quarterly rates > Employment rate > Aged 25-54 > Males
+84,LREM25TT,Labour Force Survey - quarterly rates > Employment rate > Aged 25-54 > All persons
+85,LREM55FE,Labour Force Survey - quarterly rates > Employment rate > Aged 55-64 > Females
+86,LREM55MA,Labour Force Survey - quarterly rates > Employment rate > Aged 55-64 > Males
+87,LREM55TT,Labour Force Survey - quarterly rates > Employment rate > Aged 55-64 > All persons
+88,LREM64FE,Labour Force Survey - quarterly rates > Employment rate > Aged 15-64 > Females
+89,LREM64MA,Labour Force Survey - quarterly rates > Employment rate > Aged 15-64 > Males
+90,LREM64TT,Labour Force Survey - quarterly rates > Employment rate > Aged 15-64 > All persons
+91,LREM74FE,Labour Force Survey - quarterly rates > Employment rate > Aged 15-74 > Females
+92,LREM74MA,Labour Force Survey - quarterly rates > Employment rate > Aged 15-74 > Males
+93,LREM74TT,Labour Force Survey - quarterly rates > Employment rate > Aged 15-74 > All persons
+94,LREMTTFE,Labour Force Survey - quarterly rates > Employment rate > Aged 15 and over > Females
+95,LREMTTMA,Labour Force Survey - quarterly rates > Employment rate > Aged 15 and over > Males
+96,LREMTTTT,Labour Force Survey - quarterly rates > Employment rate > Aged 15 and over > All persons
+97,LREPTTFE,Labour Force Survey - quarterly rates > Employment to population rate > All ages > Females
+98,LREPTTMA,Labour Force Survey - quarterly rates > Employment to population rate > All ages > Males
+99,LREPTTTT,Labour Force Survey - quarterly rates > Employment to population rate > All ages > All persons
+100,LRHU24FE,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 15-24 > Females
+101,LRHU24MA,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 15-24 > Males
+102,LRHU24TT,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 15-24 > All persons
+103,LRHUADFE,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 25 and over > Females
+104,LRHUADMA,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 25 and over > Males
+105,LRHUADTT,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 25 and over > All persons
+106,LRHUTTFE,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Total > Females
+107,LRHUTTMA,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Total > Males
+108,LRHUTTTT,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Total > All persons
+109,LRIN24FE,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15-24 > Females
+110,LRIN24MA,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15-24 > Males
+111,LRIN24TT,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15-24 > All persons
+112,LRIN25FE,Labour Force Survey - quarterly rates > Inactivity rate > Aged 25-54 > Females
+113,LRIN25MA,Labour Force Survey - quarterly rates > Inactivity rate > Aged 25-54 > Males
+114,LRIN25TT,Labour Force Survey - quarterly rates > Inactivity rate > Aged 25-54 > All persons
+115,LRIN55FE,Labour Force Survey - quarterly rates > Inactivity rate > Aged 55-64 > Females
+116,LRIN55MA,Labour Force Survey - quarterly rates > Inactivity rate > Aged 55-64 > Males
+117,LRIN55TT,Labour Force Survey - quarterly rates > Inactivity rate > Aged 55-64 > All persons
+118,LRIN64FE,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15-64 > Females
+119,LRIN64MA,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15-64 > Males
+120,LRIN64TT,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15-64 > All persons
+121,LRIN74FE,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15-74 > Females
+122,LRIN74MA,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15-74 > Males
+123,LRIN74TT,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15-74 > All persons
+124,LRINTTFE,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15 and over > Females
+125,LRINTTMA,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15 and over > Males
+126,LRINTTTT,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15 and over > All persons
+127,LRUN24FE,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-24 > Females
+128,LRUN24MA,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-24 > Males
+129,LRUN24TT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-24 > All persons
+130,LRUN25FE,Labour Force Survey - quarterly rates > Unemployment rate > Aged 25-54 > Females
+131,LRUN25MA,Labour Force Survey - quarterly rates > Unemployment rate > Aged 25-54 > Males
+132,LRUN25TT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 25-54 > All persons
+133,LRUN55FE,Labour Force Survey - quarterly rates > Unemployment rate > Aged 55-64 > Females
+134,LRUN55MA,Labour Force Survey - quarterly rates > Unemployment rate > Aged 55-64 > Males
+135,LRUN55TT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 55-64 > All persons
+136,LRUN64FE,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-64 > Females
+137,LRUN64MA,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-64 > Males
+138,LRUN64TT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-64 > All persons
+139,LRUN74FE,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-74 > Females
+140,LRUN74MA,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-74 > Males
+141,LRUN74TT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-74 > All persons
+142,LRUNTTFE,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15 and over > Females
+143,LRUNTTMA,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15 and over > Males
+144,LRUNTTTT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15 and over > All persons
+145,LRUPTTFE,Labour Force Survey - quarterly rates > Unemployment to population rate > All ages > Females
+146,LRUPTTMA,Labour Force Survey - quarterly rates > Unemployment to population rate > All ages > Males
+147,LRUPTTTT,Labour Force Survey - quarterly rates > Unemployment to population rate > All ages > All persons
+148,LFAC24FE,Labour Force Survey - quarterly levels > Active population > Aged 15-24 > Females
+149,LFAC24MA,Labour Force Survey - quarterly levels > Active population > Aged 15-24 > Males
+150,LFAC24TT,Labour Force Survey - quarterly levels > Active population > Aged 15-24 > All persons
+151,LFAC25FE,Labour Force Survey - quarterly levels > Active population > Aged 25-54 > Females
+152,LFAC25MA,Labour Force Survey - quarterly levels > Active population > Aged 25-54 > Males
+153,LFAC25TT,Labour Force Survey - quarterly levels > Active population > Aged 25-54 > All persons
+154,LFAC55FE,Labour Force Survey - quarterly levels > Active population > Aged 55-64 > Females
+155,LFAC55MA,Labour Force Survey - quarterly levels > Active population > Aged 55-64 > Males
+156,LFAC55TT,Labour Force Survey - quarterly levels > Active population > Aged 55-64 > All persons
+157,LFAC64FE,Labour Force Survey - quarterly levels > Active population > Aged 15-64 > Females
+158,LFAC64MA,Labour Force Survey - quarterly levels > Active population > Aged 15-64 > Males
+159,LFAC64TT,Labour Force Survey - quarterly levels > Active population > Aged 15-64 > All persons
+160,LFAC74FE,Labour Force Survey - quarterly levels > Active population > Aged 15-74 > Females
+161,LFAC74MA,Labour Force Survey - quarterly levels > Active population > Aged 15-74 > Males
+162,LFAC74TT,Labour Force Survey - quarterly levels > Active population > Aged 15-74 > All persons
+163,LFACTTFE,Labour Force Survey - quarterly levels > Active population > Aged 15 and over > Females
+164,LFACTTMA,Labour Force Survey - quarterly levels > Active population > Aged 15 and over > Males
+165,LFACTTTT,Labour Force Survey - quarterly levels > Active population > Aged 15 and over > All persons
+166,LFEAAGTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Agriculture > All persons
+167,LFEACNTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Construction > All persons
+168,LFEAICTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Industry including construction > All persons
+169,LFEAINTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Industry excluding construction > All persons
+170,LFEAMNTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Manufacturing > All persons
+171,LFEASETT,Labour Force Survey - quarterly levels > Employment - by economic activity > Services > All persons
+172,LFEM24FE,Labour Force Survey - quarterly levels > Employed population > Aged 15-24 > Females
+173,LFEM24MA,Labour Force Survey - quarterly levels > Employed population > Aged 15-24 > Males
+174,LFEM24TT,Labour Force Survey - quarterly levels > Employed population > Aged 15-24 > All persons
+175,LFEM25FE,Labour Force Survey - quarterly levels > Employed population > Aged 25-54 > Females
+176,LFEM25MA,Labour Force Survey - quarterly levels > Employed population > Aged 25-54 > Males
+177,LFEM25TT,Labour Force Survey - quarterly levels > Employed population > Aged 25-54 > All persons
+178,LFEM55FE,Labour Force Survey - quarterly levels > Employed population > Aged 55-64 > Females
+179,LFEM55MA,Labour Force Survey - quarterly levels > Employed population > Aged 55-64 > Males
+180,LFEM55TT,Labour Force Survey - quarterly levels > Employed population > Aged 55-64 > All persons
+181,LFEM64FE,Labour Force Survey - quarterly levels > Employed population > Aged 15-64 > Females
+182,LFEM64MA,Labour Force Survey - quarterly levels > Employed population > Aged 15-64 > Males
+183,LFEM64TT,Labour Force Survey - quarterly levels > Employed population > Aged 15-64 > All persons
+184,LFEM74FE,Labour Force Survey - quarterly levels > Employed population > Aged 15-74 > Females
+185,LFEM74MA,Labour Force Survey - quarterly levels > Employed population > Aged 15-74 > Males
+186,LFEM74TT,Labour Force Survey - quarterly levels > Employed population > Aged 15-74 > All persons
+187,LFEMTTFE,Labour Force Survey - quarterly levels > Employed population > Aged 15 and over > Females
+188,LFEMTTMA,Labour Force Survey - quarterly levels > Employed population > Aged 15 and over > Males
+189,LFEMTTTT,Labour Force Survey - quarterly levels > Employed population > Aged 15 and over > All persons
+190,LFESEETT,Labour Force Survey - quarterly levels > Employment - by professional status > Employees > Total
+191,LFHU24FE,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 15-24 > Females
+192,LFHU24MA,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 15-24 > Males
+193,LFHU24TT,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 15-24 > All persons
+194,LFHUADFE,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 25 and over > Females
+195,LFHUADMA,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 25 and over > Males
+196,LFHUADTT,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 25 and over > All persons
+197,LFHUTTFE,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Total > Females
+198,LFHUTTMA,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Total > Males
+199,LFHUTTTT,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Total > All persons
+200,LFIN24FE,Labour Force Survey - quarterly levels > Inactive population > Aged 15-24 > Females
+201,LFIN24MA,Labour Force Survey - quarterly levels > Inactive population > Aged 15-24 > Males
+202,LFIN24TT,Labour Force Survey - quarterly levels > Inactive population > Aged 15-24 > All persons
+203,LFIN25FE,Labour Force Survey - quarterly levels > Inactive population > Aged 25-54 > Females
+204,LFIN25MA,Labour Force Survey - quarterly levels > Inactive population > Aged 25-54 > Males
+205,LFIN25TT,Labour Force Survey - quarterly levels > Inactive population > Aged 25-54 > All persons
+206,LFIN55FE,Labour Force Survey - quarterly levels > Inactive population > Aged 55-64 > Females
+207,LFIN55MA,Labour Force Survey - quarterly levels > Inactive population > Aged 55-64 > Males
+208,LFIN55TT,Labour Force Survey - quarterly levels > Inactive population > Aged 55-64 > All persons
+209,LFIN64FE,Labour Force Survey - quarterly levels > Inactive population > Aged 15-64 > Females
+210,LFIN64MA,Labour Force Survey - quarterly levels > Inactive population > Aged 15-64 > Males
+211,LFIN64TT,Labour Force Survey - quarterly levels > Inactive population > Aged 15-64 > All persons
+212,LFIN74FE,Labour Force Survey - quarterly levels > Inactive population > Aged 15-74 > Females
+213,LFIN74MA,Labour Force Survey - quarterly levels > Inactive population > Aged 15-74 > Males
+214,LFIN74TT,Labour Force Survey - quarterly levels > Inactive population > Aged 15-74 > All persons
+215,LFINTTFE,Labour Force Survey - quarterly levels > Inactive population > Aged 15 and over > Females
+216,LFINTTMA,Labour Force Survey - quarterly levels > Inactive population > Aged 15 and over > Males
+217,LFINTTTT,Labour Force Survey - quarterly levels > Inactive population > Aged 15 and over > All persons
+218,LFPOTTFE,Labour Force Survey - quarterly levels > Population (LFS basis) > All ages > Females
+219,LFPOTTMA,Labour Force Survey - quarterly levels > Population (LFS basis) > All ages > Males
+220,LFPOTTTT,Labour Force Survey - quarterly levels > Population (LFS basis) > All ages > All persons
+221,LFUN24FE,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-24 > Females
+222,LFUN24MA,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-24 > Males
+223,LFUN24TT,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-24 > Total
+224,LFUN25FE,Labour Force Survey - quarterly levels > Unemployed population > Aged 25-54 > Females
+225,LFUN25MA,Labour Force Survey - quarterly levels > Unemployed population > Aged 25-54 > Males
+226,LFUN25TT,Labour Force Survey - quarterly levels > Unemployed population > Aged 25-54 > Total
+227,LFUN55FE,Labour Force Survey - quarterly levels > Unemployed population > Aged 55-64 > Females
+228,LFUN55MA,Labour Force Survey - quarterly levels > Unemployed population > Aged 55-64 > Males
+229,LFUN55TT,Labour Force Survey - quarterly levels > Unemployed population > Aged 55-64 > All persons
+230,LFUN64FE,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-64 > Females
+231,LFUN64MA,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-64 > Males
+232,LFUN64TT,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-64 > All persons
+233,LFUN74FE,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-74 > Females
+234,LFUN74MA,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-74 > Males
+235,LFUN74TT,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-74 > All persons
+236,LFUNTTFE,Labour Force Survey - quarterly levels > Unemployed population > Aged 15 and over > Females
+237,LFUNTTMA,Labour Force Survey - quarterly levels > Unemployed population > Aged 15 and over > Males
+238,LFUNTTTT,Labour Force Survey - quarterly levels > Unemployed population > Aged 15 and over > All persons
+239,LFWA24FE,Labour Force Survey - quarterly levels > Working age population > Aged 15-24 > Females
+240,LFWA24MA,Labour Force Survey - quarterly levels > Working age population > Aged 15-24 > Males
+241,LFWA24TT,Labour Force Survey - quarterly levels > Working age population > Aged 15-24 > All persons
+242,LFWA25FE,Labour Force Survey - quarterly levels > Working age population > Aged 25-54 > Females
+243,LFWA25MA,Labour Force Survey - quarterly levels > Working age population > Aged 25-54 > Males
+244,LFWA25TT,Labour Force Survey - quarterly levels > Working age population > Aged 25-54 > All persons
+245,LFWA55FE,Labour Force Survey - quarterly levels > Working age population > Aged 55-64 > Females
+246,LFWA55MA,Labour Force Survey - quarterly levels > Working age population > Aged 55-64 > Males
+247,LFWA55TT,Labour Force Survey - quarterly levels > Working age population > Aged 55-64 > All persons
+248,LFWA64FE,Labour Force Survey - quarterly levels > Working age population > Aged 15-64 > Females
+249,LFWA64MA,Labour Force Survey - quarterly levels > Working age population > Aged 15-64 > Males
+250,LFWA64TT,Labour Force Survey - quarterly levels > Working age population > Aged 15-64 > All persons
+251,LFWA74FE,Labour Force Survey - quarterly levels > Working age population > Aged 15-74 > Females
+252,LFWA74MA,Labour Force Survey - quarterly levels > Working age population > Aged 15-74 > Males
+253,LFWA74TT,Labour Force Survey - quarterly levels > Working age population > Aged 15-74 > All persons
+254,LFWATTFE,Labour Force Survey - quarterly levels > Working age population > Aged 15 and over > Females
+255,LFWATTMA,Labour Force Survey - quarterly levels > Working age population > Aged 15 and over > Males
+256,LFWATTTT,Labour Force Survey - quarterly levels > Working age population > Aged 15 and over > All persons
+257,LMUNRLTT,Labour - other labour market measures > Registered unemployment > Level > Total
+258,B6FADI03,Balance of payments BPM6 > Financial account > Direct investment > Direct investment Net incurrence of liabilities
+259,B6FADI02,Balance of payments BPM6 > Financial account > Direct investment > Direct investment Net acquisition of financial assets
+260,B6CRSI01,Balance of payments BPM6 > Current account Credits > Secondary income > Total Credits
+261,B6CRTD01,Balance of payments BPM6 > Current account Credits > Goods > Total Credits
+262,B6BLTT02,Balance of payments BPM6 > Current account Balance > Total > Total Balance as % of GDP
+263,B6DBSE01,Balance of payments BPM6 > Current account Debits > Services > Total Debits
+264,B6CATT00,Balance of payments BPM6 > Capital account > Capital account Balance > Capital account Balance
+265,B6BLTD20,Balance of payments BPM6 > Current account Balance > Goods > Net exports of goods under merchanting Balance
+266,B6DBSI01,Balance of payments BPM6 > Current account Debits > Secondary income > Total Debits
+267,B6FAOI02,Balance of payments BPM6 > Financial account > Other investment > Other investment Net acquisition of financial assets
+268,B6CRPI01,Balance of payments BPM6 > Current account Credits > Primary income > Total Credits
+269,B6FAFD01,Balance of payments BPM6 > Financial account > Financial derivatives > Financial derivatives Net
+270,B6FAPI02,Balance of payments BPM6 > Financial account > Portfolio investment > Portfolio investment Net acquisition of financial assets
+271,B6FAOI03,Balance of payments BPM6 > Financial account > Other investment > Other investment Net incurrence of liabilities
+272,B6CACR02,Balance of payments BPM6 > Capital account > Capital account Credits > Capital transfers Credits
+273,B6FATD01,Balance of payments BPM6 > Financial account > Financial account Net incurrence of liabilities > Total
+274,B6FAPI03,Balance of payments BPM6 > Financial account > Portfolio investment > Portfolio investment Net incurrence of liabilities
+275,B6DBTD01,Balance of payments BPM6 > Current account Debits > Goods > Total Debits
+276,B6FADI01,Balance of payments BPM6 > Financial account > Direct investment > Direct investment Net
+277,B6BLTD22,Balance of payments BPM6 > Current account Balance > Goods > Goods sold under merchanting Balance
+278,B6FATT01,Balance of payments BPM6 > Financial account > Financial account Net > Total
+279,B6BLSI01,Balance of payments BPM6 > Current account Balance > Secondary income > Total Balance
+280,B6BLTD21,Balance of payments BPM6 > Current account Balance > Goods > Goods acquired under merchanting (negative credit) Balance
+281,B6BLTT01,Balance of payments BPM6 > Current account Balance > Total > Total Balance
+282,B6CRSE01,Balance of payments BPM6 > Current account Credits > Services > Total Credits
+283,B6CADB02,Balance of payments BPM6 > Capital account > Capital account Debits > Capital transfers Debits
+284,B6BLSE01,Balance of payments BPM6 > Current account Balance > Services > Total Balance
+285,B6CACR00,Balance of payments BPM6 > Capital account > Capital account Credits > Capital account Credits
+286,B6CATT02,Balance of payments BPM6 > Capital account > Capital account Balance > Capital transfers Balance
+287,B6BLPI01,Balance of payments BPM6 > Current account Balance > Primary income > Total Balance
+288,B6CADB00,Balance of payments BPM6 > Capital account > Capital account Debits > Capital account Debits
+289,B6DBPI01,Balance of payments BPM6 > Current account Debits > Primary income > Total Debits
+290,B6FATC01,Balance of payments BPM6 > Financial account > Financial account Net acquisition of financial assets > Total
+291,B6EOTT01,Balance of payments BPM6 > Net errors and omissions > Net errors and omissions > Net errors and omissions Balance
+292,B6BLTD01,Balance of payments BPM6 > Current account Balance > Goods > Total Balance
+293,B6CRSE03,Balance of payments BPM6 > Current account Credits > Services > Total Credits as % of Goods and Services
+294,B6CRSE02,Balance of payments BPM6 > Current account Credits > Services > Total Credits as % of Current account
+295,B6DBSE03,Balance of payments BPM6 > Current account Debits > Services > Total Debits as % of Goods and Services
+296,B6DBSE02,Balance of payments BPM6 > Current account Debits > Services > Total Debits as % of Current account
+297,B6CRTT01,Balance of payments BPM6 > Current account Credits > Total > Total Credits
+298,B6DBTT01,Balance of payments BPM6 > Current account Debits > Total > Total Debits
+299,B6FARA01,Balance of payments BPM6 > Financial account > Reserve assets > Reserve assets Net
+300,B6FAOI01,Balance of payments BPM6 > Financial account > Other investment > Other investment Net
+301,B6CRTD22,Balance of payments BPM6 > Current account Credits > Goods > Goods sold under merchanting Credits
+302,B6CRTD21,Balance of payments BPM6 > Current account Credits > Goods > Goods acquired under merchanting (negative credits) Credits
+303,B6CRTD20,Balance of payments BPM6 > Current account Credits > Goods > Net exports of goods under merchanting Credits
+304,B6CACR01,Balance of payments BPM6 > Capital account > Capital account Credits > Gross disposals of non-produced non-financial assets Credits
+305,B6CADB01,Balance of payments BPM6 > Capital account > Capital account Debits > Gross acquisitions of non-produced non-financial assets Debits
+306,B6FAPI10,Balance of payments BPM6 > Financial account > Portfolio investment > Portfolio investment Net
+307,B6CATT01,Balance of payments BPM6 > Capital account > Capital account Balance > Gross acquisitions/disposals of non-produced non-financial assets Balance
+308,PRMNVG01,Production > Manufacturing > Investment goods > Total
+309,PRMNIG01,Production > Manufacturing > Intermediate goods > Total
+310,PREND401,"Production > Energy > Production and distribution of electricity, gas, steam and air conditioning > Total"
+311,PRMITO01,Production > Mining > Total mining > Total
+312,CP120000,Consumer Price Index > Miscellaneous goods and services (COICOP 12) > Total > Total
+313,CP040400,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling > Total"
+314,CP110000,Consumer Price Index > Restaurants and hotels (COICOP 11) > Total > Total
+315,CP040000,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Total > Total"
+316,CP050000,"Consumer Price Index > Furnishings, household equip. and routine household maintenance (COICOP 05) > Total > Total"
+317,CP070000,Consumer Price Index > Transport (COICOP 07) > Total > Total
+318,CP100000,Consumer Price Index > Education (COICOP 10) > Total > Total
+319,CP040100,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing > Total"
+320,CP020000,"Consumer Price Index > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total > Total"
+321,CP030000,Consumer Price Index > Clothing and footwear (COICOP 03) > Total > Total
+322,CP040500,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels > Total"
+323,CP060000,Consumer Price Index > Health (COICOP 06) > Total > Total
+324,CP080000,Consumer Price Index > Communication (COICOP 08) > Total > Total
+325,CP090000,Consumer Price Index > Recreation and culture  (COICOP 09) > Total > Total
+326,CPGRSE01,Consumer Price Index > OECD Groups > Services > Total
+327,CP040300,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance and repairs of the dwellings > Total"
+328,CP070200,Consumer Price Index > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment > Total
+329,CP010000,Consumer Price Index > Food and non-Alcoholic beverages (COICOP 01) > Total > Total
+330,CPGRHO02,Consumer Price Index > OECD Groups > Housing > Housing excluding imputed rentals for housing
+331,CPGRLH02,Consumer Price Index > OECD Groups > Services less housing > Housing excluding imputed rentals for housing
+332,NAGICE01,National Accounts > National Accounts Deflators > Private Consumption Expenditure Deflator > Implicit Price Deflator Total
+333,IRLTLT01,Interest Rates > Long-term government bond yields > 10-year > Main (including benchmark)
+334,P6OIEQ01,International investment position BPM6 > Other investment > Other equity > Net
+335,P6OISD02,International investment position BPM6 > Other investment > Special drawing rights > Assets
+336,P6OICD02,International investment position BPM6 > Other investment > Currency and deposits > Assets
+337,P6OITC01,International investment position BPM6 > Other investment > Trade credit and advances > Net
+338,P6OIOA03,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Liabilities
+339,P6ADOV03,International investment position BPM6 > Adjustments (reconciling items - flows) > Other volume changes > Liabilities
+340,P6FDTT02,International investment position BPM6 > Financial derivatives > Total > Assets
+341,P6DIDB02,International investment position BPM6 > Direct investment > Debt instruments > Assets
+342,P6ADTT01,International investment position BPM6 > Adjustments (reconciling items - flows) > Total adjustments > Net
+343,P6OITC03,International investment position BPM6 > Other investment > Trade credit and advances > Liabilities
+344,P6OITT02,International investment position BPM6 > Other investment > Total > Assets
+345,P6ADOV02,International investment position BPM6 > Adjustments (reconciling items - flows) > Other volume changes > Assets
+346,P6RATT02,International investment position BPM6 > Reserve assets > Total > Assets
+347,P6TTTT01,International investment position BPM6 > Financial account (IIP) > Total > Net
+348,P6OILN02,International investment position BPM6 > Other investment > Loans > Assets
+349,P6DITT02,International investment position BPM6 > Direct investment > Total > Assets
+350,P6DIEQ03,International investment position BPM6 > Direct investment > Equity and investment fund shares > Liabilities
+351,P6DIDB01,International investment position BPM6 > Direct investment > Debt instruments > Net
+352,P6PIEQ01,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Net
+353,P6OIEQ02,International investment position BPM6 > Other investment > Other equity > Assets
+354,P6OIIP01,"International investment position BPM6 > Other investment > Insurance, pensions and standardised guarantee schemes > Net"
+355,P6DIDB03,International investment position BPM6 > Direct investment > Debt instruments > Liabilities
+356,P6OICD03,International investment position BPM6 > Other investment > Currency and deposits > Liabilities
+357,P6PITT03,International investment position BPM6 > Portfolio investment > Total > Liabilities
+358,P6OIOA02,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Assets
+359,P6OISD01,International investment position BPM6 > Other investment > Special drawing rights > Net
+360,P6ADER01,International investment position BPM6 > Adjustments (reconciling items - flows) > Exchange rate changes > Net
+361,P6PITT01,International investment position BPM6 > Portfolio investment > Total > Net
+362,P6ADOV01,International investment position BPM6 > Adjustments (reconciling items - flows) > Other volume changes > Net
+363,P6OILN01,International investment position BPM6 > Other investment > Loans > Net
+364,P6DITT03,International investment position BPM6 > Direct investment > Total > Liabilities
+365,P6PIEQ02,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Assets
+366,P6PIDB02,International investment position BPM6 > Portfolio investment > Debt instruments > Assets
+367,P6OIOA01,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Net
+368,P6PIEQ03,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Liabilities
+369,P6DITT01,International investment position BPM6 > Direct investment > Total > Net
+370,P6ADER03,International investment position BPM6 > Adjustments (reconciling items - flows) > Exchange rate changes > Liabilities
+371,P6PITT02,International investment position BPM6 > Portfolio investment > Total > Assets
+372,P6ADMP01,International investment position BPM6 > Adjustments (reconciling items - flows) > Market price changes > Net
+373,P6ADER02,International investment position BPM6 > Adjustments (reconciling items - flows) > Exchange rate changes > Assets
+374,P6ADTT02,International investment position BPM6 > Adjustments (reconciling items - flows) > Total adjustments > Assets
+375,P6TTTT02,International investment position BPM6 > Financial account (IIP) > Total > Assets
+376,P6ADTT03,International investment position BPM6 > Adjustments (reconciling items - flows) > Total adjustments > Liabilities
+377,P6PIDB03,International investment position BPM6 > Portfolio investment > Debt instruments > Liabilities
+378,P6PIDB01,International investment position BPM6 > Portfolio investment > Debt instruments > Net
+379,P6DIEQ02,International investment position BPM6 > Direct investment > Equity and investment fund shares > Assets
+380,P6OITT03,International investment position BPM6 > Other investment > Total > Liabilities
+381,P6OIIP03,"International investment position BPM6 > Other investment > Insurance, pensions and standardised guarantee schemes > Liabilities"
+382,P6OILN03,International investment position BPM6 > Other investment > Loans > Liabilities
+383,P6OIEQ03,International investment position BPM6 > Other investment > Other equity > Liabilties
+384,P6OIIP02,"International investment position BPM6 > Other investment > Insurance, pensions and standardised guarantee schemes > Assets"
+385,P6FDTT01,International investment position BPM6 > Financial derivatives > Total > Net
+386,P6ADMP03,International investment position BPM6 > Adjustments (reconciling items - flows) > Market price changes > Liabilities
+387,P6DIEQ01,International investment position BPM6 > Direct investment > Equity and investment fund shares > Net
+388,P6OITT01,International investment position BPM6 > Other investment > Total > Net
+389,P6RATT01,International investment position BPM6 > Reserve assets > Total > Net
+390,P6OISD03,International investment position BPM6 > Other investment > Special drawing rights > Liabilities
+391,P6FDTT03,International investment position BPM6 > Financial derivatives > Total > Liabilities
+392,P6OICD01,International investment position BPM6 > Other investment > Currency and deposits > Net
+393,P6ADMP02,International investment position BPM6 > Adjustments (reconciling items - flows) > Market price changes > Assets
+394,P6TTTT03,International investment position BPM6 > Financial account (IIP) > Total > Liabilities
+395,P6OITC02,International investment position BPM6 > Other investment > Trade credit and advances > Assets
