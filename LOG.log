@@ -1,55 +1,618 @@
-﻿2022-02-21 09:22:12 AM excel_suffix: UP-4
+﻿2022-02-21 04:36:50 PM excel_suffix: UP-2
 
-2022-02-21 09:22:12 AM data_processing: False
+2022-02-21 04:36:50 PM data_processing: True
 
-2022-02-21 09:22:12 AM find_unknown: False
+2022-02-21 04:36:50 PM find_unknown: False
 
-2022-02-21 09:22:12 AM dealing_start_year: 1947
+2022-02-21 04:36:50 PM dealing_start_year: 1947
 
-2022-02-21 09:22:23 AM Process: File Merging
+2022-02-21 04:36:51 PM Data Processing
 
-2022-02-21 09:22:23 AM Reading main key: MEI_keyUP-3.xlsx, Time: 10 s
+2022-02-21 04:36:55 PM Getting data: dataset_name = MEI, country = Five Major Asia, frequency = A Time: 4 s
 
-2022-02-21 09:22:25 AM Reading main database: MEI_databaseUP-3.xlsx, Time: 12 s
+2022-02-21 04:36:55 PM Present File Exists. Reading Data From Default Path.
 
-2022-02-21 09:22:25 AM Reading original key: MEI_keyUP.xlsx, Time: 12 s
+2022-02-21 04:36:55 PM Getting data: dataset_name = MEI, country = Five Major Asia, frequency = Q Time: 4 s
 
-2022-02-21 09:24:39 AM Reading original database: MEI_databaseUP, Time: 146 s
+2022-02-21 04:36:55 PM Present File Exists. Reading Data From Default Path.
 
-2022-02-21 09:41:19 AM Merging File, Time: 1146 s
+2022-02-21 04:36:55 PM Getting data: dataset_name = MEI, country = Five Major Asia, frequency = M Time: 4 s
 
-2022-02-21 09:41:47 AM Setting files, Time: 1174 s
+2022-02-21 04:36:55 PM Present File Exists. Reading Data From Default Path.
 
-2022-02-21 09:41:47 AM Concating file: MEI_keyUP, Time: 1174 s
+2022-02-21 04:36:56 PM Getting data: dataset_name = MEI, country = Argentina, frequency = A Time: 5 s
 
-2022-02-21 09:41:47 AM Concating file: MEI_databaseUP, Time: 1175 s
+2022-02-21 04:36:56 PM Present File Exists. Reading Data From Default Path.
 
-2022-02-21 09:41:48 AM Time: 1175 s
+2022-02-21 04:37:00 PM Getting data: dataset_name = MEI, country = Argentina, frequency = Q Time: 9 s
 
-2022-02-21 09:46:48 AM Setting new files, Time: 1475 s
+2022-02-21 04:37:00 PM Present File Exists. Reading Data From Default Path.
 
-2022-02-21 09:59:39 AM Concating new files: MEI_database, Time: 2246 s
+2022-02-21 04:37:12 PM Getting data: dataset_name = MEI, country = Argentina, frequency = M Time: 22 s
 
-2022-02-21 10:01:25 AM        databank             name   db_table  db_code                                             desc_e          desc_c freq    start     last                   unit name_ord     snl           book                    form_e form_c
-0           MEI  A111B6BD20CCU.a  DB_A_0001  data001  Balance of payments BPM6 > Current account Bal...    B6BLTD20CXCU    A     1999     2020  Millions of US Dollar      USA       1  United States  Balance of payments BPM6    NaN
-1           MEI  A111B6BD20NCU.a  DB_A_0001  data002  Balance of payments BPM6 > Current account Bal...    B6BLTD20NCCU    A     1999     2020  Millions of US Dollar      USA       2  United States  Balance of payments BPM6    NaN
-2           MEI  A111B6BLPICCS.a  DB_A_0001  data003  Balance of payments BPM6 > Current account Bal...  B6BLPI01CXCUSA    A     1960     2020  Millions of US Dollar      USA       3  United States  Balance of payments BPM6    NaN
-3           MEI  A111B6BLPICCU.a  DB_A_0001  data004  Balance of payments BPM6 > Current account Bal...    B6BLPI01CXCU    A     1960     2020  Millions of US Dollar      USA       4  United States  Balance of payments BPM6    NaN
-4           MEI  A111B6BLPINCS.a  DB_A_0001  data005  Balance of payments BPM6 > Current account Bal...  B6BLPI01NCCUSA    A     1960     2020  Millions of US Dollar      USA       5  United States  Balance of payments BPM6    NaN
-...         ...              ...        ...      ...                                                ...             ...  ...      ...      ...                    ...      ...     ...            ...                       ...    ...
-102791      MEI  Q964XNVA01CXM.q  DB_Q_0196  data146  International Trade > Net trade > Value (goods...    XTNTVA01CXML    Q  1980-Q1  2021-Q3  Billions of US Dollar      POL  102792         Poland       International Trade    NaN
-102792      MEI  Q964XNVA01NML.q  DB_Q_0196  data147  International Trade > Net trade > Value (goods...    XTNTVA01NCML    Q  1980-Q1  2021-Q3      Billions of Zloty      POL  102793         Poland       International Trade    NaN
-102793      MEI  Q964XNVA01NMS.q  DB_Q_0196  data148  International Trade > Net trade > Value (goods...  XTNTVA01NCMLSA    Q  1980-Q1  2021-Q3      Billions of Zloty      POL  102794         Poland       International Trade    NaN
-102794      MEI  Q964XNVA01STS.q  DB_Q_0196  data149  International Trade > Net trade > Value (goods...    XTNTVA01STSA    Q  1995-Q1  2021-Q3    Units of Percentage      POL  102795         Poland       International Trade    NaN
-102795      MEI   Q968CCUSMAST.q  DB_Q_0196  data150  Currency Conversions > US$ exchange rate > Ave...      CCUSMA02ST    Q  1957-Q1  2021-Q4  Units of Romanian Leu      ROU  102796        Romania      Currency Conversions    NaN
+2022-02-21 04:37:12 PM Present File Exists. Reading Data From Default Path.
 
-[102796 rows x 15 columns]
-2022-02-21 10:04:21 AM Total databases: 6
-2022-02-21 10:04:21 AM Outputing file: MEI_database_1
-2022-02-21 10:13:02 AM Outputing file: MEI_database_2
-2022-02-21 10:24:04 AM Outputing file: MEI_database_3
-2022-02-21 10:31:06 AM Outputing file: MEI_database_4
-2022-02-21 10:38:35 AM Outputing file: MEI_database_5
-2022-02-21 10:54:02 AM Outputing file: MEI_database_6
-2022-02-21 11:06:53 AM 
-database_num = 6
+2022-02-21 04:37:21 PM Getting data: dataset_name = MEI, country = Australia, frequency = A Time: 30 s
+
+2022-02-21 04:37:21 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:37:40 PM Getting data: dataset_name = MEI, country = Australia, frequency = Q Time: 50 s
+
+2022-02-21 04:37:40 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:38:46 PM Getting data: dataset_name = MEI, country = Australia, frequency = M Time: 115 s
+
+2022-02-21 04:38:46 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:40:14 PM Getting data: dataset_name = MEI, country = Austria, frequency = A Time: 203 s
+
+2022-02-21 04:40:14 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:40:38 PM Getting data: dataset_name = MEI, country = Austria, frequency = Q Time: 227 s
+
+2022-02-21 04:40:38 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:41:51 PM Getting data: dataset_name = MEI, country = Austria, frequency = M Time: 301 s
+
+2022-02-21 04:41:51 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:43:25 PM Getting data: dataset_name = MEI, country = Belgium, frequency = A Time: 394 s
+
+2022-02-21 04:43:25 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:43:47 PM Getting data: dataset_name = MEI, country = Belgium, frequency = Q Time: 416 s
+
+2022-02-21 04:43:47 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:44:54 PM Getting data: dataset_name = MEI, country = Belgium, frequency = M Time: 483 s
+
+2022-02-21 04:44:54 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:46:21 PM Getting data: dataset_name = MEI, country = Bulgaria, frequency = A Time: 570 s
+
+2022-02-21 04:46:21 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:46:21 PM Getting data: dataset_name = MEI, country = Bulgaria, frequency = Q Time: 570 s
+
+2022-02-21 04:46:21 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:46:21 PM Getting data: dataset_name = MEI, country = Bulgaria, frequency = M Time: 571 s
+
+2022-02-21 04:46:21 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:46:21 PM Getting data: dataset_name = MEI, country = Brazil, frequency = A Time: 571 s
+
+2022-02-21 04:46:21 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:46:28 PM Getting data: dataset_name = MEI, country = Brazil, frequency = Q Time: 577 s
+
+2022-02-21 04:46:28 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:46:50 PM Getting data: dataset_name = MEI, country = Brazil, frequency = M Time: 599 s
+
+2022-02-21 04:46:50 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:47:33 PM Getting data: dataset_name = MEI, country = BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa, frequency = A Time: 642 s
+
+2022-02-21 04:47:33 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:47:33 PM Getting data: dataset_name = MEI, country = BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa, frequency = Q Time: 643 s
+
+2022-02-21 04:47:33 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:47:34 PM Getting data: dataset_name = MEI, country = BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa, frequency = M Time: 643 s
+
+2022-02-21 04:47:34 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:47:35 PM Getting data: dataset_name = MEI, country = Canada, frequency = A Time: 644 s
+
+2022-02-21 04:47:35 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:47:53 PM Getting data: dataset_name = MEI, country = Canada, frequency = Q Time: 663 s
+
+2022-02-21 04:47:53 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:48:54 PM Getting data: dataset_name = MEI, country = Canada, frequency = M Time: 724 s
+
+2022-02-21 04:48:54 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:51:03 PM Getting data: dataset_name = MEI, country = Switzerland, frequency = A Time: 852 s
+
+2022-02-21 04:51:03 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:51:24 PM Getting data: dataset_name = MEI, country = Switzerland, frequency = Q Time: 873 s
+
+2022-02-21 04:51:24 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:52:27 PM Getting data: dataset_name = MEI, country = Switzerland, frequency = M Time: 936 s
+
+2022-02-21 04:52:27 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:53:43 PM Getting data: dataset_name = MEI, country = Chile, frequency = A Time: 1012 s
+
+2022-02-21 04:53:43 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:53:57 PM Getting data: dataset_name = MEI, country = Chile, frequency = Q Time: 1026 s
+
+2022-02-21 04:53:57 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:54:43 PM Getting data: dataset_name = MEI, country = Chile, frequency = M Time: 1072 s
+
+2022-02-21 04:54:43 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:56:46 PM Getting data: dataset_name = MEI, country = China, frequency = A Time: 1195 s
+
+2022-02-21 04:56:46 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:56:50 PM Getting data: dataset_name = MEI, country = China, frequency = Q Time: 1199 s
+
+2022-02-21 04:56:50 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:57:05 PM Getting data: dataset_name = MEI, country = China, frequency = M Time: 1214 s
+
+2022-02-21 04:57:05 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:57:18 PM Getting data: dataset_name = MEI, country = Colombia, frequency = A Time: 1228 s
+
+2022-02-21 04:57:18 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:57:33 PM Getting data: dataset_name = MEI, country = Colombia, frequency = Q Time: 1242 s
+
+2022-02-21 04:57:33 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 04:58:23 PM Getting data: dataset_name = MEI, country = Colombia, frequency = M Time: 1293 s
+
+2022-02-21 04:58:23 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:00:34 PM Getting data: dataset_name = MEI, country = Costa Rica, frequency = A Time: 1424 s
+
+2022-02-21 05:00:34 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:00:48 PM Getting data: dataset_name = MEI, country = Costa Rica, frequency = Q Time: 1437 s
+
+2022-02-21 05:00:48 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:01:33 PM Getting data: dataset_name = MEI, country = Costa Rica, frequency = M Time: 1482 s
+
+2022-02-21 05:01:33 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:02:34 PM Getting data: dataset_name = MEI, country = Cyprus, frequency = A Time: 1543 s
+
+2022-02-21 05:02:34 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:02:34 PM Getting data: dataset_name = MEI, country = Cyprus, frequency = Q Time: 1543 s
+
+2022-02-21 05:02:34 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:02:34 PM Getting data: dataset_name = MEI, country = Cyprus, frequency = M Time: 1543 s
+
+2022-02-21 05:02:34 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:02:34 PM Getting data: dataset_name = MEI, country = Czech Republic, frequency = A Time: 1543 s
+
+2022-02-21 05:02:34 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:02:50 PM Getting data: dataset_name = MEI, country = Czech Republic, frequency = Q Time: 1560 s
+
+2022-02-21 05:02:50 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:03:30 PM Getting data: dataset_name = MEI, country = Czech Republic, frequency = M Time: 1599 s
+
+2022-02-21 05:03:30 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:04:12 PM Getting data: dataset_name = MEI, country = Germany, frequency = A Time: 1641 s
+
+2022-02-21 05:04:12 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:04:37 PM Getting data: dataset_name = MEI, country = Germany, frequency = Q Time: 1666 s
+
+2022-02-21 05:04:37 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:05:52 PM Getting data: dataset_name = MEI, country = Germany, frequency = M Time: 1741 s
+
+2022-02-21 05:05:52 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:07:30 PM Getting data: dataset_name = MEI, country = Western Germany, frequency = A Time: 1839 s
+
+2022-02-21 05:07:30 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:07:30 PM Getting data: dataset_name = MEI, country = Western Germany, frequency = Q Time: 1839 s
+
+2022-02-21 05:07:30 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:07:30 PM Getting data: dataset_name = MEI, country = Western Germany, frequency = M Time: 1839 s
+
+2022-02-21 05:07:30 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:07:30 PM Getting data: dataset_name = MEI, country = Denmark, frequency = A Time: 1839 s
+
+2022-02-21 05:07:30 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:07:52 PM Getting data: dataset_name = MEI, country = Denmark, frequency = Q Time: 1861 s
+
+2022-02-21 05:07:52 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:09:00 PM Getting data: dataset_name = MEI, country = Denmark, frequency = M Time: 1929 s
+
+2022-02-21 05:09:00 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:10:37 PM Getting data: dataset_name = MEI, country = Euro area, frequency = A Time: 2027 s
+
+2022-02-21 05:10:37 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:10:52 PM Getting data: dataset_name = MEI, country = Euro area, frequency = Q Time: 2042 s
+
+2022-02-21 05:10:52 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:11:39 PM Getting data: dataset_name = MEI, country = Euro area, frequency = M Time: 2089 s
+
+2022-02-21 05:11:39 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:12:41 PM Getting data: dataset_name = MEI, country = Spain, frequency = A Time: 2150 s
+
+2022-02-21 05:12:41 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:13:02 PM Getting data: dataset_name = MEI, country = Spain, frequency = Q Time: 2171 s
+
+2022-02-21 05:13:02 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:14:09 PM Getting data: dataset_name = MEI, country = Spain, frequency = M Time: 2238 s
+
+2022-02-21 05:14:09 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:15:41 PM Getting data: dataset_name = MEI, country = Estonia, frequency = A Time: 2330 s
+
+2022-02-21 05:15:41 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:15:54 PM Getting data: dataset_name = MEI, country = Estonia, frequency = Q Time: 2344 s
+
+2022-02-21 05:15:54 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:16:27 PM Getting data: dataset_name = MEI, country = Estonia, frequency = M Time: 2377 s
+
+2022-02-21 05:16:27 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:17:06 PM Getting data: dataset_name = MEI, country = European Union (15 countries), frequency = A Time: 2415 s
+
+2022-02-21 05:17:06 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:17:06 PM Getting data: dataset_name = MEI, country = European Union (15 countries), frequency = Q Time: 2415 s
+
+2022-02-21 05:17:06 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:17:06 PM Getting data: dataset_name = MEI, country = European Union (15 countries), frequency = M Time: 2415 s
+
+2022-02-21 05:17:06 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:17:06 PM Getting data: dataset_name = MEI, country = European Union – 27 countries (from 01/02/2020), frequency = A Time: 2415 s
+
+2022-02-21 05:17:06 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:17:17 PM Getting data: dataset_name = MEI, country = European Union – 27 countries (from 01/02/2020), frequency = Q Time: 2426 s
+
+2022-02-21 05:17:17 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:17:51 PM Getting data: dataset_name = MEI, country = European Union – 27 countries (from 01/02/2020), frequency = M Time: 2460 s
+
+2022-02-21 05:17:51 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:18:23 PM Getting data: dataset_name = MEI, country = European Union (28 countries), frequency = A Time: 2493 s
+
+2022-02-21 05:18:23 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:18:23 PM Getting data: dataset_name = MEI, country = European Union (28 countries), frequency = Q Time: 2493 s
+
+2022-02-21 05:18:23 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:18:23 PM Getting data: dataset_name = MEI, country = European Union (28 countries), frequency = M Time: 2493 s
+
+2022-02-21 05:18:23 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:18:23 PM Getting data: dataset_name = MEI, country = Finland, frequency = A Time: 2493 s
+
+2022-02-21 05:18:23 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:18:45 PM Getting data: dataset_name = MEI, country = Finland, frequency = Q Time: 2514 s
+
+2022-02-21 05:18:45 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:19:52 PM Getting data: dataset_name = MEI, country = Finland, frequency = M Time: 2581 s
+
+2022-02-21 05:19:52 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:21:22 PM Getting data: dataset_name = MEI, country = France, frequency = A Time: 2671 s
+
+2022-02-21 05:21:22 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:21:45 PM Getting data: dataset_name = MEI, country = France, frequency = Q Time: 2694 s
+
+2022-02-21 05:21:45 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:22:58 PM Getting data: dataset_name = MEI, country = France, frequency = M Time: 2767 s
+
+2022-02-21 05:22:58 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:24:25 PM Getting data: dataset_name = MEI, country = G20, frequency = A Time: 2855 s
+
+2022-02-21 05:24:25 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:24:26 PM Getting data: dataset_name = MEI, country = G20, frequency = Q Time: 2855 s
+
+2022-02-21 05:24:26 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:24:27 PM Getting data: dataset_name = MEI, country = G20, frequency = M Time: 2856 s
+
+2022-02-21 05:24:27 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:24:28 PM Getting data: dataset_name = MEI, country = G7, frequency = A Time: 2857 s
+
+2022-02-21 05:24:28 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:24:36 PM Getting data: dataset_name = MEI, country = G7, frequency = Q Time: 2865 s
+
+2022-02-21 05:24:36 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:25:06 PM Getting data: dataset_name = MEI, country = G7, frequency = M Time: 2895 s
+
+2022-02-21 05:25:06 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:25:28 PM Getting data: dataset_name = MEI, country = Big 4 Europe, frequency = A Time: 2917 s
+
+2022-02-21 05:25:28 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:25:28 PM Getting data: dataset_name = MEI, country = Big 4 Europe, frequency = Q Time: 2917 s
+
+2022-02-21 05:25:28 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:25:28 PM Getting data: dataset_name = MEI, country = Big 4 Europe, frequency = M Time: 2917 s
+
+2022-02-21 05:25:28 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:25:30 PM Getting data: dataset_name = MEI, country = United Kingdom, frequency = A Time: 2919 s
+
+2022-02-21 05:25:30 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:25:49 PM Getting data: dataset_name = MEI, country = United Kingdom, frequency = Q Time: 2938 s
+
+2022-02-21 05:25:49 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:26:48 PM Getting data: dataset_name = MEI, country = United Kingdom, frequency = M Time: 2997 s
+
+2022-02-21 05:26:48 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:28:16 PM Getting data: dataset_name = MEI, country = Greece, frequency = A Time: 3085 s
+
+2022-02-21 05:28:16 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:28:39 PM Getting data: dataset_name = MEI, country = Greece, frequency = Q Time: 3108 s
+
+2022-02-21 05:28:39 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:29:47 PM Getting data: dataset_name = MEI, country = Greece, frequency = M Time: 3176 s
+
+2022-02-21 05:29:47 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:31:12 PM Getting data: dataset_name = MEI, country = Hungary, frequency = A Time: 3261 s
+
+2022-02-21 05:31:12 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:31:30 PM Getting data: dataset_name = MEI, country = Hungary, frequency = Q Time: 3279 s
+
+2022-02-21 05:31:30 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:32:26 PM Getting data: dataset_name = MEI, country = Hungary, frequency = M Time: 3335 s
+
+2022-02-21 05:32:26 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:33:40 PM Getting data: dataset_name = MEI, country = Indonesia, frequency = A Time: 3409 s
+
+2022-02-21 05:33:40 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:33:44 PM Getting data: dataset_name = MEI, country = Indonesia, frequency = Q Time: 3413 s
+
+2022-02-21 05:33:44 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:33:58 PM Getting data: dataset_name = MEI, country = Indonesia, frequency = M Time: 3427 s
+
+2022-02-21 05:33:58 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:34:26 PM Getting data: dataset_name = MEI, country = Ukraine, frequency = A Time: 3455 s
+
+2022-02-21 05:34:26 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:34:26 PM Getting data: dataset_name = MEI, country = Ukraine, frequency = Q Time: 3455 s
+
+2022-02-21 05:34:26 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:34:26 PM Getting data: dataset_name = MEI, country = Ukraine, frequency = M Time: 3455 s
+
+2022-02-21 05:34:26 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:34:26 PM Getting data: dataset_name = MEI, country = India, frequency = A Time: 3455 s
+
+2022-02-21 05:34:26 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:34:34 PM Getting data: dataset_name = MEI, country = India, frequency = Q Time: 3463 s
+
+2022-02-21 05:34:34 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:35:04 PM Getting data: dataset_name = MEI, country = India, frequency = M Time: 3494 s
+
+2022-02-21 05:35:04 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:35:34 PM Getting data: dataset_name = MEI, country = Ireland, frequency = A Time: 3524 s
+
+2022-02-21 05:35:34 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:35:55 PM Getting data: dataset_name = MEI, country = Ireland, frequency = Q Time: 3544 s
+
+2022-02-21 05:35:55 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:36:59 PM Getting data: dataset_name = MEI, country = Ireland, frequency = M Time: 3608 s
+
+2022-02-21 05:36:59 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:38:12 PM Getting data: dataset_name = MEI, country = Iceland, frequency = A Time: 3682 s
+
+2022-02-21 05:38:12 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:38:32 PM Getting data: dataset_name = MEI, country = Iceland, frequency = Q Time: 3701 s
+
+2022-02-21 05:38:32 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:39:29 PM Getting data: dataset_name = MEI, country = Iceland, frequency = M Time: 3759 s
+
+2022-02-21 05:39:29 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:40:40 PM Getting data: dataset_name = MEI, country = Israel, frequency = A Time: 3829 s
+
+2022-02-21 05:40:40 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:40:58 PM Getting data: dataset_name = MEI, country = Israel, frequency = Q Time: 3847 s
+
+2022-02-21 05:40:58 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:41:48 PM Getting data: dataset_name = MEI, country = Israel, frequency = M Time: 3897 s
+
+2022-02-21 05:41:48 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:43:21 PM Getting data: dataset_name = MEI, country = Italy, frequency = A Time: 3991 s
+
+2022-02-21 05:43:21 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:43:43 PM Getting data: dataset_name = MEI, country = Italy, frequency = Q Time: 4012 s
+
+2022-02-21 05:43:43 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:44:47 PM Getting data: dataset_name = MEI, country = Italy, frequency = M Time: 4077 s
+
+2022-02-21 05:44:47 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:46:14 PM Getting data: dataset_name = MEI, country = Japan, frequency = A Time: 4164 s
+
+2022-02-21 05:46:14 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:46:35 PM Getting data: dataset_name = MEI, country = Japan, frequency = Q Time: 4184 s
+
+2022-02-21 05:46:35 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:47:44 PM Getting data: dataset_name = MEI, country = Japan, frequency = M Time: 4253 s
+
+2022-02-21 05:47:44 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:50:17 PM Getting data: dataset_name = MEI, country = Korea, frequency = A Time: 4406 s
+
+2022-02-21 05:50:17 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:50:33 PM Getting data: dataset_name = MEI, country = Korea, frequency = Q Time: 4422 s
+
+2022-02-21 05:50:33 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:51:30 PM Getting data: dataset_name = MEI, country = Korea, frequency = M Time: 4479 s
+
+2022-02-21 05:51:30 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:53:51 PM Getting data: dataset_name = MEI, country = Lithuania, frequency = A Time: 4621 s
+
+2022-02-21 05:53:51 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:54:04 PM Getting data: dataset_name = MEI, country = Lithuania, frequency = Q Time: 4633 s
+
+2022-02-21 05:54:04 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:54:36 PM Getting data: dataset_name = MEI, country = Lithuania, frequency = M Time: 4665 s
+
+2022-02-21 05:54:36 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:55:22 PM Getting data: dataset_name = MEI, country = Luxembourg, frequency = A Time: 4711 s
+
+2022-02-21 05:55:22 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:55:44 PM Getting data: dataset_name = MEI, country = Luxembourg, frequency = Q Time: 4734 s
+
+2022-02-21 05:55:44 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:56:51 PM Getting data: dataset_name = MEI, country = Luxembourg, frequency = M Time: 4800 s
+
+2022-02-21 05:56:51 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:58:10 PM Getting data: dataset_name = MEI, country = Latvia, frequency = A Time: 4879 s
+
+2022-02-21 05:58:10 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:58:23 PM Getting data: dataset_name = MEI, country = Latvia, frequency = Q Time: 4892 s
+
+2022-02-21 05:58:23 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:58:56 PM Getting data: dataset_name = MEI, country = Latvia, frequency = M Time: 4926 s
+
+2022-02-21 05:58:56 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:59:33 PM Getting data: dataset_name = MEI, country = Mexico, frequency = A Time: 4962 s
+
+2022-02-21 05:59:33 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 05:59:48 PM Getting data: dataset_name = MEI, country = Mexico, frequency = Q Time: 4977 s
+
+2022-02-21 05:59:48 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 06:00:34 PM Getting data: dataset_name = MEI, country = Mexico, frequency = M Time: 5023 s
+
+2022-02-21 06:00:34 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 06:01:33 PM Getting data: dataset_name = MEI, country = Malta, frequency = A Time: 5082 s
+
+2022-02-21 06:01:33 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 06:01:33 PM Getting data: dataset_name = MEI, country = Malta, frequency = Q Time: 5082 s
+
+2022-02-21 06:01:33 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 06:01:33 PM Getting data: dataset_name = MEI, country = Malta, frequency = M Time: 5082 s
+
+2022-02-21 06:01:33 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 06:01:33 PM Getting data: dataset_name = MEI, country = NAFTA, frequency = A Time: 5082 s
+
+2022-02-21 06:01:33 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 06:01:33 PM Getting data: dataset_name = MEI, country = NAFTA, frequency = Q Time: 5082 s
+
+2022-02-21 06:01:33 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 06:01:33 PM Getting data: dataset_name = MEI, country = NAFTA, frequency = M Time: 5082 s
+
+2022-02-21 06:01:33 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 06:01:35 PM Getting data: dataset_name = MEI, country = Netherlands, frequency = A Time: 5084 s
+
+2022-02-21 06:01:35 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 06:01:58 PM Getting data: dataset_name = MEI, country = Netherlands, frequency = Q Time: 5107 s
+
+2022-02-21 06:01:58 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 06:03:11 PM Getting data: dataset_name = MEI, country = Netherlands, frequency = M Time: 5180 s
+
+2022-02-21 06:03:11 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 06:04:43 PM Getting data: dataset_name = MEI, country = Norway, frequency = A Time: 5272 s
+
+2022-02-21 06:04:43 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 06:05:06 PM Getting data: dataset_name = MEI, country = Norway, frequency = Q Time: 5295 s
+
+2022-02-21 06:05:06 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 06:06:15 PM Getting data: dataset_name = MEI, country = Norway, frequency = M Time: 5365 s
+
+2022-02-21 06:06:15 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 06:07:42 PM Getting data: dataset_name = MEI, country = New Zealand, frequency = A Time: 5451 s
+
+2022-02-21 06:07:42 PM Present File Exists. Reading Data From Default Path.
+
+2022-02-21 06:08:01 PM Getting data: dataset_name = MEI, country = New Zealand, frequency = Q Time: 5470 s
+
+2022-02-21 06:08:01 PM Present File Exists. Reading Data From Default Path.
+
