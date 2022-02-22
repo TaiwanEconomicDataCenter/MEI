@@ -337,7 +337,7 @@ def MEI_DATA(i, name, MEI_t, code_num, table_num, KEY_DATA, DATA_BASE, db_table_
     else:
         form_e = 'Others'
     
-    if str(MEI_t.columns[i][2]) == 'nan':
+    if str(MEI_t.columns[i][2]) == 'nan' or str(MEI_t.columns[i][2]).find('Unnamed') >= 0:
         desc_c = str(MEI_t.columns[i][1])
     else:
         desc_c = str(MEI_t.columns[i][1])+str(MEI_t.columns[i][2])
@@ -371,7 +371,7 @@ if data_processing:
     new_item_counts = 0
 
 for dataset in dataset_list:
-    if main_file.empty == False:
+    if data_processing == False:
         break
     for coun in c_list:
         for frequency in frequency_list:
