@@ -182,8 +182,18 @@ while data_processing == False:
     main_file = readExcelFile(out_path+NAME+'key'+main_suf+'.xlsx', header_ = 0, index_col_=0, sheet_name_=NAME+'key', acceptNoFile=False)
     if main_file.empty:
         ERROR('Empty updated_file')
-    logging.info('Reading main database: '+NAME+'database'+main_suf+'.xlsx, Time: '+str(int(time.time() - tStart))+' s'+'\n')
-    main_database = readExcelFile(out_path+NAME+'database'+main_suf+'.xlsx', header_ = 0, index_col_=0, acceptNoFile=False)
+    try:
+        with open(out_path+NAME+'database_num'+main_suf+'.txt','r',encoding=ENCODING) as f:  #用with一次性完成open、close檔案
+            database_num = int(f.read().replace('\n', ''))
+        main_database = {}
+        for i in range(1,database_num+1):
+            logging.info('Reading main database: '+NAME+'database_'+str(i)+main_suf+', Time: '+str(int(time.time() - tStart))+' s'+'\n')
+            DB_t = readExcelFile(out_path+NAME+'database_'+str(i)+main_suf+'.xlsx', header_ = 0, index_col_=0, acceptNoFile=False, sheet_name_=None)
+            for d in DB_t.keys():
+                main_database[d] = DB_t[d]
+    except:
+        logging.info('Reading main database: '+NAME+'database'+main_suf+'.xlsx, Time: '+str(int(time.time() - tStart))+' s'+'\n')
+        main_database = readExcelFile(out_path+NAME+'database'+main_suf+'.xlsx', header_ = 0, index_col_=0, acceptNoFile=False)
     if merge_file_loaded:
         merge_file = df_key
         merge_database = DATA_BASE_dict
@@ -192,8 +202,18 @@ while data_processing == False:
         merge_file = readExcelFile(out_path+NAME+'key'+merge_suf+'.xlsx', header_ = 0, index_col_=0, sheet_name_=NAME+'key', acceptNoFile=False)
         if merge_file.empty:
             ERROR('Empty original_file')
-        logging.info('Reading original database: '+NAME+'database'+merge_suf+', Time: '+str(int(time.time() - tStart))+' s'+'\n')
-        merge_database = readExcelFile(out_path+NAME+'database'+merge_suf+'.xlsx', header_ = 0, index_col_=0, acceptNoFile=False)
+        try:
+            with open(out_path+NAME+'database_num'+merge_suf+'.txt','r',encoding=ENCODING) as f:  #用with一次性完成open、close檔案
+                database_num = int(f.read().replace('\n', ''))
+            merge_database = {}
+            for i in range(1,database_num+1):
+                logging.info('Reading original database: '+NAME+'database_'+str(i)+merge_suf+', Time: '+str(int(time.time() - tStart))+' s'+'\n')
+                DB_t = readExcelFile(out_path+NAME+'database_'+str(i)+merge_suf+'.xlsx', header_ = 0, index_col_=0, acceptNoFile=False, sheet_name_=None)
+                for d in DB_t.keys():
+                    merge_database[d] = DB_t[d]
+        except:
+            logging.info('Reading original database: '+NAME+'database'+merge_suf+', Time: '+str(int(time.time() - tStart))+' s'+'\n')
+            merge_database = readExcelFile(out_path+NAME+'database'+merge_suf+'.xlsx', header_ = 0, index_col_=0, acceptNoFile=False)
     #if merge_file.empty == False and merging == True and updating == False:
     if merging:
         logging.info('Merging File, Time: '+str(int(time.time() - tStart))+' s'+'\n')
