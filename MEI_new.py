@@ -77,6 +77,16 @@ def MEASURE_CODE(code, mlist):
         logging.info(mlist.keys())
         ERROR('Measures未知代碼: '+code)
 
+def MEASURE(code, measures_list):
+    if str(code) in measures_list:
+        return measures_list[str(code)]
+    elif code == '' or str(code) == 'nan' or str(code).find('Unnamed') >= 0:
+        return ''
+    else:
+        logging.info(measures_list)
+        logging.info(code)
+        ERROR('Measures未知: '+code)
+
 def START_DATE(freq):
     if find_unknown == False:
         if freq == 'A':
@@ -290,7 +300,7 @@ def MEI_DATA(i, name, MEI_t, code_num, table_num, KEY_DATA, DATA_BASE, db_table_
         last = 'Nan'
     
     Subject = subjects_list[MEI_t.columns[i][1]]
-    Measure = measures_list[str(MEI_t.columns[i][2])]
+    Measure = MEASURE(MEI_t.columns[i][2], measures_list)
     PowerCode = MEI_t.columns[i][4]
     if str(MEI_t.columns[i][3]).find('Unnamed') >= 0 or str(MEI_t.columns[i][3]).find('nan') == 0:
         if dataset == 'MEI_BTS_COS':
