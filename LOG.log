@@ -1,44 +1,251 @@
-﻿2022-02-22 02:27:40 PM excel_suffix: mysql
+﻿2022-03-22 03:29:25 PM excel_suffix: NEW
 
-2022-02-22 02:27:40 PM data_processing: False
+2022-03-22 03:29:25 PM data_processing: True
 
-2022-02-22 02:27:40 PM find_unknown: False
+2022-03-22 03:29:25 PM find_unknown: False
 
-2022-02-22 02:27:40 PM dealing_start_year: 1947
+2022-03-22 03:29:25 PM dealing_start_year: 1947
 
-2022-02-22 02:32:43 PM Process: File Updating
+2022-03-22 03:29:25 PM Data Processing
 
-2022-02-22 02:32:43 PM Reading main key: MEI_keyUP.xlsx, Time: 302 s
+2022-03-22 03:29:30 PM Getting data: dataset_name = MEI, country = Five Major Asia, frequency = A Time: 4 s
 
-2022-02-22 02:33:08 PM Reading main database: MEI_database_1UP, Time: 327 s
+2022-03-22 03:29:30 PM Present File Exists. Reading Data From Default Path.
 
-2022-02-22 02:33:30 PM Reading main database: MEI_database_2UP, Time: 349 s
+2022-03-22 03:29:30 PM Total New Items Found: 0 Time: 4 s
 
-2022-02-22 02:33:54 PM Reading main database: MEI_database_3UP, Time: 373 s
+2022-03-22 03:29:30 PM Getting data: dataset_name = MEI, country = Five Major Asia, frequency = Q Time: 4 s
 
-2022-02-22 02:34:21 PM Reading main database: MEI_database_4UP, Time: 400 s
+2022-03-22 03:29:30 PM Present File Exists. Reading Data From Default Path.
 
-2022-02-22 02:34:43 PM Reading main database: MEI_database_5UP, Time: 422 s
+2022-03-22 03:29:30 PM Total New Items Found: 0 Time: 4 s
 
-2022-02-22 02:35:27 PM Reading main database: MEI_database_6UP, Time: 466 s
+2022-03-22 03:29:30 PM Getting data: dataset_name = MEI, country = Five Major Asia, frequency = M Time: 4 s
 
-2022-02-22 02:36:08 PM Reading main database: MEI_database_7UP, Time: 507 s
+2022-03-22 03:29:30 PM Present File Exists. Reading Data From Default Path.
 
-2022-02-22 02:36:36 PM Updating file: 0 s
+2022-03-22 03:29:30 PM Total New Items Found: 0 Time: 4 s
 
-2022-02-22 03:52:22 PM updated: 56013
+2022-03-22 03:29:30 PM Getting data: dataset_name = MEI, country = Argentina, frequency = A Time: 4 s
 
-2022-02-22 03:58:20 PM        databank             name   db_table  db_code                                             desc_e          desc_c freq    start     last                   unit name_ord     snl           book                    form_e form_c
-0           MEI  A111B6BD20CCU.a  DB_A_0001  data001  Balance of payments BPM6 > Current account Bal...    B6BLTD20CXCU    A     1999     2020  Millions of US Dollar      USA       1  United States  Balance of payments BPM6    NaN
-1           MEI  A111B6BD20NCU.a  DB_A_0001  data002  Balance of payments BPM6 > Current account Bal...    B6BLTD20NCCU    A     1999     2020  Millions of US Dollar      USA       2  United States  Balance of payments BPM6    NaN
-2           MEI  A111B6BLPICCS.a  DB_A_0001  data003  Balance of payments BPM6 > Current account Bal...  B6BLPI01CXCUSA    A     1960     2020  Millions of US Dollar      USA       3  United States  Balance of payments BPM6    NaN
-3           MEI  A111B6BLPICCU.a  DB_A_0001  data004  Balance of payments BPM6 > Current account Bal...    B6BLPI01CXCU    A     1960     2020  Millions of US Dollar      USA       4  United States  Balance of payments BPM6    NaN
-4           MEI  A111B6BLPINCS.a  DB_A_0001  data005  Balance of payments BPM6 > Current account Bal...  B6BLPI01NCCUSA    A     1960     2020  Millions of US Dollar      USA       5  United States  Balance of payments BPM6    NaN
-...         ...              ...        ...      ...                                                ...             ...  ...      ...      ...                    ...      ...     ...            ...                       ...    ...
-105189      MEI  Q964XNVA01CXM.q  DB_Q_0201  data156  International Trade > Net trade > Value (goods...    XTNTVA01CXML    Q  1980-Q1  2021-Q3  Billions of US Dollar      POL  105190         Poland       International Trade    NaN
-105190      MEI  Q964XNVA01NML.q  DB_Q_0201  data157  International Trade > Net trade > Value (goods...    XTNTVA01NCML    Q  1980-Q1  2021-Q3      Billions of Zloty      POL  105191         Poland       International Trade    NaN
-105191      MEI  Q964XNVA01NMS.q  DB_Q_0201  data158  International Trade > Net trade > Value (goods...  XTNTVA01NCMLSA    Q  1980-Q1  2021-Q3      Billions of Zloty      POL  105192         Poland       International Trade    NaN
-105192      MEI  Q964XNVA01STS.q  DB_Q_0201  data159  International Trade > Net trade > Value (goods...    XTNTVA01STSA    Q  1995-Q1  2021-Q3    Units of Percentage      POL  105193         Poland       International Trade    NaN
-105193      MEI   Q968CCUSMAST.q  DB_Q_0201  data160  Currency Conversions > US$ exchange rate > Ave...      CCUSMA02ST    Q  1957-Q1  2021-Q4  Units of Romanian Leu      ROU  105194        Romania      Currency Conversions    NaN
+2022-03-22 03:29:30 PM Present File Exists. Reading Data From Default Path.
 
-[105194 rows x 15 columns]
+2022-03-22 03:29:30 PM Total New Items Found: 0 Time: 4 s
+
+2022-03-22 03:29:30 PM Getting data: dataset_name = MEI, country = Argentina, frequency = Q Time: 4 s
+
+2022-03-22 03:29:30 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:30 PM Total New Items Found: 0 Time: 5 s
+
+2022-03-22 03:29:30 PM Getting data: dataset_name = MEI, country = Argentina, frequency = M Time: 5 s
+
+2022-03-22 03:29:30 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:30 PM Total New Items Found: 0 Time: 5 s
+
+2022-03-22 03:29:30 PM Getting data: dataset_name = MEI, country = Australia, frequency = A Time: 5 s
+
+2022-03-22 03:29:30 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:30 PM Total New Items Found: 5 Time: 5 s
+
+2022-03-22 03:29:30 PM Getting data: dataset_name = MEI, country = Australia, frequency = Q Time: 5 s
+
+2022-03-22 03:29:30 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:31 PM Total New Items Found: 7 Time: 6 s
+
+2022-03-22 03:29:31 PM Getting data: dataset_name = MEI, country = Australia, frequency = M Time: 6 s
+
+2022-03-22 03:29:31 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:32 PM Total New Items Found: 7 Time: 6 s
+
+2022-03-22 03:29:32 PM Getting data: dataset_name = MEI, country = Austria, frequency = A Time: 6 s
+
+2022-03-22 03:29:32 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:32 PM Total New Items Found: 7 Time: 7 s
+
+2022-03-22 03:29:32 PM Getting data: dataset_name = MEI, country = Austria, frequency = Q Time: 7 s
+
+2022-03-22 03:29:32 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:33 PM Total New Items Found: 7 Time: 7 s
+
+2022-03-22 03:29:33 PM Getting data: dataset_name = MEI, country = Austria, frequency = M Time: 7 s
+
+2022-03-22 03:29:33 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:33 PM Total New Items Found: 7 Time: 8 s
+
+2022-03-22 03:29:33 PM Getting data: dataset_name = MEI, country = Belgium, frequency = A Time: 8 s
+
+2022-03-22 03:29:33 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:34 PM Total New Items Found: 7 Time: 8 s
+
+2022-03-22 03:29:34 PM Getting data: dataset_name = MEI, country = Belgium, frequency = Q Time: 8 s
+
+2022-03-22 03:29:34 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:34 PM Total New Items Found: 7 Time: 9 s
+
+2022-03-22 03:29:34 PM Getting data: dataset_name = MEI, country = Belgium, frequency = M Time: 9 s
+
+2022-03-22 03:29:34 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:34 PM Total New Items Found: 7 Time: 9 s
+
+2022-03-22 03:29:34 PM Getting data: dataset_name = MEI, country = Bulgaria, frequency = A Time: 9 s
+
+2022-03-22 03:29:34 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:34 PM Total New Items Found: 7 Time: 9 s
+
+2022-03-22 03:29:34 PM Getting data: dataset_name = MEI, country = Bulgaria, frequency = Q Time: 9 s
+
+2022-03-22 03:29:34 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:34 PM Total New Items Found: 7 Time: 9 s
+
+2022-03-22 03:29:34 PM Getting data: dataset_name = MEI, country = Bulgaria, frequency = M Time: 9 s
+
+2022-03-22 03:29:34 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:34 PM Total New Items Found: 7 Time: 9 s
+
+2022-03-22 03:29:34 PM Getting data: dataset_name = MEI, country = Brazil, frequency = A Time: 9 s
+
+2022-03-22 03:29:34 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:35 PM Total New Items Found: 7 Time: 9 s
+
+2022-03-22 03:29:35 PM Getting data: dataset_name = MEI, country = Brazil, frequency = Q Time: 9 s
+
+2022-03-22 03:29:35 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:35 PM Total New Items Found: 7 Time: 9 s
+
+2022-03-22 03:29:35 PM Getting data: dataset_name = MEI, country = Brazil, frequency = M Time: 9 s
+
+2022-03-22 03:29:35 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:35 PM Total New Items Found: 7 Time: 9 s
+
+2022-03-22 03:29:35 PM Getting data: dataset_name = MEI, country = BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa, frequency = A Time: 9 s
+
+2022-03-22 03:29:35 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:35 PM Total New Items Found: 7 Time: 9 s
+
+2022-03-22 03:29:35 PM Getting data: dataset_name = MEI, country = BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa, frequency = Q Time: 9 s
+
+2022-03-22 03:29:35 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:35 PM Total New Items Found: 7 Time: 9 s
+
+2022-03-22 03:29:35 PM Getting data: dataset_name = MEI, country = BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa, frequency = M Time: 9 s
+
+2022-03-22 03:29:35 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:35 PM Total New Items Found: 7 Time: 9 s
+
+2022-03-22 03:29:35 PM Getting data: dataset_name = MEI, country = Canada, frequency = A Time: 9 s
+
+2022-03-22 03:29:35 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:35 PM Total New Items Found: 7 Time: 10 s
+
+2022-03-22 03:29:35 PM Getting data: dataset_name = MEI, country = Canada, frequency = Q Time: 10 s
+
+2022-03-22 03:29:35 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:36 PM Total New Items Found: 7 Time: 10 s
+
+2022-03-22 03:29:36 PM Getting data: dataset_name = MEI, country = Canada, frequency = M Time: 10 s
+
+2022-03-22 03:29:36 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:36 PM Total New Items Found: 7 Time: 11 s
+
+2022-03-22 03:29:36 PM Getting data: dataset_name = MEI, country = Switzerland, frequency = A Time: 11 s
+
+2022-03-22 03:29:36 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:36 PM Total New Items Found: 8 Time: 11 s
+
+2022-03-22 03:29:36 PM Getting data: dataset_name = MEI, country = Switzerland, frequency = Q Time: 11 s
+
+2022-03-22 03:29:36 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:37 PM Total New Items Found: 8 Time: 11 s
+
+2022-03-22 03:29:37 PM Getting data: dataset_name = MEI, country = Switzerland, frequency = M Time: 11 s
+
+2022-03-22 03:29:37 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:37 PM Total New Items Found: 8 Time: 12 s
+
+2022-03-22 03:29:37 PM Getting data: dataset_name = MEI, country = Chile, frequency = A Time: 12 s
+
+2022-03-22 03:29:37 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:37 PM Total New Items Found: 8 Time: 12 s
+
+2022-03-22 03:29:37 PM Getting data: dataset_name = MEI, country = Chile, frequency = Q Time: 12 s
+
+2022-03-22 03:29:37 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:37 PM Total New Items Found: 8 Time: 12 s
+
+2022-03-22 03:29:37 PM Getting data: dataset_name = MEI, country = Chile, frequency = M Time: 12 s
+
+2022-03-22 03:29:37 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:38 PM Total New Items Found: 8 Time: 12 s
+
+2022-03-22 03:29:38 PM Getting data: dataset_name = MEI, country = China, frequency = A Time: 12 s
+
+2022-03-22 03:29:38 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:38 PM Total New Items Found: 8 Time: 13 s
+
+2022-03-22 03:29:38 PM Getting data: dataset_name = MEI, country = China, frequency = Q Time: 13 s
+
+2022-03-22 03:29:38 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:38 PM Total New Items Found: 8 Time: 13 s
+
+2022-03-22 03:29:38 PM Getting data: dataset_name = MEI, country = China, frequency = M Time: 13 s
+
+2022-03-22 03:29:38 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:38 PM Total New Items Found: 8 Time: 13 s
+
+2022-03-22 03:29:38 PM Getting data: dataset_name = MEI, country = Colombia, frequency = A Time: 13 s
+
+2022-03-22 03:29:38 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:38 PM Total New Items Found: 8 Time: 13 s
+
+2022-03-22 03:29:38 PM Getting data: dataset_name = MEI, country = Colombia, frequency = Q Time: 13 s
+
+2022-03-22 03:29:38 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:39 PM Total New Items Found: 8 Time: 13 s
+
+2022-03-22 03:29:39 PM Getting data: dataset_name = MEI, country = Colombia, frequency = M Time: 13 s
+
+2022-03-22 03:29:39 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:39 PM Total New Items Found: 8 Time: 14 s
+
+2022-03-22 03:29:39 PM Getting data: dataset_name = MEI, country = Costa Rica, frequency = A Time: 14 s
+
+2022-03-22 03:29:39 PM Present File Exists. Reading Data From Default Path.
+
+2022-03-22 03:29:39 PM unknown_subjects found: 25
+2022-03-22 03:29:39 PM dict_keys(['CCUSSP02', 'CCUSMA02', 'PRCNTO01', 'PRMNTO01', 'XTIMVA01', 'XTNTVA01', 'XTEXVA01', 'IRSTLQ01', 'B6CACR02', 'B6CATT02', 'B6CADB02', 'B6CATT01', 'B6CACR01', 'B6CADB00', 'B6CACR00', 'B6CADB01', 'B6CATT00', 'PIEAMP02', 'IRLTLT01', 'B6CRSE03', 'B6BLSI01', 'B6CRSE01', 'B6CRPI01', 'B6DBPI01', 'B6DBTT01', 'B6FAOI02', 'B6FAPI02', 'B6FAOI01', 'B6BLPI01', 'B6BLTD01', 'B6CRTD01', 'B6DBSE01', 'B6CRSE02', 'B6DBSE03', 'B6BLSE01', 'B6BLTT01', 'B6DBTD01', 'B6FADI01', 'B6EOTT01', 'B6FATT01', 'B6CRSI01', 'B6CRTT01', 'B6FADI03', 'B6DBSI01', 'B6FAPI03', 'B6FATD01', 'B6FARA01', 'B6DBSE02', 'B6FADI02', 'B6FAFD01', 'B6FAOI03', 'B6FATC01', 'B6FAPI10', 'NAEXCP05', 'NAEXKP07', 'NAEXKP06', 'NAEXKP04', 'NAEXCP06', 'NAEXCP07', 'NAEXCP03', 'NAEXCP02', 'B6BLTT02', 'NAEXKP01', 'NAEXCP04', 'NAEXKP03', 'NAEXKP02', 'NAEXCP01', 'NAGIGP01', 'MANMM101', 'MABMM301', 'IRSTCI01', 'IR3OBD01', 'IR3TIB01', 'B6BLTD20', 'B6BLTD21', 'B6BLTD22', 'PRINTO02', 'PIEAFD02', 'LCEAPR01', 'LCEATT01', 'LCEAMN01', 'PWCP0941', 'PWCP0550', 'PWCP0100', 'PWCPLE01', 'PWCP0950', 'PWCP0520', 'PWCP0720', 'PWCP0723', 'PWCP1230', 'PWCP0119', 'PWCP0116', 'PWCP1260', 'PWCP0432', 'PWCP0630', 'PWCP0600', 'PWCP0722', 'PWCP0710', 'PWCP1000', 'PWCP0940', 'PWCP0400', 'PWCPEN01', 'PWCPLR01', 'PWCP0452', 'PWCP0510', 'PWCP0910', 'PWCP082G', 'PWCP1110', 'PWCP0115', 'PWCP1210', 'PWCP0112', 'PWCP0118', 'PWCP044G', 'PWCP0117', 'PWCP0431', 'PWCP0441', 'PWCP0451', 'PWCP0700', 'PWCP0620', 'PWCP0111', 'PWCP1112', 'PWCP1100', 'PWCP0114', 'PWCPHO05', 'PWCP0540', 'PWCP0900', 'PWCP0730', 'PWCP0220', 'PWCP1250', 'PWCPGO01', 'PWCP0930', 'PWCP1270', 'PWCP0210', 'PWCP0120', 'PWCP0300', 'PWCP0410', 'PWCP0450', 'PWCP0721', 'PWCP0440', 'PWCP1200', 'PWCP0724', 'PWCP0800', 'PWCP0000', 'PWCP0113', 'PWCP0110', 'PWCP0960', 'PWCP0430', 'PWCPSE01', 'PWCP0500', 'PWCP0530', 'PWCP0942', 'PWCP0560', 'PWCP0610', 'PRMITO01', 'PWCP0200', 'PITGND01', 'PIEATI01', 'PITGCD02', 'PIEAEN01', 'PIEAEN02', 'PIEAFD01', 'PITGCG01', 'PITGVG02', 'PITGVG01', 'PIEAMP01', 'PITGCG02', 'PITGND02', 'PITGIG02', 'PITGIG01', 'PITGCD01', 'PIEATI02', 'P6OICD03', 'P6OILN03', 'P6OIOA02', 'P6PITT03', 'P6OISD01', 'P6RATT01', 'P6OILN01', 'P6OITC03', 'P6TTTT03', 'P6OITT02', 'P6DITT01', 'P6FDTT02', 'P6OIOA03', 'P6OIIP03', 'P6PITT01', 'P6PIDB03', 'P6PIEQ02', 'P6OICD01', 'P6OISD03', 'P6OITC02', 'P6TTTT02', 'P6FDTT01', 'P6OICD02', 'P6OIEQ01', 'P6PIEQ03', 'P6DITT03', 'P6OIEQ02', 'P6OIIP01', 'P6OITT03', 'P6OIOA01', 'P6PITT02', 'P6FDTT03', 'P6DITT02', 'P6PIEQ01', 'P6PIDB02', 'P6PIDB01', 'P6OILN02', 'P6OIEQ03', 'P6OITT01', 'P6OIIP02', 'P6OITC01', 'P6OISD02', 'P6RATT02', 'P6TTTT01', 'LFEM24MA', 'LFEM25FE', 'LREM25MA', 'LREM55FE', 'LFEM74FE', 'LFUNTTTT', 'LFEM64MA', 'LREM55MA', 'LFEMTTTT', 'LREM25TT', 'LRUNTTMA', 'LFEM64TT', 'LFEM74MA', 'LFEMTTFE', 'LREM74TT', 'LFEM24FE', 'LRUNTTTT', 'LREM74FE', 'LFUNTTFE', 'LFEM25TT', 'LFEM55FE', 'LFEM25MA', 'LFUN24TT', 'LRUN24FE', 'LFEM55MA', 'LREM55TT', 'LRUN24MA', 'LFEM64FE', 'LREM64MA', 'LRUNTTFE', 'LFEMTTMA', 'LREM64TT', 'LFUN24MA', 'LREM64FE', 'LFEM55TT', 'LREM25FE', 'LFEM24TT', 'LFUN24FE', 'LFEM74TT', 'LREM74MA', 'LRUN24TT', 'LFUNTTMA', 'PRENTO01', 'LFEAAGTT', 'LFEACNTT', 'LFEAICTT', 'LFEAINTT', 'LFEASETT', 'LFAC24FE', 'LFAC24MA', 'LFAC24TT', 'LFAC25FE', 'LFAC25MA', 'LFAC25TT', 'LFAC55FE', 'LFAC55MA', 'LFAC55TT', 'LFAC64FE', 'LFAC64MA', 'LFAC64TT', 'LFAC74FE', 'LFAC74MA', 'LFAC74TT', 'LFACTTFE', 'LFACTTMA', 'LFACTTTT', 'LFEAMNTT', 'LFWA24FE', 'LFWA24MA', 'LFWA24TT', 'LFWA25FE', 'LFWA25MA', 'LFWA25TT', 'LFWA55FE', 'LFWA55MA', 'LFWA55TT', 'LFWA64FE', 'LFWA64MA', 'LFWA64TT', 'LFWA74FE', 'LFWA74MA', 'LFWA74TT', 'LFWATTFE', 'LFWATTMA', 'LFWATTTT', 'LRAC24FE', 'LRAC24MA', 'LRAC24TT', 'LRACTTFE', 'LRACTTMA', 'LRACTTTT', 'LREM24FE', 'LREM24MA', 'LREM24TT', 'LREMTTFE', 'LREMTTMA', 'LREMTTTT', 'LRIN24FE', 'LRIN24MA', 'LRIN24TT', 'LRIN25FE', 'LRIN25MA', 'LRIN25TT', 'LRIN55FE', 'LRIN55MA', 'LRIN55TT', 'LRIN64FE', 'LRIN64MA', 'LRIN64TT', 'LRIN74FE', 'LRIN74MA', 'LRIN74TT', 'LRINTTFE', 'LRINTTMA', 'LRINTTTT', 'LFIN24FE', 'LFIN24MA', 'LFIN24TT', 'LFIN25FE', 'LFIN25MA', 'LFIN25TT', 'LFIN55FE', 'LFIN55MA', 'LFIN55TT', 'LFIN64FE', 'LFIN64MA', 'LFIN64TT', 'LFIN74FE', 'LFIN74MA', 'LFIN74TT', 'LFINTTFE', 'LFINTTMA', 'LFINTTTT', 'PWCWPI02', 'PWCWCP02', 'LRHUADMA', 'LRHU24TT', 'LRHUTTFE', 'LFHU24TT', 'LFHUADMA', 'LRHU24MA', 'LRHUADFE', 'LFHUTTFE', 'LFHU24MA', 'LFHUADFE', 'LFHUADTT', 'LFHUTTMA', 'LRHUTTMA', 'LRHUADTT', 'LRHUTTTT', 'LFHUTTTT', 'LRHU24FE', 'LFHU24FE', 'CCRETT02', 'CCRETT01', 'CP181000', 'CP180900', 'CP181100', 'CP181300', 'CP180800', 'CP180100', 'CP180722', 'CP180200', 'CP18ALTT', 'CP180440', 'CP180400', 'CP180450', 'CP180430', 'CP180500', 'CP180410', 'CP180700', 'CP180600', 'CP18GREN', 'CP18GRLE', 'CP18GRH2', 'CP18GRL2', 'CP18GRGO', 'CP18GRSE', 'LRAC74MA', 'LRAC74FE', 'LRAC25TT', 'LRAC25MA', 'LRAC74TT', 'LRAC64FE', 'LRAC64MA', 'LRAC25FE', 'LRAC64TT', 'LRAC55TT', 'LRAC55FE', 'LRAC55MA', 'CP181200', 'CP180300'])
+2022-03-22 03:29:39 PM = ! = Subjects未知代碼: CP180100
