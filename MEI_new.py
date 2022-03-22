@@ -438,14 +438,21 @@ for dataset in dataset_list:
                     unknown_subjects.sort()
                     logging.info('unknown_subjects found: '+str(len(unknown_subjects)))
                     for un in unknown_subjects:
-                        un = un.replace("00","")
+                        un_temp = un.replace("00","")
+                        if len(un_temp) <= 6:
+                            subject_file.loc[un] = un_temp
+                            continue
+                        un_temp = re.sub(r'^([A-Z])[A-Z][0-9]([0-9])', r"\1\2", un)
+                        if len(un_temp) <= 6:
+                            subject_file.loc[un] = un_temp
+                            continue
                         for s in reversed(range(3, 6)):
                             if un[:3]+un[s]+un[-2:] not in list(subject_file['code2']):
                                 subject_file.loc[un] = un[:3]+un[s]+un[-2:]
                                 break
                         if un not in list(subject_file.index):
                             subjects.loc[subjects['id'].isin(unknown_subjects)].to_excel(out_path+"Unknown Subjects.xlsx", sheet_name='subjects')
-                            ERROR('代碼: '+str(un)+'無法自動調整')
+                            logging.log('代碼: '+str(un)+'無法自動調整')
                             ERROR('未知代碼無法自動調整，請改以手動調整')
                     subject_file = subject_file.sort_index()
                 if not not unknown_measures:
