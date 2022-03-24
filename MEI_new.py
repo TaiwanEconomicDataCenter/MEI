@@ -559,7 +559,7 @@ else:
         database_num = 1
         with pd.ExcelWriter(out_path+NAME+"database"+excel_suffix+".xlsx") as writer: # pylint: disable=abstract-class-instantiated
             for key in DATA_BASE_dict:
-                sys.stdout.write("\rOutputing sheet: "+str(d))
+                sys.stdout.write("\rOutputing sheet: "+str(key))
                 sys.stdout.flush()
                 if DATA_BASE_dict[key].empty == False:
                     DATA_BASE_dict[key].to_excel(writer, sheet_name = key)
