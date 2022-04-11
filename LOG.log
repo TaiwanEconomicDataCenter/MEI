@@ -1,64 +1,2646 @@
-﻿2022-03-24 02:00:25 PM excel_suffix: mysql
+﻿2022-04-11 01:36:24 PM excel_suffix: test
 
-2022-03-24 02:00:25 PM data_processing: False
+2022-04-11 01:36:24 PM data_processing: True
 
-2022-03-24 02:00:25 PM find_unknown: False
+2022-04-11 01:36:24 PM find_unknown: False
 
-2022-03-24 02:00:25 PM dealing_start_year: 1947
+2022-04-11 01:36:24 PM dealing_start_year: 1947
 
-2022-03-24 02:03:20 PM Process: File Merging
+2022-04-11 01:36:24 PM Data Processing
 
-2022-03-24 02:03:20 PM Reading main key: MEI_keyNEW.xlsx, Time: 174 s
+2022-04-11 01:36:28 PM Getting data: dataset_name = MEI, country = Five Major Asia, frequency = A Time: 4 s
 
-2022-03-24 02:03:21 PM Reading main database: MEI_databaseNEW.xlsx, Time: 175 s
+2022-04-11 01:36:28 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-24 02:03:22 PM Merging File, Time: 176 s
+2022-04-11 01:36:28 PM Total New Items Found: 0 Time: 4 s
 
-2022-03-24 02:03:38 PM Setting files, Time: 192 s
+2022-04-11 01:36:28 PM Getting data: dataset_name = MEI, country = Five Major Asia, frequency = Q Time: 4 s
 
-2022-03-24 02:03:39 PM Concating file: MEI_key?, Time: 193 s
+2022-04-11 01:36:28 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-24 02:03:39 PM Concating file: MEI_database?, Time: 193 s
+2022-04-11 01:36:28 PM Total New Items Found: 0 Time: 4 s
 
-2022-03-24 02:03:39 PM Time: 193 s
+2022-04-11 01:36:28 PM Getting data: dataset_name = MEI, country = Five Major Asia, frequency = M Time: 4 s
 
-2022-03-24 02:04:18 PM Setting new files, Time: 232 s
+2022-04-11 01:36:28 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-24 02:06:57 PM Concating new files: MEI_database, Time: 392 s
+2022-04-11 01:36:28 PM Total New Items Found: 0 Time: 4 s
 
-2022-03-24 02:07:27 PM Process: File Updating
+2022-04-11 01:36:28 PM Getting data: dataset_name = MEI, country = Argentina, frequency = A Time: 4 s
 
-2022-03-24 02:07:27 PM Reading main key: MEI_keyUP.xlsx, Time: 421 s
+2022-04-11 01:36:28 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-24 02:07:48 PM Reading main database: MEI_database_1UP, Time: 443 s
+2022-04-11 01:36:28 PM Total New Items Found: 0 Time: 4 s
 
-2022-03-24 02:08:08 PM Reading main database: MEI_database_2UP, Time: 462 s
+2022-04-11 01:36:28 PM Getting data: dataset_name = MEI, country = Argentina, frequency = Q Time: 4 s
 
-2022-03-24 02:08:31 PM Reading main database: MEI_database_3UP, Time: 485 s
+2022-04-11 01:36:28 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-24 02:08:58 PM Reading main database: MEI_database_4UP, Time: 512 s
+2022-04-11 01:36:28 PM Total New Items Found: 0 Time: 4 s
 
-2022-03-24 02:09:18 PM Reading main database: MEI_database_5UP, Time: 532 s
+2022-04-11 01:36:28 PM Getting data: dataset_name = MEI, country = Argentina, frequency = M Time: 4 s
 
-2022-03-24 02:09:57 PM Reading main database: MEI_database_6UP, Time: 572 s
+2022-04-11 01:36:28 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-24 02:10:36 PM Reading main database: MEI_database_7UP, Time: 610 s
+2022-04-11 01:36:28 PM Total New Items Found: 0 Time: 4 s
 
-2022-03-24 02:11:05 PM Updating file: 0 s
+2022-04-11 01:36:28 PM Getting data: dataset_name = MEI, country = Australia, frequency = A Time: 4 s
 
-2022-03-24 03:15:05 PM updated: 46409
+2022-04-11 01:36:28 PM Present File Exists. Reading Data From Default Path.
 
-2022-03-24 03:15:46 PM        databank             name   db_table  db_code                                             desc_e          desc_c freq    start     last                   unit name_ord     snl           book                    form_e form_c
-0           MEI  A111B6BD20CCU.a  DB_A_0001  data001  Balance of payments BPM6 > Current account Bal...    B6BLTD20CXCU    A     1999     2020  Millions of US Dollar      USA       1  United States  Balance of payments BPM6    NaN
-1           MEI  A111B6BD20NCU.a  DB_A_0001  data002  Balance of payments BPM6 > Current account Bal...    B6BLTD20NCCU    A     1999     2020  Millions of US Dollar      USA       2  United States  Balance of payments BPM6    NaN
-2           MEI  A111B6BLPICCS.a  DB_A_0001  data003  Balance of payments BPM6 > Current account Bal...  B6BLPI01CXCUSA    A     1960     2020  Millions of US Dollar      USA       3  United States  Balance of payments BPM6    NaN
-3           MEI  A111B6BLPICCU.a  DB_A_0001  data004  Balance of payments BPM6 > Current account Bal...    B6BLPI01CXCU    A     1960     2020  Millions of US Dollar      USA       4  United States  Balance of payments BPM6    NaN
-4           MEI  A111B6BLPINCS.a  DB_A_0001  data005  Balance of payments BPM6 > Current account Bal...  B6BLPI01NCCUSA    A     1960     2020  Millions of US Dollar      USA       5  United States  Balance of payments BPM6    NaN
-...         ...              ...        ...      ...                                                ...             ...  ...      ...      ...                    ...      ...     ...            ...                       ...    ...
-105650      MEI  Q964XNVA01CXM.q  DB_Q_0202  data112  International Trade > Net trade > Value (goods...    XTNTVA01CXML    Q  1980-Q1  2021-Q4  Billions of US Dollar      POL  105651         Poland       International Trade    NaN
-105651      MEI  Q964XNVA01NML.q  DB_Q_0202  data113  International Trade > Net trade > Value (goods...    XTNTVA01NCML    Q  1980-Q1  2021-Q4      Billions of Zloty      POL  105652         Poland       International Trade    NaN
-105652      MEI  Q964XNVA01NMS.q  DB_Q_0202  data114  International Trade > Net trade > Value (goods...  XTNTVA01NCMLSA    Q  1980-Q1  2021-Q4      Billions of Zloty      POL  105653         Poland       International Trade    NaN
-105653      MEI  Q964XNVA01STS.q  DB_Q_0202  data115  International Trade > Net trade > Value (goods...    XTNTVA01STSA    Q  1995-Q1  2021-Q4    Units of Percentage      POL  105654         Poland       International Trade    NaN
-105654      MEI   Q968CCUSMAST.q  DB_Q_0202  data116  Currency Conversions > US$ exchange rate > Ave...      CCUSMA02ST    Q  1957-Q1  2021-Q4  Units of Romanian Leu      ROU  105655        Romania      Currency Conversions    NaN
+2022-04-11 01:36:29 PM Total New Items Found: 0 Time: 5 s
 
-[105655 rows x 15 columns]
+2022-04-11 01:36:29 PM Getting data: dataset_name = MEI, country = Australia, frequency = Q Time: 5 s
+
+2022-04-11 01:36:29 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:29 PM Total New Items Found: 0 Time: 5 s
+
+2022-04-11 01:36:29 PM Getting data: dataset_name = MEI, country = Australia, frequency = M Time: 5 s
+
+2022-04-11 01:36:29 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:30 PM Total New Items Found: 0 Time: 6 s
+
+2022-04-11 01:36:30 PM Getting data: dataset_name = MEI, country = Austria, frequency = A Time: 6 s
+
+2022-04-11 01:36:30 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:30 PM Total New Items Found: 0 Time: 6 s
+
+2022-04-11 01:36:30 PM Getting data: dataset_name = MEI, country = Austria, frequency = Q Time: 6 s
+
+2022-04-11 01:36:30 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:31 PM Total New Items Found: 0 Time: 7 s
+
+2022-04-11 01:36:31 PM Getting data: dataset_name = MEI, country = Austria, frequency = M Time: 7 s
+
+2022-04-11 01:36:31 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:31 PM Total New Items Found: 0 Time: 7 s
+
+2022-04-11 01:36:31 PM Getting data: dataset_name = MEI, country = Belgium, frequency = A Time: 7 s
+
+2022-04-11 01:36:31 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:32 PM Total New Items Found: 0 Time: 8 s
+
+2022-04-11 01:36:32 PM Getting data: dataset_name = MEI, country = Belgium, frequency = Q Time: 8 s
+
+2022-04-11 01:36:32 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:32 PM Total New Items Found: 0 Time: 8 s
+
+2022-04-11 01:36:32 PM Getting data: dataset_name = MEI, country = Belgium, frequency = M Time: 8 s
+
+2022-04-11 01:36:32 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:32 PM Total New Items Found: 0 Time: 8 s
+
+2022-04-11 01:36:32 PM Getting data: dataset_name = MEI, country = Bulgaria, frequency = A Time: 8 s
+
+2022-04-11 01:36:32 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:32 PM Total New Items Found: 0 Time: 8 s
+
+2022-04-11 01:36:32 PM Getting data: dataset_name = MEI, country = Bulgaria, frequency = Q Time: 8 s
+
+2022-04-11 01:36:32 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:32 PM Total New Items Found: 0 Time: 8 s
+
+2022-04-11 01:36:32 PM Getting data: dataset_name = MEI, country = Bulgaria, frequency = M Time: 8 s
+
+2022-04-11 01:36:32 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:32 PM Total New Items Found: 0 Time: 8 s
+
+2022-04-11 01:36:32 PM Getting data: dataset_name = MEI, country = Brazil, frequency = A Time: 8 s
+
+2022-04-11 01:36:32 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:33 PM Total New Items Found: 0 Time: 8 s
+
+2022-04-11 01:36:33 PM Getting data: dataset_name = MEI, country = Brazil, frequency = Q Time: 8 s
+
+2022-04-11 01:36:33 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:33 PM Total New Items Found: 0 Time: 9 s
+
+2022-04-11 01:36:33 PM Getting data: dataset_name = MEI, country = Brazil, frequency = M Time: 9 s
+
+2022-04-11 01:36:33 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:33 PM Total New Items Found: 0 Time: 9 s
+
+2022-04-11 01:36:33 PM Getting data: dataset_name = MEI, country = BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa, frequency = A Time: 9 s
+
+2022-04-11 01:36:33 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:33 PM Total New Items Found: 0 Time: 9 s
+
+2022-04-11 01:36:33 PM Getting data: dataset_name = MEI, country = BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa, frequency = Q Time: 9 s
+
+2022-04-11 01:36:33 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:33 PM Total New Items Found: 0 Time: 9 s
+
+2022-04-11 01:36:33 PM Getting data: dataset_name = MEI, country = BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa, frequency = M Time: 9 s
+
+2022-04-11 01:36:33 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:33 PM Total New Items Found: 0 Time: 9 s
+
+2022-04-11 01:36:33 PM Getting data: dataset_name = MEI, country = Canada, frequency = A Time: 9 s
+
+2022-04-11 01:36:33 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:33 PM Total New Items Found: 0 Time: 9 s
+
+2022-04-11 01:36:33 PM Getting data: dataset_name = MEI, country = Canada, frequency = Q Time: 9 s
+
+2022-04-11 01:36:33 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:34 PM Total New Items Found: 0 Time: 9 s
+
+2022-04-11 01:36:34 PM Getting data: dataset_name = MEI, country = Canada, frequency = M Time: 9 s
+
+2022-04-11 01:36:34 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:34 PM Total New Items Found: 0 Time: 10 s
+
+2022-04-11 01:36:34 PM Getting data: dataset_name = MEI, country = Switzerland, frequency = A Time: 10 s
+
+2022-04-11 01:36:34 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:34 PM Total New Items Found: 0 Time: 10 s
+
+2022-04-11 01:36:34 PM Getting data: dataset_name = MEI, country = Switzerland, frequency = Q Time: 10 s
+
+2022-04-11 01:36:34 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:35 PM Total New Items Found: 0 Time: 11 s
+
+2022-04-11 01:36:35 PM Getting data: dataset_name = MEI, country = Switzerland, frequency = M Time: 11 s
+
+2022-04-11 01:36:35 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:35 PM Total New Items Found: 0 Time: 11 s
+
+2022-04-11 01:36:35 PM Getting data: dataset_name = MEI, country = Chile, frequency = A Time: 11 s
+
+2022-04-11 01:36:35 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:35 PM Total New Items Found: 0 Time: 11 s
+
+2022-04-11 01:36:35 PM Getting data: dataset_name = MEI, country = Chile, frequency = Q Time: 11 s
+
+2022-04-11 01:36:35 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:36 PM Total New Items Found: 0 Time: 11 s
+
+2022-04-11 01:36:36 PM Getting data: dataset_name = MEI, country = Chile, frequency = M Time: 11 s
+
+2022-04-11 01:36:36 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:36 PM Total New Items Found: 0 Time: 12 s
+
+2022-04-11 01:36:36 PM Getting data: dataset_name = MEI, country = China, frequency = A Time: 12 s
+
+2022-04-11 01:36:36 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:36 PM Total New Items Found: 0 Time: 12 s
+
+2022-04-11 01:36:36 PM Getting data: dataset_name = MEI, country = China, frequency = Q Time: 12 s
+
+2022-04-11 01:36:36 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:36 PM Total New Items Found: 0 Time: 12 s
+
+2022-04-11 01:36:36 PM Getting data: dataset_name = MEI, country = China, frequency = M Time: 12 s
+
+2022-04-11 01:36:36 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:36 PM Total New Items Found: 0 Time: 12 s
+
+2022-04-11 01:36:36 PM Getting data: dataset_name = MEI, country = Colombia, frequency = A Time: 12 s
+
+2022-04-11 01:36:36 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:36 PM Total New Items Found: 0 Time: 12 s
+
+2022-04-11 01:36:36 PM Getting data: dataset_name = MEI, country = Colombia, frequency = Q Time: 12 s
+
+2022-04-11 01:36:36 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:37 PM Total New Items Found: 0 Time: 13 s
+
+2022-04-11 01:36:37 PM Getting data: dataset_name = MEI, country = Colombia, frequency = M Time: 13 s
+
+2022-04-11 01:36:37 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:37 PM Total New Items Found: 0 Time: 13 s
+
+2022-04-11 01:36:37 PM Getting data: dataset_name = MEI, country = Costa Rica, frequency = A Time: 13 s
+
+2022-04-11 01:36:37 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:37 PM unknown_subjects found: 78
+2022-04-11 01:36:39 PM Total New Items Found: 78 Time: 14 s
+
+2022-04-11 01:36:39 PM Getting data: dataset_name = MEI, country = Costa Rica, frequency = Q Time: 14 s
+
+2022-04-11 01:36:39 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:41 PM Total New Items Found: 123 Time: 17 s
+
+2022-04-11 01:36:41 PM Getting data: dataset_name = MEI, country = Costa Rica, frequency = M Time: 17 s
+
+2022-04-11 01:36:41 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:41 PM unknown_subjects found: 1
+2022-04-11 01:36:43 PM Total New Items Found: 144 Time: 19 s
+
+2022-04-11 01:36:43 PM Getting data: dataset_name = MEI, country = Cyprus, frequency = A Time: 19 s
+
+2022-04-11 01:36:43 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:43 PM Total New Items Found: 144 Time: 19 s
+
+2022-04-11 01:36:43 PM Getting data: dataset_name = MEI, country = Cyprus, frequency = Q Time: 19 s
+
+2022-04-11 01:36:43 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:43 PM Total New Items Found: 144 Time: 19 s
+
+2022-04-11 01:36:43 PM Getting data: dataset_name = MEI, country = Cyprus, frequency = M Time: 19 s
+
+2022-04-11 01:36:43 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:43 PM Total New Items Found: 144 Time: 19 s
+
+2022-04-11 01:36:43 PM Getting data: dataset_name = MEI, country = Czech Republic, frequency = A Time: 19 s
+
+2022-04-11 01:36:43 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:44 PM Total New Items Found: 144 Time: 20 s
+
+2022-04-11 01:36:44 PM Getting data: dataset_name = MEI, country = Czech Republic, frequency = Q Time: 20 s
+
+2022-04-11 01:36:44 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:44 PM Total New Items Found: 144 Time: 20 s
+
+2022-04-11 01:36:44 PM Getting data: dataset_name = MEI, country = Czech Republic, frequency = M Time: 20 s
+
+2022-04-11 01:36:44 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:44 PM Total New Items Found: 144 Time: 20 s
+
+2022-04-11 01:36:44 PM Getting data: dataset_name = MEI, country = Germany, frequency = A Time: 20 s
+
+2022-04-11 01:36:44 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:45 PM Total New Items Found: 144 Time: 20 s
+
+2022-04-11 01:36:45 PM Getting data: dataset_name = MEI, country = Germany, frequency = Q Time: 20 s
+
+2022-04-11 01:36:45 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:45 PM Total New Items Found: 144 Time: 21 s
+
+2022-04-11 01:36:45 PM Getting data: dataset_name = MEI, country = Germany, frequency = M Time: 21 s
+
+2022-04-11 01:36:45 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:45 PM Total New Items Found: 144 Time: 21 s
+
+2022-04-11 01:36:45 PM Getting data: dataset_name = MEI, country = Western Germany, frequency = A Time: 21 s
+
+2022-04-11 01:36:45 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:45 PM Total New Items Found: 144 Time: 21 s
+
+2022-04-11 01:36:45 PM Getting data: dataset_name = MEI, country = Western Germany, frequency = Q Time: 21 s
+
+2022-04-11 01:36:45 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:45 PM Total New Items Found: 144 Time: 21 s
+
+2022-04-11 01:36:45 PM Getting data: dataset_name = MEI, country = Western Germany, frequency = M Time: 21 s
+
+2022-04-11 01:36:45 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:45 PM Total New Items Found: 144 Time: 21 s
+
+2022-04-11 01:36:45 PM Getting data: dataset_name = MEI, country = Denmark, frequency = A Time: 21 s
+
+2022-04-11 01:36:45 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:46 PM Total New Items Found: 144 Time: 22 s
+
+2022-04-11 01:36:46 PM Getting data: dataset_name = MEI, country = Denmark, frequency = Q Time: 22 s
+
+2022-04-11 01:36:46 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:46 PM Total New Items Found: 144 Time: 22 s
+
+2022-04-11 01:36:46 PM Getting data: dataset_name = MEI, country = Denmark, frequency = M Time: 22 s
+
+2022-04-11 01:36:46 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:47 PM Total New Items Found: 144 Time: 22 s
+
+2022-04-11 01:36:47 PM Getting data: dataset_name = MEI, country = Euro area, frequency = A Time: 22 s
+
+2022-04-11 01:36:47 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:47 PM Total New Items Found: 144 Time: 23 s
+
+2022-04-11 01:36:47 PM Getting data: dataset_name = MEI, country = Euro area, frequency = Q Time: 23 s
+
+2022-04-11 01:36:47 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:47 PM Total New Items Found: 144 Time: 23 s
+
+2022-04-11 01:36:47 PM Getting data: dataset_name = MEI, country = Euro area, frequency = M Time: 23 s
+
+2022-04-11 01:36:47 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:47 PM Total New Items Found: 144 Time: 23 s
+
+2022-04-11 01:36:47 PM Getting data: dataset_name = MEI, country = Spain, frequency = A Time: 23 s
+
+2022-04-11 01:36:47 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:48 PM Total New Items Found: 144 Time: 24 s
+
+2022-04-11 01:36:48 PM Getting data: dataset_name = MEI, country = Spain, frequency = Q Time: 24 s
+
+2022-04-11 01:36:48 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:48 PM Total New Items Found: 144 Time: 24 s
+
+2022-04-11 01:36:48 PM Getting data: dataset_name = MEI, country = Spain, frequency = M Time: 24 s
+
+2022-04-11 01:36:48 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:48 PM Total New Items Found: 144 Time: 24 s
+
+2022-04-11 01:36:48 PM Getting data: dataset_name = MEI, country = Estonia, frequency = A Time: 24 s
+
+2022-04-11 01:36:48 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:49 PM Total New Items Found: 144 Time: 25 s
+
+2022-04-11 01:36:49 PM Getting data: dataset_name = MEI, country = Estonia, frequency = Q Time: 25 s
+
+2022-04-11 01:36:49 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:49 PM Total New Items Found: 144 Time: 25 s
+
+2022-04-11 01:36:49 PM Getting data: dataset_name = MEI, country = Estonia, frequency = M Time: 25 s
+
+2022-04-11 01:36:49 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:49 PM Total New Items Found: 144 Time: 25 s
+
+2022-04-11 01:36:49 PM Getting data: dataset_name = MEI, country = European Union (15 countries), frequency = A Time: 25 s
+
+2022-04-11 01:36:49 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:49 PM Total New Items Found: 144 Time: 25 s
+
+2022-04-11 01:36:49 PM Getting data: dataset_name = MEI, country = European Union (15 countries), frequency = Q Time: 25 s
+
+2022-04-11 01:36:49 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:49 PM Total New Items Found: 144 Time: 25 s
+
+2022-04-11 01:36:49 PM Getting data: dataset_name = MEI, country = European Union (15 countries), frequency = M Time: 25 s
+
+2022-04-11 01:36:49 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:49 PM Total New Items Found: 144 Time: 25 s
+
+2022-04-11 01:36:49 PM Getting data: dataset_name = MEI, country = European Union – 27 countries (from 01/02/2020), frequency = A Time: 25 s
+
+2022-04-11 01:36:49 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:50 PM Total New Items Found: 144 Time: 25 s
+
+2022-04-11 01:36:50 PM Getting data: dataset_name = MEI, country = European Union – 27 countries (from 01/02/2020), frequency = Q Time: 25 s
+
+2022-04-11 01:36:50 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:50 PM Total New Items Found: 144 Time: 26 s
+
+2022-04-11 01:36:50 PM Getting data: dataset_name = MEI, country = European Union – 27 countries (from 01/02/2020), frequency = M Time: 26 s
+
+2022-04-11 01:36:50 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:50 PM Total New Items Found: 144 Time: 26 s
+
+2022-04-11 01:36:50 PM Getting data: dataset_name = MEI, country = European Union (28 countries), frequency = A Time: 26 s
+
+2022-04-11 01:36:50 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:50 PM Total New Items Found: 144 Time: 26 s
+
+2022-04-11 01:36:50 PM Getting data: dataset_name = MEI, country = European Union (28 countries), frequency = Q Time: 26 s
+
+2022-04-11 01:36:50 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:50 PM Total New Items Found: 144 Time: 26 s
+
+2022-04-11 01:36:50 PM Getting data: dataset_name = MEI, country = European Union (28 countries), frequency = M Time: 26 s
+
+2022-04-11 01:36:50 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:50 PM Total New Items Found: 144 Time: 26 s
+
+2022-04-11 01:36:50 PM Getting data: dataset_name = MEI, country = Finland, frequency = A Time: 26 s
+
+2022-04-11 01:36:50 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:50 PM Total New Items Found: 144 Time: 26 s
+
+2022-04-11 01:36:50 PM Getting data: dataset_name = MEI, country = Finland, frequency = Q Time: 26 s
+
+2022-04-11 01:36:50 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:51 PM Total New Items Found: 144 Time: 27 s
+
+2022-04-11 01:36:51 PM Getting data: dataset_name = MEI, country = Finland, frequency = M Time: 27 s
+
+2022-04-11 01:36:51 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:51 PM Total New Items Found: 144 Time: 27 s
+
+2022-04-11 01:36:51 PM Getting data: dataset_name = MEI, country = France, frequency = A Time: 27 s
+
+2022-04-11 01:36:51 PM Present File Exists. Reading Data From Default Path.
+
+2022-04-11 01:36:51 PM Total New Items Found: 144 Time: 27 s
+
+2022-04-11 01:36:51 PM Getting data: dataset_name = MEI, country = France, frequency = Q Time: 27 s
+
+2022-04-11 01:37:18 PM Total New Items Found: 144 Time: 53 s
+
+2022-04-11 01:37:18 PM Getting data: dataset_name = MEI, country = France, frequency = M Time: 53 s
+
+2022-04-11 01:38:47 PM Total New Items Found: 144 Time: 142 s
+
+2022-04-11 01:38:47 PM Getting data: dataset_name = MEI, country = G20, frequency = A Time: 142 s
+
+2022-04-11 01:38:48 PM Total New Items Found: 144 Time: 144 s
+
+2022-04-11 01:38:48 PM Getting data: dataset_name = MEI, country = G20, frequency = Q Time: 144 s
+
+2022-04-11 01:38:51 PM Total New Items Found: 144 Time: 147 s
+
+2022-04-11 01:38:51 PM Getting data: dataset_name = MEI, country = G20, frequency = M Time: 147 s
+
+2022-04-11 01:38:53 PM Total New Items Found: 144 Time: 149 s
+
+2022-04-11 01:38:53 PM Getting data: dataset_name = MEI, country = G7, frequency = A Time: 149 s
+
+2022-04-11 01:38:59 PM Total New Items Found: 144 Time: 154 s
+
+2022-04-11 01:38:59 PM Getting data: dataset_name = MEI, country = G7, frequency = Q Time: 154 s
+
+2022-04-11 01:39:16 PM Total New Items Found: 144 Time: 172 s
+
+2022-04-11 01:39:16 PM Getting data: dataset_name = MEI, country = G7, frequency = M Time: 172 s
+
+2022-04-11 01:39:39 PM Total New Items Found: 144 Time: 195 s
+
+2022-04-11 01:39:39 PM Getting data: dataset_name = MEI, country = Big 4 Europe, frequency = A Time: 195 s
+
+2022-04-11 01:39:40 PM Total New Items Found: 144 Time: 196 s
+
+2022-04-11 01:39:40 PM Getting data: dataset_name = MEI, country = Big 4 Europe, frequency = Q Time: 196 s
+
+2022-04-11 01:39:42 PM Total New Items Found: 144 Time: 198 s
+
+2022-04-11 01:39:42 PM Getting data: dataset_name = MEI, country = Big 4 Europe, frequency = M Time: 198 s
+
+2022-04-11 01:39:47 PM Total New Items Found: 144 Time: 202 s
+
+2022-04-11 01:39:47 PM Getting data: dataset_name = MEI, country = United Kingdom, frequency = A Time: 202 s
+
+2022-04-11 01:40:00 PM Total New Items Found: 144 Time: 216 s
+
+2022-04-11 01:40:00 PM Getting data: dataset_name = MEI, country = United Kingdom, frequency = Q Time: 216 s
+
+2022-04-11 01:40:54 PM Total New Items Found: 144 Time: 270 s
+
+2022-04-11 01:40:54 PM Getting data: dataset_name = MEI, country = United Kingdom, frequency = M Time: 270 s
+
+2022-04-11 01:42:16 PM Total New Items Found: 144 Time: 352 s
+
+2022-04-11 01:42:16 PM Getting data: dataset_name = MEI, country = Greece, frequency = A Time: 352 s
+
+2022-04-11 01:42:29 PM Total New Items Found: 144 Time: 365 s
+
+2022-04-11 01:42:29 PM Getting data: dataset_name = MEI, country = Greece, frequency = Q Time: 365 s
+
+2022-04-11 01:43:13 PM Total New Items Found: 144 Time: 409 s
+
+2022-04-11 01:43:13 PM Getting data: dataset_name = MEI, country = Greece, frequency = M Time: 409 s
+
+2022-04-11 01:44:31 PM Total New Items Found: 144 Time: 487 s
+
+2022-04-11 01:44:31 PM Getting data: dataset_name = MEI, country = Hungary, frequency = A Time: 487 s
+
+2022-04-11 01:44:43 PM Total New Items Found: 144 Time: 499 s
+
+2022-04-11 01:44:43 PM Getting data: dataset_name = MEI, country = Hungary, frequency = Q Time: 499 s
+
+2022-04-11 01:45:24 PM Total New Items Found: 144 Time: 540 s
+
+2022-04-11 01:45:24 PM Getting data: dataset_name = MEI, country = Hungary, frequency = M Time: 540 s
+
+2022-04-11 01:46:22 PM Total New Items Found: 144 Time: 597 s
+
+2022-04-11 01:46:22 PM Getting data: dataset_name = MEI, country = Indonesia, frequency = A Time: 597 s
+
+2022-04-11 01:46:26 PM Total New Items Found: 144 Time: 602 s
+
+2022-04-11 01:46:26 PM Getting data: dataset_name = MEI, country = Indonesia, frequency = Q Time: 602 s
+
+2022-04-11 01:46:34 PM Total New Items Found: 144 Time: 610 s
+
+2022-04-11 01:46:34 PM Getting data: dataset_name = MEI, country = Indonesia, frequency = M Time: 610 s
+
+2022-04-11 01:46:46 PM Total New Items Found: 144 Time: 622 s
+
+2022-04-11 01:46:46 PM Getting data: dataset_name = MEI, country = Ukraine, frequency = A Time: 622 s
+
+2022-04-11 01:46:47 PM Total New Items Found: 144 Time: 623 s
+
+2022-04-11 01:46:47 PM Getting data: dataset_name = MEI, country = Ukraine, frequency = Q Time: 623 s
+
+2022-04-11 01:46:49 PM Total New Items Found: 144 Time: 625 s
+
+2022-04-11 01:46:49 PM Getting data: dataset_name = MEI, country = Ukraine, frequency = M Time: 625 s
+
+2022-04-11 01:46:50 PM Total New Items Found: 144 Time: 626 s
+
+2022-04-11 01:46:50 PM Getting data: dataset_name = MEI, country = India, frequency = A Time: 626 s
+
+2022-04-11 01:46:54 PM Total New Items Found: 144 Time: 630 s
+
+2022-04-11 01:46:54 PM Getting data: dataset_name = MEI, country = India, frequency = Q Time: 630 s
+
+2022-04-11 01:47:09 PM Total New Items Found: 144 Time: 645 s
+
+2022-04-11 01:47:09 PM Getting data: dataset_name = MEI, country = India, frequency = M Time: 645 s
+
+2022-04-11 01:47:31 PM Total New Items Found: 144 Time: 667 s
+
+2022-04-11 01:47:31 PM Getting data: dataset_name = MEI, country = Ireland, frequency = A Time: 667 s
+
+2022-04-11 01:47:42 PM Total New Items Found: 144 Time: 678 s
+
+2022-04-11 01:47:42 PM Getting data: dataset_name = MEI, country = Ireland, frequency = Q Time: 678 s
+
+2022-04-11 01:48:21 PM Total New Items Found: 144 Time: 717 s
+
+2022-04-11 01:48:21 PM Getting data: dataset_name = MEI, country = Ireland, frequency = M Time: 717 s
+
+2022-04-11 01:49:33 PM Total New Items Found: 144 Time: 789 s
+
+2022-04-11 01:49:33 PM Getting data: dataset_name = MEI, country = Iceland, frequency = A Time: 789 s
+
+2022-04-11 01:49:43 PM Total New Items Found: 144 Time: 799 s
+
+2022-04-11 01:49:43 PM Getting data: dataset_name = MEI, country = Iceland, frequency = Q Time: 799 s
+
+2022-04-11 01:50:19 PM Total New Items Found: 144 Time: 835 s
+
+2022-04-11 01:50:19 PM Getting data: dataset_name = MEI, country = Iceland, frequency = M Time: 835 s
+
+2022-04-11 01:51:12 PM Total New Items Found: 144 Time: 887 s
+
+2022-04-11 01:51:12 PM Getting data: dataset_name = MEI, country = Israel, frequency = A Time: 887 s
+
+2022-04-11 01:51:21 PM Total New Items Found: 144 Time: 896 s
+
+2022-04-11 01:51:21 PM Getting data: dataset_name = MEI, country = Israel, frequency = Q Time: 896 s
+
+2022-04-11 01:51:53 PM Total New Items Found: 144 Time: 929 s
+
+2022-04-11 01:51:53 PM Getting data: dataset_name = MEI, country = Israel, frequency = M Time: 929 s
+
+2022-04-11 01:52:45 PM Total New Items Found: 144 Time: 981 s
+
+2022-04-11 01:52:45 PM Getting data: dataset_name = MEI, country = Italy, frequency = A Time: 981 s
+
+2022-04-11 01:52:57 PM Total New Items Found: 144 Time: 993 s
+
+2022-04-11 01:52:57 PM Getting data: dataset_name = MEI, country = Italy, frequency = Q Time: 993 s
+
+2022-04-11 01:53:39 PM Total New Items Found: 144 Time: 1035 s
+
+2022-04-11 01:53:39 PM Getting data: dataset_name = MEI, country = Italy, frequency = M Time: 1035 s
+
+2022-04-11 01:55:04 PM Total New Items Found: 144 Time: 1120 s
+
+2022-04-11 01:55:04 PM Getting data: dataset_name = MEI, country = Japan, frequency = A Time: 1120 s
+
+2022-04-11 01:55:21 PM Total New Items Found: 144 Time: 1137 s
+
+2022-04-11 01:55:21 PM Getting data: dataset_name = MEI, country = Japan, frequency = Q Time: 1137 s
+
+2022-04-11 01:56:29 PM Total New Items Found: 144 Time: 1205 s
+
+2022-04-11 01:56:29 PM Getting data: dataset_name = MEI, country = Japan, frequency = M Time: 1205 s
+
+2022-04-11 02:00:05 PM Total New Items Found: 144 Time: 1420 s
+
+2022-04-11 02:00:05 PM Getting data: dataset_name = MEI, country = Korea, frequency = A Time: 1420 s
+
+2022-04-11 02:00:18 PM Total New Items Found: 144 Time: 1433 s
+
+2022-04-11 02:00:18 PM Getting data: dataset_name = MEI, country = Korea, frequency = Q Time: 1433 s
+
+2022-04-11 02:01:11 PM Total New Items Found: 144 Time: 1486 s
+
+2022-04-11 02:01:11 PM Getting data: dataset_name = MEI, country = Korea, frequency = M Time: 1486 s
+
+2022-04-11 02:03:37 PM Total New Items Found: 144 Time: 1633 s
+
+2022-04-11 02:03:37 PM Getting data: dataset_name = MEI, country = Lithuania, frequency = A Time: 1633 s
+
+2022-04-11 02:03:48 PM Total New Items Found: 144 Time: 1644 s
+
+2022-04-11 02:03:48 PM Getting data: dataset_name = MEI, country = Lithuania, frequency = Q Time: 1644 s
+
+2022-04-11 02:04:19 PM Total New Items Found: 144 Time: 1675 s
+
+2022-04-11 02:04:19 PM Getting data: dataset_name = MEI, country = Lithuania, frequency = M Time: 1675 s
+
+2022-04-11 02:04:59 PM Total New Items Found: 144 Time: 1715 s
+
+2022-04-11 02:04:59 PM Getting data: dataset_name = MEI, country = Luxembourg, frequency = A Time: 1715 s
+
+2022-04-11 02:05:11 PM Total New Items Found: 144 Time: 1727 s
+
+2022-04-11 02:05:11 PM Getting data: dataset_name = MEI, country = Luxembourg, frequency = Q Time: 1727 s
+
+2022-04-11 02:05:47 PM Total New Items Found: 144 Time: 1763 s
+
+2022-04-11 02:05:47 PM Getting data: dataset_name = MEI, country = Luxembourg, frequency = M Time: 1763 s
+
+2022-04-11 02:06:45 PM Total New Items Found: 144 Time: 1821 s
+
+2022-04-11 02:06:45 PM Getting data: dataset_name = MEI, country = Latvia, frequency = A Time: 1821 s
+
+2022-04-11 02:06:57 PM Total New Items Found: 144 Time: 1833 s
+
+2022-04-11 02:06:57 PM Getting data: dataset_name = MEI, country = Latvia, frequency = Q Time: 1833 s
+
+2022-04-11 02:07:31 PM Total New Items Found: 144 Time: 1867 s
+
+2022-04-11 02:07:31 PM Getting data: dataset_name = MEI, country = Latvia, frequency = M Time: 1867 s
+
+2022-04-11 02:08:09 PM Total New Items Found: 144 Time: 1905 s
+
+2022-04-11 02:08:09 PM Getting data: dataset_name = MEI, country = Mexico, frequency = A Time: 1905 s
+
+2022-04-11 02:08:16 PM Total New Items Found: 144 Time: 1912 s
+
+2022-04-11 02:08:16 PM Getting data: dataset_name = MEI, country = Mexico, frequency = Q Time: 1912 s
+
+2022-04-11 02:08:42 PM Total New Items Found: 144 Time: 1938 s
+
+2022-04-11 02:08:42 PM Getting data: dataset_name = MEI, country = Mexico, frequency = M Time: 1938 s
+
+2022-04-11 02:09:28 PM Total New Items Found: 144 Time: 1984 s
+
+2022-04-11 02:09:28 PM Getting data: dataset_name = MEI, country = Malta, frequency = A Time: 1984 s
+
+2022-04-11 02:09:29 PM Total New Items Found: 144 Time: 1985 s
+
+2022-04-11 02:09:29 PM Getting data: dataset_name = MEI, country = Malta, frequency = Q Time: 1985 s
+
+2022-04-11 02:09:31 PM Total New Items Found: 144 Time: 1987 s
+
+2022-04-11 02:09:31 PM Getting data: dataset_name = MEI, country = Malta, frequency = M Time: 1987 s
+
+2022-04-11 02:09:33 PM Total New Items Found: 144 Time: 1989 s
+
+2022-04-11 02:09:33 PM Getting data: dataset_name = MEI, country = NAFTA, frequency = A Time: 1989 s
+
+2022-04-11 02:09:34 PM Total New Items Found: 144 Time: 1990 s
+
+2022-04-11 02:09:34 PM Getting data: dataset_name = MEI, country = NAFTA, frequency = Q Time: 1990 s
+
+2022-04-11 02:09:36 PM Total New Items Found: 144 Time: 1992 s
+
+2022-04-11 02:09:36 PM Getting data: dataset_name = MEI, country = NAFTA, frequency = M Time: 1992 s
+
+2022-04-11 02:09:49 PM Total New Items Found: 144 Time: 2005 s
+
+2022-04-11 02:09:49 PM Getting data: dataset_name = MEI, country = Netherlands, frequency = A Time: 2005 s
+
+2022-04-11 02:10:03 PM Total New Items Found: 144 Time: 2018 s
+
+2022-04-11 02:10:03 PM Getting data: dataset_name = MEI, country = Netherlands, frequency = Q Time: 2018 s
+
+2022-04-11 02:10:58 PM Total New Items Found: 144 Time: 2073 s
+
+2022-04-11 02:10:58 PM Getting data: dataset_name = MEI, country = Netherlands, frequency = M Time: 2073 s
+
+2022-04-11 02:12:27 PM Total New Items Found: 144 Time: 2162 s
+
+2022-04-11 02:12:27 PM Getting data: dataset_name = MEI, country = Norway, frequency = A Time: 2162 s
+
+2022-04-11 02:12:40 PM Total New Items Found: 144 Time: 2176 s
+
+2022-04-11 02:12:40 PM Getting data: dataset_name = MEI, country = Norway, frequency = Q Time: 2176 s
+
+2022-04-11 02:13:27 PM Total New Items Found: 144 Time: 2223 s
+
+2022-04-11 02:13:27 PM Getting data: dataset_name = MEI, country = Norway, frequency = M Time: 2223 s
+
+2022-04-11 02:14:52 PM Total New Items Found: 144 Time: 2308 s
+
+2022-04-11 02:14:52 PM Getting data: dataset_name = MEI, country = New Zealand, frequency = A Time: 2308 s
+
+2022-04-11 02:15:04 PM Total New Items Found: 144 Time: 2320 s
+
+2022-04-11 02:15:04 PM Getting data: dataset_name = MEI, country = New Zealand, frequency = Q Time: 2320 s
+
+2022-04-11 02:15:51 PM Total New Items Found: 144 Time: 2367 s
+
+2022-04-11 02:15:51 PM Getting data: dataset_name = MEI, country = New Zealand, frequency = M Time: 2367 s
+
+2022-04-11 02:16:11 PM Total New Items Found: 144 Time: 2387 s
+
+2022-04-11 02:16:11 PM Getting data: dataset_name = MEI, country = OECD - Total, frequency = A Time: 2387 s
+
+2022-04-11 02:16:16 PM Total New Items Found: 144 Time: 2392 s
+
+2022-04-11 02:16:16 PM Getting data: dataset_name = MEI, country = OECD - Total, frequency = Q Time: 2392 s
+
+2022-04-11 02:16:32 PM Total New Items Found: 144 Time: 2408 s
+
+2022-04-11 02:16:32 PM Getting data: dataset_name = MEI, country = OECD - Total, frequency = M Time: 2408 s
+
+2022-04-11 02:16:51 PM Total New Items Found: 144 Time: 2427 s
+
+2022-04-11 02:16:51 PM Getting data: dataset_name = MEI, country = OECD - Europe, frequency = A Time: 2427 s
+
+2022-04-11 02:16:53 PM Total New Items Found: 144 Time: 2429 s
+
+2022-04-11 02:16:53 PM Getting data: dataset_name = MEI, country = OECD - Europe, frequency = Q Time: 2429 s
+
+2022-04-11 02:16:57 PM Total New Items Found: 144 Time: 2433 s
+
+2022-04-11 02:16:57 PM Getting data: dataset_name = MEI, country = OECD - Europe, frequency = M Time: 2433 s
+
+2022-04-11 02:17:12 PM Total New Items Found: 144 Time: 2448 s
+
+2022-04-11 02:17:12 PM Getting data: dataset_name = MEI, country = OECD + Major Six NME, frequency = A Time: 2448 s
+
+2022-04-11 02:17:14 PM Total New Items Found: 144 Time: 2449 s
+
+2022-04-11 02:17:14 PM Getting data: dataset_name = MEI, country = OECD + Major Six NME, frequency = Q Time: 2449 s
+
+2022-04-11 02:17:15 PM Total New Items Found: 144 Time: 2451 s
+
+2022-04-11 02:17:15 PM Getting data: dataset_name = MEI, country = OECD + Major Six NME, frequency = M Time: 2451 s
+
+2022-04-11 02:17:20 PM Total New Items Found: 144 Time: 2456 s
+
+2022-04-11 02:17:20 PM Getting data: dataset_name = MEI, country = OECD - FORMER TOTAL, frequency = A Time: 2456 s
+
+2022-04-11 02:17:21 PM Total New Items Found: 144 Time: 2457 s
+
+2022-04-11 02:17:21 PM Getting data: dataset_name = MEI, country = OECD - FORMER TOTAL, frequency = Q Time: 2457 s
+
+2022-04-11 02:17:23 PM Total New Items Found: 144 Time: 2459 s
+
+2022-04-11 02:17:23 PM Getting data: dataset_name = MEI, country = OECD - FORMER TOTAL, frequency = M Time: 2459 s
+
+2022-04-11 02:17:24 PM Total New Items Found: 144 Time: 2460 s
+
+2022-04-11 02:17:24 PM Getting data: dataset_name = MEI, country = OECD total excluding the euro area, frequency = A Time: 2460 s
+
+2022-04-11 02:17:26 PM Total New Items Found: 144 Time: 2462 s
+
+2022-04-11 02:17:26 PM Getting data: dataset_name = MEI, country = OECD total excluding the euro area, frequency = Q Time: 2462 s
+
+2022-04-11 02:17:27 PM Total New Items Found: 144 Time: 2463 s
+
+2022-04-11 02:17:27 PM Getting data: dataset_name = MEI, country = OECD total excluding the euro area, frequency = M Time: 2463 s
+
+2022-04-11 02:17:31 PM Total New Items Found: 144 Time: 2467 s
+
+2022-04-11 02:17:31 PM Getting data: dataset_name = MEI, country = Poland, frequency = A Time: 2467 s
+
+2022-04-11 02:17:42 PM Total New Items Found: 144 Time: 2478 s
+
+2022-04-11 02:17:42 PM Getting data: dataset_name = MEI, country = Poland, frequency = Q Time: 2478 s
+
+2022-04-11 02:18:17 PM Total New Items Found: 144 Time: 2512 s
+
+2022-04-11 02:18:17 PM Getting data: dataset_name = MEI, country = Poland, frequency = M Time: 2512 s
+
+2022-04-11 02:19:11 PM Total New Items Found: 144 Time: 2567 s
+
+2022-04-11 02:19:11 PM Getting data: dataset_name = MEI, country = Portugal, frequency = A Time: 2567 s
+
+2022-04-11 02:19:25 PM Total New Items Found: 144 Time: 2580 s
+
+2022-04-11 02:19:25 PM Getting data: dataset_name = MEI, country = Portugal, frequency = Q Time: 2580 s
+
+2022-04-11 02:20:11 PM Total New Items Found: 144 Time: 2627 s
+
+2022-04-11 02:20:11 PM Getting data: dataset_name = MEI, country = Portugal, frequency = M Time: 2627 s
+
+2022-04-11 02:21:45 PM Total New Items Found: 144 Time: 2721 s
+
+2022-04-11 02:21:45 PM Getting data: dataset_name = MEI, country = Romania, frequency = A Time: 2721 s
+
+2022-04-11 02:21:46 PM Total New Items Found: 144 Time: 2722 s
+
+2022-04-11 02:21:46 PM Getting data: dataset_name = MEI, country = Romania, frequency = Q Time: 2722 s
+
+2022-04-11 02:21:48 PM Total New Items Found: 144 Time: 2724 s
+
+2022-04-11 02:21:48 PM Getting data: dataset_name = MEI, country = Romania, frequency = M Time: 2724 s
+
+2022-04-11 02:21:50 PM Total New Items Found: 144 Time: 2726 s
+
+2022-04-11 02:21:50 PM Getting data: dataset_name = MEI, country = Russia, frequency = A Time: 2726 s
+
+2022-04-11 02:21:57 PM Total New Items Found: 144 Time: 2733 s
+
+2022-04-11 02:21:57 PM Getting data: dataset_name = MEI, country = Russia, frequency = Q Time: 2733 s
+
+2022-04-11 02:22:15 PM Total New Items Found: 144 Time: 2751 s
+
+2022-04-11 02:22:15 PM Getting data: dataset_name = MEI, country = Russia, frequency = M Time: 2751 s
+
+2022-04-11 02:22:44 PM Total New Items Found: 144 Time: 2779 s
+
+2022-04-11 02:22:44 PM Getting data: dataset_name = MEI, country = Saudi Arabia, frequency = A Time: 2779 s
+
+2022-04-11 02:22:47 PM Total New Items Found: 144 Time: 2782 s
+
+2022-04-11 02:22:47 PM Getting data: dataset_name = MEI, country = Saudi Arabia, frequency = Q Time: 2782 s
+
+2022-04-11 02:22:53 PM Total New Items Found: 144 Time: 2789 s
+
+2022-04-11 02:22:53 PM Getting data: dataset_name = MEI, country = Saudi Arabia, frequency = M Time: 2789 s
+
+2022-04-11 02:22:59 PM Total New Items Found: 144 Time: 2794 s
+
+2022-04-11 02:22:59 PM Getting data: dataset_name = MEI, country = SDR, frequency = A Time: 2794 s
+
+2022-04-11 02:23:00 PM Total New Items Found: 144 Time: 2796 s
+
+2022-04-11 02:23:00 PM Getting data: dataset_name = MEI, country = SDR, frequency = Q Time: 2796 s
+
+2022-04-11 02:23:03 PM Total New Items Found: 144 Time: 2798 s
+
+2022-04-11 02:23:03 PM Getting data: dataset_name = MEI, country = SDR, frequency = M Time: 2798 s
+
+2022-04-11 02:23:07 PM Total New Items Found: 144 Time: 2803 s
+
+2022-04-11 02:23:07 PM Getting data: dataset_name = MEI, country = Slovak Republic, frequency = A Time: 2803 s
+
+2022-04-11 02:23:19 PM Total New Items Found: 144 Time: 2815 s
+
+2022-04-11 02:23:19 PM Getting data: dataset_name = MEI, country = Slovak Republic, frequency = Q Time: 2815 s
+
+2022-04-11 02:23:54 PM Total New Items Found: 144 Time: 2850 s
+
+2022-04-11 02:23:54 PM Getting data: dataset_name = MEI, country = Slovak Republic, frequency = M Time: 2850 s
+
+2022-04-11 02:24:41 PM Total New Items Found: 144 Time: 2897 s
+
+2022-04-11 02:24:41 PM Getting data: dataset_name = MEI, country = Slovenia, frequency = A Time: 2897 s
+
+2022-04-11 02:24:55 PM Total New Items Found: 144 Time: 2911 s
+
+2022-04-11 02:24:55 PM Getting data: dataset_name = MEI, country = Slovenia, frequency = Q Time: 2911 s
+
+2022-04-11 02:25:32 PM Total New Items Found: 144 Time: 2948 s
+
+2022-04-11 02:25:32 PM Getting data: dataset_name = MEI, country = Slovenia, frequency = M Time: 2948 s
+
+2022-04-11 02:26:16 PM Total New Items Found: 144 Time: 2992 s
+
+2022-04-11 02:26:16 PM Getting data: dataset_name = MEI, country = Sweden, frequency = A Time: 2992 s
+
+2022-04-11 02:26:31 PM Total New Items Found: 144 Time: 3007 s
+
+2022-04-11 02:26:31 PM Getting data: dataset_name = MEI, country = Sweden, frequency = Q Time: 3007 s
+
+2022-04-11 02:27:20 PM Total New Items Found: 144 Time: 3055 s
+
+2022-04-11 02:27:20 PM Getting data: dataset_name = MEI, country = Sweden, frequency = M Time: 3055 s
+
+2022-04-11 02:28:36 PM Total New Items Found: 144 Time: 3131 s
+
+2022-04-11 02:28:36 PM Getting data: dataset_name = MEI, country = Turkey, frequency = A Time: 3131 s
+
+2022-04-11 02:28:45 PM Total New Items Found: 144 Time: 3140 s
+
+2022-04-11 02:28:45 PM Getting data: dataset_name = MEI, country = Turkey, frequency = Q Time: 3140 s
+
+2022-04-11 02:29:16 PM Total New Items Found: 144 Time: 3171 s
+
+2022-04-11 02:29:16 PM Getting data: dataset_name = MEI, country = Turkey, frequency = M Time: 3171 s
+
+2022-04-11 02:30:33 PM Total New Items Found: 144 Time: 3249 s
+
+2022-04-11 02:30:33 PM Getting data: dataset_name = MEI, country = United States, frequency = A Time: 3249 s
+
+2022-04-11 02:30:54 PM Total New Items Found: 144 Time: 3269 s
+
+2022-04-11 02:30:54 PM Getting data: dataset_name = MEI, country = United States, frequency = Q Time: 3269 s
+
+2022-04-11 02:32:09 PM Total New Items Found: 144 Time: 3345 s
+
+2022-04-11 02:32:09 PM Getting data: dataset_name = MEI, country = United States, frequency = M Time: 3345 s
+
+2022-04-11 02:35:41 PM Total New Items Found: 144 Time: 3556 s
+
+2022-04-11 02:35:41 PM Getting data: dataset_name = MEI, country = South Africa, frequency = A Time: 3556 s
+
+2022-04-11 02:35:48 PM Total New Items Found: 144 Time: 3564 s
+
+2022-04-11 02:35:48 PM Getting data: dataset_name = MEI, country = South Africa, frequency = Q Time: 3564 s
+
+2022-04-11 02:36:16 PM Total New Items Found: 144 Time: 3591 s
+
+2022-04-11 02:36:16 PM Getting data: dataset_name = MEI, country = South Africa, frequency = M Time: 3591 s
+
+2022-04-11 02:36:56 PM Total New Items Found: 144 Time: 3632 s
+
+2022-04-11 02:36:56 PM Getting data: dataset_name = MEI_CLI, country = Five Major Asia, frequency = A Time: 3632 s
+
+2022-04-11 02:36:59 PM Total New Items Found: 144 Time: 3635 s
+
+2022-04-11 02:36:59 PM Getting data: dataset_name = MEI_CLI, country = Five Major Asia, frequency = Q Time: 3635 s
+
+2022-04-11 02:37:00 PM Total New Items Found: 144 Time: 3636 s
+
+2022-04-11 02:37:00 PM Getting data: dataset_name = MEI_CLI, country = Five Major Asia, frequency = M Time: 3636 s
+
+2022-04-11 02:37:03 PM Total New Items Found: 144 Time: 3639 s
+
+2022-04-11 02:37:03 PM Getting data: dataset_name = MEI_CLI, country = Argentina, frequency = A Time: 3639 s
+
+2022-04-11 02:37:06 PM Total New Items Found: 144 Time: 3642 s
+
+2022-04-11 02:37:06 PM Getting data: dataset_name = MEI_CLI, country = Argentina, frequency = Q Time: 3642 s
+
+2022-04-11 02:37:09 PM Total New Items Found: 144 Time: 3644 s
+
+2022-04-11 02:37:09 PM Getting data: dataset_name = MEI_CLI, country = Argentina, frequency = M Time: 3644 s
+
+2022-04-11 02:37:10 PM Total New Items Found: 144 Time: 3646 s
+
+2022-04-11 02:37:10 PM Getting data: dataset_name = MEI_CLI, country = Australia, frequency = A Time: 3646 s
+
+2022-04-11 02:37:11 PM Total New Items Found: 144 Time: 3647 s
+
+2022-04-11 02:37:11 PM Getting data: dataset_name = MEI_CLI, country = Australia, frequency = Q Time: 3647 s
+
+2022-04-11 02:37:13 PM Total New Items Found: 144 Time: 3649 s
+
+2022-04-11 02:37:13 PM Getting data: dataset_name = MEI_CLI, country = Australia, frequency = M Time: 3649 s
+
+2022-04-11 02:37:17 PM Total New Items Found: 144 Time: 3653 s
+
+2022-04-11 02:37:17 PM Getting data: dataset_name = MEI_CLI, country = Austria, frequency = A Time: 3653 s
+
+2022-04-11 02:37:18 PM Total New Items Found: 144 Time: 3654 s
+
+2022-04-11 02:37:18 PM Getting data: dataset_name = MEI_CLI, country = Austria, frequency = Q Time: 3654 s
+
+2022-04-11 02:37:20 PM Total New Items Found: 144 Time: 3656 s
+
+2022-04-11 02:37:20 PM Getting data: dataset_name = MEI_CLI, country = Austria, frequency = M Time: 3656 s
+
+2022-04-11 02:37:24 PM Total New Items Found: 144 Time: 3660 s
+
+2022-04-11 02:37:24 PM Getting data: dataset_name = MEI_CLI, country = Belgium, frequency = A Time: 3660 s
+
+2022-04-11 02:37:26 PM Total New Items Found: 144 Time: 3661 s
+
+2022-04-11 02:37:26 PM Getting data: dataset_name = MEI_CLI, country = Belgium, frequency = Q Time: 3661 s
+
+2022-04-11 02:37:28 PM Total New Items Found: 144 Time: 3664 s
+
+2022-04-11 02:37:28 PM Getting data: dataset_name = MEI_CLI, country = Belgium, frequency = M Time: 3664 s
+
+2022-04-11 02:37:32 PM Total New Items Found: 144 Time: 3668 s
+
+2022-04-11 02:37:32 PM Getting data: dataset_name = MEI_CLI, country = Bulgaria, frequency = A Time: 3668 s
+
+2022-04-11 02:37:34 PM Total New Items Found: 144 Time: 3670 s
+
+2022-04-11 02:37:34 PM Getting data: dataset_name = MEI_CLI, country = Bulgaria, frequency = Q Time: 3670 s
+
+2022-04-11 02:37:35 PM Total New Items Found: 144 Time: 3671 s
+
+2022-04-11 02:37:35 PM Getting data: dataset_name = MEI_CLI, country = Bulgaria, frequency = M Time: 3671 s
+
+2022-04-11 02:37:36 PM Total New Items Found: 144 Time: 3672 s
+
+2022-04-11 02:37:36 PM Getting data: dataset_name = MEI_CLI, country = Brazil, frequency = A Time: 3672 s
+
+2022-04-11 02:37:38 PM Total New Items Found: 144 Time: 3674 s
+
+2022-04-11 02:37:38 PM Getting data: dataset_name = MEI_CLI, country = Brazil, frequency = Q Time: 3674 s
+
+2022-04-11 02:37:39 PM Total New Items Found: 144 Time: 3675 s
+
+2022-04-11 02:37:39 PM Getting data: dataset_name = MEI_CLI, country = Brazil, frequency = M Time: 3675 s
+
+2022-04-11 02:37:43 PM Total New Items Found: 144 Time: 3679 s
+
+2022-04-11 02:37:43 PM Getting data: dataset_name = MEI_CLI, country = BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa, frequency = A Time: 3679 s
+
+2022-04-11 02:37:45 PM Total New Items Found: 144 Time: 3680 s
+
+2022-04-11 02:37:45 PM Getting data: dataset_name = MEI_CLI, country = BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa, frequency = Q Time: 3680 s
+
+2022-04-11 02:37:46 PM Total New Items Found: 144 Time: 3682 s
+
+2022-04-11 02:37:46 PM Getting data: dataset_name = MEI_CLI, country = BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa, frequency = M Time: 3682 s
+
+2022-04-11 02:37:47 PM Total New Items Found: 144 Time: 3683 s
+
+2022-04-11 02:37:47 PM Getting data: dataset_name = MEI_CLI, country = Canada, frequency = A Time: 3683 s
+
+2022-04-11 02:37:49 PM Total New Items Found: 144 Time: 3685 s
+
+2022-04-11 02:37:49 PM Getting data: dataset_name = MEI_CLI, country = Canada, frequency = Q Time: 3685 s
+
+2022-04-11 02:37:50 PM Total New Items Found: 144 Time: 3686 s
+
+2022-04-11 02:37:50 PM Getting data: dataset_name = MEI_CLI, country = Canada, frequency = M Time: 3686 s
+
+2022-04-11 02:37:54 PM Total New Items Found: 144 Time: 3690 s
+
+2022-04-11 02:37:54 PM Getting data: dataset_name = MEI_CLI, country = Switzerland, frequency = A Time: 3690 s
+
+2022-04-11 02:37:56 PM Total New Items Found: 144 Time: 3691 s
+
+2022-04-11 02:37:56 PM Getting data: dataset_name = MEI_CLI, country = Switzerland, frequency = Q Time: 3691 s
+
+2022-04-11 02:37:57 PM Total New Items Found: 144 Time: 3693 s
+
+2022-04-11 02:37:57 PM Getting data: dataset_name = MEI_CLI, country = Switzerland, frequency = M Time: 3693 s
+
+2022-04-11 02:38:01 PM Total New Items Found: 144 Time: 3697 s
+
+2022-04-11 02:38:01 PM Getting data: dataset_name = MEI_CLI, country = Chile, frequency = A Time: 3697 s
+
+2022-04-11 02:38:03 PM Total New Items Found: 144 Time: 3699 s
+
+2022-04-11 02:38:03 PM Getting data: dataset_name = MEI_CLI, country = Chile, frequency = Q Time: 3699 s
+
+2022-04-11 02:38:04 PM Total New Items Found: 144 Time: 3700 s
+
+2022-04-11 02:38:04 PM Getting data: dataset_name = MEI_CLI, country = Chile, frequency = M Time: 3700 s
+
+2022-04-11 02:38:07 PM Total New Items Found: 144 Time: 3703 s
+
+2022-04-11 02:38:07 PM Getting data: dataset_name = MEI_CLI, country = China, frequency = A Time: 3703 s
+
+2022-04-11 02:38:10 PM Total New Items Found: 144 Time: 3705 s
+
+2022-04-11 02:38:10 PM Getting data: dataset_name = MEI_CLI, country = China, frequency = Q Time: 3705 s
+
+2022-04-11 02:38:12 PM Total New Items Found: 144 Time: 3708 s
+
+2022-04-11 02:38:12 PM Getting data: dataset_name = MEI_CLI, country = China, frequency = M Time: 3708 s
+
+2022-04-11 02:38:15 PM Total New Items Found: 144 Time: 3710 s
+
+2022-04-11 02:38:15 PM Getting data: dataset_name = MEI_CLI, country = Colombia, frequency = A Time: 3710 s
+
+2022-04-11 02:38:16 PM Total New Items Found: 144 Time: 3712 s
+
+2022-04-11 02:38:16 PM Getting data: dataset_name = MEI_CLI, country = Colombia, frequency = Q Time: 3712 s
+
+2022-04-11 02:38:18 PM Total New Items Found: 144 Time: 3713 s
+
+2022-04-11 02:38:18 PM Getting data: dataset_name = MEI_CLI, country = Colombia, frequency = M Time: 3713 s
+
+2022-04-11 02:38:20 PM Total New Items Found: 144 Time: 3716 s
+
+2022-04-11 02:38:20 PM Getting data: dataset_name = MEI_CLI, country = Costa Rica, frequency = A Time: 3716 s
+
+2022-04-11 02:38:22 PM Total New Items Found: 144 Time: 3717 s
+
+2022-04-11 02:38:22 PM Getting data: dataset_name = MEI_CLI, country = Costa Rica, frequency = Q Time: 3717 s
+
+2022-04-11 02:38:23 PM Total New Items Found: 144 Time: 3719 s
+
+2022-04-11 02:38:23 PM Getting data: dataset_name = MEI_CLI, country = Costa Rica, frequency = M Time: 3719 s
+
+2022-04-11 02:38:25 PM Total New Items Found: 144 Time: 3720 s
+
+2022-04-11 02:38:25 PM Getting data: dataset_name = MEI_CLI, country = Cyprus, frequency = A Time: 3720 s
+
+2022-04-11 02:38:26 PM Total New Items Found: 144 Time: 3722 s
+
+2022-04-11 02:38:26 PM Getting data: dataset_name = MEI_CLI, country = Cyprus, frequency = Q Time: 3722 s
+
+2022-04-11 02:38:27 PM Total New Items Found: 144 Time: 3723 s
+
+2022-04-11 02:38:27 PM Getting data: dataset_name = MEI_CLI, country = Cyprus, frequency = M Time: 3723 s
+
+2022-04-11 02:38:29 PM Total New Items Found: 144 Time: 3725 s
+
+2022-04-11 02:38:29 PM Getting data: dataset_name = MEI_CLI, country = Czech Republic, frequency = A Time: 3725 s
+
+2022-04-11 02:38:30 PM Total New Items Found: 144 Time: 3726 s
+
+2022-04-11 02:38:30 PM Getting data: dataset_name = MEI_CLI, country = Czech Republic, frequency = Q Time: 3726 s
+
+2022-04-11 02:38:32 PM Total New Items Found: 144 Time: 3728 s
+
+2022-04-11 02:38:32 PM Getting data: dataset_name = MEI_CLI, country = Czech Republic, frequency = M Time: 3728 s
+
+2022-04-11 02:38:34 PM Total New Items Found: 144 Time: 3730 s
+
+2022-04-11 02:38:34 PM Getting data: dataset_name = MEI_CLI, country = Germany, frequency = A Time: 3730 s
+
+2022-04-11 02:38:36 PM Total New Items Found: 144 Time: 3731 s
+
+2022-04-11 02:38:36 PM Getting data: dataset_name = MEI_CLI, country = Germany, frequency = Q Time: 3731 s
+
+2022-04-11 02:38:37 PM Total New Items Found: 144 Time: 3733 s
+
+2022-04-11 02:38:37 PM Getting data: dataset_name = MEI_CLI, country = Germany, frequency = M Time: 3733 s
+
+2022-04-11 02:38:41 PM Total New Items Found: 144 Time: 3737 s
+
+2022-04-11 02:38:41 PM Getting data: dataset_name = MEI_CLI, country = Western Germany, frequency = A Time: 3737 s
+
+2022-04-11 02:38:43 PM Total New Items Found: 144 Time: 3739 s
+
+2022-04-11 02:38:43 PM Getting data: dataset_name = MEI_CLI, country = Western Germany, frequency = Q Time: 3739 s
+
+2022-04-11 02:38:44 PM Total New Items Found: 144 Time: 3740 s
+
+2022-04-11 02:38:44 PM Getting data: dataset_name = MEI_CLI, country = Western Germany, frequency = M Time: 3740 s
+
+2022-04-11 02:38:45 PM Total New Items Found: 144 Time: 3741 s
+
+2022-04-11 02:38:45 PM Getting data: dataset_name = MEI_CLI, country = Denmark, frequency = A Time: 3741 s
+
+2022-04-11 02:38:47 PM Total New Items Found: 144 Time: 3743 s
+
+2022-04-11 02:38:47 PM Getting data: dataset_name = MEI_CLI, country = Denmark, frequency = Q Time: 3743 s
+
+2022-04-11 02:38:48 PM Total New Items Found: 144 Time: 3744 s
+
+2022-04-11 02:38:48 PM Getting data: dataset_name = MEI_CLI, country = Denmark, frequency = M Time: 3744 s
+
+2022-04-11 02:38:52 PM Total New Items Found: 144 Time: 3748 s
+
+2022-04-11 02:38:52 PM Getting data: dataset_name = MEI_CLI, country = Euro area, frequency = A Time: 3748 s
+
+2022-04-11 02:38:55 PM Total New Items Found: 144 Time: 3750 s
+
+2022-04-11 02:38:55 PM Getting data: dataset_name = MEI_CLI, country = Euro area, frequency = Q Time: 3750 s
+
+2022-04-11 02:38:56 PM Total New Items Found: 144 Time: 3752 s
+
+2022-04-11 02:38:56 PM Getting data: dataset_name = MEI_CLI, country = Euro area, frequency = M Time: 3752 s
+
+2022-04-11 02:39:02 PM Total New Items Found: 144 Time: 3757 s
+
+2022-04-11 02:39:02 PM Getting data: dataset_name = MEI_CLI, country = Spain, frequency = A Time: 3757 s
+
+2022-04-11 02:39:03 PM Total New Items Found: 144 Time: 3759 s
+
+2022-04-11 02:39:03 PM Getting data: dataset_name = MEI_CLI, country = Spain, frequency = Q Time: 3759 s
+
+2022-04-11 02:39:05 PM Total New Items Found: 144 Time: 3761 s
+
+2022-04-11 02:39:05 PM Getting data: dataset_name = MEI_CLI, country = Spain, frequency = M Time: 3761 s
+
+2022-04-11 02:39:09 PM Total New Items Found: 144 Time: 3764 s
+
+2022-04-11 02:39:09 PM Getting data: dataset_name = MEI_CLI, country = Estonia, frequency = A Time: 3764 s
+
+2022-04-11 02:39:10 PM Total New Items Found: 144 Time: 3766 s
+
+2022-04-11 02:39:10 PM Getting data: dataset_name = MEI_CLI, country = Estonia, frequency = Q Time: 3766 s
+
+2022-04-11 02:39:13 PM Total New Items Found: 144 Time: 3769 s
+
+2022-04-11 02:39:13 PM Getting data: dataset_name = MEI_CLI, country = Estonia, frequency = M Time: 3769 s
+
+2022-04-11 02:39:19 PM Total New Items Found: 144 Time: 3775 s
+
+2022-04-11 02:39:19 PM Getting data: dataset_name = MEI_CLI, country = European Union (15 countries), frequency = A Time: 3775 s
+
+2022-04-11 02:39:21 PM Total New Items Found: 144 Time: 3777 s
+
+2022-04-11 02:39:21 PM Getting data: dataset_name = MEI_CLI, country = European Union (15 countries), frequency = Q Time: 3777 s
+
+2022-04-11 02:39:23 PM Total New Items Found: 144 Time: 3779 s
+
+2022-04-11 02:39:23 PM Getting data: dataset_name = MEI_CLI, country = European Union (15 countries), frequency = M Time: 3779 s
+
+2022-04-11 02:39:24 PM Total New Items Found: 144 Time: 3780 s
+
+2022-04-11 02:39:24 PM Getting data: dataset_name = MEI_CLI, country = European Union – 27 countries (from 01/02/2020), frequency = A Time: 3780 s
+
+2022-04-11 02:39:25 PM Total New Items Found: 144 Time: 3781 s
+
+2022-04-11 02:39:25 PM Getting data: dataset_name = MEI_CLI, country = European Union – 27 countries (from 01/02/2020), frequency = Q Time: 3781 s
+
+2022-04-11 02:39:27 PM Total New Items Found: 144 Time: 3783 s
+
+2022-04-11 02:39:27 PM Getting data: dataset_name = MEI_CLI, country = European Union – 27 countries (from 01/02/2020), frequency = M Time: 3783 s
+
+2022-04-11 02:39:28 PM Total New Items Found: 144 Time: 3784 s
+
+2022-04-11 02:39:28 PM Getting data: dataset_name = MEI_CLI, country = European Union (28 countries), frequency = A Time: 3784 s
+
+2022-04-11 02:39:30 PM Total New Items Found: 144 Time: 3785 s
+
+2022-04-11 02:39:30 PM Getting data: dataset_name = MEI_CLI, country = European Union (28 countries), frequency = Q Time: 3785 s
+
+2022-04-11 02:39:31 PM Total New Items Found: 144 Time: 3787 s
+
+2022-04-11 02:39:31 PM Getting data: dataset_name = MEI_CLI, country = European Union (28 countries), frequency = M Time: 3787 s
+
+2022-04-11 02:39:32 PM Total New Items Found: 144 Time: 3788 s
+
+2022-04-11 02:39:32 PM Getting data: dataset_name = MEI_CLI, country = Finland, frequency = A Time: 3788 s
+
+2022-04-11 02:39:34 PM Total New Items Found: 144 Time: 3790 s
+
+2022-04-11 02:39:34 PM Getting data: dataset_name = MEI_CLI, country = Finland, frequency = Q Time: 3790 s
+
+2022-04-11 02:39:35 PM Total New Items Found: 144 Time: 3791 s
+
+2022-04-11 02:39:35 PM Getting data: dataset_name = MEI_CLI, country = Finland, frequency = M Time: 3791 s
+
+2022-04-11 02:39:40 PM Total New Items Found: 144 Time: 3796 s
+
+2022-04-11 02:39:40 PM Getting data: dataset_name = MEI_CLI, country = France, frequency = A Time: 3796 s
+
+2022-04-11 02:39:41 PM Total New Items Found: 144 Time: 3797 s
+
+2022-04-11 02:39:41 PM Getting data: dataset_name = MEI_CLI, country = France, frequency = Q Time: 3797 s
+
+2022-04-11 02:39:43 PM Total New Items Found: 144 Time: 3799 s
+
+2022-04-11 02:39:43 PM Getting data: dataset_name = MEI_CLI, country = France, frequency = M Time: 3799 s
+
+2022-04-11 02:39:47 PM Total New Items Found: 144 Time: 3803 s
+
+2022-04-11 02:39:47 PM Getting data: dataset_name = MEI_CLI, country = G20, frequency = A Time: 3803 s
+
+2022-04-11 02:39:48 PM Total New Items Found: 144 Time: 3804 s
+
+2022-04-11 02:39:48 PM Getting data: dataset_name = MEI_CLI, country = G20, frequency = Q Time: 3804 s
+
+2022-04-11 02:39:49 PM Total New Items Found: 144 Time: 3805 s
+
+2022-04-11 02:39:49 PM Getting data: dataset_name = MEI_CLI, country = G20, frequency = M Time: 3805 s
+
+2022-04-11 02:39:51 PM Total New Items Found: 144 Time: 3807 s
+
+2022-04-11 02:39:51 PM Getting data: dataset_name = MEI_CLI, country = G7, frequency = A Time: 3807 s
+
+2022-04-11 02:39:52 PM Total New Items Found: 144 Time: 3808 s
+
+2022-04-11 02:39:52 PM Getting data: dataset_name = MEI_CLI, country = G7, frequency = Q Time: 3808 s
+
+2022-04-11 02:39:55 PM Total New Items Found: 144 Time: 3811 s
+
+2022-04-11 02:39:55 PM Getting data: dataset_name = MEI_CLI, country = G7, frequency = M Time: 3811 s
+
+2022-04-11 02:39:59 PM Total New Items Found: 144 Time: 3815 s
+
+2022-04-11 02:39:59 PM Getting data: dataset_name = MEI_CLI, country = Big 4 Europe, frequency = A Time: 3815 s
+
+2022-04-11 02:40:02 PM Total New Items Found: 144 Time: 3818 s
+
+2022-04-11 02:40:02 PM Getting data: dataset_name = MEI_CLI, country = Big 4 Europe, frequency = Q Time: 3818 s
+
+2022-04-11 02:40:08 PM Total New Items Found: 144 Time: 3824 s
+
+2022-04-11 02:40:08 PM Getting data: dataset_name = MEI_CLI, country = Big 4 Europe, frequency = M Time: 3824 s
+
+2022-04-11 02:40:18 PM Total New Items Found: 144 Time: 3834 s
+
+2022-04-11 02:40:18 PM Getting data: dataset_name = MEI_CLI, country = United Kingdom, frequency = A Time: 3834 s
+
+2022-04-11 02:40:19 PM Total New Items Found: 144 Time: 3835 s
+
+2022-04-11 02:40:19 PM Getting data: dataset_name = MEI_CLI, country = United Kingdom, frequency = Q Time: 3835 s
+
+2022-04-11 02:40:21 PM Total New Items Found: 144 Time: 3837 s
+
+2022-04-11 02:40:21 PM Getting data: dataset_name = MEI_CLI, country = United Kingdom, frequency = M Time: 3837 s
+
+2022-04-11 02:40:25 PM Total New Items Found: 144 Time: 3841 s
+
+2022-04-11 02:40:25 PM Getting data: dataset_name = MEI_CLI, country = Greece, frequency = A Time: 3841 s
+
+2022-04-11 02:40:27 PM Total New Items Found: 144 Time: 3842 s
+
+2022-04-11 02:40:27 PM Getting data: dataset_name = MEI_CLI, country = Greece, frequency = Q Time: 3842 s
+
+2022-04-11 02:40:29 PM Total New Items Found: 144 Time: 3844 s
+
+2022-04-11 02:40:29 PM Getting data: dataset_name = MEI_CLI, country = Greece, frequency = M Time: 3844 s
+
+2022-04-11 02:40:32 PM Total New Items Found: 144 Time: 3848 s
+
+2022-04-11 02:40:32 PM Getting data: dataset_name = MEI_CLI, country = Hungary, frequency = A Time: 3848 s
+
+2022-04-11 02:40:34 PM Total New Items Found: 144 Time: 3849 s
+
+2022-04-11 02:40:34 PM Getting data: dataset_name = MEI_CLI, country = Hungary, frequency = Q Time: 3849 s
+
+2022-04-11 02:40:35 PM Total New Items Found: 144 Time: 3851 s
+
+2022-04-11 02:40:35 PM Getting data: dataset_name = MEI_CLI, country = Hungary, frequency = M Time: 3851 s
+
+2022-04-11 02:40:38 PM Total New Items Found: 144 Time: 3854 s
+
+2022-04-11 02:40:38 PM Getting data: dataset_name = MEI_CLI, country = Indonesia, frequency = A Time: 3854 s
+
+2022-04-11 02:40:39 PM Total New Items Found: 144 Time: 3855 s
+
+2022-04-11 02:40:39 PM Getting data: dataset_name = MEI_CLI, country = Indonesia, frequency = Q Time: 3855 s
+
+2022-04-11 02:40:41 PM Total New Items Found: 144 Time: 3857 s
+
+2022-04-11 02:40:41 PM Getting data: dataset_name = MEI_CLI, country = Indonesia, frequency = M Time: 3857 s
+
+2022-04-11 02:40:43 PM Total New Items Found: 144 Time: 3859 s
+
+2022-04-11 02:40:43 PM Getting data: dataset_name = MEI_CLI, country = Ukraine, frequency = A Time: 3859 s
+
+2022-04-11 02:40:45 PM Total New Items Found: 144 Time: 3860 s
+
+2022-04-11 02:40:45 PM Getting data: dataset_name = MEI_CLI, country = Ukraine, frequency = Q Time: 3860 s
+
+2022-04-11 02:40:46 PM Total New Items Found: 144 Time: 3862 s
+
+2022-04-11 02:40:46 PM Getting data: dataset_name = MEI_CLI, country = Ukraine, frequency = M Time: 3862 s
+
+2022-04-11 02:40:47 PM Total New Items Found: 144 Time: 3863 s
+
+2022-04-11 02:40:47 PM Getting data: dataset_name = MEI_CLI, country = India, frequency = A Time: 3863 s
+
+2022-04-11 02:40:49 PM Total New Items Found: 144 Time: 3865 s
+
+2022-04-11 02:40:49 PM Getting data: dataset_name = MEI_CLI, country = India, frequency = Q Time: 3865 s
+
+2022-04-11 02:40:50 PM Total New Items Found: 144 Time: 3866 s
+
+2022-04-11 02:40:50 PM Getting data: dataset_name = MEI_CLI, country = India, frequency = M Time: 3866 s
+
+2022-04-11 02:40:53 PM Total New Items Found: 144 Time: 3868 s
+
+2022-04-11 02:40:53 PM Getting data: dataset_name = MEI_CLI, country = Ireland, frequency = A Time: 3868 s
+
+2022-04-11 02:40:54 PM Total New Items Found: 144 Time: 3870 s
+
+2022-04-11 02:40:54 PM Getting data: dataset_name = MEI_CLI, country = Ireland, frequency = Q Time: 3870 s
+
+2022-04-11 02:40:57 PM Total New Items Found: 144 Time: 3873 s
+
+2022-04-11 02:40:57 PM Getting data: dataset_name = MEI_CLI, country = Ireland, frequency = M Time: 3873 s
+
+2022-04-11 02:41:02 PM Total New Items Found: 144 Time: 3877 s
+
+2022-04-11 02:41:02 PM Getting data: dataset_name = MEI_CLI, country = Iceland, frequency = A Time: 3877 s
+
+2022-04-11 02:41:03 PM Total New Items Found: 144 Time: 3879 s
+
+2022-04-11 02:41:03 PM Getting data: dataset_name = MEI_CLI, country = Iceland, frequency = Q Time: 3879 s
+
+2022-04-11 02:41:05 PM Total New Items Found: 144 Time: 3881 s
+
+2022-04-11 02:41:05 PM Getting data: dataset_name = MEI_CLI, country = Iceland, frequency = M Time: 3881 s
+
+2022-04-11 02:41:08 PM Total New Items Found: 144 Time: 3884 s
+
+2022-04-11 02:41:08 PM Getting data: dataset_name = MEI_CLI, country = Israel, frequency = A Time: 3884 s
+
+2022-04-11 02:41:09 PM Total New Items Found: 144 Time: 3885 s
+
+2022-04-11 02:41:09 PM Getting data: dataset_name = MEI_CLI, country = Israel, frequency = Q Time: 3885 s
+
+2022-04-11 02:41:11 PM Total New Items Found: 144 Time: 3887 s
+
+2022-04-11 02:41:11 PM Getting data: dataset_name = MEI_CLI, country = Israel, frequency = M Time: 3887 s
+
+2022-04-11 02:41:14 PM Total New Items Found: 144 Time: 3889 s
+
+2022-04-11 02:41:14 PM Getting data: dataset_name = MEI_CLI, country = Italy, frequency = A Time: 3889 s
+
+2022-04-11 02:41:15 PM Total New Items Found: 144 Time: 3891 s
+
+2022-04-11 02:41:15 PM Getting data: dataset_name = MEI_CLI, country = Italy, frequency = Q Time: 3891 s
+
+2022-04-11 02:41:17 PM Total New Items Found: 144 Time: 3893 s
+
+2022-04-11 02:41:17 PM Getting data: dataset_name = MEI_CLI, country = Italy, frequency = M Time: 3893 s
+
+2022-04-11 02:41:21 PM Total New Items Found: 144 Time: 3897 s
+
+2022-04-11 02:41:21 PM Getting data: dataset_name = MEI_CLI, country = Japan, frequency = A Time: 3897 s
+
+2022-04-11 02:41:22 PM Total New Items Found: 144 Time: 3898 s
+
+2022-04-11 02:41:22 PM Getting data: dataset_name = MEI_CLI, country = Japan, frequency = Q Time: 3898 s
+
+2022-04-11 02:41:24 PM Total New Items Found: 144 Time: 3900 s
+
+2022-04-11 02:41:24 PM Getting data: dataset_name = MEI_CLI, country = Japan, frequency = M Time: 3900 s
+
+2022-04-11 02:41:28 PM Total New Items Found: 144 Time: 3904 s
+
+2022-04-11 02:41:28 PM Getting data: dataset_name = MEI_CLI, country = Korea, frequency = A Time: 3904 s
+
+2022-04-11 02:41:29 PM Total New Items Found: 144 Time: 3905 s
+
+2022-04-11 02:41:29 PM Getting data: dataset_name = MEI_CLI, country = Korea, frequency = Q Time: 3905 s
+
+2022-04-11 02:41:31 PM Total New Items Found: 144 Time: 3907 s
+
+2022-04-11 02:41:31 PM Getting data: dataset_name = MEI_CLI, country = Korea, frequency = M Time: 3907 s
+
+2022-04-11 02:41:34 PM Total New Items Found: 144 Time: 3910 s
+
+2022-04-11 02:41:34 PM Getting data: dataset_name = MEI_CLI, country = Lithuania, frequency = A Time: 3910 s
+
+2022-04-11 02:41:36 PM Total New Items Found: 144 Time: 3912 s
+
+2022-04-11 02:41:36 PM Getting data: dataset_name = MEI_CLI, country = Lithuania, frequency = Q Time: 3912 s
+
+2022-04-11 02:41:37 PM Total New Items Found: 144 Time: 3913 s
+
+2022-04-11 02:41:37 PM Getting data: dataset_name = MEI_CLI, country = Lithuania, frequency = M Time: 3913 s
+
+2022-04-11 02:41:39 PM Total New Items Found: 144 Time: 3915 s
+
+2022-04-11 02:41:39 PM Getting data: dataset_name = MEI_CLI, country = Luxembourg, frequency = A Time: 3915 s
+
+2022-04-11 02:41:41 PM Total New Items Found: 144 Time: 3917 s
+
+2022-04-11 02:41:41 PM Getting data: dataset_name = MEI_CLI, country = Luxembourg, frequency = Q Time: 3917 s
+
+2022-04-11 02:41:43 PM Total New Items Found: 144 Time: 3918 s
+
+2022-04-11 02:41:43 PM Getting data: dataset_name = MEI_CLI, country = Luxembourg, frequency = M Time: 3918 s
+
+2022-04-11 02:41:47 PM Total New Items Found: 144 Time: 3922 s
+
+2022-04-11 02:41:47 PM Getting data: dataset_name = MEI_CLI, country = Latvia, frequency = A Time: 3922 s
+
+2022-04-11 02:41:48 PM Total New Items Found: 144 Time: 3924 s
+
+2022-04-11 02:41:48 PM Getting data: dataset_name = MEI_CLI, country = Latvia, frequency = Q Time: 3924 s
+
+2022-04-11 02:41:50 PM Total New Items Found: 144 Time: 3925 s
+
+2022-04-11 02:41:50 PM Getting data: dataset_name = MEI_CLI, country = Latvia, frequency = M Time: 3925 s
+
+2022-04-11 02:41:51 PM Total New Items Found: 144 Time: 3927 s
+
+2022-04-11 02:41:51 PM Getting data: dataset_name = MEI_CLI, country = Mexico, frequency = A Time: 3927 s
+
+2022-04-11 02:41:54 PM Total New Items Found: 144 Time: 3930 s
+
+2022-04-11 02:41:54 PM Getting data: dataset_name = MEI_CLI, country = Mexico, frequency = Q Time: 3930 s
+
+2022-04-11 02:41:55 PM Total New Items Found: 144 Time: 3931 s
+
+2022-04-11 02:41:55 PM Getting data: dataset_name = MEI_CLI, country = Mexico, frequency = M Time: 3931 s
+
+2022-04-11 02:41:59 PM Total New Items Found: 144 Time: 3935 s
+
+2022-04-11 02:41:59 PM Getting data: dataset_name = MEI_CLI, country = Malta, frequency = A Time: 3935 s
+
+2022-04-11 02:42:00 PM Total New Items Found: 144 Time: 3936 s
+
+2022-04-11 02:42:00 PM Getting data: dataset_name = MEI_CLI, country = Malta, frequency = Q Time: 3936 s
+
+2022-04-11 02:42:02 PM Total New Items Found: 144 Time: 3937 s
+
+2022-04-11 02:42:02 PM Getting data: dataset_name = MEI_CLI, country = Malta, frequency = M Time: 3937 s
+
+2022-04-11 02:42:04 PM Total New Items Found: 144 Time: 3940 s
+
+2022-04-11 02:42:04 PM Getting data: dataset_name = MEI_CLI, country = NAFTA, frequency = A Time: 3940 s
+
+2022-04-11 02:42:06 PM Total New Items Found: 144 Time: 3941 s
+
+2022-04-11 02:42:06 PM Getting data: dataset_name = MEI_CLI, country = NAFTA, frequency = Q Time: 3941 s
+
+2022-04-11 02:42:07 PM Total New Items Found: 144 Time: 3943 s
+
+2022-04-11 02:42:07 PM Getting data: dataset_name = MEI_CLI, country = NAFTA, frequency = M Time: 3943 s
+
+2022-04-11 02:42:12 PM Total New Items Found: 144 Time: 3947 s
+
+2022-04-11 02:42:12 PM Getting data: dataset_name = MEI_CLI, country = Netherlands, frequency = A Time: 3947 s
+
+2022-04-11 02:42:13 PM Total New Items Found: 144 Time: 3949 s
+
+2022-04-11 02:42:13 PM Getting data: dataset_name = MEI_CLI, country = Netherlands, frequency = Q Time: 3949 s
+
+2022-04-11 02:42:15 PM Total New Items Found: 144 Time: 3951 s
+
+2022-04-11 02:42:15 PM Getting data: dataset_name = MEI_CLI, country = Netherlands, frequency = M Time: 3951 s
+
+2022-04-11 02:42:18 PM Total New Items Found: 144 Time: 3954 s
+
+2022-04-11 02:42:18 PM Getting data: dataset_name = MEI_CLI, country = Norway, frequency = A Time: 3954 s
+
+2022-04-11 02:42:20 PM Total New Items Found: 144 Time: 3956 s
+
+2022-04-11 02:42:20 PM Getting data: dataset_name = MEI_CLI, country = Norway, frequency = Q Time: 3956 s
+
+2022-04-11 02:42:22 PM Total New Items Found: 144 Time: 3957 s
+
+2022-04-11 02:42:22 PM Getting data: dataset_name = MEI_CLI, country = Norway, frequency = M Time: 3957 s
+
+2022-04-11 02:42:26 PM Total New Items Found: 144 Time: 3962 s
+
+2022-04-11 02:42:26 PM Getting data: dataset_name = MEI_CLI, country = New Zealand, frequency = A Time: 3962 s
+
+2022-04-11 02:42:29 PM Total New Items Found: 144 Time: 3965 s
+
+2022-04-11 02:42:29 PM Getting data: dataset_name = MEI_CLI, country = New Zealand, frequency = Q Time: 3965 s
+
+2022-04-11 02:42:32 PM Total New Items Found: 144 Time: 3967 s
+
+2022-04-11 02:42:32 PM Getting data: dataset_name = MEI_CLI, country = New Zealand, frequency = M Time: 3967 s
+
+2022-04-11 02:42:35 PM Total New Items Found: 144 Time: 3970 s
+
+2022-04-11 02:42:35 PM Getting data: dataset_name = MEI_CLI, country = OECD - Total, frequency = A Time: 3970 s
+
+2022-04-11 02:42:36 PM Total New Items Found: 144 Time: 3972 s
+
+2022-04-11 02:42:36 PM Getting data: dataset_name = MEI_CLI, country = OECD - Total, frequency = Q Time: 3972 s
+
+2022-04-11 02:42:39 PM Total New Items Found: 144 Time: 3975 s
+
+2022-04-11 02:42:39 PM Getting data: dataset_name = MEI_CLI, country = OECD - Total, frequency = M Time: 3975 s
+
+2022-04-11 02:42:43 PM Total New Items Found: 144 Time: 3979 s
+
+2022-04-11 02:42:43 PM Getting data: dataset_name = MEI_CLI, country = OECD - Europe, frequency = A Time: 3979 s
+
+2022-04-11 02:42:45 PM Total New Items Found: 144 Time: 3981 s
+
+2022-04-11 02:42:45 PM Getting data: dataset_name = MEI_CLI, country = OECD - Europe, frequency = Q Time: 3981 s
+
+2022-04-11 02:42:46 PM Total New Items Found: 144 Time: 3982 s
+
+2022-04-11 02:42:46 PM Getting data: dataset_name = MEI_CLI, country = OECD - Europe, frequency = M Time: 3982 s
+
+2022-04-11 02:42:51 PM Total New Items Found: 144 Time: 3987 s
+
+2022-04-11 02:42:51 PM Getting data: dataset_name = MEI_CLI, country = OECD + Major Six NME, frequency = A Time: 3987 s
+
+2022-04-11 02:42:53 PM Total New Items Found: 144 Time: 3988 s
+
+2022-04-11 02:42:53 PM Getting data: dataset_name = MEI_CLI, country = OECD + Major Six NME, frequency = Q Time: 3988 s
+
+2022-04-11 02:42:55 PM Total New Items Found: 144 Time: 3991 s
+
+2022-04-11 02:42:55 PM Getting data: dataset_name = MEI_CLI, country = OECD + Major Six NME, frequency = M Time: 3991 s
+
+2022-04-11 02:43:00 PM Total New Items Found: 144 Time: 3995 s
+
+2022-04-11 02:43:00 PM Getting data: dataset_name = MEI_CLI, country = OECD - FORMER TOTAL, frequency = A Time: 3995 s
+
+2022-04-11 02:43:01 PM Total New Items Found: 144 Time: 3997 s
+
+2022-04-11 02:43:01 PM Getting data: dataset_name = MEI_CLI, country = OECD - FORMER TOTAL, frequency = Q Time: 3997 s
+
+2022-04-11 02:43:03 PM Total New Items Found: 144 Time: 3998 s
+
+2022-04-11 02:43:03 PM Getting data: dataset_name = MEI_CLI, country = OECD - FORMER TOTAL, frequency = M Time: 3998 s
+
+2022-04-11 02:43:04 PM Total New Items Found: 144 Time: 4000 s
+
+2022-04-11 02:43:04 PM Getting data: dataset_name = MEI_CLI, country = OECD total excluding the euro area, frequency = A Time: 4000 s
+
+2022-04-11 02:43:05 PM Total New Items Found: 144 Time: 4001 s
+
+2022-04-11 02:43:05 PM Getting data: dataset_name = MEI_CLI, country = OECD total excluding the euro area, frequency = Q Time: 4001 s
+
+2022-04-11 02:43:07 PM Total New Items Found: 144 Time: 4003 s
+
+2022-04-11 02:43:07 PM Getting data: dataset_name = MEI_CLI, country = OECD total excluding the euro area, frequency = M Time: 4003 s
+
+2022-04-11 02:43:09 PM Total New Items Found: 144 Time: 4005 s
+
+2022-04-11 02:43:09 PM Getting data: dataset_name = MEI_CLI, country = Poland, frequency = A Time: 4005 s
+
+2022-04-11 02:43:10 PM Total New Items Found: 144 Time: 4006 s
+
+2022-04-11 02:43:10 PM Getting data: dataset_name = MEI_CLI, country = Poland, frequency = Q Time: 4006 s
+
+2022-04-11 02:43:12 PM Total New Items Found: 144 Time: 4007 s
+
+2022-04-11 02:43:12 PM Getting data: dataset_name = MEI_CLI, country = Poland, frequency = M Time: 4007 s
+
+2022-04-11 02:43:14 PM Total New Items Found: 144 Time: 4010 s
+
+2022-04-11 02:43:14 PM Getting data: dataset_name = MEI_CLI, country = Portugal, frequency = A Time: 4010 s
+
+2022-04-11 02:43:16 PM Total New Items Found: 144 Time: 4011 s
+
+2022-04-11 02:43:16 PM Getting data: dataset_name = MEI_CLI, country = Portugal, frequency = Q Time: 4011 s
+
+2022-04-11 02:43:17 PM Total New Items Found: 144 Time: 4013 s
+
+2022-04-11 02:43:17 PM Getting data: dataset_name = MEI_CLI, country = Portugal, frequency = M Time: 4013 s
+
+2022-04-11 02:43:20 PM Total New Items Found: 144 Time: 4016 s
+
+2022-04-11 02:43:20 PM Getting data: dataset_name = MEI_CLI, country = Romania, frequency = A Time: 4016 s
+
+2022-04-11 02:43:22 PM Total New Items Found: 144 Time: 4018 s
+
+2022-04-11 02:43:22 PM Getting data: dataset_name = MEI_CLI, country = Romania, frequency = Q Time: 4018 s
+
+2022-04-11 02:43:24 PM Total New Items Found: 144 Time: 4020 s
+
+2022-04-11 02:43:24 PM Getting data: dataset_name = MEI_CLI, country = Romania, frequency = M Time: 4020 s
+
+2022-04-11 02:43:26 PM Total New Items Found: 144 Time: 4021 s
+
+2022-04-11 02:43:26 PM Getting data: dataset_name = MEI_CLI, country = Russia, frequency = A Time: 4021 s
+
+2022-04-11 02:43:27 PM Total New Items Found: 144 Time: 4023 s
+
+2022-04-11 02:43:27 PM Getting data: dataset_name = MEI_CLI, country = Russia, frequency = Q Time: 4023 s
+
+2022-04-11 02:43:29 PM Total New Items Found: 144 Time: 4024 s
+
+2022-04-11 02:43:29 PM Getting data: dataset_name = MEI_CLI, country = Russia, frequency = M Time: 4024 s
+
+2022-04-11 02:43:31 PM Total New Items Found: 144 Time: 4027 s
+
+2022-04-11 02:43:31 PM Getting data: dataset_name = MEI_CLI, country = Saudi Arabia, frequency = A Time: 4027 s
+
+2022-04-11 02:43:32 PM Total New Items Found: 144 Time: 4028 s
+
+2022-04-11 02:43:32 PM Getting data: dataset_name = MEI_CLI, country = Saudi Arabia, frequency = Q Time: 4028 s
+
+2022-04-11 02:43:34 PM Total New Items Found: 144 Time: 4030 s
+
+2022-04-11 02:43:34 PM Getting data: dataset_name = MEI_CLI, country = Saudi Arabia, frequency = M Time: 4030 s
+
+2022-04-11 02:43:35 PM Total New Items Found: 144 Time: 4031 s
+
+2022-04-11 02:43:35 PM Getting data: dataset_name = MEI_CLI, country = SDR, frequency = A Time: 4031 s
+
+2022-04-11 02:43:36 PM Total New Items Found: 144 Time: 4032 s
+
+2022-04-11 02:43:36 PM Getting data: dataset_name = MEI_CLI, country = SDR, frequency = Q Time: 4032 s
+
+2022-04-11 02:43:38 PM Total New Items Found: 144 Time: 4034 s
+
+2022-04-11 02:43:38 PM Getting data: dataset_name = MEI_CLI, country = SDR, frequency = M Time: 4034 s
+
+2022-04-11 02:43:39 PM Total New Items Found: 144 Time: 4035 s
+
+2022-04-11 02:43:39 PM Getting data: dataset_name = MEI_CLI, country = Slovak Republic, frequency = A Time: 4035 s
+
+2022-04-11 02:43:41 PM Total New Items Found: 144 Time: 4036 s
+
+2022-04-11 02:43:41 PM Getting data: dataset_name = MEI_CLI, country = Slovak Republic, frequency = Q Time: 4036 s
+
+2022-04-11 02:43:42 PM Total New Items Found: 144 Time: 4038 s
+
+2022-04-11 02:43:42 PM Getting data: dataset_name = MEI_CLI, country = Slovak Republic, frequency = M Time: 4038 s
+
+2022-04-11 02:43:45 PM Total New Items Found: 144 Time: 4041 s
+
+2022-04-11 02:43:45 PM Getting data: dataset_name = MEI_CLI, country = Slovenia, frequency = A Time: 4041 s
+
+2022-04-11 02:43:46 PM Total New Items Found: 144 Time: 4042 s
+
+2022-04-11 02:43:46 PM Getting data: dataset_name = MEI_CLI, country = Slovenia, frequency = Q Time: 4042 s
+
+2022-04-11 02:43:49 PM Total New Items Found: 144 Time: 4045 s
+
+2022-04-11 02:43:49 PM Getting data: dataset_name = MEI_CLI, country = Slovenia, frequency = M Time: 4045 s
+
+2022-04-11 02:43:51 PM Total New Items Found: 144 Time: 4047 s
+
+2022-04-11 02:43:51 PM Getting data: dataset_name = MEI_CLI, country = Sweden, frequency = A Time: 4047 s
+
+2022-04-11 02:43:53 PM Total New Items Found: 144 Time: 4048 s
+
+2022-04-11 02:43:53 PM Getting data: dataset_name = MEI_CLI, country = Sweden, frequency = Q Time: 4048 s
+
+2022-04-11 02:43:54 PM Total New Items Found: 144 Time: 4050 s
+
+2022-04-11 02:43:54 PM Getting data: dataset_name = MEI_CLI, country = Sweden, frequency = M Time: 4050 s
+
+2022-04-11 02:43:58 PM Total New Items Found: 144 Time: 4053 s
+
+2022-04-11 02:43:58 PM Getting data: dataset_name = MEI_CLI, country = Turkey, frequency = A Time: 4053 s
+
+2022-04-11 02:43:59 PM Total New Items Found: 144 Time: 4055 s
+
+2022-04-11 02:43:59 PM Getting data: dataset_name = MEI_CLI, country = Turkey, frequency = Q Time: 4055 s
+
+2022-04-11 02:44:01 PM Total New Items Found: 144 Time: 4057 s
+
+2022-04-11 02:44:01 PM Getting data: dataset_name = MEI_CLI, country = Turkey, frequency = M Time: 4057 s
+
+2022-04-11 02:44:04 PM Total New Items Found: 144 Time: 4060 s
+
+2022-04-11 02:44:04 PM Getting data: dataset_name = MEI_CLI, country = United States, frequency = A Time: 4060 s
+
+2022-04-11 02:44:05 PM Total New Items Found: 144 Time: 4061 s
+
+2022-04-11 02:44:05 PM Getting data: dataset_name = MEI_CLI, country = United States, frequency = Q Time: 4061 s
+
+2022-04-11 02:44:07 PM Total New Items Found: 144 Time: 4063 s
+
+2022-04-11 02:44:07 PM Getting data: dataset_name = MEI_CLI, country = United States, frequency = M Time: 4063 s
+
+2022-04-11 02:44:12 PM Total New Items Found: 144 Time: 4068 s
+
+2022-04-11 02:44:12 PM Getting data: dataset_name = MEI_CLI, country = South Africa, frequency = A Time: 4068 s
+
+2022-04-11 02:44:14 PM Total New Items Found: 144 Time: 4070 s
+
+2022-04-11 02:44:14 PM Getting data: dataset_name = MEI_CLI, country = South Africa, frequency = Q Time: 4070 s
+
+2022-04-11 02:44:15 PM Total New Items Found: 144 Time: 4071 s
+
+2022-04-11 02:44:15 PM Getting data: dataset_name = MEI_CLI, country = South Africa, frequency = M Time: 4071 s
+
+2022-04-11 02:44:19 PM Total New Items Found: 144 Time: 4075 s
+
+2022-04-11 02:44:19 PM Getting data: dataset_name = MEI_BTS_COS, country = Five Major Asia, frequency = A Time: 4075 s
+
+2022-04-11 02:44:22 PM Total New Items Found: 144 Time: 4077 s
+
+2022-04-11 02:44:22 PM Getting data: dataset_name = MEI_BTS_COS, country = Five Major Asia, frequency = Q Time: 4077 s
+
+2022-04-11 02:44:23 PM Total New Items Found: 144 Time: 4079 s
+
+2022-04-11 02:44:23 PM Getting data: dataset_name = MEI_BTS_COS, country = Five Major Asia, frequency = M Time: 4079 s
+
+2022-04-11 02:44:24 PM Total New Items Found: 144 Time: 4080 s
+
+2022-04-11 02:44:24 PM Getting data: dataset_name = MEI_BTS_COS, country = Argentina, frequency = A Time: 4080 s
+
+2022-04-11 02:44:26 PM Total New Items Found: 144 Time: 4081 s
+
+2022-04-11 02:44:26 PM Getting data: dataset_name = MEI_BTS_COS, country = Argentina, frequency = Q Time: 4081 s
+
+2022-04-11 02:44:27 PM Total New Items Found: 144 Time: 4083 s
+
+2022-04-11 02:44:27 PM Getting data: dataset_name = MEI_BTS_COS, country = Argentina, frequency = M Time: 4083 s
+
+2022-04-11 02:44:28 PM Total New Items Found: 144 Time: 4084 s
+
+2022-04-11 02:44:28 PM Getting data: dataset_name = MEI_BTS_COS, country = Australia, frequency = A Time: 4084 s
+
+2022-04-11 02:44:31 PM Total New Items Found: 144 Time: 4086 s
+
+2022-04-11 02:44:31 PM Getting data: dataset_name = MEI_BTS_COS, country = Australia, frequency = Q Time: 4086 s
+
+2022-04-11 02:44:32 PM Total New Items Found: 144 Time: 4088 s
+
+2022-04-11 02:44:32 PM Getting data: dataset_name = MEI_BTS_COS, country = Australia, frequency = M Time: 4088 s
+
+2022-04-11 02:44:34 PM Total New Items Found: 144 Time: 4090 s
+
+2022-04-11 02:44:34 PM Getting data: dataset_name = MEI_BTS_COS, country = Austria, frequency = A Time: 4090 s
+
+2022-04-11 02:44:36 PM Total New Items Found: 144 Time: 4092 s
+
+2022-04-11 02:44:36 PM Getting data: dataset_name = MEI_BTS_COS, country = Austria, frequency = Q Time: 4092 s
+
+2022-04-11 02:44:37 PM Total New Items Found: 144 Time: 4093 s
+
+2022-04-11 02:44:37 PM Getting data: dataset_name = MEI_BTS_COS, country = Austria, frequency = M Time: 4093 s
+
+2022-04-11 02:44:42 PM Total New Items Found: 144 Time: 4098 s
+
+2022-04-11 02:44:42 PM Getting data: dataset_name = MEI_BTS_COS, country = Belgium, frequency = A Time: 4098 s
+
+2022-04-11 02:44:43 PM Total New Items Found: 144 Time: 4099 s
+
+2022-04-11 02:44:43 PM Getting data: dataset_name = MEI_BTS_COS, country = Belgium, frequency = Q Time: 4099 s
+
+2022-04-11 02:44:45 PM Total New Items Found: 144 Time: 4101 s
+
+2022-04-11 02:44:45 PM Getting data: dataset_name = MEI_BTS_COS, country = Belgium, frequency = M Time: 4101 s
+
+2022-04-11 02:44:51 PM Total New Items Found: 144 Time: 4106 s
+
+2022-04-11 02:44:51 PM Getting data: dataset_name = MEI_BTS_COS, country = Bulgaria, frequency = A Time: 4106 s
+
+2022-04-11 02:44:52 PM Total New Items Found: 144 Time: 4108 s
+
+2022-04-11 02:44:52 PM Getting data: dataset_name = MEI_BTS_COS, country = Bulgaria, frequency = Q Time: 4108 s
+
+2022-04-11 02:44:53 PM Total New Items Found: 144 Time: 4109 s
+
+2022-04-11 02:44:53 PM Getting data: dataset_name = MEI_BTS_COS, country = Bulgaria, frequency = M Time: 4109 s
+
+2022-04-11 02:44:56 PM Total New Items Found: 144 Time: 4112 s
+
+2022-04-11 02:44:56 PM Getting data: dataset_name = MEI_BTS_COS, country = Brazil, frequency = A Time: 4112 s
+
+2022-04-11 02:44:57 PM Total New Items Found: 144 Time: 4113 s
+
+2022-04-11 02:44:57 PM Getting data: dataset_name = MEI_BTS_COS, country = Brazil, frequency = Q Time: 4113 s
+
+2022-04-11 02:44:59 PM Total New Items Found: 144 Time: 4115 s
+
+2022-04-11 02:44:59 PM Getting data: dataset_name = MEI_BTS_COS, country = Brazil, frequency = M Time: 4115 s
+
+2022-04-11 02:45:02 PM Total New Items Found: 144 Time: 4118 s
+
+2022-04-11 02:45:02 PM Getting data: dataset_name = MEI_BTS_COS, country = BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa, frequency = A Time: 4118 s
+
+2022-04-11 02:45:04 PM Total New Items Found: 144 Time: 4120 s
+
+2022-04-11 02:45:04 PM Getting data: dataset_name = MEI_BTS_COS, country = BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa, frequency = Q Time: 4120 s
+
+2022-04-11 02:45:05 PM Total New Items Found: 144 Time: 4121 s
+
+2022-04-11 02:45:05 PM Getting data: dataset_name = MEI_BTS_COS, country = BRIICS economies - Brazil, Russia, India, Indonesia, China and South Africa, frequency = M Time: 4121 s
+
+2022-04-11 02:45:06 PM Total New Items Found: 144 Time: 4122 s
+
+2022-04-11 02:45:06 PM Getting data: dataset_name = MEI_BTS_COS, country = Canada, frequency = A Time: 4122 s
+
+2022-04-11 02:45:08 PM Total New Items Found: 144 Time: 4124 s
+
+2022-04-11 02:45:08 PM Getting data: dataset_name = MEI_BTS_COS, country = Canada, frequency = Q Time: 4124 s
+
+2022-04-11 02:45:09 PM Total New Items Found: 144 Time: 4125 s
+
+2022-04-11 02:45:09 PM Getting data: dataset_name = MEI_BTS_COS, country = Canada, frequency = M Time: 4125 s
+
+2022-04-11 02:45:11 PM Total New Items Found: 144 Time: 4127 s
+
+2022-04-11 02:45:11 PM Getting data: dataset_name = MEI_BTS_COS, country = Switzerland, frequency = A Time: 4127 s
+
+2022-04-11 02:45:12 PM Total New Items Found: 144 Time: 4128 s
+
+2022-04-11 02:45:12 PM Getting data: dataset_name = MEI_BTS_COS, country = Switzerland, frequency = Q Time: 4128 s
+
+2022-04-11 02:45:15 PM Total New Items Found: 144 Time: 4131 s
+
+2022-04-11 02:45:15 PM Getting data: dataset_name = MEI_BTS_COS, country = Switzerland, frequency = M Time: 4131 s
+
+2022-04-11 02:45:21 PM Total New Items Found: 144 Time: 4137 s
+
+2022-04-11 02:45:21 PM Getting data: dataset_name = MEI_BTS_COS, country = Chile, frequency = A Time: 4137 s
+
+2022-04-11 02:45:22 PM Total New Items Found: 144 Time: 4138 s
+
+2022-04-11 02:45:22 PM Getting data: dataset_name = MEI_BTS_COS, country = Chile, frequency = Q Time: 4138 s
+
+2022-04-11 02:45:24 PM Total New Items Found: 144 Time: 4139 s
+
+2022-04-11 02:45:24 PM Getting data: dataset_name = MEI_BTS_COS, country = Chile, frequency = M Time: 4139 s
+
+2022-04-11 02:45:26 PM Total New Items Found: 144 Time: 4142 s
+
+2022-04-11 02:45:26 PM Getting data: dataset_name = MEI_BTS_COS, country = China, frequency = A Time: 4142 s
+
+2022-04-11 02:45:28 PM Total New Items Found: 144 Time: 4144 s
+
+2022-04-11 02:45:28 PM Getting data: dataset_name = MEI_BTS_COS, country = China, frequency = Q Time: 4144 s
+
+2022-04-11 02:45:29 PM Total New Items Found: 144 Time: 4145 s
+
+2022-04-11 02:45:29 PM Getting data: dataset_name = MEI_BTS_COS, country = China, frequency = M Time: 4145 s
+
+2022-04-11 02:45:32 PM Total New Items Found: 144 Time: 4148 s
+
+2022-04-11 02:45:32 PM Getting data: dataset_name = MEI_BTS_COS, country = Colombia, frequency = A Time: 4148 s
+
+2022-04-11 02:45:34 PM Total New Items Found: 144 Time: 4149 s
+
+2022-04-11 02:45:34 PM Getting data: dataset_name = MEI_BTS_COS, country = Colombia, frequency = Q Time: 4149 s
+
+2022-04-11 02:45:35 PM Total New Items Found: 144 Time: 4151 s
+
+2022-04-11 02:45:35 PM Getting data: dataset_name = MEI_BTS_COS, country = Colombia, frequency = M Time: 4151 s
+
+2022-04-11 02:45:39 PM Total New Items Found: 144 Time: 4155 s
+
+2022-04-11 02:45:39 PM Getting data: dataset_name = MEI_BTS_COS, country = Costa Rica, frequency = A Time: 4155 s
+
+2022-04-11 02:45:40 PM Total New Items Found: 144 Time: 4156 s
+
+2022-04-11 02:45:40 PM Getting data: dataset_name = MEI_BTS_COS, country = Costa Rica, frequency = Q Time: 4156 s
+
+2022-04-11 02:45:42 PM Total New Items Found: 144 Time: 4158 s
+
+2022-04-11 02:45:42 PM Getting data: dataset_name = MEI_BTS_COS, country = Costa Rica, frequency = M Time: 4158 s
+
+2022-04-11 02:45:43 PM Total New Items Found: 144 Time: 4159 s
+
+2022-04-11 02:45:43 PM Getting data: dataset_name = MEI_BTS_COS, country = Cyprus, frequency = A Time: 4159 s
+
+2022-04-11 02:45:46 PM Total New Items Found: 144 Time: 4161 s
+
+2022-04-11 02:45:46 PM Getting data: dataset_name = MEI_BTS_COS, country = Cyprus, frequency = Q Time: 4161 s
+
+2022-04-11 02:45:47 PM Total New Items Found: 144 Time: 4163 s
+
+2022-04-11 02:45:47 PM Getting data: dataset_name = MEI_BTS_COS, country = Cyprus, frequency = M Time: 4163 s
+
+2022-04-11 02:45:48 PM Total New Items Found: 144 Time: 4164 s
+
+2022-04-11 02:45:48 PM Getting data: dataset_name = MEI_BTS_COS, country = Czech Republic, frequency = A Time: 4164 s
+
+2022-04-11 02:45:50 PM Total New Items Found: 144 Time: 4166 s
+
+2022-04-11 02:45:50 PM Getting data: dataset_name = MEI_BTS_COS, country = Czech Republic, frequency = Q Time: 4166 s
+
+2022-04-11 02:45:51 PM Total New Items Found: 144 Time: 4167 s
+
+2022-04-11 02:45:51 PM Getting data: dataset_name = MEI_BTS_COS, country = Czech Republic, frequency = M Time: 4167 s
+
+2022-04-11 02:45:55 PM Total New Items Found: 144 Time: 4171 s
+
+2022-04-11 02:45:55 PM Getting data: dataset_name = MEI_BTS_COS, country = Germany, frequency = A Time: 4171 s
+
+2022-04-11 02:45:57 PM Total New Items Found: 144 Time: 4172 s
+
+2022-04-11 02:45:57 PM Getting data: dataset_name = MEI_BTS_COS, country = Germany, frequency = Q Time: 4172 s
+
+2022-04-11 02:45:58 PM Total New Items Found: 144 Time: 4174 s
+
+2022-04-11 02:45:58 PM Getting data: dataset_name = MEI_BTS_COS, country = Germany, frequency = M Time: 4174 s
+
+2022-04-11 02:46:05 PM Total New Items Found: 144 Time: 4181 s
+
+2022-04-11 02:46:05 PM Getting data: dataset_name = MEI_BTS_COS, country = Western Germany, frequency = A Time: 4181 s
+
+2022-04-11 02:46:06 PM Total New Items Found: 144 Time: 4182 s
+
+2022-04-11 02:46:06 PM Getting data: dataset_name = MEI_BTS_COS, country = Western Germany, frequency = Q Time: 4182 s
+
+2022-04-11 02:46:08 PM Total New Items Found: 144 Time: 4184 s
+
+2022-04-11 02:46:08 PM Getting data: dataset_name = MEI_BTS_COS, country = Western Germany, frequency = M Time: 4184 s
+
+2022-04-11 02:46:09 PM Total New Items Found: 144 Time: 4185 s
+
+2022-04-11 02:46:09 PM Getting data: dataset_name = MEI_BTS_COS, country = Denmark, frequency = A Time: 4185 s
+
+2022-04-11 02:46:11 PM Total New Items Found: 144 Time: 4187 s
+
+2022-04-11 02:46:11 PM Getting data: dataset_name = MEI_BTS_COS, country = Denmark, frequency = Q Time: 4187 s
+
+2022-04-11 02:46:12 PM Total New Items Found: 144 Time: 4188 s
+
+2022-04-11 02:46:12 PM Getting data: dataset_name = MEI_BTS_COS, country = Denmark, frequency = M Time: 4188 s
+
+2022-04-11 02:46:17 PM Total New Items Found: 144 Time: 4193 s
+
+2022-04-11 02:46:17 PM Getting data: dataset_name = MEI_BTS_COS, country = Euro area, frequency = A Time: 4193 s
+
+2022-04-11 02:46:18 PM Total New Items Found: 144 Time: 4194 s
+
+2022-04-11 02:46:18 PM Getting data: dataset_name = MEI_BTS_COS, country = Euro area, frequency = Q Time: 4194 s
+
+2022-04-11 02:46:20 PM Total New Items Found: 144 Time: 4196 s
+
+2022-04-11 02:46:20 PM Getting data: dataset_name = MEI_BTS_COS, country = Euro area, frequency = M Time: 4196 s
+
+2022-04-11 02:46:25 PM Total New Items Found: 144 Time: 4200 s
+
+2022-04-11 02:46:25 PM Getting data: dataset_name = MEI_BTS_COS, country = Spain, frequency = A Time: 4200 s
+
+2022-04-11 02:46:26 PM Total New Items Found: 144 Time: 4202 s
+
+2022-04-11 02:46:26 PM Getting data: dataset_name = MEI_BTS_COS, country = Spain, frequency = Q Time: 4202 s
+
+2022-04-11 02:46:28 PM Total New Items Found: 144 Time: 4204 s
+
+2022-04-11 02:46:28 PM Getting data: dataset_name = MEI_BTS_COS, country = Spain, frequency = M Time: 4204 s
+
+2022-04-11 02:46:33 PM Total New Items Found: 144 Time: 4209 s
+
+2022-04-11 02:46:33 PM Getting data: dataset_name = MEI_BTS_COS, country = Estonia, frequency = A Time: 4209 s
+
+2022-04-11 02:46:35 PM Total New Items Found: 144 Time: 4210 s
+
+2022-04-11 02:46:35 PM Getting data: dataset_name = MEI_BTS_COS, country = Estonia, frequency = Q Time: 4210 s
+
+2022-04-11 02:46:36 PM Total New Items Found: 144 Time: 4212 s
+
+2022-04-11 02:46:36 PM Getting data: dataset_name = MEI_BTS_COS, country = Estonia, frequency = M Time: 4212 s
+
+2022-04-11 02:46:40 PM Total New Items Found: 144 Time: 4216 s
+
+2022-04-11 02:46:40 PM Getting data: dataset_name = MEI_BTS_COS, country = European Union (15 countries), frequency = A Time: 4216 s
+
+2022-04-11 02:46:42 PM Total New Items Found: 144 Time: 4218 s
+
+2022-04-11 02:46:42 PM Getting data: dataset_name = MEI_BTS_COS, country = European Union (15 countries), frequency = Q Time: 4218 s
+
+2022-04-11 02:46:44 PM Total New Items Found: 144 Time: 4220 s
+
+2022-04-11 02:46:44 PM Getting data: dataset_name = MEI_BTS_COS, country = European Union (15 countries), frequency = M Time: 4220 s
+
+2022-04-11 02:46:45 PM Total New Items Found: 144 Time: 4221 s
+
+2022-04-11 02:46:45 PM Getting data: dataset_name = MEI_BTS_COS, country = European Union – 27 countries (from 01/02/2020), frequency = A Time: 4221 s
+
+2022-04-11 02:46:47 PM Total New Items Found: 144 Time: 4222 s
+
+2022-04-11 02:46:47 PM Getting data: dataset_name = MEI_BTS_COS, country = European Union – 27 countries (from 01/02/2020), frequency = Q Time: 4222 s
+
+2022-04-11 02:46:48 PM Total New Items Found: 144 Time: 4224 s
+
+2022-04-11 02:46:48 PM Getting data: dataset_name = MEI_BTS_COS, country = European Union – 27 countries (from 01/02/2020), frequency = M Time: 4224 s
+
+2022-04-11 02:46:50 PM Total New Items Found: 144 Time: 4225 s
+
+2022-04-11 02:46:50 PM Getting data: dataset_name = MEI_BTS_COS, country = European Union (28 countries), frequency = A Time: 4225 s
+
+2022-04-11 02:46:51 PM Total New Items Found: 144 Time: 4227 s
+
+2022-04-11 02:46:51 PM Getting data: dataset_name = MEI_BTS_COS, country = European Union (28 countries), frequency = Q Time: 4227 s
+
+2022-04-11 02:46:52 PM Total New Items Found: 144 Time: 4228 s
+
+2022-04-11 02:46:52 PM Getting data: dataset_name = MEI_BTS_COS, country = European Union (28 countries), frequency = M Time: 4228 s
+
+2022-04-11 02:46:54 PM Total New Items Found: 144 Time: 4230 s
+
+2022-04-11 02:46:54 PM Getting data: dataset_name = MEI_BTS_COS, country = Finland, frequency = A Time: 4230 s
+
+2022-04-11 02:46:55 PM Total New Items Found: 144 Time: 4231 s
+
+2022-04-11 02:46:55 PM Getting data: dataset_name = MEI_BTS_COS, country = Finland, frequency = Q Time: 4231 s
+
+2022-04-11 02:46:57 PM Total New Items Found: 144 Time: 4233 s
+
+2022-04-11 02:46:57 PM Getting data: dataset_name = MEI_BTS_COS, country = Finland, frequency = M Time: 4233 s
+
+2022-04-11 02:47:01 PM Total New Items Found: 144 Time: 4237 s
+
+2022-04-11 02:47:01 PM Getting data: dataset_name = MEI_BTS_COS, country = France, frequency = A Time: 4237 s
+
+2022-04-11 02:47:03 PM Total New Items Found: 144 Time: 4238 s
+
+2022-04-11 02:47:03 PM Getting data: dataset_name = MEI_BTS_COS, country = France, frequency = Q Time: 4238 s
+
+2022-04-11 02:47:05 PM Total New Items Found: 144 Time: 4241 s
+
+2022-04-11 02:47:05 PM Getting data: dataset_name = MEI_BTS_COS, country = France, frequency = M Time: 4241 s
+
+2022-04-11 02:47:11 PM Total New Items Found: 144 Time: 4247 s
+
+2022-04-11 02:47:11 PM Getting data: dataset_name = MEI_BTS_COS, country = G20, frequency = A Time: 4247 s
+
+2022-04-11 02:47:14 PM Total New Items Found: 144 Time: 4250 s
+
+2022-04-11 02:47:14 PM Getting data: dataset_name = MEI_BTS_COS, country = G20, frequency = Q Time: 4250 s
+
+2022-04-11 02:47:15 PM Total New Items Found: 144 Time: 4251 s
+
+2022-04-11 02:47:15 PM Getting data: dataset_name = MEI_BTS_COS, country = G20, frequency = M Time: 4251 s
+
+2022-04-11 02:47:16 PM Total New Items Found: 144 Time: 4252 s
+
+2022-04-11 02:47:16 PM Getting data: dataset_name = MEI_BTS_COS, country = G7, frequency = A Time: 4252 s
+
+2022-04-11 02:47:18 PM Total New Items Found: 144 Time: 4254 s
+
+2022-04-11 02:47:18 PM Getting data: dataset_name = MEI_BTS_COS, country = G7, frequency = Q Time: 4254 s
+
+2022-04-11 02:47:19 PM Total New Items Found: 144 Time: 4255 s
+
+2022-04-11 02:47:19 PM Getting data: dataset_name = MEI_BTS_COS, country = G7, frequency = M Time: 4255 s
+
+2022-04-11 02:47:22 PM Total New Items Found: 144 Time: 4258 s
+
+2022-04-11 02:47:22 PM Getting data: dataset_name = MEI_BTS_COS, country = Big 4 Europe, frequency = A Time: 4258 s
+
+2022-04-11 02:47:24 PM Total New Items Found: 144 Time: 4260 s
+
+2022-04-11 02:47:24 PM Getting data: dataset_name = MEI_BTS_COS, country = Big 4 Europe, frequency = Q Time: 4260 s
+
+2022-04-11 02:47:25 PM Total New Items Found: 144 Time: 4261 s
+
+2022-04-11 02:47:25 PM Getting data: dataset_name = MEI_BTS_COS, country = Big 4 Europe, frequency = M Time: 4261 s
+
+2022-04-11 02:47:27 PM Total New Items Found: 144 Time: 4262 s
+
+2022-04-11 02:47:27 PM Getting data: dataset_name = MEI_BTS_COS, country = United Kingdom, frequency = A Time: 4262 s
+
+2022-04-11 02:47:28 PM Total New Items Found: 144 Time: 4264 s
+
+2022-04-11 02:47:28 PM Getting data: dataset_name = MEI_BTS_COS, country = United Kingdom, frequency = Q Time: 4264 s
+
+2022-04-11 02:47:30 PM Total New Items Found: 144 Time: 4265 s
+
+2022-04-11 02:47:30 PM Getting data: dataset_name = MEI_BTS_COS, country = United Kingdom, frequency = M Time: 4265 s
+
+2022-04-11 02:47:34 PM Total New Items Found: 144 Time: 4270 s
+
+2022-04-11 02:47:34 PM Getting data: dataset_name = MEI_BTS_COS, country = Greece, frequency = A Time: 4270 s
+
+2022-04-11 02:47:36 PM Total New Items Found: 144 Time: 4272 s
+
+2022-04-11 02:47:36 PM Getting data: dataset_name = MEI_BTS_COS, country = Greece, frequency = Q Time: 4272 s
+
+2022-04-11 02:47:38 PM Total New Items Found: 144 Time: 4274 s
+
+2022-04-11 02:47:38 PM Getting data: dataset_name = MEI_BTS_COS, country = Greece, frequency = M Time: 4274 s
+
+2022-04-11 02:47:42 PM Total New Items Found: 144 Time: 4278 s
+
+2022-04-11 02:47:42 PM Getting data: dataset_name = MEI_BTS_COS, country = Hungary, frequency = A Time: 4278 s
+
+2022-04-11 02:47:44 PM Total New Items Found: 144 Time: 4280 s
+
+2022-04-11 02:47:44 PM Getting data: dataset_name = MEI_BTS_COS, country = Hungary, frequency = Q Time: 4280 s
+
+2022-04-11 02:47:48 PM Total New Items Found: 144 Time: 4283 s
+
+2022-04-11 02:47:48 PM Getting data: dataset_name = MEI_BTS_COS, country = Hungary, frequency = M Time: 4283 s
+
+2022-04-11 02:47:52 PM Total New Items Found: 144 Time: 4287 s
+
+2022-04-11 02:47:52 PM Getting data: dataset_name = MEI_BTS_COS, country = Indonesia, frequency = A Time: 4287 s
+
+2022-04-11 02:47:54 PM Total New Items Found: 144 Time: 4290 s
+
+2022-04-11 02:47:54 PM Getting data: dataset_name = MEI_BTS_COS, country = Indonesia, frequency = Q Time: 4290 s
+
+2022-04-11 02:47:56 PM Total New Items Found: 144 Time: 4292 s
+
+2022-04-11 02:47:56 PM Getting data: dataset_name = MEI_BTS_COS, country = Indonesia, frequency = M Time: 4292 s
+
+2022-04-11 02:48:00 PM Total New Items Found: 144 Time: 4296 s
+
+2022-04-11 02:48:00 PM Getting data: dataset_name = MEI_BTS_COS, country = Ukraine, frequency = A Time: 4296 s
+
+2022-04-11 02:48:01 PM Total New Items Found: 144 Time: 4297 s
+
+2022-04-11 02:48:01 PM Getting data: dataset_name = MEI_BTS_COS, country = Ukraine, frequency = Q Time: 4297 s
+
+2022-04-11 02:48:03 PM Total New Items Found: 144 Time: 4299 s
+
+2022-04-11 02:48:03 PM Getting data: dataset_name = MEI_BTS_COS, country = Ukraine, frequency = M Time: 4299 s
+
+2022-04-11 02:48:05 PM Total New Items Found: 144 Time: 4300 s
+
+2022-04-11 02:48:05 PM Getting data: dataset_name = MEI_BTS_COS, country = India, frequency = A Time: 4300 s
+
+2022-04-11 02:48:15 PM Total New Items Found: 144 Time: 4311 s
+
+2022-04-11 02:48:15 PM Getting data: dataset_name = MEI_BTS_COS, country = India, frequency = Q Time: 4311 s
+
+2022-04-11 02:48:19 PM Total New Items Found: 144 Time: 4315 s
+
+2022-04-11 02:48:19 PM Getting data: dataset_name = MEI_BTS_COS, country = India, frequency = M Time: 4315 s
+
+2022-04-11 02:48:21 PM Total New Items Found: 144 Time: 4317 s
+
+2022-04-11 02:48:21 PM Getting data: dataset_name = MEI_BTS_COS, country = Ireland, frequency = A Time: 4317 s
+
+2022-04-11 02:48:22 PM Total New Items Found: 144 Time: 4318 s
+
+2022-04-11 02:48:22 PM Getting data: dataset_name = MEI_BTS_COS, country = Ireland, frequency = Q Time: 4318 s
+
+2022-04-11 02:48:25 PM Total New Items Found: 144 Time: 4321 s
+
+2022-04-11 02:48:25 PM Getting data: dataset_name = MEI_BTS_COS, country = Ireland, frequency = M Time: 4321 s
+
+2022-04-11 02:48:30 PM Total New Items Found: 144 Time: 4325 s
+
+2022-04-11 02:48:30 PM Getting data: dataset_name = MEI_BTS_COS, country = Iceland, frequency = A Time: 4325 s
+
+2022-04-11 02:48:31 PM Total New Items Found: 144 Time: 4327 s
+
+2022-04-11 02:48:31 PM Getting data: dataset_name = MEI_BTS_COS, country = Iceland, frequency = Q Time: 4327 s
+
+2022-04-11 02:48:32 PM Total New Items Found: 144 Time: 4328 s
+
+2022-04-11 02:48:32 PM Getting data: dataset_name = MEI_BTS_COS, country = Iceland, frequency = M Time: 4328 s
+
+2022-04-11 02:48:34 PM Total New Items Found: 144 Time: 4329 s
+
+2022-04-11 02:48:34 PM Getting data: dataset_name = MEI_BTS_COS, country = Israel, frequency = A Time: 4329 s
+
+2022-04-11 02:48:35 PM Total New Items Found: 144 Time: 4331 s
+
+2022-04-11 02:48:35 PM Getting data: dataset_name = MEI_BTS_COS, country = Israel, frequency = Q Time: 4331 s
+
+2022-04-11 02:48:37 PM Total New Items Found: 144 Time: 4332 s
+
+2022-04-11 02:48:37 PM Getting data: dataset_name = MEI_BTS_COS, country = Israel, frequency = M Time: 4332 s
+
+2022-04-11 02:48:39 PM Total New Items Found: 144 Time: 4335 s
+
+2022-04-11 02:48:39 PM Getting data: dataset_name = MEI_BTS_COS, country = Italy, frequency = A Time: 4335 s
+
+2022-04-11 02:48:40 PM Total New Items Found: 144 Time: 4336 s
+
+2022-04-11 02:48:40 PM Getting data: dataset_name = MEI_BTS_COS, country = Italy, frequency = Q Time: 4336 s
+
+2022-04-11 02:48:42 PM Total New Items Found: 144 Time: 4338 s
+
+2022-04-11 02:48:42 PM Getting data: dataset_name = MEI_BTS_COS, country = Italy, frequency = M Time: 4338 s
+
+2022-04-11 02:48:48 PM Total New Items Found: 144 Time: 4344 s
+
+2022-04-11 02:48:48 PM Getting data: dataset_name = MEI_BTS_COS, country = Japan, frequency = A Time: 4344 s
+
+2022-04-11 02:48:50 PM Total New Items Found: 144 Time: 4346 s
+
+2022-04-11 02:48:50 PM Getting data: dataset_name = MEI_BTS_COS, country = Japan, frequency = Q Time: 4346 s
+
+2022-04-11 02:48:52 PM Total New Items Found: 144 Time: 4348 s
+
+2022-04-11 02:48:52 PM Getting data: dataset_name = MEI_BTS_COS, country = Japan, frequency = M Time: 4348 s
+
+2022-04-11 02:48:54 PM Total New Items Found: 144 Time: 4349 s
+
+2022-04-11 02:48:54 PM Getting data: dataset_name = MEI_BTS_COS, country = Korea, frequency = A Time: 4349 s
+
+2022-04-11 02:48:55 PM Total New Items Found: 144 Time: 4351 s
+
+2022-04-11 02:48:55 PM Getting data: dataset_name = MEI_BTS_COS, country = Korea, frequency = Q Time: 4351 s
+
+2022-04-11 02:48:57 PM Total New Items Found: 144 Time: 4352 s
+
+2022-04-11 02:48:57 PM Getting data: dataset_name = MEI_BTS_COS, country = Korea, frequency = M Time: 4352 s
+
+2022-04-11 02:48:59 PM Total New Items Found: 144 Time: 4355 s
+
+2022-04-11 02:48:59 PM Getting data: dataset_name = MEI_BTS_COS, country = Lithuania, frequency = A Time: 4355 s
+
+2022-04-11 02:49:02 PM Total New Items Found: 144 Time: 4358 s
+
+2022-04-11 02:49:02 PM Getting data: dataset_name = MEI_BTS_COS, country = Lithuania, frequency = Q Time: 4358 s
+
+2022-04-11 02:49:04 PM Total New Items Found: 144 Time: 4359 s
+
+2022-04-11 02:49:04 PM Getting data: dataset_name = MEI_BTS_COS, country = Lithuania, frequency = M Time: 4359 s
+
+2022-04-11 02:49:07 PM Total New Items Found: 144 Time: 4363 s
+
+2022-04-11 02:49:07 PM Getting data: dataset_name = MEI_BTS_COS, country = Luxembourg, frequency = A Time: 4363 s
+
+2022-04-11 02:49:08 PM Total New Items Found: 144 Time: 4364 s
+
+2022-04-11 02:49:08 PM Getting data: dataset_name = MEI_BTS_COS, country = Luxembourg, frequency = Q Time: 4364 s
+
+2022-04-11 02:49:10 PM Total New Items Found: 144 Time: 4366 s
+
+2022-04-11 02:49:10 PM Getting data: dataset_name = MEI_BTS_COS, country = Luxembourg, frequency = M Time: 4366 s
+
+2022-04-11 02:49:14 PM Total New Items Found: 144 Time: 4369 s
+
+2022-04-11 02:49:14 PM Getting data: dataset_name = MEI_BTS_COS, country = Latvia, frequency = A Time: 4369 s
+
+2022-04-11 02:49:16 PM Total New Items Found: 144 Time: 4372 s
+
+2022-04-11 02:49:16 PM Getting data: dataset_name = MEI_BTS_COS, country = Latvia, frequency = Q Time: 4372 s
+
+2022-04-11 02:49:18 PM Total New Items Found: 144 Time: 4374 s
+
+2022-04-11 02:49:18 PM Getting data: dataset_name = MEI_BTS_COS, country = Latvia, frequency = M Time: 4374 s
+
+2022-04-11 02:49:22 PM Total New Items Found: 144 Time: 4378 s
+
+2022-04-11 02:49:22 PM Getting data: dataset_name = MEI_BTS_COS, country = Mexico, frequency = A Time: 4378 s
+
+2022-04-11 02:49:23 PM Total New Items Found: 144 Time: 4379 s
+
+2022-04-11 02:49:23 PM Getting data: dataset_name = MEI_BTS_COS, country = Mexico, frequency = Q Time: 4379 s
+
+2022-04-11 02:49:25 PM Total New Items Found: 144 Time: 4381 s
+
+2022-04-11 02:49:25 PM Getting data: dataset_name = MEI_BTS_COS, country = Mexico, frequency = M Time: 4381 s
+
+2022-04-11 02:49:27 PM Total New Items Found: 144 Time: 4383 s
+
+2022-04-11 02:49:27 PM Getting data: dataset_name = MEI_BTS_COS, country = Malta, frequency = A Time: 4383 s
+
+2022-04-11 02:49:29 PM Total New Items Found: 144 Time: 4384 s
+
+2022-04-11 02:49:29 PM Getting data: dataset_name = MEI_BTS_COS, country = Malta, frequency = Q Time: 4384 s
+
+2022-04-11 02:49:30 PM Total New Items Found: 144 Time: 4386 s
+
+2022-04-11 02:49:30 PM Getting data: dataset_name = MEI_BTS_COS, country = Malta, frequency = M Time: 4386 s
+
+2022-04-11 02:49:31 PM Total New Items Found: 144 Time: 4387 s
+
+2022-04-11 02:49:31 PM Getting data: dataset_name = MEI_BTS_COS, country = NAFTA, frequency = A Time: 4387 s
+
+2022-04-11 02:49:33 PM Total New Items Found: 144 Time: 4389 s
+
+2022-04-11 02:49:33 PM Getting data: dataset_name = MEI_BTS_COS, country = NAFTA, frequency = Q Time: 4389 s
+
+2022-04-11 02:49:34 PM Total New Items Found: 144 Time: 4390 s
+
+2022-04-11 02:49:34 PM Getting data: dataset_name = MEI_BTS_COS, country = NAFTA, frequency = M Time: 4390 s
+
+2022-04-11 02:49:36 PM Total New Items Found: 144 Time: 4391 s
+
+2022-04-11 02:49:36 PM Getting data: dataset_name = MEI_BTS_COS, country = Netherlands, frequency = A Time: 4391 s
+
+2022-04-11 02:49:38 PM Total New Items Found: 144 Time: 4394 s
+
+2022-04-11 02:49:38 PM Getting data: dataset_name = MEI_BTS_COS, country = Netherlands, frequency = Q Time: 4394 s
+
+2022-04-11 02:49:40 PM Total New Items Found: 144 Time: 4396 s
+
+2022-04-11 02:49:40 PM Getting data: dataset_name = MEI_BTS_COS, country = Netherlands, frequency = M Time: 4396 s
+
+2022-04-11 02:49:46 PM Total New Items Found: 144 Time: 4401 s
+
+2022-04-11 02:49:46 PM Getting data: dataset_name = MEI_BTS_COS, country = Norway, frequency = A Time: 4401 s
+
+2022-04-11 02:49:47 PM Total New Items Found: 144 Time: 4403 s
+
+2022-04-11 02:49:47 PM Getting data: dataset_name = MEI_BTS_COS, country = Norway, frequency = Q Time: 4403 s
+
+2022-04-11 02:49:49 PM Total New Items Found: 144 Time: 4405 s
+
+2022-04-11 02:49:49 PM Getting data: dataset_name = MEI_BTS_COS, country = Norway, frequency = M Time: 4405 s
+
+2022-04-11 02:49:50 PM Total New Items Found: 144 Time: 4406 s
+
+2022-04-11 02:49:50 PM Getting data: dataset_name = MEI_BTS_COS, country = New Zealand, frequency = A Time: 4406 s
+
+2022-04-11 02:49:52 PM Total New Items Found: 144 Time: 4408 s
+
+2022-04-11 02:49:52 PM Getting data: dataset_name = MEI_BTS_COS, country = New Zealand, frequency = Q Time: 4408 s
+
+2022-04-11 02:49:54 PM Total New Items Found: 144 Time: 4410 s
+
+2022-04-11 02:49:54 PM Getting data: dataset_name = MEI_BTS_COS, country = New Zealand, frequency = M Time: 4410 s
+
+2022-04-11 02:49:55 PM Total New Items Found: 144 Time: 4411 s
+
+2022-04-11 02:49:55 PM Getting data: dataset_name = MEI_BTS_COS, country = OECD - Total, frequency = A Time: 4411 s
+
+2022-04-11 02:49:58 PM Total New Items Found: 144 Time: 4414 s
+
+2022-04-11 02:49:58 PM Getting data: dataset_name = MEI_BTS_COS, country = OECD - Total, frequency = Q Time: 4414 s
+
+2022-04-11 02:50:00 PM Total New Items Found: 144 Time: 4416 s
+
+2022-04-11 02:50:00 PM Getting data: dataset_name = MEI_BTS_COS, country = OECD - Total, frequency = M Time: 4416 s
+
+2022-04-11 02:50:02 PM Total New Items Found: 144 Time: 4418 s
+
+2022-04-11 02:50:02 PM Getting data: dataset_name = MEI_BTS_COS, country = OECD - Europe, frequency = A Time: 4418 s
+
+2022-04-11 02:50:03 PM Total New Items Found: 144 Time: 4419 s
+
+2022-04-11 02:50:03 PM Getting data: dataset_name = MEI_BTS_COS, country = OECD - Europe, frequency = Q Time: 4419 s
+
+2022-04-11 02:50:08 PM Total New Items Found: 144 Time: 4424 s
+
+2022-04-11 02:50:08 PM Getting data: dataset_name = MEI_BTS_COS, country = OECD - Europe, frequency = M Time: 4424 s
+
+2022-04-11 02:50:12 PM Total New Items Found: 144 Time: 4428 s
+
+2022-04-11 02:50:12 PM Getting data: dataset_name = MEI_BTS_COS, country = OECD + Major Six NME, frequency = A Time: 4428 s
+
+2022-04-11 02:50:14 PM Total New Items Found: 144 Time: 4429 s
+
+2022-04-11 02:50:14 PM Getting data: dataset_name = MEI_BTS_COS, country = OECD + Major Six NME, frequency = Q Time: 4429 s
+
+2022-04-11 02:50:15 PM Total New Items Found: 144 Time: 4431 s
+
+2022-04-11 02:50:15 PM Getting data: dataset_name = MEI_BTS_COS, country = OECD + Major Six NME, frequency = M Time: 4431 s
+
+2022-04-11 02:50:16 PM Total New Items Found: 144 Time: 4432 s
+
+2022-04-11 02:50:16 PM Getting data: dataset_name = MEI_BTS_COS, country = OECD - FORMER TOTAL, frequency = A Time: 4432 s
+
+2022-04-11 02:50:18 PM Total New Items Found: 144 Time: 4433 s
+
+2022-04-11 02:50:18 PM Getting data: dataset_name = MEI_BTS_COS, country = OECD - FORMER TOTAL, frequency = Q Time: 4433 s
+
+2022-04-11 02:50:19 PM Total New Items Found: 144 Time: 4435 s
+
+2022-04-11 02:50:19 PM Getting data: dataset_name = MEI_BTS_COS, country = OECD - FORMER TOTAL, frequency = M Time: 4435 s
+
+2022-04-11 02:50:20 PM Total New Items Found: 144 Time: 4436 s
+
+2022-04-11 02:50:20 PM Getting data: dataset_name = MEI_BTS_COS, country = OECD total excluding the euro area, frequency = A Time: 4436 s
+
+2022-04-11 02:50:22 PM Total New Items Found: 144 Time: 4438 s
+
+2022-04-11 02:50:22 PM Getting data: dataset_name = MEI_BTS_COS, country = OECD total excluding the euro area, frequency = Q Time: 4438 s
+
+2022-04-11 02:50:23 PM Total New Items Found: 144 Time: 4439 s
+
+2022-04-11 02:50:23 PM Getting data: dataset_name = MEI_BTS_COS, country = OECD total excluding the euro area, frequency = M Time: 4439 s
+
+2022-04-11 02:50:24 PM Total New Items Found: 144 Time: 4440 s
+
+2022-04-11 02:50:24 PM Getting data: dataset_name = MEI_BTS_COS, country = Poland, frequency = A Time: 4440 s
+
+2022-04-11 02:50:27 PM Total New Items Found: 144 Time: 4443 s
+
+2022-04-11 02:50:27 PM Getting data: dataset_name = MEI_BTS_COS, country = Poland, frequency = Q Time: 4443 s
+
+2022-04-11 02:50:29 PM Total New Items Found: 144 Time: 4444 s
+
+2022-04-11 02:50:29 PM Getting data: dataset_name = MEI_BTS_COS, country = Poland, frequency = M Time: 4444 s
+
+2022-04-11 02:50:33 PM Total New Items Found: 144 Time: 4449 s
+
+2022-04-11 02:50:33 PM Getting data: dataset_name = MEI_BTS_COS, country = Portugal, frequency = A Time: 4449 s
+
+2022-04-11 02:50:36 PM Total New Items Found: 144 Time: 4451 s
+
+2022-04-11 02:50:36 PM Getting data: dataset_name = MEI_BTS_COS, country = Portugal, frequency = Q Time: 4451 s
+
+2022-04-11 02:50:37 PM Total New Items Found: 144 Time: 4453 s
+
+2022-04-11 02:50:37 PM Getting data: dataset_name = MEI_BTS_COS, country = Portugal, frequency = M Time: 4453 s
+
+2022-04-11 02:50:42 PM Total New Items Found: 144 Time: 4458 s
+
+2022-04-11 02:50:42 PM Getting data: dataset_name = MEI_BTS_COS, country = Romania, frequency = A Time: 4458 s
+
+2022-04-11 02:50:43 PM Total New Items Found: 144 Time: 4459 s
+
+2022-04-11 02:50:43 PM Getting data: dataset_name = MEI_BTS_COS, country = Romania, frequency = Q Time: 4459 s
+
+2022-04-11 02:50:45 PM Total New Items Found: 144 Time: 4461 s
+
+2022-04-11 02:50:45 PM Getting data: dataset_name = MEI_BTS_COS, country = Romania, frequency = M Time: 4461 s
+
+2022-04-11 02:50:46 PM Total New Items Found: 144 Time: 4462 s
+
+2022-04-11 02:50:46 PM Getting data: dataset_name = MEI_BTS_COS, country = Russia, frequency = A Time: 4462 s
+
+2022-04-11 02:50:48 PM Total New Items Found: 144 Time: 4464 s
+
+2022-04-11 02:50:48 PM Getting data: dataset_name = MEI_BTS_COS, country = Russia, frequency = Q Time: 4464 s
+
+2022-04-11 02:50:50 PM Total New Items Found: 144 Time: 4466 s
+
+2022-04-11 02:50:50 PM Getting data: dataset_name = MEI_BTS_COS, country = Russia, frequency = M Time: 4466 s
+
+2022-04-11 02:50:53 PM Total New Items Found: 144 Time: 4469 s
+
+2022-04-11 02:50:53 PM Getting data: dataset_name = MEI_BTS_COS, country = Saudi Arabia, frequency = A Time: 4469 s
+
+2022-04-11 02:50:55 PM Total New Items Found: 144 Time: 4471 s
+
+2022-04-11 02:50:55 PM Getting data: dataset_name = MEI_BTS_COS, country = Saudi Arabia, frequency = Q Time: 4471 s
+
+2022-04-11 02:50:57 PM Total New Items Found: 144 Time: 4472 s
+
+2022-04-11 02:50:57 PM Getting data: dataset_name = MEI_BTS_COS, country = Saudi Arabia, frequency = M Time: 4472 s
+
+2022-04-11 02:50:58 PM Total New Items Found: 144 Time: 4474 s
+
+2022-04-11 02:50:58 PM Getting data: dataset_name = MEI_BTS_COS, country = SDR, frequency = A Time: 4474 s
+
+2022-04-11 02:50:59 PM Total New Items Found: 144 Time: 4475 s
+
+2022-04-11 02:50:59 PM Getting data: dataset_name = MEI_BTS_COS, country = SDR, frequency = Q Time: 4475 s
+
+2022-04-11 02:51:01 PM Total New Items Found: 144 Time: 4477 s
+
+2022-04-11 02:51:01 PM Getting data: dataset_name = MEI_BTS_COS, country = SDR, frequency = M Time: 4477 s
+
+2022-04-11 02:51:02 PM Total New Items Found: 144 Time: 4478 s
+
+2022-04-11 02:51:02 PM Getting data: dataset_name = MEI_BTS_COS, country = Slovak Republic, frequency = A Time: 4478 s
+
+2022-04-11 02:51:04 PM Total New Items Found: 144 Time: 4480 s
+
+2022-04-11 02:51:04 PM Getting data: dataset_name = MEI_BTS_COS, country = Slovak Republic, frequency = Q Time: 4480 s
+
+2022-04-11 02:51:05 PM Total New Items Found: 144 Time: 4481 s
+
+2022-04-11 02:51:05 PM Getting data: dataset_name = MEI_BTS_COS, country = Slovak Republic, frequency = M Time: 4481 s
+
+2022-04-11 02:51:10 PM Total New Items Found: 144 Time: 4486 s
+
+2022-04-11 02:51:10 PM Getting data: dataset_name = MEI_BTS_COS, country = Slovenia, frequency = A Time: 4486 s
+
+2022-04-11 02:51:12 PM Total New Items Found: 144 Time: 4488 s
+
+2022-04-11 02:51:12 PM Getting data: dataset_name = MEI_BTS_COS, country = Slovenia, frequency = Q Time: 4488 s
+
+2022-04-11 02:51:13 PM Total New Items Found: 144 Time: 4489 s
+
+2022-04-11 02:51:13 PM Getting data: dataset_name = MEI_BTS_COS, country = Slovenia, frequency = M Time: 4489 s
+
+2022-04-11 02:51:17 PM Total New Items Found: 144 Time: 4493 s
+
+2022-04-11 02:51:17 PM Getting data: dataset_name = MEI_BTS_COS, country = Sweden, frequency = A Time: 4493 s
+
+2022-04-11 02:51:19 PM Total New Items Found: 144 Time: 4494 s
+
+2022-04-11 02:51:19 PM Getting data: dataset_name = MEI_BTS_COS, country = Sweden, frequency = Q Time: 4494 s
+
+2022-04-11 02:51:20 PM Total New Items Found: 144 Time: 4496 s
+
+2022-04-11 02:51:20 PM Getting data: dataset_name = MEI_BTS_COS, country = Sweden, frequency = M Time: 4496 s
+
+2022-04-11 02:51:25 PM Total New Items Found: 144 Time: 4500 s
+
+2022-04-11 02:51:25 PM Getting data: dataset_name = MEI_BTS_COS, country = Turkey, frequency = A Time: 4500 s
+
+2022-04-11 02:51:26 PM Total New Items Found: 144 Time: 4502 s
+
+2022-04-11 02:51:26 PM Getting data: dataset_name = MEI_BTS_COS, country = Turkey, frequency = Q Time: 4502 s
+
+2022-04-11 02:51:29 PM Total New Items Found: 144 Time: 4505 s
+
+2022-04-11 02:51:29 PM Getting data: dataset_name = MEI_BTS_COS, country = Turkey, frequency = M Time: 4505 s
+
+2022-04-11 02:51:32 PM Total New Items Found: 144 Time: 4508 s
+
+2022-04-11 02:51:32 PM Getting data: dataset_name = MEI_BTS_COS, country = United States, frequency = A Time: 4508 s
+
+2022-04-11 02:51:34 PM Total New Items Found: 144 Time: 4510 s
+
+2022-04-11 02:51:34 PM Getting data: dataset_name = MEI_BTS_COS, country = United States, frequency = Q Time: 4510 s
+
+2022-04-11 02:51:36 PM Total New Items Found: 144 Time: 4512 s
+
+2022-04-11 02:51:36 PM Getting data: dataset_name = MEI_BTS_COS, country = United States, frequency = M Time: 4512 s
+
+2022-04-11 02:51:41 PM Total New Items Found: 144 Time: 4517 s
+
+2022-04-11 02:51:41 PM Getting data: dataset_name = MEI_BTS_COS, country = South Africa, frequency = A Time: 4517 s
+
+2022-04-11 02:51:43 PM Total New Items Found: 144 Time: 4519 s
+
+2022-04-11 02:51:43 PM Getting data: dataset_name = MEI_BTS_COS, country = South Africa, frequency = Q Time: 4519 s
+
+2022-04-11 02:51:45 PM Total New Items Found: 144 Time: 4521 s
+
+2022-04-11 02:51:45 PM Getting data: dataset_name = MEI_BTS_COS, country = South Africa, frequency = M Time: 4521 s
+
+2022-04-11 02:51:47 PM Total New Items Found: 144 Time: 4523 s
+
+2022-04-11 02:51:47 PM Reading file: MEI_database?, Time: 4523 s
+
+2022-04-11 02:51:47 PM Concating file: MEI_key?, Time: 4523 s
+
+2022-04-11 02:51:47 PM Concating file: MEI_database?, Time: 4523 s
+
+2022-04-11 02:51:47 PM Time: 4523 s
+
+2022-04-11 02:51:47 PM Setting new files, Time: 4523 s
+
+2022-04-11 02:51:47 PM Concating new files: MEI_database, Time: 4523 s
+
+2022-04-11 02:51:47 PM     databank            name   db_table  db_code                                             desc_e      desc_c freq    start     last                   unit name_ord  snl        book                form_e form_c
+0        MEI  A238P80110AL.a  DB_A_0001  data001  Price Weights > Consumer Prices according to C...  PW180110AL    A     1995     2021  Units of Per thousand      CRI    1  Costa Rica         Price Weights       
+1        MEI  A238P80111AL.a  DB_A_0001  data002  Price Weights > Consumer Prices according to C...  PW180111AL    A     1995     2021  Units of Per thousand      CRI    2  Costa Rica         Price Weights       
+2        MEI  A238P80112AL.a  DB_A_0001  data003  Price Weights > Consumer Prices according to C...  PW180112AL    A     1995     2021  Units of Per thousand      CRI    3  Costa Rica         Price Weights       
+3        MEI  A238P80113AL.a  DB_A_0001  data004  Price Weights > Consumer Prices according to C...  PW180113AL    A     1995     2021  Units of Per thousand      CRI    4  Costa Rica         Price Weights       
+4        MEI  A238P80114AL.a  DB_A_0001  data005  Price Weights > Consumer Prices according to C...  PW180114AL    A     1995     2021  Units of Per thousand      CRI    5  Costa Rica         Price Weights       
+..       ...             ...        ...      ...                                                ...         ...  ...      ...      ...                    ...      ...  ...         ...                   ...    ...
+139      MEI  Q238C81210GY.q  DB_Q_0001  data041  Consumer Price Index > COICOP 2018 > Insurance...  CP181210GY    Q  2022-Q1  2022-Q1    Units of Percentage      CRI  140  Costa Rica  Consumer Price Index       
+140      MEI  Q238C81220GY.q  DB_Q_0001  data042  Consumer Price Index > COICOP 2018 > Insurance...  CP181220GY    Q  2022-Q1  2022-Q1    Units of Percentage      CRI  141  Costa Rica  Consumer Price Index       
+141      MEI  Q238C81310GY.q  DB_Q_0001  data043  Consumer Price Index > COICOP 2018 > Personal ...  CP181310GY    Q  2022-Q1  2022-Q1    Units of Percentage      CRI  142  Costa Rica  Consumer Price Index       
+142      MEI  Q238C81320GY.q  DB_Q_0001  data044  Consumer Price Index > COICOP 2018 > Personal ...  CP181320GY    Q  2022-Q1  2022-Q1    Units of Percentage      CRI  143  Costa Rica  Consumer Price Index       
+143      MEI  Q238C81330GY.q  DB_Q_0001  data045  Consumer Price Index > COICOP 2018 > Personal ...  CP181330GY    Q  2022-Q1  2022-Q1    Units of Percentage      CRI  144  Costa Rica  Consumer Price Index       
+
+[144 rows x 15 columns]
+2022-04-11 02:51:48 PM 
+database_num = 1

@@ -413,79 +413,77 @@
 411,PWCP0432,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Services for the maintenance and repair of the dwelling"
 412,PWCP044G,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Miscellaneous services relating to the dwelling (04.4.2_3_4)"
 413,PWCP0510,"Price Weights > Consumer Prices > Furnishing, Household equipment and routine maintenance > Furniture and furnishings, carpets and other floor coverings"
-414,PWCP0455,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Heat energy"
-415,PWCP0452,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Gas"
-416,PWCP0540,"Price Weights > Consumer Prices > Furnishing, Household equipment and routine maintenance > Glassware, tableware and household utensils"
-417,PWCP0910,"Price Weights > Consumer Prices > Recreation and culture > Audio-visual, photographic and information processing equipment"
-418,PWCP082G,Price Weights > Consumer Prices > Communication > Telephone and telefax equipment and services (08.2_3)
-419,PWCP0943,Price Weights > Consumer Prices > Recreation and culture > Games of chance
-420,PWCP0400,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Total"
-421,PWCP0940,Price Weights > Consumer Prices > Recreation and culture > Recreational and cultural services
-422,PWCPLR01,Price Weights > Consumer Prices > Services less housing > Total
-423,PWCP0431,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Materials for the maintenance and repair of the dwelling"
-424,PWHP1000,Price Weights > Harmonised Prices > Education > Total
-425,PWCP0630,Price Weights > Consumer Prices > Health > Hospital services
-426,PWCP0722,Price Weights > Consumer Prices > Transport > Fuels and lubricants for personal transport equipment
-427,PWCP0710,Price Weights > Consumer Prices > Transport > Purchase of vehicles
-428,PWCP1110,Price Weights > Consumer Prices > Restaurants and hotels > Catering services
-429,PWHP0700,Price Weights > Harmonised Prices > Transport > Total
-430,PWCP0730,Price Weights > Consumer Prices > Transport > Transport services
-431,PWCP0115,Price Weights > Consumer Prices > Food and non-alcoholic beverages > Oils and fats
-432,PWCP1210,Price Weights > Consumer Prices > Miscellaneous goods and services > Personal care
-433,PWCP0118,"Price Weights > Consumer Prices > Food and non-alcoholic beverages > Sugar, jam, honey, chocolate and confectionery"
-434,PWCP1120,Price Weights > Consumer Prices > Restaurants and hotels > Restaurants and hotels / Accommodation services
-435,PWCP1250,Price Weights > Consumer Prices > Miscellaneous goods and services > Insurance
-436,PWCP0220,"Price Weights > Consumer Prices > Alcoholic beverages, Tobacco and Narcotics > Tobacco"
-437,PWHP0100,Price Weights > Harmonised Prices > Food and non-alcoholic beverages > Total
-438,CP070200,Consumer Price Index > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment > Total
-439,SLRTCR03,Sales > Retail trade > Car registration > Passenger cars
-440,P6OICD01,International investment position BPM6 > Other investment > Currency and deposits > Net
-441,P6OICD03,International investment position BPM6 > Other investment > Currency and deposits > Liabilities
-442,P6OISD03,International investment position BPM6 > Other investment > Special drawing rights > Liabilities
-443,P6OITT01,International investment position BPM6 > Other investment > Total > Net
-444,P6OIEQ02,International investment position BPM6 > Other investment > Other equity > Assets
-445,P6TTTT02,International investment position BPM6 > Financial account (IIP) > Total > Assets
-446,P6OITC02,International investment position BPM6 > Other investment > Trade credit and advances > Assets
-447,P6OIIP01,"International investment position BPM6 > Other investment > Insurance, pensions and standardised guarantee schemes > Net"
-448,P6PIDB01,International investment position BPM6 > Portfolio investment > Debt instruments > Net
-449,P6OITT03,International investment position BPM6 > Other investment > Total > Liabilities
-450,P6DIEQ02,International investment position BPM6 > Direct investment > Equity and investment fund shares > Assets
-451,P6DIEQ01,International investment position BPM6 > Direct investment > Equity and investment fund shares > Net
-452,P6DIDB03,International investment position BPM6 > Direct investment > Debt instruments > Liabilities
-453,P6OIIP03,"International investment position BPM6 > Other investment > Insurance, pensions and standardised guarantee schemes > Liabilities"
-454,P6DITT03,International investment position BPM6 > Direct investment > Total > Liabilities
-455,P6PIDB03,International investment position BPM6 > Portfolio investment > Debt instruments > Liabilities
-456,P6PITT01,International investment position BPM6 > Portfolio investment > Total > Net
-457,P6DIDB01,International investment position BPM6 > Direct investment > Debt instruments > Net
-458,P6DIDB02,International investment position BPM6 > Direct investment > Debt instruments > Assets
-459,P6OIEQ03,International investment position BPM6 > Other investment > Other equity > Liabilties
-460,P6OIOA03,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Liabilities
-461,P6OIOA01,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Net
-462,P6PITT02,International investment position BPM6 > Portfolio investment > Total > Assets
-463,P6DIEQ03,International investment position BPM6 > Direct investment > Equity and investment fund shares > Liabilities
-464,P6PIEQ03,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Liabilities
-465,P6OISD02,International investment position BPM6 > Other investment > Special drawing rights > Assets
-466,P6RATT02,International investment position BPM6 > Reserve assets > Total > Assets
-467,P6OITC01,International investment position BPM6 > Other investment > Trade credit and advances > Net
-468,P6PIEQ02,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Assets
-469,P6FDTT01,International investment position BPM6 > Financial derivatives > Total > Net
-470,P6OIOA02,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Assets
-471,P6OILN03,International investment position BPM6 > Other investment > Loans > Liabilities
-472,P6FDTT03,International investment position BPM6 > Financial derivatives > Total > Liabilities
-473,P6OILN01,International investment position BPM6 > Other investment > Loans > Net
-474,P6PITT03,International investment position BPM6 > Portfolio investment > Total > Liabilities
-475,P6RATT01,International investment position BPM6 > Reserve assets > Total > Net
-476,P6OISD01,International investment position BPM6 > Other investment > Special drawing rights > Net
-477,P6TTTT03,International investment position BPM6 > Financial account (IIP) > Total > Liabilities
-478,P6DITT02,International investment position BPM6 > Direct investment > Total > Assets
-479,P6OIIP02,"International investment position BPM6 > Other investment > Insurance, pensions and standardised guarantee schemes > Assets"
-480,P6PIDB02,International investment position BPM6 > Portfolio investment > Debt instruments > Assets
-481,P6OILN02,International investment position BPM6 > Other investment > Loans > Assets
-482,P6PIEQ01,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Net
-483,P6FDTT02,International investment position BPM6 > Financial derivatives > Total > Assets
-484,P6DITT01,International investment position BPM6 > Direct investment > Total > Net
-485,P6OICD02,International investment position BPM6 > Other investment > Currency and deposits > Assets
-486,P6OITC03,International investment position BPM6 > Other investment > Trade credit and advances > Liabilities
-487,P6TTTT01,International investment position BPM6 > Financial account (IIP) > Total > Net
-488,P6OIEQ01,International investment position BPM6 > Other investment > Other equity > Net
-489,P6OITT02,International investment position BPM6 > Other investment > Total > Assets
+414,PWCP0452,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Gas"
+415,PWCP0540,"Price Weights > Consumer Prices > Furnishing, Household equipment and routine maintenance > Glassware, tableware and household utensils"
+416,PWCP0910,"Price Weights > Consumer Prices > Recreation and culture > Audio-visual, photographic and information processing equipment"
+417,PWCP082G,Price Weights > Consumer Prices > Communication > Telephone and telefax equipment and services (08.2_3)
+418,PWCP0400,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Total"
+419,PWCP0940,Price Weights > Consumer Prices > Recreation and culture > Recreational and cultural services
+420,PWCPLR01,Price Weights > Consumer Prices > Services less housing > Total
+421,PWCP0431,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Materials for the maintenance and repair of the dwelling"
+422,PWHP1000,Price Weights > Harmonised Prices > Education > Total
+423,PWCP0630,Price Weights > Consumer Prices > Health > Hospital services
+424,PWCP0722,Price Weights > Consumer Prices > Transport > Fuels and lubricants for personal transport equipment
+425,PWCP0710,Price Weights > Consumer Prices > Transport > Purchase of vehicles
+426,PWCP1110,Price Weights > Consumer Prices > Restaurants and hotels > Catering services
+427,PWHP0700,Price Weights > Harmonised Prices > Transport > Total
+428,PWCP0730,Price Weights > Consumer Prices > Transport > Transport services
+429,PWCP0115,Price Weights > Consumer Prices > Food and non-alcoholic beverages > Oils and fats
+430,PWCP1210,Price Weights > Consumer Prices > Miscellaneous goods and services > Personal care
+431,PWCP0118,"Price Weights > Consumer Prices > Food and non-alcoholic beverages > Sugar, jam, honey, chocolate and confectionery"
+432,PWCP1120,Price Weights > Consumer Prices > Restaurants and hotels > Restaurants and hotels / Accommodation services
+433,PWCP1250,Price Weights > Consumer Prices > Miscellaneous goods and services > Insurance
+434,PWCP0220,"Price Weights > Consumer Prices > Alcoholic beverages, Tobacco and Narcotics > Tobacco"
+435,PWHP0100,Price Weights > Harmonised Prices > Food and non-alcoholic beverages > Total
+436,CP070200,Consumer Price Index > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment > Total
+437,SLRTCR03,Sales > Retail trade > Car registration > Passenger cars
+438,P6OICD01,International investment position BPM6 > Other investment > Currency and deposits > Net
+439,P6OICD03,International investment position BPM6 > Other investment > Currency and deposits > Liabilities
+440,P6OISD03,International investment position BPM6 > Other investment > Special drawing rights > Liabilities
+441,P6OITT01,International investment position BPM6 > Other investment > Total > Net
+442,P6OIEQ02,International investment position BPM6 > Other investment > Other equity > Assets
+443,P6TTTT02,International investment position BPM6 > Financial account (IIP) > Total > Assets
+444,P6OITC02,International investment position BPM6 > Other investment > Trade credit and advances > Assets
+445,P6OIIP01,"International investment position BPM6 > Other investment > Insurance, pensions and standardised guarantee schemes > Net"
+446,P6PIDB01,International investment position BPM6 > Portfolio investment > Debt instruments > Net
+447,P6OITT03,International investment position BPM6 > Other investment > Total > Liabilities
+448,P6DIEQ02,International investment position BPM6 > Direct investment > Equity and investment fund shares > Assets
+449,P6DIEQ01,International investment position BPM6 > Direct investment > Equity and investment fund shares > Net
+450,P6DIDB03,International investment position BPM6 > Direct investment > Debt instruments > Liabilities
+451,P6OIIP03,"International investment position BPM6 > Other investment > Insurance, pensions and standardised guarantee schemes > Liabilities"
+452,P6DITT03,International investment position BPM6 > Direct investment > Total > Liabilities
+453,P6PIDB03,International investment position BPM6 > Portfolio investment > Debt instruments > Liabilities
+454,P6PITT01,International investment position BPM6 > Portfolio investment > Total > Net
+455,P6DIDB01,International investment position BPM6 > Direct investment > Debt instruments > Net
+456,P6DIDB02,International investment position BPM6 > Direct investment > Debt instruments > Assets
+457,P6OIEQ03,International investment position BPM6 > Other investment > Other equity > Liabilties
+458,P6OIOA03,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Liabilities
+459,P6OIOA01,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Net
+460,P6PITT02,International investment position BPM6 > Portfolio investment > Total > Assets
+461,P6DIEQ03,International investment position BPM6 > Direct investment > Equity and investment fund shares > Liabilities
+462,P6PIEQ03,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Liabilities
+463,P6OISD02,International investment position BPM6 > Other investment > Special drawing rights > Assets
+464,P6RATT02,International investment position BPM6 > Reserve assets > Total > Assets
+465,P6OITC01,International investment position BPM6 > Other investment > Trade credit and advances > Net
+466,P6PIEQ02,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Assets
+467,P6FDTT01,International investment position BPM6 > Financial derivatives > Total > Net
+468,P6OIOA02,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Assets
+469,P6OILN03,International investment position BPM6 > Other investment > Loans > Liabilities
+470,P6FDTT03,International investment position BPM6 > Financial derivatives > Total > Liabilities
+471,P6OILN01,International investment position BPM6 > Other investment > Loans > Net
+472,P6PITT03,International investment position BPM6 > Portfolio investment > Total > Liabilities
+473,P6RATT01,International investment position BPM6 > Reserve assets > Total > Net
+474,P6OISD01,International investment position BPM6 > Other investment > Special drawing rights > Net
+475,P6TTTT03,International investment position BPM6 > Financial account (IIP) > Total > Liabilities
+476,P6DITT02,International investment position BPM6 > Direct investment > Total > Assets
+477,P6OIIP02,"International investment position BPM6 > Other investment > Insurance, pensions and standardised guarantee schemes > Assets"
+478,P6PIDB02,International investment position BPM6 > Portfolio investment > Debt instruments > Assets
+479,P6OILN02,International investment position BPM6 > Other investment > Loans > Assets
+480,P6PIEQ01,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Net
+481,P6FDTT02,International investment position BPM6 > Financial derivatives > Total > Assets
+482,P6DITT01,International investment position BPM6 > Direct investment > Total > Net
+483,P6OICD02,International investment position BPM6 > Other investment > Currency and deposits > Assets
+484,P6OITC03,International investment position BPM6 > Other investment > Trade credit and advances > Liabilities
+485,P6TTTT01,International investment position BPM6 > Financial account (IIP) > Total > Net
+486,P6OIEQ01,International investment position BPM6 > Other investment > Other equity > Net
+487,P6OITT02,International investment position BPM6 > Other investment > Total > Assets
