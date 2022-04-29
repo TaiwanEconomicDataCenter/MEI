@@ -156,6 +156,7 @@ if local == True:
     styr = int(input('Dealing Start Year of Main data: '))
     logging.info('Reading file: MEI_key'+main_suf+'\n')
     df_key = readExcelFile(data_path+'MEI_key'+main_suf+'.xlsx', header_ = 0, acceptNoFile=False, index_col_=0, sheet_name_='MEI_key')
+    df_key = df_key.applymap(lambda x: '' if str(x) == 'nan' else x)
     logging.info('Reading file from DB: mei_key'+'\n')
     DF_KEY = SELECT_DF_KEY('MEI')
     #logging.info('Reading TOT file: MEI_key'+DF_suffix+'\n')
