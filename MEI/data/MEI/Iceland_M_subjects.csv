@@ -72,43 +72,41 @@
 70,CP120000,Consumer Price Index > Miscellaneous goods and services (COICOP 12) > Total > Total
 71,CPHP0200,"Consumer Price Index > Harmonised prices > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total"
 72,CPHPSE01,Consumer Price Index > Harmonised prices > Services > Total
-73,CPGRLH01,Consumer Price Index > OECD Groups > Services less housing > Total
-74,CPGRHO02,Consumer Price Index > OECD Groups > Housing > Housing excluding imputed rentals for housing
-75,CPHP0600,Consumer Price Index > Harmonised prices > Health (COICOP 06) > Total
-76,CP060000,Consumer Price Index > Health (COICOP 06) > Total > Total
-77,CPHP0800,Consumer Price Index > Harmonised prices > Communication (COICOP 08) > Total
-78,CPHP0700,Consumer Price Index > Harmonised prices > Transport (COICOP 07) > Total
-79,CP040300,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance and repairs of the dwellings > Total"
-80,CP040500,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels > Total"
-81,CP040400,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling > Total"
-82,CP100000,Consumer Price Index > Education (COICOP 10) > Total > Total
-83,CPHP0401,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing"
-84,CPHP0300,Consumer Price Index > Harmonised prices > Clothing and footwear (COICOP 03) > Total
-85,CPHP0404,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling"
-86,CPHP0100,Consumer Price Index > Harmonised prices > Food and non-Alcoholic beverages (COICOP 01) > Total
-87,CPHP1200,Consumer Price Index > Harmonised prices > Miscellaneous goods and services (COICOP 12) > Total
-88,CPHPEN01,Consumer Price Index > Harmonised prices > Energy > Total
-89,CPGRHO01,Consumer Price Index > OECD Groups > Housing > Total
-90,CPHP0702,Consumer Price Index > Harmonised prices > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment
-91,CPSDCTGY,Consumer Price Index > Statistical discrepancy > Contribution > Annual inflation
-92,LOCOSIOR,Leading Indicators OECD > Component series > Interest rate spread > Original series
-93,LOCOCEOR,Leading Indicators OECD > Component series > CS - Expected economic situation > Original series
-94,LOCOPCNO,Leading Indicators OECD > Component series > Consumer prices > Normalised
-95,LOCOPMNO,Leading Indicators OECD > Component series > Production - Non metallic > Normalised
-96,LOCOSINO,Leading Indicators OECD > Component series > Interest rate spread > Normalised
-97,LOCOSPNO,Leading Indicators OECD > Component series > Share prices > Normalised
-98,LOCOTANO,Leading Indicators OECD > Component series > Tourism activity > Normalised
-99,LOCOVRNO,Leading Indicators OECD > Component series > Car registration - sales > Normalised
-100,LOLITOAA,Leading Indicators OECD > Leading indicators > CLI > Amplitude adjusted
-101,LOLITONO,Leading Indicators OECD > Leading indicators > CLI > Normalised
-102,LOLITOTR,Leading Indicators OECD > Leading indicators > CLI > Trend restored
-103,LOCOCENO,Leading Indicators OECD > Component series > CS - Expected economic situation > Normalised
-104,LORSGPNO,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Normalised
-105,LORSGPRT,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Ratio to trend
-106,LORSGPTD,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Trend
-107,LOCOPMOR,Leading Indicators OECD > Component series > Production - Non metallic > Original series
-108,LOCOPCOR,Leading Indicators OECD > Component series > Consumer prices > Original series
-109,LOCOSPOR,Leading Indicators OECD > Component series > Share prices > Original series
-110,LOCOTAOR,Leading Indicators OECD > Component series > Tourism activity > Original series
-111,LOCOVROR,Leading Indicators OECD > Component series > Car registration - sales > Original series
-112,SLRTCR03,Sales > Retail trade > Car registration > Passenger cars
+73,CPHP0600,Consumer Price Index > Harmonised prices > Health (COICOP 06) > Total
+74,CP060000,Consumer Price Index > Health (COICOP 06) > Total > Total
+75,CPHP0800,Consumer Price Index > Harmonised prices > Communication (COICOP 08) > Total
+76,CPHP0700,Consumer Price Index > Harmonised prices > Transport (COICOP 07) > Total
+77,CP040300,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance and repairs of the dwellings > Total"
+78,CP040500,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels > Total"
+79,CP040400,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling > Total"
+80,CP100000,Consumer Price Index > Education (COICOP 10) > Total > Total
+81,CPHP0401,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing"
+82,CPHP0300,Consumer Price Index > Harmonised prices > Clothing and footwear (COICOP 03) > Total
+83,CPHP0404,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling"
+84,CPHP0100,Consumer Price Index > Harmonised prices > Food and non-Alcoholic beverages (COICOP 01) > Total
+85,CPHP1200,Consumer Price Index > Harmonised prices > Miscellaneous goods and services (COICOP 12) > Total
+86,CPHPEN01,Consumer Price Index > Harmonised prices > Energy > Total
+87,CPGRHO01,Consumer Price Index > OECD Groups > Housing > Total
+88,CPHP0702,Consumer Price Index > Harmonised prices > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment
+89,CPSDCTGY,Consumer Price Index > Statistical discrepancy > Contribution > Annual inflation
+90,LOCOSIOR,Leading Indicators OECD > Component series > Interest rate spread > Original series
+91,LOCOCEOR,Leading Indicators OECD > Component series > CS - Expected economic situation > Original series
+92,LOCOPCNO,Leading Indicators OECD > Component series > Consumer prices > Normalised
+93,LOCOPMNO,Leading Indicators OECD > Component series > Production - Non metallic > Normalised
+94,LOCOSINO,Leading Indicators OECD > Component series > Interest rate spread > Normalised
+95,LOCOSPNO,Leading Indicators OECD > Component series > Share prices > Normalised
+96,LOCOTANO,Leading Indicators OECD > Component series > Tourism activity > Normalised
+97,LOCOVRNO,Leading Indicators OECD > Component series > Car registration - sales > Normalised
+98,LOLITOAA,Leading Indicators OECD > Leading indicators > CLI > Amplitude adjusted
+99,LOLITONO,Leading Indicators OECD > Leading indicators > CLI > Normalised
+100,LOLITOTR,Leading Indicators OECD > Leading indicators > CLI > Trend restored
+101,LOCOCENO,Leading Indicators OECD > Component series > CS - Expected economic situation > Normalised
+102,LORSGPNO,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Normalised
+103,LORSGPRT,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Ratio to trend
+104,LORSGPTD,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Trend
+105,LOCOPMOR,Leading Indicators OECD > Component series > Production - Non metallic > Original series
+106,LOCOPCOR,Leading Indicators OECD > Component series > Consumer prices > Original series
+107,LOCOSPOR,Leading Indicators OECD > Component series > Share prices > Original series
+108,LOCOTAOR,Leading Indicators OECD > Component series > Tourism activity > Original series
+109,LOCOVROR,Leading Indicators OECD > Component series > Car registration - sales > Original series
+110,SLRTCR03,Sales > Retail trade > Car registration > Passenger cars

@@ -6,201 +6,198 @@
 4,XTIMVA01,International Trade > Imports > Value (goods) > Total
 5,PRMNTO01,Production > Manufacturing > Total manufacturing > Total manufacturing
 6,SLRTTO01,Sales > Retail trade > Total retail trade > Volume
-7,CPGRLE01,Consumer Price Index > OECD Groups > All items non-food non-energy > Total
-8,BSCURT02,Business tendency surveys (manufacturing) > Capacity utilisation > Rate of capacity utilisation > National indicator
-9,LCULMN01,Labour Compensation > Unit Labour Cost > Manufacturing > Total
-10,MABMM301,Monetary aggregates and their components > Broad money and components > M3 > M3
-11,XTEITT01,International Trade > Ratio: Exports to imports > Total > Total
-12,BCCICP02,Business tendency surveys (construction) > Confidence indicators > Composite indicators > National indicator
-13,BREMFT02,Business tendency surveys (retail trade) > Employment > Future tendency > National indicator
-14,IRSTCI01,Interest Rates > Immediate rates (< 24 hrs) > Call money/interbank rate > Total
-15,PRCNTO01,Production > Construction > Total construction > Total
-16,CPGREN01,"Consumer Price Index > OECD Groups > Energy (Fuel, electricity & gasoline) > Total"
-17,CCUSSP02,"Currency Conversions > US$ exchange rate > Spot, end of period > National currency:USD"
-18,IRLTCT01,Interest Rates > Long-term government bond yields > Combined terms > Total
-19,SLWHTO02,Sales > Wholesale trade > Total wholesale trade > Value
-20,IR3TTS01,Interest Rates > 3-month or 90-day rates and yields > Treasury securities > Total
-21,IR3TIB01,Interest Rates > 3-month or 90-day rates and yields > Interbank rates > Total
-22,BSCICP02,Business tendency surveys (manufacturing) > Confidence indicators > Composite indicators > National indicator
-23,CSCICP02,Consumer opinion surveys > Confidence indicators > Composite indicators > National indicator
-24,XTEXVA01,International Trade > Exports > Value (goods) > Total
-25,CCRETT01,Currency Conversions > Real effective exchange rates > Overall Economy > CPI
-26,SPASTT01,Share Prices > All shares/broad > Total > Total
-27,CSINFT02,Consumer opinion surveys > Consumer prices (inflation) > Future tendency > National indicator
-28,SLRTTO02,Sales > Retail trade > Total retail trade > Value
-29,BCEMFT02,Business tendency surveys (construction) > Employment > Future tendency > National indicator
-30,CCUSMA02,Currency Conversions > US$ exchange rate > Average of daily rates > National currency:USD
-31,ODCNPI03,Orders > Construction > Permits issued > Dwellings / Residential buildings
-32,IRLTLT01,Interest Rates > Long-term government bond yields > 10-year > Main (including benchmark)
-33,CPALTT01,Consumer Price Index > All items > Total > Total
-34,SLWHTO01,Sales > Wholesale trade > Total wholesale trade > Volume
-35,BSPRFT02,Business tendency surveys (manufacturing) > Production > Future Tendency > National indicator
-36,MANMM101,Monetary aggregates and their components > Narrow money and components > M1 and components > M1
-37,PRMITO01,Production > Mining > Total mining > Total
-38,PIEATI02,Producer Prices Index > Economic activities > Industrial activities > Domestic
-39,PIEAMI02,Producer Prices Index > Economic activities > Mining and quarrying activities > Domestic
-40,PIEAMP02,Producer Prices Index > Economic activities > Manufacturing > Domestic
-41,NAEXKP01,National Accounts > GDP by Expenditure > Constant Prices > Gross Domestic Product - Total
-42,NAEXCP06,National Accounts > GDP by Expenditure > Current Prices > Exports of Goods and Services
-43,NAEXCP04,National Accounts > GDP by Expenditure > Current Prices > Gross Fixed Capital Formation
-44,NAEXCP07,National Accounts > GDP by Expenditure > Current Prices > less: Imports of Goods and Services
-45,NAEXCP01,National Accounts > GDP by Expenditure > Current Prices > Gross Domestic Product - Total
-46,NAEXCP05,National Accounts > GDP by Expenditure > Current Prices > Changes in inventories and net acquisition of valuables
-47,NAEXCP03,National Accounts > GDP by Expenditure > Current Prices > Government Final Consumption Expenditure
-48,NAGIGP01,National Accounts > National Accounts Deflators > Gross Domestic Product > GDP Deflator
-49,NAEXCP02,National Accounts > GDP by Expenditure > Current Prices > Private Final Consumption Expenditure
-50,NAEXKP03,National Accounts > GDP by Expenditure > Constant Prices > Government Final Consumption Expenditure
-51,NAEXKP06,National Accounts > GDP by Expenditure > Constant Prices > Exports of Goods and Services
-52,NAEXKP07,National Accounts > GDP by Expenditure > Constant Prices > Less: Imports of Goods and Services
-53,NAEXKP02,National Accounts > GDP by Expenditure > Constant Prices > Private Final Consumption Expenditure
-54,NAEXKP04,National Accounts > GDP by Expenditure > Constant Prices > Gross Fixed Capital Formation
-55,LOCOBSOR,Leading Indicators OECD > Component series > BTS - Business situation > Original series
-56,LORSGPOR,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Original series
-57,LRAC24TT,Labour Force Survey - quarterly rates > Activity rate > Aged 15-24 > All persons
-58,LRAC25TT,Labour Force Survey - quarterly rates > Activity rate > Aged 25-54 > All persons
-59,LRAC55TT,Labour Force Survey - quarterly rates > Activity rate > Aged 55-64 > All persons
-60,LRAC64FE,Labour Force Survey - quarterly rates > Activity rate > Aged 15-64 > Females
-61,LRAC64MA,Labour Force Survey - quarterly rates > Activity rate > Aged 15-64 > Males
-62,LRAC64TT,Labour Force Survey - quarterly rates > Activity rate > Aged 15-64 > All persons
-63,LREM24TT,Labour Force Survey - quarterly rates > Employment rate > Aged 15-24 > All persons
-64,LREM25TT,Labour Force Survey - quarterly rates > Employment rate > Aged 25-54 > All persons
-65,LREM55TT,Labour Force Survey - quarterly rates > Employment rate > Aged 55-64 > All persons
-66,LREM64FE,Labour Force Survey - quarterly rates > Employment rate > Aged 15-64 > Females
-67,LREM64MA,Labour Force Survey - quarterly rates > Employment rate > Aged 15-64 > Males
-68,LREM64TT,Labour Force Survey - quarterly rates > Employment rate > Aged 15-64 > All persons
-69,LRIN24TT,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15-24 > All persons
-70,LRIN25TT,Labour Force Survey - quarterly rates > Inactivity rate > Aged 25-54 > All persons
-71,LRIN55TT,Labour Force Survey - quarterly rates > Inactivity rate > Aged 55-64 > All persons
-72,LRIN64FE,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15-64 > Females
-73,LRIN64MA,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15-64 > Males
-74,LRIN64TT,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15-64 > All persons
-75,LRUN24TT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-24 > All persons
-76,LRUN25TT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 25-54 > All persons
-77,LRUN55TT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 55-64 > All persons
-78,LRUN64FE,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-64 > Females
-79,LRUN64MA,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-64 > Males
-80,LRUN64TT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-64 > All persons
-81,LRUNTTFE,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15 and over > Females
-82,LRUNTTMA,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15 and over > Males
-83,LRUNTTTT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15 and over > All persons
-84,LFAC24TT,Labour Force Survey - quarterly levels > Active population > Aged 15-24 > All persons
-85,LFAC25TT,Labour Force Survey - quarterly levels > Active population > Aged 25-54 > All persons
-86,LFAC55TT,Labour Force Survey - quarterly levels > Active population > Aged 55-64 > All persons
-87,LFAC64FE,Labour Force Survey - quarterly levels > Active population > Aged 15-64 > Females
-88,LFAC64MA,Labour Force Survey - quarterly levels > Active population > Aged 15-64 > Males
-89,LFAC64TT,Labour Force Survey - quarterly levels > Active population > Aged 15-64 > All persons
-90,LFEAAGTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Agriculture > All persons
-91,LFEACNTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Construction > All persons
-92,LFEAICTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Industry including construction > All persons
-93,LFEAINTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Industry excluding construction > All persons
-94,LFEAMNTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Manufacturing > All persons
-95,LFEASETT,Labour Force Survey - quarterly levels > Employment - by economic activity > Services > All persons
-96,LFEM24TT,Labour Force Survey - quarterly levels > Employed population > Aged 15-24 > All persons
-97,LFEM25TT,Labour Force Survey - quarterly levels > Employed population > Aged 25-54 > All persons
-98,LFEM55TT,Labour Force Survey - quarterly levels > Employed population > Aged 55-64 > All persons
-99,LFEM64FE,Labour Force Survey - quarterly levels > Employed population > Aged 15-64 > Females
-100,LFEM64MA,Labour Force Survey - quarterly levels > Employed population > Aged 15-64 > Males
-101,LFEM64TT,Labour Force Survey - quarterly levels > Employed population > Aged 15-64 > All persons
-102,LFESEETT,Labour Force Survey - quarterly levels > Employment - by professional status > Employees > Total
-103,LFIN24TT,Labour Force Survey - quarterly levels > Inactive population > Aged 15-24 > All persons
-104,LFIN25TT,Labour Force Survey - quarterly levels > Inactive population > Aged 25-54 > All persons
-105,LFIN55TT,Labour Force Survey - quarterly levels > Inactive population > Aged 55-64 > All persons
-106,LFIN64FE,Labour Force Survey - quarterly levels > Inactive population > Aged 15-64 > Females
-107,LFIN64MA,Labour Force Survey - quarterly levels > Inactive population > Aged 15-64 > Males
-108,LFIN64TT,Labour Force Survey - quarterly levels > Inactive population > Aged 15-64 > All persons
-109,LFUN24TT,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-24 > Total
-110,LFUN25TT,Labour Force Survey - quarterly levels > Unemployed population > Aged 25-54 > Total
-111,LFUN55TT,Labour Force Survey - quarterly levels > Unemployed population > Aged 55-64 > All persons
-112,LFUN64FE,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-64 > Females
-113,LFUN64MA,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-64 > Males
-114,LFUN64TT,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-64 > All persons
-115,LFWA24TT,Labour Force Survey - quarterly levels > Working age population > Aged 15-24 > All persons
-116,LFWA25TT,Labour Force Survey - quarterly levels > Working age population > Aged 25-54 > All persons
-117,LFWA55TT,Labour Force Survey - quarterly levels > Working age population > Aged 55-64 > All persons
-118,LFWA64FE,Labour Force Survey - quarterly levels > Working age population > Aged 15-64 > Females
-119,LFWA64MA,Labour Force Survey - quarterly levels > Working age population > Aged 15-64 > Males
-120,LFWA64TT,Labour Force Survey - quarterly levels > Working age population > Aged 15-64 > All persons
-121,LFUTLTTT,Labour Force Survey - quarterly levels > Unemployment - by duration > Long term (1 year and over) > All persons
-122,LFUTSTTT,Labour Force Survey - quarterly levels > Unemployment - by duration > Short term (less than 1 year) > All persons
-123,CSESFT02,Consumer opinion surveys > Economic Situation > Future tendency > National indicator
-124,BSOITE02,Business tendency surveys (manufacturing) > Orders inflow > Tendency > National indicator
-125,BSBUFT02,Business tendency surveys (manufacturing) > Business situation > Future tendency > National indicator
-126,BRBUFT02,Business tendency surveys (retail trade) > Business situation - Activity > Future tendency > National indicator
-127,BSBUCT02,Business tendency surveys (manufacturing) > Business situation > Current > National indicator
-128,BSSPFT02,Business tendency surveys (manufacturing) > Selling prices > Future tendency > National indicator
-129,BCBUTE02,Business tendency surveys (construction) > Business situation - Activity > Tendency > National indicator
-130,BRODFT02,Business tendency surveys (retail trade) > Order intentions or Demand > Future tendency > National indicator
-131,BRBUTE02,Business tendency surveys (retail trade) > Business situation - Activity > Tendency > National indicator
-132,LOCOBDOR,Leading Indicators OECD > Component series > BTS - Demand or orders inflow > Original series
-133,B6BLTT02,Balance of payments BPM6 > Current account Balance > Total > Total Balance as % of GDP
-134,B6BLSE01,Balance of payments BPM6 > Current account Balance > Services > Total Balance
-135,B6BLTT01,Balance of payments BPM6 > Current account Balance > Total > Total Balance
-136,B6DBTD01,Balance of payments BPM6 > Current account Debits > Goods > Total Debits
-137,B6FADI01,Balance of payments BPM6 > Financial account > Direct investment > Direct investment Net
-138,B6DBTT01,Balance of payments BPM6 > Current account Debits > Total > Total Debits
-139,B6EOTT01,Balance of payments BPM6 > Net errors and omissions > Net errors and omissions > Net errors and omissions Balance
-140,B6FATT01,Balance of payments BPM6 > Financial account > Financial account Net > Total
-141,B6FAPI10,Balance of payments BPM6 > Financial account > Portfolio investment > Portfolio investment Net
-142,B6BLSI01,Balance of payments BPM6 > Current account Balance > Secondary income > Total Balance
-143,B6CRSI01,Balance of payments BPM6 > Current account Credits > Secondary income > Total Credits
-144,B6CRTT01,Balance of payments BPM6 > Current account Credits > Total > Total Credits
-145,B6BLPI01,Balance of payments BPM6 > Current account Balance > Primary income > Total Balance
-146,B6CRTD01,Balance of payments BPM6 > Current account Credits > Goods > Total Credits
-147,B6DBSE01,Balance of payments BPM6 > Current account Debits > Services > Total Debits
-148,B6FADI03,Balance of payments BPM6 > Financial account > Direct investment > Direct investment Net incurrence of liabilities
-149,B6DBSI01,Balance of payments BPM6 > Current account Debits > Secondary income > Total Debits
-150,B6FAOI03,Balance of payments BPM6 > Financial account > Other investment > Other investment Net incurrence of liabilities
-151,B6FAPI03,Balance of payments BPM6 > Financial account > Portfolio investment > Portfolio investment Net incurrence of liabilities
-152,B6FARA01,Balance of payments BPM6 > Financial account > Reserve assets > Reserve assets Net
-153,B6BLTD01,Balance of payments BPM6 > Current account Balance > Goods > Total Balance
-154,B6CRPI01,Balance of payments BPM6 > Current account Credits > Primary income > Total Credits
-155,B6DBPI01,Balance of payments BPM6 > Current account Debits > Primary income > Total Debits
-156,B6CRSE02,Balance of payments BPM6 > Current account Credits > Services > Total Credits as % of Current account
-157,B6DBSE03,Balance of payments BPM6 > Current account Debits > Services > Total Debits as % of Goods and Services
-158,B6CRSE03,Balance of payments BPM6 > Current account Credits > Services > Total Credits as % of Goods and Services
-159,B6FADI02,Balance of payments BPM6 > Financial account > Direct investment > Direct investment Net acquisition of financial assets
-160,B6CACR00,Balance of payments BPM6 > Capital account > Capital account Credits > Capital account Credits
-161,B6CATT00,Balance of payments BPM6 > Capital account > Capital account Balance > Capital account Balance
-162,B6FAFD01,Balance of payments BPM6 > Financial account > Financial derivatives > Financial derivatives Net
-163,B6CRSE01,Balance of payments BPM6 > Current account Credits > Services > Total Credits
-164,B6CADB00,Balance of payments BPM6 > Capital account > Capital account Debits > Capital account Debits
-165,B6FAOI02,Balance of payments BPM6 > Financial account > Other investment > Other investment Net acquisition of financial assets
-166,B6FAPI02,Balance of payments BPM6 > Financial account > Portfolio investment > Portfolio investment Net acquisition of financial assets
-167,B6FAOI01,Balance of payments BPM6 > Financial account > Other investment > Other investment Net
-168,B6DBSE02,Balance of payments BPM6 > Current account Debits > Services > Total Debits as % of Current account
-169,B6CACR02,Balance of payments BPM6 > Capital account > Capital account Credits > Capital transfers Credits
-170,B6CATT02,Balance of payments BPM6 > Capital account > Capital account Balance > Capital transfers Balance
-171,B6CADB02,Balance of payments BPM6 > Capital account > Capital account Debits > Capital transfers Debits
-172,BSFGLV02,Business tendency surveys (manufacturing) > Finished goods stocks > Level > National indicator
-173,BSPRTE02,Business tendency surveys (manufacturing) > Production > Tendency > National indicator
-174,B6FATD01,Balance of payments BPM6 > Financial account > Financial account Net incurrence of liabilities > Total
-175,B6FATC01,Balance of payments BPM6 > Financial account > Financial account Net acquisition of financial assets > Total
-176,B6CACR01,Balance of payments BPM6 > Capital account > Capital account Credits > Gross disposals of non-produced non-financial assets Credits
-177,B6CATT01,Balance of payments BPM6 > Capital account > Capital account Balance > Gross acquisitions/disposals of non-produced non-financial assets Balance
-178,B6CADB01,Balance of payments BPM6 > Capital account > Capital account Debits > Gross acquisitions of non-produced non-financial assets Debits
-179,CP060000,Consumer Price Index > Health (COICOP 06) > Total > Total
-180,CP010000,Consumer Price Index > Food and non-Alcoholic beverages (COICOP 01) > Total > Total
-181,CP020000,"Consumer Price Index > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total > Total"
-182,CP030000,Consumer Price Index > Clothing and footwear (COICOP 03) > Total > Total
-183,CP040000,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Total > Total"
-184,CP050000,"Consumer Price Index > Furnishings, household equip. and routine household maintenance (COICOP 05) > Total > Total"
-185,CP070000,Consumer Price Index > Transport (COICOP 07) > Total > Total
-186,CP080000,Consumer Price Index > Communication (COICOP 08) > Total > Total
-187,CP090000,Consumer Price Index > Recreation and culture  (COICOP 09) > Total > Total
-188,CP100000,Consumer Price Index > Education (COICOP 10) > Total > Total
-189,CP110000,Consumer Price Index > Restaurants and hotels (COICOP 11) > Total > Total
-190,CP120000,Consumer Price Index > Miscellaneous goods and services (COICOP 12) > Total > Total
-191,CP040100,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing > Total"
-192,CP040200,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Imputed rentals for housing > Total"
-193,CP040300,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance and repairs of the dwellings > Total"
-194,CP040400,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling > Total"
-195,CP040500,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels > Total"
-196,CP070200,Consumer Price Index > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment > Total
-197,NAGICE01,National Accounts > National Accounts Deflators > Private Consumption Expenditure Deflator > Implicit Price Deflator Total
-198,CPGRHO01,Consumer Price Index > OECD Groups > Housing > Total
-199,BVCICP02,Business tendency surveys (services) > Confidence Indicators > Composite Indicators > National indicator
-200,BVEMFT02,Business tendency surveys (services) > Employment > Future tendency > National indicator
-201,BVEMTE02,Business tendency surveys (services) > Employment > Tendency > National indicator
-202,BVDETE02,Business tendency surveys (services) > Demand evolution > Tendency > National indicator
-203,BVBUTE02,Business tendency surveys (services) > Business situation - Activity > Tendency > National indicator
-204,BVDEFT02,Business tendency surveys (services) > Demand evolution > Future tendency > National indicator
+7,BSCURT02,Business tendency surveys (manufacturing) > Capacity utilisation > Rate of capacity utilisation > National indicator
+8,LCULMN01,Labour Compensation > Unit Labour Cost > Manufacturing > Total
+9,MABMM301,Monetary aggregates and their components > Broad money and components > M3 > M3
+10,XTEITT01,International Trade > Ratio: Exports to imports > Total > Total
+11,BCCICP02,Business tendency surveys (construction) > Confidence indicators > Composite indicators > National indicator
+12,BREMFT02,Business tendency surveys (retail trade) > Employment > Future tendency > National indicator
+13,IRSTCI01,Interest Rates > Immediate rates (< 24 hrs) > Call money/interbank rate > Total
+14,PRCNTO01,Production > Construction > Total construction > Total
+15,CCUSSP02,"Currency Conversions > US$ exchange rate > Spot, end of period > National currency:USD"
+16,IRLTCT01,Interest Rates > Long-term government bond yields > Combined terms > Total
+17,SLWHTO02,Sales > Wholesale trade > Total wholesale trade > Value
+18,IR3TTS01,Interest Rates > 3-month or 90-day rates and yields > Treasury securities > Total
+19,IR3TIB01,Interest Rates > 3-month or 90-day rates and yields > Interbank rates > Total
+20,BSCICP02,Business tendency surveys (manufacturing) > Confidence indicators > Composite indicators > National indicator
+21,CSCICP02,Consumer opinion surveys > Confidence indicators > Composite indicators > National indicator
+22,XTEXVA01,International Trade > Exports > Value (goods) > Total
+23,CCRETT01,Currency Conversions > Real effective exchange rates > Overall Economy > CPI
+24,SPASTT01,Share Prices > All shares/broad > Total > Total
+25,CSINFT02,Consumer opinion surveys > Consumer prices (inflation) > Future tendency > National indicator
+26,SLRTTO02,Sales > Retail trade > Total retail trade > Value
+27,BCEMFT02,Business tendency surveys (construction) > Employment > Future tendency > National indicator
+28,CCUSMA02,Currency Conversions > US$ exchange rate > Average of daily rates > National currency:USD
+29,ODCNPI03,Orders > Construction > Permits issued > Dwellings / Residential buildings
+30,IRLTLT01,Interest Rates > Long-term government bond yields > 10-year > Main (including benchmark)
+31,CPALTT01,Consumer Price Index > All items > Total > Total
+32,SLWHTO01,Sales > Wholesale trade > Total wholesale trade > Volume
+33,BSPRFT02,Business tendency surveys (manufacturing) > Production > Future Tendency > National indicator
+34,MANMM101,Monetary aggregates and their components > Narrow money and components > M1 and components > M1
+35,PRMITO01,Production > Mining > Total mining > Total
+36,PIEATI02,Producer Prices Index > Economic activities > Industrial activities > Domestic
+37,PIEAMI02,Producer Prices Index > Economic activities > Mining and quarrying activities > Domestic
+38,PIEAMP02,Producer Prices Index > Economic activities > Manufacturing > Domestic
+39,NAEXKP01,National Accounts > GDP by Expenditure > Constant Prices > Gross Domestic Product - Total
+40,NAEXCP06,National Accounts > GDP by Expenditure > Current Prices > Exports of Goods and Services
+41,NAEXCP04,National Accounts > GDP by Expenditure > Current Prices > Gross Fixed Capital Formation
+42,NAEXCP07,National Accounts > GDP by Expenditure > Current Prices > less: Imports of Goods and Services
+43,NAEXCP01,National Accounts > GDP by Expenditure > Current Prices > Gross Domestic Product - Total
+44,NAEXCP05,National Accounts > GDP by Expenditure > Current Prices > Changes in inventories and net acquisition of valuables
+45,NAEXCP03,National Accounts > GDP by Expenditure > Current Prices > Government Final Consumption Expenditure
+46,NAGIGP01,National Accounts > National Accounts Deflators > Gross Domestic Product > GDP Deflator
+47,NAEXCP02,National Accounts > GDP by Expenditure > Current Prices > Private Final Consumption Expenditure
+48,NAEXKP03,National Accounts > GDP by Expenditure > Constant Prices > Government Final Consumption Expenditure
+49,NAEXKP06,National Accounts > GDP by Expenditure > Constant Prices > Exports of Goods and Services
+50,NAEXKP07,National Accounts > GDP by Expenditure > Constant Prices > Less: Imports of Goods and Services
+51,NAEXKP02,National Accounts > GDP by Expenditure > Constant Prices > Private Final Consumption Expenditure
+52,NAEXKP04,National Accounts > GDP by Expenditure > Constant Prices > Gross Fixed Capital Formation
+53,LOCOBSOR,Leading Indicators OECD > Component series > BTS - Business situation > Original series
+54,LORSGPOR,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Original series
+55,LRAC24TT,Labour Force Survey - quarterly rates > Activity rate > Aged 15-24 > All persons
+56,LRAC25TT,Labour Force Survey - quarterly rates > Activity rate > Aged 25-54 > All persons
+57,LRAC55TT,Labour Force Survey - quarterly rates > Activity rate > Aged 55-64 > All persons
+58,LRAC64FE,Labour Force Survey - quarterly rates > Activity rate > Aged 15-64 > Females
+59,LRAC64MA,Labour Force Survey - quarterly rates > Activity rate > Aged 15-64 > Males
+60,LRAC64TT,Labour Force Survey - quarterly rates > Activity rate > Aged 15-64 > All persons
+61,LREM24TT,Labour Force Survey - quarterly rates > Employment rate > Aged 15-24 > All persons
+62,LREM25TT,Labour Force Survey - quarterly rates > Employment rate > Aged 25-54 > All persons
+63,LREM55TT,Labour Force Survey - quarterly rates > Employment rate > Aged 55-64 > All persons
+64,LREM64FE,Labour Force Survey - quarterly rates > Employment rate > Aged 15-64 > Females
+65,LREM64MA,Labour Force Survey - quarterly rates > Employment rate > Aged 15-64 > Males
+66,LREM64TT,Labour Force Survey - quarterly rates > Employment rate > Aged 15-64 > All persons
+67,LRIN24TT,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15-24 > All persons
+68,LRIN25TT,Labour Force Survey - quarterly rates > Inactivity rate > Aged 25-54 > All persons
+69,LRIN55TT,Labour Force Survey - quarterly rates > Inactivity rate > Aged 55-64 > All persons
+70,LRIN64FE,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15-64 > Females
+71,LRIN64MA,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15-64 > Males
+72,LRIN64TT,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15-64 > All persons
+73,LRUN24TT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-24 > All persons
+74,LRUN25TT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 25-54 > All persons
+75,LRUN55TT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 55-64 > All persons
+76,LRUN64FE,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-64 > Females
+77,LRUN64MA,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-64 > Males
+78,LRUN64TT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-64 > All persons
+79,LRUNTTFE,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15 and over > Females
+80,LRUNTTMA,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15 and over > Males
+81,LRUNTTTT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15 and over > All persons
+82,LFAC24TT,Labour Force Survey - quarterly levels > Active population > Aged 15-24 > All persons
+83,LFAC25TT,Labour Force Survey - quarterly levels > Active population > Aged 25-54 > All persons
+84,LFAC55TT,Labour Force Survey - quarterly levels > Active population > Aged 55-64 > All persons
+85,LFAC64FE,Labour Force Survey - quarterly levels > Active population > Aged 15-64 > Females
+86,LFAC64MA,Labour Force Survey - quarterly levels > Active population > Aged 15-64 > Males
+87,LFAC64TT,Labour Force Survey - quarterly levels > Active population > Aged 15-64 > All persons
+88,LFEAAGTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Agriculture > All persons
+89,LFEACNTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Construction > All persons
+90,LFEAICTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Industry including construction > All persons
+91,LFEAINTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Industry excluding construction > All persons
+92,LFEAMNTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Manufacturing > All persons
+93,LFEASETT,Labour Force Survey - quarterly levels > Employment - by economic activity > Services > All persons
+94,LFEM24TT,Labour Force Survey - quarterly levels > Employed population > Aged 15-24 > All persons
+95,LFEM25TT,Labour Force Survey - quarterly levels > Employed population > Aged 25-54 > All persons
+96,LFEM55TT,Labour Force Survey - quarterly levels > Employed population > Aged 55-64 > All persons
+97,LFEM64FE,Labour Force Survey - quarterly levels > Employed population > Aged 15-64 > Females
+98,LFEM64MA,Labour Force Survey - quarterly levels > Employed population > Aged 15-64 > Males
+99,LFEM64TT,Labour Force Survey - quarterly levels > Employed population > Aged 15-64 > All persons
+100,LFESEETT,Labour Force Survey - quarterly levels > Employment - by professional status > Employees > Total
+101,LFIN24TT,Labour Force Survey - quarterly levels > Inactive population > Aged 15-24 > All persons
+102,LFIN25TT,Labour Force Survey - quarterly levels > Inactive population > Aged 25-54 > All persons
+103,LFIN55TT,Labour Force Survey - quarterly levels > Inactive population > Aged 55-64 > All persons
+104,LFIN64FE,Labour Force Survey - quarterly levels > Inactive population > Aged 15-64 > Females
+105,LFIN64MA,Labour Force Survey - quarterly levels > Inactive population > Aged 15-64 > Males
+106,LFIN64TT,Labour Force Survey - quarterly levels > Inactive population > Aged 15-64 > All persons
+107,LFUN24TT,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-24 > Total
+108,LFUN25TT,Labour Force Survey - quarterly levels > Unemployed population > Aged 25-54 > Total
+109,LFUN55TT,Labour Force Survey - quarterly levels > Unemployed population > Aged 55-64 > All persons
+110,LFUN64FE,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-64 > Females
+111,LFUN64MA,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-64 > Males
+112,LFUN64TT,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-64 > All persons
+113,LFWA24TT,Labour Force Survey - quarterly levels > Working age population > Aged 15-24 > All persons
+114,LFWA25TT,Labour Force Survey - quarterly levels > Working age population > Aged 25-54 > All persons
+115,LFWA55TT,Labour Force Survey - quarterly levels > Working age population > Aged 55-64 > All persons
+116,LFWA64FE,Labour Force Survey - quarterly levels > Working age population > Aged 15-64 > Females
+117,LFWA64MA,Labour Force Survey - quarterly levels > Working age population > Aged 15-64 > Males
+118,LFWA64TT,Labour Force Survey - quarterly levels > Working age population > Aged 15-64 > All persons
+119,LFUTLTTT,Labour Force Survey - quarterly levels > Unemployment - by duration > Long term (1 year and over) > All persons
+120,LFUTSTTT,Labour Force Survey - quarterly levels > Unemployment - by duration > Short term (less than 1 year) > All persons
+121,CSESFT02,Consumer opinion surveys > Economic Situation > Future tendency > National indicator
+122,BSOITE02,Business tendency surveys (manufacturing) > Orders inflow > Tendency > National indicator
+123,BSBUFT02,Business tendency surveys (manufacturing) > Business situation > Future tendency > National indicator
+124,BRBUFT02,Business tendency surveys (retail trade) > Business situation - Activity > Future tendency > National indicator
+125,BSBUCT02,Business tendency surveys (manufacturing) > Business situation > Current > National indicator
+126,BSSPFT02,Business tendency surveys (manufacturing) > Selling prices > Future tendency > National indicator
+127,BCBUTE02,Business tendency surveys (construction) > Business situation - Activity > Tendency > National indicator
+128,BRODFT02,Business tendency surveys (retail trade) > Order intentions or Demand > Future tendency > National indicator
+129,BRBUTE02,Business tendency surveys (retail trade) > Business situation - Activity > Tendency > National indicator
+130,LOCOBDOR,Leading Indicators OECD > Component series > BTS - Demand or orders inflow > Original series
+131,B6BLTT02,Balance of payments BPM6 > Current account Balance > Total > Total Balance as % of GDP
+132,B6BLSE01,Balance of payments BPM6 > Current account Balance > Services > Total Balance
+133,B6BLTT01,Balance of payments BPM6 > Current account Balance > Total > Total Balance
+134,B6DBTD01,Balance of payments BPM6 > Current account Debits > Goods > Total Debits
+135,B6FADI01,Balance of payments BPM6 > Financial account > Direct investment > Direct investment Net
+136,B6DBTT01,Balance of payments BPM6 > Current account Debits > Total > Total Debits
+137,B6EOTT01,Balance of payments BPM6 > Net errors and omissions > Net errors and omissions > Net errors and omissions Balance
+138,B6FATT01,Balance of payments BPM6 > Financial account > Financial account Net > Total
+139,B6FAPI10,Balance of payments BPM6 > Financial account > Portfolio investment > Portfolio investment Net
+140,B6BLSI01,Balance of payments BPM6 > Current account Balance > Secondary income > Total Balance
+141,B6CRSI01,Balance of payments BPM6 > Current account Credits > Secondary income > Total Credits
+142,B6CRTT01,Balance of payments BPM6 > Current account Credits > Total > Total Credits
+143,B6BLPI01,Balance of payments BPM6 > Current account Balance > Primary income > Total Balance
+144,B6CRTD01,Balance of payments BPM6 > Current account Credits > Goods > Total Credits
+145,B6DBSE01,Balance of payments BPM6 > Current account Debits > Services > Total Debits
+146,B6FADI03,Balance of payments BPM6 > Financial account > Direct investment > Direct investment Net incurrence of liabilities
+147,B6DBSI01,Balance of payments BPM6 > Current account Debits > Secondary income > Total Debits
+148,B6FAOI03,Balance of payments BPM6 > Financial account > Other investment > Other investment Net incurrence of liabilities
+149,B6FAPI03,Balance of payments BPM6 > Financial account > Portfolio investment > Portfolio investment Net incurrence of liabilities
+150,B6FARA01,Balance of payments BPM6 > Financial account > Reserve assets > Reserve assets Net
+151,B6BLTD01,Balance of payments BPM6 > Current account Balance > Goods > Total Balance
+152,B6CRPI01,Balance of payments BPM6 > Current account Credits > Primary income > Total Credits
+153,B6DBPI01,Balance of payments BPM6 > Current account Debits > Primary income > Total Debits
+154,B6CRSE02,Balance of payments BPM6 > Current account Credits > Services > Total Credits as % of Current account
+155,B6DBSE03,Balance of payments BPM6 > Current account Debits > Services > Total Debits as % of Goods and Services
+156,B6CRSE03,Balance of payments BPM6 > Current account Credits > Services > Total Credits as % of Goods and Services
+157,B6FADI02,Balance of payments BPM6 > Financial account > Direct investment > Direct investment Net acquisition of financial assets
+158,B6CACR00,Balance of payments BPM6 > Capital account > Capital account Credits > Capital account Credits
+159,B6CATT00,Balance of payments BPM6 > Capital account > Capital account Balance > Capital account Balance
+160,B6FAFD01,Balance of payments BPM6 > Financial account > Financial derivatives > Financial derivatives Net
+161,B6CRSE01,Balance of payments BPM6 > Current account Credits > Services > Total Credits
+162,B6CADB00,Balance of payments BPM6 > Capital account > Capital account Debits > Capital account Debits
+163,B6FAOI02,Balance of payments BPM6 > Financial account > Other investment > Other investment Net acquisition of financial assets
+164,B6FAPI02,Balance of payments BPM6 > Financial account > Portfolio investment > Portfolio investment Net acquisition of financial assets
+165,B6FAOI01,Balance of payments BPM6 > Financial account > Other investment > Other investment Net
+166,B6DBSE02,Balance of payments BPM6 > Current account Debits > Services > Total Debits as % of Current account
+167,B6CACR02,Balance of payments BPM6 > Capital account > Capital account Credits > Capital transfers Credits
+168,B6CATT02,Balance of payments BPM6 > Capital account > Capital account Balance > Capital transfers Balance
+169,B6CADB02,Balance of payments BPM6 > Capital account > Capital account Debits > Capital transfers Debits
+170,BSFGLV02,Business tendency surveys (manufacturing) > Finished goods stocks > Level > National indicator
+171,BSPRTE02,Business tendency surveys (manufacturing) > Production > Tendency > National indicator
+172,B6FATD01,Balance of payments BPM6 > Financial account > Financial account Net incurrence of liabilities > Total
+173,B6FATC01,Balance of payments BPM6 > Financial account > Financial account Net acquisition of financial assets > Total
+174,B6CACR01,Balance of payments BPM6 > Capital account > Capital account Credits > Gross disposals of non-produced non-financial assets Credits
+175,B6CATT01,Balance of payments BPM6 > Capital account > Capital account Balance > Gross acquisitions/disposals of non-produced non-financial assets Balance
+176,B6CADB01,Balance of payments BPM6 > Capital account > Capital account Debits > Gross acquisitions of non-produced non-financial assets Debits
+177,CP060000,Consumer Price Index > Health (COICOP 06) > Total > Total
+178,CP010000,Consumer Price Index > Food and non-Alcoholic beverages (COICOP 01) > Total > Total
+179,CP020000,"Consumer Price Index > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total > Total"
+180,CP030000,Consumer Price Index > Clothing and footwear (COICOP 03) > Total > Total
+181,CP040000,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Total > Total"
+182,CP050000,"Consumer Price Index > Furnishings, household equip. and routine household maintenance (COICOP 05) > Total > Total"
+183,CP070000,Consumer Price Index > Transport (COICOP 07) > Total > Total
+184,CP080000,Consumer Price Index > Communication (COICOP 08) > Total > Total
+185,CP090000,Consumer Price Index > Recreation and culture  (COICOP 09) > Total > Total
+186,CP100000,Consumer Price Index > Education (COICOP 10) > Total > Total
+187,CP110000,Consumer Price Index > Restaurants and hotels (COICOP 11) > Total > Total
+188,CP120000,Consumer Price Index > Miscellaneous goods and services (COICOP 12) > Total > Total
+189,CP040100,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing > Total"
+190,CP040200,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Imputed rentals for housing > Total"
+191,CP040300,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance and repairs of the dwellings > Total"
+192,CP040400,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling > Total"
+193,CP040500,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels > Total"
+194,CP070200,Consumer Price Index > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment > Total
+195,NAGICE01,National Accounts > National Accounts Deflators > Private Consumption Expenditure Deflator > Implicit Price Deflator Total
+196,BVCICP02,Business tendency surveys (services) > Confidence Indicators > Composite Indicators > National indicator
+197,BVEMFT02,Business tendency surveys (services) > Employment > Future tendency > National indicator
+198,BVEMTE02,Business tendency surveys (services) > Employment > Tendency > National indicator
+199,BVDETE02,Business tendency surveys (services) > Demand evolution > Tendency > National indicator
+200,BVBUTE02,Business tendency surveys (services) > Business situation - Activity > Tendency > National indicator
+201,BVDEFT02,Business tendency surveys (services) > Demand evolution > Future tendency > National indicator

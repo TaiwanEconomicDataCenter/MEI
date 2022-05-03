@@ -4,68 +4,65 @@
 2,XTIMVA01,International Trade > Imports > Value (goods) > Total
 3,PRMNTO01,Production > Manufacturing > Total manufacturing > Total manufacturing
 4,SLRTTO01,Sales > Retail trade > Total retail trade > Volume
-5,CPGRLE01,Consumer Price Index > OECD Groups > All items non-food non-energy > Total
-6,MABMM301,Monetary aggregates and their components > Broad money and components > M3 > M3
-7,PRENEL01,Production > Energy > Electricity > Total
-8,SLRTCR03,Sales > Retail trade > Car registration > Passenger cars
-9,XTEITT01,International Trade > Ratio: Exports to imports > Total > Total
-10,IRSTCI01,Interest Rates > Immediate rates (< 24 hrs) > Call money/interbank rate > Total
-11,PRCNTO01,Production > Construction > Total construction > Total
-12,CPGREN01,"Consumer Price Index > OECD Groups > Energy (Fuel, electricity & gasoline) > Total"
-13,CCUSSP02,"Currency Conversions > US$ exchange rate > Spot, end of period > National currency:USD"
-14,IRLTCT01,Interest Rates > Long-term government bond yields > Combined terms > Total
-15,SLWHTO02,Sales > Wholesale trade > Total wholesale trade > Value
-16,IR3TTS01,Interest Rates > 3-month or 90-day rates and yields > Treasury securities > Total
-17,IR3TIB01,Interest Rates > 3-month or 90-day rates and yields > Interbank rates > Total
-18,XTEXVA01,International Trade > Exports > Value (goods) > Total
-19,CSCICP03,Consumer opinion surveys > Confidence indicators > Composite indicators > OECD Indicator
-20,CCRETT01,Currency Conversions > Real effective exchange rates > Overall Economy > CPI
-21,BSCICP03,Business tendency surveys (manufacturing) > Confidence indicators > Composite indicators > OECD Indicator
-22,SPASTT01,Share Prices > All shares/broad > Total > Total
-23,SLRTTO02,Sales > Retail trade > Total retail trade > Value
-24,SLMNTO02,Sales > Manufacturing > Total manufacturing > Value
-25,CCUSMA02,Currency Conversions > US$ exchange rate > Average of daily rates > National currency:USD
-26,ODCNPI03,Orders > Construction > Permits issued > Dwellings / Residential buildings
-27,IRLTLT01,Interest Rates > Long-term government bond yields > 10-year > Main (including benchmark)
-28,CPALTT01,Consumer Price Index > All items > Total > Total
-29,SLWHTO01,Sales > Wholesale trade > Total wholesale trade > Volume
-30,MANMM101,Monetary aggregates and their components > Narrow money and components > M1 and components > M1
-31,PRMITO01,Production > Mining > Total mining > Total
-32,PIEATI02,Producer Prices Index > Economic activities > Industrial activities > Domestic
-33,PIEAMI02,Producer Prices Index > Economic activities > Mining and quarrying activities > Domestic
-34,PIEAMP02,Producer Prices Index > Economic activities > Manufacturing > Domestic
-35,LOCOBDNO,Leading Indicators OECD > Component series > BTS - Demand or orders inflow > Normalised
-36,LOCOBSNO,Leading Indicators OECD > Component series > BTS - Business situation > Normalised
-37,LOCODWNO,Leading Indicators OECD > Component series > Construction > Normalised
-38,LOCOSINO,Leading Indicators OECD > Component series > Interest rate spread > Normalised
-39,LOCOSIOR,Leading Indicators OECD > Component series > Interest rate spread > Original series
-40,LOCOSPNO,Leading Indicators OECD > Component series > Share prices > Normalised
-41,LOCOSPOR,Leading Indicators OECD > Component series > Share prices > Original series
-42,LOCOVRNO,Leading Indicators OECD > Component series > Car registration - sales > Normalised
-43,LOLITOAA,Leading Indicators OECD > Leading indicators > CLI > Amplitude adjusted
-44,LOLITONO,Leading Indicators OECD > Leading indicators > CLI > Normalised
-45,LOLITOTR,Leading Indicators OECD > Leading indicators > CLI > Trend restored
-46,LORSGPNO,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Normalised
-47,LORSGPRT,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Ratio to trend
-48,LORSGPTD,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Trend
-49,LOCODWOR,Leading Indicators OECD > Component series > Construction > Original series
-50,CP060000,Consumer Price Index > Health (COICOP 06) > Total > Total
-51,CP010000,Consumer Price Index > Food and non-Alcoholic beverages (COICOP 01) > Total > Total
-52,CP020000,"Consumer Price Index > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total > Total"
-53,CP030000,Consumer Price Index > Clothing and footwear (COICOP 03) > Total > Total
-54,CP040000,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Total > Total"
-55,CP050000,"Consumer Price Index > Furnishings, household equip. and routine household maintenance (COICOP 05) > Total > Total"
-56,CP070000,Consumer Price Index > Transport (COICOP 07) > Total > Total
-57,CP080000,Consumer Price Index > Communication (COICOP 08) > Total > Total
-58,CP090000,Consumer Price Index > Recreation and culture  (COICOP 09) > Total > Total
-59,CP100000,Consumer Price Index > Education (COICOP 10) > Total > Total
-60,CP110000,Consumer Price Index > Restaurants and hotels (COICOP 11) > Total > Total
-61,CP120000,Consumer Price Index > Miscellaneous goods and services (COICOP 12) > Total > Total
-62,CP040100,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing > Total"
-63,CP040200,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Imputed rentals for housing > Total"
-64,CP040300,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance and repairs of the dwellings > Total"
-65,CP040400,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling > Total"
-66,CP040500,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels > Total"
-67,CP070200,Consumer Price Index > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment > Total
-68,CPGRHO01,Consumer Price Index > OECD Groups > Housing > Total
-69,CSCICP04,Consumer opinion surveys > Confidence indicators > Composite indicators > Normalised indicator
+5,MABMM301,Monetary aggregates and their components > Broad money and components > M3 > M3
+6,PRENEL01,Production > Energy > Electricity > Total
+7,SLRTCR03,Sales > Retail trade > Car registration > Passenger cars
+8,XTEITT01,International Trade > Ratio: Exports to imports > Total > Total
+9,IRSTCI01,Interest Rates > Immediate rates (< 24 hrs) > Call money/interbank rate > Total
+10,PRCNTO01,Production > Construction > Total construction > Total
+11,CCUSSP02,"Currency Conversions > US$ exchange rate > Spot, end of period > National currency:USD"
+12,IRLTCT01,Interest Rates > Long-term government bond yields > Combined terms > Total
+13,SLWHTO02,Sales > Wholesale trade > Total wholesale trade > Value
+14,IR3TTS01,Interest Rates > 3-month or 90-day rates and yields > Treasury securities > Total
+15,IR3TIB01,Interest Rates > 3-month or 90-day rates and yields > Interbank rates > Total
+16,XTEXVA01,International Trade > Exports > Value (goods) > Total
+17,CSCICP03,Consumer opinion surveys > Confidence indicators > Composite indicators > OECD Indicator
+18,CCRETT01,Currency Conversions > Real effective exchange rates > Overall Economy > CPI
+19,BSCICP03,Business tendency surveys (manufacturing) > Confidence indicators > Composite indicators > OECD Indicator
+20,SPASTT01,Share Prices > All shares/broad > Total > Total
+21,SLRTTO02,Sales > Retail trade > Total retail trade > Value
+22,SLMNTO02,Sales > Manufacturing > Total manufacturing > Value
+23,CCUSMA02,Currency Conversions > US$ exchange rate > Average of daily rates > National currency:USD
+24,ODCNPI03,Orders > Construction > Permits issued > Dwellings / Residential buildings
+25,IRLTLT01,Interest Rates > Long-term government bond yields > 10-year > Main (including benchmark)
+26,CPALTT01,Consumer Price Index > All items > Total > Total
+27,SLWHTO01,Sales > Wholesale trade > Total wholesale trade > Volume
+28,MANMM101,Monetary aggregates and their components > Narrow money and components > M1 and components > M1
+29,PRMITO01,Production > Mining > Total mining > Total
+30,PIEATI02,Producer Prices Index > Economic activities > Industrial activities > Domestic
+31,PIEAMI02,Producer Prices Index > Economic activities > Mining and quarrying activities > Domestic
+32,PIEAMP02,Producer Prices Index > Economic activities > Manufacturing > Domestic
+33,LOCOBDNO,Leading Indicators OECD > Component series > BTS - Demand or orders inflow > Normalised
+34,LOCOBSNO,Leading Indicators OECD > Component series > BTS - Business situation > Normalised
+35,LOCODWNO,Leading Indicators OECD > Component series > Construction > Normalised
+36,LOCOSINO,Leading Indicators OECD > Component series > Interest rate spread > Normalised
+37,LOCOSIOR,Leading Indicators OECD > Component series > Interest rate spread > Original series
+38,LOCOSPNO,Leading Indicators OECD > Component series > Share prices > Normalised
+39,LOCOSPOR,Leading Indicators OECD > Component series > Share prices > Original series
+40,LOCOVRNO,Leading Indicators OECD > Component series > Car registration - sales > Normalised
+41,LOLITOAA,Leading Indicators OECD > Leading indicators > CLI > Amplitude adjusted
+42,LOLITONO,Leading Indicators OECD > Leading indicators > CLI > Normalised
+43,LOLITOTR,Leading Indicators OECD > Leading indicators > CLI > Trend restored
+44,LORSGPNO,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Normalised
+45,LORSGPRT,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Ratio to trend
+46,LORSGPTD,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Trend
+47,LOCODWOR,Leading Indicators OECD > Component series > Construction > Original series
+48,CP060000,Consumer Price Index > Health (COICOP 06) > Total > Total
+49,CP010000,Consumer Price Index > Food and non-Alcoholic beverages (COICOP 01) > Total > Total
+50,CP020000,"Consumer Price Index > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total > Total"
+51,CP030000,Consumer Price Index > Clothing and footwear (COICOP 03) > Total > Total
+52,CP040000,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Total > Total"
+53,CP050000,"Consumer Price Index > Furnishings, household equip. and routine household maintenance (COICOP 05) > Total > Total"
+54,CP070000,Consumer Price Index > Transport (COICOP 07) > Total > Total
+55,CP080000,Consumer Price Index > Communication (COICOP 08) > Total > Total
+56,CP090000,Consumer Price Index > Recreation and culture  (COICOP 09) > Total > Total
+57,CP100000,Consumer Price Index > Education (COICOP 10) > Total > Total
+58,CP110000,Consumer Price Index > Restaurants and hotels (COICOP 11) > Total > Total
+59,CP120000,Consumer Price Index > Miscellaneous goods and services (COICOP 12) > Total > Total
+60,CP040100,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing > Total"
+61,CP040200,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Imputed rentals for housing > Total"
+62,CP040300,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance and repairs of the dwellings > Total"
+63,CP040400,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling > Total"
+64,CP040500,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels > Total"
+65,CP070200,Consumer Price Index > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment > Total
+66,CSCICP04,Consumer opinion surveys > Confidence indicators > Composite indicators > Normalised indicator

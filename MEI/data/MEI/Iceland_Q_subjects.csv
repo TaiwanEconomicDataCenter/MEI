@@ -293,64 +293,62 @@
 291,CP110000,Consumer Price Index > Restaurants and hotels (COICOP 11) > Total > Total
 292,CP040300,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance and repairs of the dwellings > Total"
 293,CP120000,Consumer Price Index > Miscellaneous goods and services (COICOP 12) > Total > Total
-294,CPGRHO02,Consumer Price Index > OECD Groups > Housing > Housing excluding imputed rentals for housing
-295,CP090000,Consumer Price Index > Recreation and culture  (COICOP 09) > Total > Total
-296,CPGRLH01,Consumer Price Index > OECD Groups > Services less housing > Total
-297,CPGRHO01,Consumer Price Index > OECD Groups > Housing > Total
-298,CP040000,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Total > Total"
-299,CP060000,Consumer Price Index > Health (COICOP 06) > Total > Total
-300,CP040100,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing > Total"
-301,CP040200,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Imputed rentals for housing > Total"
-302,CP100000,Consumer Price Index > Education (COICOP 10) > Total > Total
-303,NAGICE01,National Accounts > National Accounts Deflators > Private Consumption Expenditure Deflator > Implicit Price Deflator Total
-304,LORSGPOR,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Original series
-305,P6OITC01,International investment position BPM6 > Other investment > Trade credit and advances > Net
-306,P6TTTT01,International investment position BPM6 > Financial account (IIP) > Total > Net
-307,P6TTTT02,International investment position BPM6 > Financial account (IIP) > Total > Assets
-308,P6OICD02,International investment position BPM6 > Other investment > Currency and deposits > Assets
-309,P6FDTT02,International investment position BPM6 > Financial derivatives > Total > Assets
-310,P6OIOA01,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Net
-311,P6OILN02,International investment position BPM6 > Other investment > Loans > Assets
-312,P6PITT02,International investment position BPM6 > Portfolio investment > Total > Assets
-313,P6OIOA03,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Liabilities
-314,P6OICD03,International investment position BPM6 > Other investment > Currency and deposits > Liabilities
-315,P6OISD02,International investment position BPM6 > Other investment > Special drawing rights > Assets
-316,P6PIEQ01,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Net
-317,P6DITT02,International investment position BPM6 > Direct investment > Total > Assets
-318,P6OITC02,International investment position BPM6 > Other investment > Trade credit and advances > Assets
-319,P6OITT01,International investment position BPM6 > Other investment > Total > Net
-320,P6OIIP01,"International investment position BPM6 > Other investment > Insurance, pensions and standardised guarantee schemes > Net"
-321,P6RATT02,International investment position BPM6 > Reserve assets > Total > Assets
-322,P6DITT03,International investment position BPM6 > Direct investment > Total > Liabilities
-323,P6OIEQ02,International investment position BPM6 > Other investment > Other equity > Assets
-324,P6PIDB01,International investment position BPM6 > Portfolio investment > Debt instruments > Net
-325,P6OITT03,International investment position BPM6 > Other investment > Total > Liabilities
-326,P6OILN03,International investment position BPM6 > Other investment > Loans > Liabilities
-327,P6OIOA02,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Assets
-328,P6FDTT01,International investment position BPM6 > Financial derivatives > Total > Net
-329,P6OIIP02,"International investment position BPM6 > Other investment > Insurance, pensions and standardised guarantee schemes > Assets"
-330,P6DIEQ03,International investment position BPM6 > Direct investment > Equity and investment fund shares > Liabilities
-331,P6PIDB02,International investment position BPM6 > Portfolio investment > Debt instruments > Assets
-332,P6OITT02,International investment position BPM6 > Other investment > Total > Assets
-333,P6PIDB03,International investment position BPM6 > Portfolio investment > Debt instruments > Liabilities
-334,P6DIEQ01,International investment position BPM6 > Direct investment > Equity and investment fund shares > Net
-335,P6DIDB02,International investment position BPM6 > Direct investment > Debt instruments > Assets
-336,P6OIEQ01,International investment position BPM6 > Other investment > Other equity > Net
-337,P6OITC03,International investment position BPM6 > Other investment > Trade credit and advances > Liabilities
-338,P6OIIP03,"International investment position BPM6 > Other investment > Insurance, pensions and standardised guarantee schemes > Liabilities"
-339,P6TTTT03,International investment position BPM6 > Financial account (IIP) > Total > Liabilities
-340,P6FDTT03,International investment position BPM6 > Financial derivatives > Total > Liabilities
-341,P6OIEQ03,International investment position BPM6 > Other investment > Other equity > Liabilties
-342,P6OICD01,International investment position BPM6 > Other investment > Currency and deposits > Net
-343,P6DIDB01,International investment position BPM6 > Direct investment > Debt instruments > Net
-344,P6OISD03,International investment position BPM6 > Other investment > Special drawing rights > Liabilities
-345,P6PITT03,International investment position BPM6 > Portfolio investment > Total > Liabilities
-346,P6DITT01,International investment position BPM6 > Direct investment > Total > Net
-347,P6PIEQ02,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Assets
-348,P6PITT01,International investment position BPM6 > Portfolio investment > Total > Net
-349,P6OISD01,International investment position BPM6 > Other investment > Special drawing rights > Net
-350,P6RATT01,International investment position BPM6 > Reserve assets > Total > Net
-351,P6DIDB03,International investment position BPM6 > Direct investment > Debt instruments > Liabilities
-352,P6PIEQ03,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Liabilities
-353,P6OILN01,International investment position BPM6 > Other investment > Loans > Net
-354,P6DIEQ02,International investment position BPM6 > Direct investment > Equity and investment fund shares > Assets
+294,CP090000,Consumer Price Index > Recreation and culture  (COICOP 09) > Total > Total
+295,CPGRHO01,Consumer Price Index > OECD Groups > Housing > Total
+296,CP040000,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Total > Total"
+297,CP060000,Consumer Price Index > Health (COICOP 06) > Total > Total
+298,CP040100,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing > Total"
+299,CP040200,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Imputed rentals for housing > Total"
+300,CP100000,Consumer Price Index > Education (COICOP 10) > Total > Total
+301,NAGICE01,National Accounts > National Accounts Deflators > Private Consumption Expenditure Deflator > Implicit Price Deflator Total
+302,LORSGPOR,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Original series
+303,P6OITC01,International investment position BPM6 > Other investment > Trade credit and advances > Net
+304,P6TTTT01,International investment position BPM6 > Financial account (IIP) > Total > Net
+305,P6TTTT02,International investment position BPM6 > Financial account (IIP) > Total > Assets
+306,P6OICD02,International investment position BPM6 > Other investment > Currency and deposits > Assets
+307,P6FDTT02,International investment position BPM6 > Financial derivatives > Total > Assets
+308,P6OIOA01,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Net
+309,P6OILN02,International investment position BPM6 > Other investment > Loans > Assets
+310,P6PITT02,International investment position BPM6 > Portfolio investment > Total > Assets
+311,P6OIOA03,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Liabilities
+312,P6OICD03,International investment position BPM6 > Other investment > Currency and deposits > Liabilities
+313,P6OISD02,International investment position BPM6 > Other investment > Special drawing rights > Assets
+314,P6PIEQ01,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Net
+315,P6DITT02,International investment position BPM6 > Direct investment > Total > Assets
+316,P6OITC02,International investment position BPM6 > Other investment > Trade credit and advances > Assets
+317,P6OITT01,International investment position BPM6 > Other investment > Total > Net
+318,P6OIIP01,"International investment position BPM6 > Other investment > Insurance, pensions and standardised guarantee schemes > Net"
+319,P6RATT02,International investment position BPM6 > Reserve assets > Total > Assets
+320,P6DITT03,International investment position BPM6 > Direct investment > Total > Liabilities
+321,P6OIEQ02,International investment position BPM6 > Other investment > Other equity > Assets
+322,P6PIDB01,International investment position BPM6 > Portfolio investment > Debt instruments > Net
+323,P6OITT03,International investment position BPM6 > Other investment > Total > Liabilities
+324,P6OILN03,International investment position BPM6 > Other investment > Loans > Liabilities
+325,P6OIOA02,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Assets
+326,P6FDTT01,International investment position BPM6 > Financial derivatives > Total > Net
+327,P6OIIP02,"International investment position BPM6 > Other investment > Insurance, pensions and standardised guarantee schemes > Assets"
+328,P6DIEQ03,International investment position BPM6 > Direct investment > Equity and investment fund shares > Liabilities
+329,P6PIDB02,International investment position BPM6 > Portfolio investment > Debt instruments > Assets
+330,P6OITT02,International investment position BPM6 > Other investment > Total > Assets
+331,P6PIDB03,International investment position BPM6 > Portfolio investment > Debt instruments > Liabilities
+332,P6DIEQ01,International investment position BPM6 > Direct investment > Equity and investment fund shares > Net
+333,P6DIDB02,International investment position BPM6 > Direct investment > Debt instruments > Assets
+334,P6OIEQ01,International investment position BPM6 > Other investment > Other equity > Net
+335,P6OITC03,International investment position BPM6 > Other investment > Trade credit and advances > Liabilities
+336,P6OIIP03,"International investment position BPM6 > Other investment > Insurance, pensions and standardised guarantee schemes > Liabilities"
+337,P6TTTT03,International investment position BPM6 > Financial account (IIP) > Total > Liabilities
+338,P6FDTT03,International investment position BPM6 > Financial derivatives > Total > Liabilities
+339,P6OIEQ03,International investment position BPM6 > Other investment > Other equity > Liabilties
+340,P6OICD01,International investment position BPM6 > Other investment > Currency and deposits > Net
+341,P6DIDB01,International investment position BPM6 > Direct investment > Debt instruments > Net
+342,P6OISD03,International investment position BPM6 > Other investment > Special drawing rights > Liabilities
+343,P6PITT03,International investment position BPM6 > Portfolio investment > Total > Liabilities
+344,P6DITT01,International investment position BPM6 > Direct investment > Total > Net
+345,P6PIEQ02,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Assets
+346,P6PITT01,International investment position BPM6 > Portfolio investment > Total > Net
+347,P6OISD01,International investment position BPM6 > Other investment > Special drawing rights > Net
+348,P6RATT01,International investment position BPM6 > Reserve assets > Total > Net
+349,P6DIDB03,International investment position BPM6 > Direct investment > Debt instruments > Liabilities
+350,P6PIEQ03,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Liabilities
+351,P6OILN01,International investment position BPM6 > Other investment > Loans > Net
+352,P6DIEQ02,International investment position BPM6 > Direct investment > Equity and investment fund shares > Assets
