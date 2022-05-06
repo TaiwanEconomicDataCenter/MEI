@@ -1,10 +1,103 @@
-﻿2022-05-04 08:59:59 AM Checking Identities: 1258 s
+﻿2022-05-04 07:57:12 PM Checking Identities: 8024 s
 
-2022-05-04 08:59:59 AM unknown: 154
-2022-05-04 08:59:59 AM unknown earliest: 1966
-2022-05-04 08:59:59 AM name too long: 0
-2022-05-04 08:59:59 AM inconsistent: 0
-2022-05-04 08:59:59 AM base updated: 0
-2022-05-04 08:59:59 AM data updated: 0
-2022-05-04 08:59:59 AM including weekly: False
-2022-05-04 08:59:59 AM too many months: False
+2022-05-04 07:57:20 PM Index A196CPGL01IOB.a form_c inconsistent
+2022-05-04 07:57:20 PM DF_KEY = 2015=100
+2022-05-04 07:57:20 PM df_key = 2010=100
+2022-05-04 07:57:21 PM Index A238C8GRGOGP.a desc_e inconsistent
+2022-05-04 07:57:21 PM DF_KEY = Consumer Price Index > COICOP 2018 > OECD Groups > CPI Goods, Growth rate previous period, Units of Percentage - Costa Rica
+2022-05-04 07:57:21 PM df_key = Consumer Price Index > COICOP 2018 > OECD Groups > Goods, Growth rate previous period, Units of Percentage - Costa Rica
+2022-05-04 07:57:21 PM Index A238C8GRGOGY.a desc_e inconsistent
+2022-05-04 07:57:21 PM DF_KEY = Consumer Price Index > COICOP 2018 > OECD Groups > CPI Goods, Growth rate same period previous year, Units of Percentage - Costa Rica
+2022-05-04 07:57:21 PM df_key = Consumer Price Index > COICOP 2018 > OECD Groups > Goods, Growth rate same period previous year, Units of Percentage - Costa Rica
+2022-05-04 07:57:21 PM Index A238C8GRGOIOB.a desc_e inconsistent
+2022-05-04 07:57:21 PM DF_KEY = Consumer Price Index > COICOP 2018 > OECD Groups > CPI Goods, Index 2015=100, Units of Index - Costa Rica
+2022-05-04 07:57:21 PM df_key = Consumer Price Index > COICOP 2018 > OECD Groups > Goods, Index 2015=100, Units of Index - Costa Rica
+2022-05-04 07:57:24 PM Index A944CPGH02IOB.a form_c inconsistent
+2022-05-04 07:57:24 PM DF_KEY = 2015=100
+2022-05-04 07:57:24 PM df_key = 2010=100
+2022-05-04 07:57:24 PM Index A944CPGRENIOB.a form_c inconsistent
+2022-05-04 07:57:24 PM DF_KEY = 2015=100
+2022-05-04 07:57:24 PM df_key = 2010=100
+2022-05-04 07:57:24 PM Index A944CPGRLEIOB.a form_c inconsistent
+2022-05-04 07:57:24 PM DF_KEY = 2015=100
+2022-05-04 07:57:24 PM df_key = 2010=100
+2022-05-04 07:57:30 PM Index M238C8GRGOGP.m desc_e inconsistent
+2022-05-04 07:57:30 PM DF_KEY = Consumer Price Index > COICOP 2018 > OECD Groups > CPI Goods, Growth rate previous period, Units of Percentage - Costa Rica
+2022-05-04 07:57:30 PM df_key = Consumer Price Index > COICOP 2018 > OECD Groups > Goods, Growth rate previous period, Units of Percentage - Costa Rica
+2022-05-04 07:57:30 PM Index M238C8GRGOGY.m desc_e inconsistent
+2022-05-04 07:57:30 PM DF_KEY = Consumer Price Index > COICOP 2018 > OECD Groups > CPI Goods, Growth rate same period previous year, Units of Percentage - Costa Rica
+2022-05-04 07:57:30 PM df_key = Consumer Price Index > COICOP 2018 > OECD Groups > Goods, Growth rate same period previous year, Units of Percentage - Costa Rica
+2022-05-04 07:57:30 PM Index M238C8GRGOIOB.m desc_e inconsistent
+2022-05-04 07:57:30 PM DF_KEY = Consumer Price Index > COICOP 2018 > OECD Groups > CPI Goods, Index 2015=100, Units of Index - Costa Rica
+2022-05-04 07:57:30 PM df_key = Consumer Price Index > COICOP 2018 > OECD Groups > Goods, Index 2015=100, Units of Index - Costa Rica
+2022-05-04 07:57:31 PM The program did not fetch the latest data for: M555LOGPRT.m
+2022-05-04 07:57:31 PM The program did not fetch the latest data for: M555LOGPRTSTS.m
+2022-05-04 07:57:32 PM Index M944CPGH02IOB.m form_c inconsistent
+2022-05-04 07:57:32 PM DF_KEY = 2015=100
+2022-05-04 07:57:32 PM df_key = 2010=100
+2022-05-04 07:57:32 PM Index M944CPGRENIOB.m form_c inconsistent
+2022-05-04 07:57:32 PM DF_KEY = 2015=100
+2022-05-04 07:57:32 PM df_key = 2010=100
+2022-05-04 07:57:32 PM Index M944CPGRLEIOB.m form_c inconsistent
+2022-05-04 07:57:32 PM DF_KEY = 2015=100
+2022-05-04 07:57:32 PM df_key = 2010=100
+2022-05-04 07:57:32 PM The program did not fetch the latest data for: M950LH24FEST.m
+2022-05-04 07:57:32 PM The program did not fetch the latest data for: M950LH24MAST.m
+2022-05-04 07:57:32 PM The program did not fetch the latest data for: M950LH24TTST.m
+2022-05-04 07:57:32 PM The program did not fetch the latest data for: M950LHADFEST.m
+2022-05-04 07:57:32 PM The program did not fetch the latest data for: M950LHADMAST.m
+2022-05-04 07:57:32 PM The program did not fetch the latest data for: M950LHADTTST.m
+2022-05-04 07:57:32 PM The program did not fetch the latest data for: M950LHTTFEST.m
+2022-05-04 07:57:32 PM The program did not fetch the latest data for: M950LHTTMAST.m
+2022-05-04 07:57:32 PM The program did not fetch the latest data for: M950LHTTTTST.m
+2022-05-04 07:57:32 PM The program did not fetch the latest data for: M950LU24FEST.m
+2022-05-04 07:57:32 PM The program did not fetch the latest data for: M950LU24MAST.m
+2022-05-04 07:57:32 PM The program did not fetch the latest data for: M950LU24TTST.m
+2022-05-04 07:57:32 PM The program did not fetch the latest data for: M950LUADFEST.m
+2022-05-04 07:57:32 PM The program did not fetch the latest data for: M950LUADMAST.m
+2022-05-04 07:57:32 PM The program did not fetch the latest data for: M950LUADTTST.m
+2022-05-04 07:57:32 PM The program did not fetch the latest data for: M950LUTTFEST.m
+2022-05-04 07:57:32 PM The program did not fetch the latest data for: M950LUTTMAST.m
+2022-05-04 07:57:32 PM The program did not fetch the latest data for: M950LUTTTTST.m
+2022-05-04 07:57:32 PM The program did not fetch the latest data for: M996LOTOAA.m
+2022-05-04 07:57:32 PM The program did not fetch the latest data for: M996LOTOAASTS.m
+2022-05-04 07:57:32 PM The program did not fetch the latest data for: M996LOTONO.m
+2022-05-04 07:57:32 PM The program did not fetch the latest data for: M996LOTONOSTS.m
+2022-05-04 07:57:39 PM Index Q196CPGL01IOB.q form_c inconsistent
+2022-05-04 07:57:39 PM DF_KEY = 2015=100
+2022-05-04 07:57:39 PM df_key = 2010=100
+2022-05-04 07:57:39 PM Index Q238C8GRGOGP.q desc_e inconsistent
+2022-05-04 07:57:39 PM DF_KEY = Consumer Price Index > COICOP 2018 > OECD Groups > CPI Goods, Growth rate previous period, Units of Percentage - Costa Rica
+2022-05-04 07:57:39 PM df_key = Consumer Price Index > COICOP 2018 > OECD Groups > Goods, Growth rate previous period, Units of Percentage - Costa Rica
+2022-05-04 07:57:39 PM Index Q238C8GRGOGY.q desc_e inconsistent
+2022-05-04 07:57:39 PM DF_KEY = Consumer Price Index > COICOP 2018 > OECD Groups > CPI Goods, Growth rate same period previous year, Units of Percentage - Costa Rica
+2022-05-04 07:57:39 PM df_key = Consumer Price Index > COICOP 2018 > OECD Groups > Goods, Growth rate same period previous year, Units of Percentage - Costa Rica
+2022-05-04 07:57:39 PM Index Q238C8GRGOIOB.q desc_e inconsistent
+2022-05-04 07:57:39 PM DF_KEY = Consumer Price Index > COICOP 2018 > OECD Groups > CPI Goods, Index 2015=100, Units of Index - Costa Rica
+2022-05-04 07:57:39 PM df_key = Consumer Price Index > COICOP 2018 > OECD Groups > Goods, Index 2015=100, Units of Index - Costa Rica
+2022-05-04 07:57:42 PM Index Q944CPGH02IOB.q form_c inconsistent
+2022-05-04 07:57:42 PM DF_KEY = 2015=100
+2022-05-04 07:57:42 PM df_key = 2010=100
+2022-05-04 07:57:42 PM Index Q944CPGRENIOB.q form_c inconsistent
+2022-05-04 07:57:42 PM DF_KEY = 2015=100
+2022-05-04 07:57:42 PM df_key = 2010=100
+2022-05-04 07:57:42 PM Index Q944CPGRLEIOB.q form_c inconsistent
+2022-05-04 07:57:42 PM DF_KEY = 2015=100
+2022-05-04 07:57:42 PM df_key = 2010=100
+2022-05-04 07:57:43 PM unknown: 0
+2022-05-04 07:57:43 PM name too long: 0
+2022-05-04 07:57:43 PM inconsistent: 20
+2022-05-04 07:57:43 PM Total desc_e inconsistent: 9
+2022-05-04 07:57:43 PM Total desc_c inconsistent: 0
+2022-05-04 07:57:43 PM Total freq inconsistent: 0
+2022-05-04 07:57:43 PM Total unit inconsistent: 0
+2022-05-04 07:57:43 PM Total name_ord inconsistent: 0
+2022-05-04 07:57:43 PM Total book inconsistent: 0
+2022-05-04 07:57:43 PM Total form_e inconsistent: 0
+2022-05-04 07:57:43 PM Total form_c inconsistent: 11
+2022-05-04 07:57:43 PM inconsistent earliest: 1969
+2022-05-04 07:57:43 PM base updated: 0
+2022-05-04 07:57:43 PM data updated: 36120
+2022-05-04 07:57:43 PM including weekly: False
+2022-05-04 07:57:43 PM too many months: False
+2022-05-04 07:57:46 PM unfound: 2518
