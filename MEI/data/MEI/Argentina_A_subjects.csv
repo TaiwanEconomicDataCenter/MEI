@@ -70,65 +70,67 @@
 68,B6CATT02,Balance of payments BPM6 > Capital account > Capital account Balance > Capital transfers Balance
 69,B6CACR00,Balance of payments BPM6 > Capital account > Capital account Credits > Capital account Credits
 70,B6CADB02,Balance of payments BPM6 > Capital account > Capital account Debits > Capital transfers Debits
-71,P6PIEQ01,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Net
-72,P6PIDB02,International investment position BPM6 > Portfolio investment > Debt instruments > Assets
-73,P6ADER03,International investment position BPM6 > Adjustments (reconciling items - flows) > Exchange rate changes > Liabilities
-74,P6DITT01,International investment position BPM6 > Direct investment > Total > Net
-75,P6FDTT02,International investment position BPM6 > Financial derivatives > Total > Assets
-76,P6OIOA03,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Liabilities
-77,P6TTTT01,International investment position BPM6 > Financial account (IIP) > Total > Net
-78,P6OICD02,International investment position BPM6 > Other investment > Currency and deposits > Assets
-79,P6ADOV03,International investment position BPM6 > Adjustments (reconciling items - flows) > Other volume changes > Liabilities
-80,P6OILN03,International investment position BPM6 > Other investment > Loans > Liabilities
-81,P6OIOA02,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Assets
-82,P6RATT01,International investment position BPM6 > Reserve assets > Total > Net
-83,P6ADTT02,International investment position BPM6 > Adjustments (reconciling items - flows) > Total adjustments > Assets
-84,P6DIDB03,International investment position BPM6 > Direct investment > Debt instruments > Liabilities
-85,P6OITC03,International investment position BPM6 > Other investment > Trade credit and advances > Liabilities
-86,P6OIEQ01,International investment position BPM6 > Other investment > Other equity > Net
-87,P6OITT02,International investment position BPM6 > Other investment > Total > Assets
-88,P6OITC01,International investment position BPM6 > Other investment > Trade credit and advances > Net
-89,P6RATT02,International investment position BPM6 > Reserve assets > Total > Assets
-90,P6DIDB01,International investment position BPM6 > Direct investment > Debt instruments > Net
-91,P6DIEQ03,International investment position BPM6 > Direct investment > Equity and investment fund shares > Liabilities
-92,P6DITT02,International investment position BPM6 > Direct investment > Total > Assets
-93,P6OILB03,International investment position BPM6 > Other investment > (of which) Deposit-taking corporations except the central bank > Liabilities
-94,P6OIOA01,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Net
-95,P6OILN02,International investment position BPM6 > Other investment > Loans > Assets
-96,P6PITT02,International investment position BPM6 > Portfolio investment > Total > Assets
-97,P6PITT03,International investment position BPM6 > Portfolio investment > Total > Liabilities
-98,P6ADOV01,International investment position BPM6 > Adjustments (reconciling items - flows) > Other volume changes > Net
-99,P6TTTT03,International investment position BPM6 > Financial account (IIP) > Total > Liabilities
-100,P6ADMP02,International investment position BPM6 > Adjustments (reconciling items - flows) > Market price changes > Assets
-101,P6OIEQ02,International investment position BPM6 > Other investment > Other equity > Assets
-102,P6ADTT03,International investment position BPM6 > Adjustments (reconciling items - flows) > Total adjustments > Liabilities
-103,P6OICD03,International investment position BPM6 > Other investment > Currency and deposits > Liabilities
-104,P6ADTT01,International investment position BPM6 > Adjustments (reconciling items - flows) > Total adjustments > Net
-105,P6ADOV02,International investment position BPM6 > Adjustments (reconciling items - flows) > Other volume changes > Assets
-106,P6DIDB02,International investment position BPM6 > Direct investment > Debt instruments > Assets
-107,P6DIEQ02,International investment position BPM6 > Direct investment > Equity and investment fund shares > Assets
-108,P6OIIP03,"International investment position BPM6 > Other investment > Insurance, pensions and standardised guarantee schemes > Liabilities"
-109,P6OILN01,International investment position BPM6 > Other investment > Loans > Net
-110,P6OIEQ03,International investment position BPM6 > Other investment > Other equity > Liabilties
-111,P6OILB01,International investment position BPM6 > Other investment > (of which) Deposit-taking corporations except the central bank > Net
-112,P6PIEQ03,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Liabilities
-113,P6ADMP01,International investment position BPM6 > Adjustments (reconciling items - flows) > Market price changes > Net
-114,P6OITT03,International investment position BPM6 > Other investment > Total > Liabilities
-115,P6OIIP01,"International investment position BPM6 > Other investment > Insurance, pensions and standardised guarantee schemes > Net"
-116,P6PIDB01,International investment position BPM6 > Portfolio investment > Debt instruments > Net
-117,P6DIEQ01,International investment position BPM6 > Direct investment > Equity and investment fund shares > Net
-118,P6PIDB03,International investment position BPM6 > Portfolio investment > Debt instruments > Liabilities
-119,P6OILB02,International investment position BPM6 > Other investment > (of which) Deposit-taking corporations except the central bank > Assets
-120,P6OIIP02,"International investment position BPM6 > Other investment > Insurance, pensions and standardised guarantee schemes > Assets"
-121,P6ADER02,International investment position BPM6 > Adjustments (reconciling items - flows) > Exchange rate changes > Assets
-122,P6DITT03,International investment position BPM6 > Direct investment > Total > Liabilities
-123,P6PITT01,International investment position BPM6 > Portfolio investment > Total > Net
-124,P6PIEQ02,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Assets
-125,P6ADMP03,International investment position BPM6 > Adjustments (reconciling items - flows) > Market price changes > Liabilities
-126,P6ADER01,International investment position BPM6 > Adjustments (reconciling items - flows) > Exchange rate changes > Net
-127,P6FDTT03,International investment position BPM6 > Financial derivatives > Total > Liabilities
-128,P6FDTT01,International investment position BPM6 > Financial derivatives > Total > Net
-129,P6OICD01,International investment position BPM6 > Other investment > Currency and deposits > Net
-130,P6OITC02,International investment position BPM6 > Other investment > Trade credit and advances > Assets
-131,P6OITT01,International investment position BPM6 > Other investment > Total > Net
-132,P6TTTT02,International investment position BPM6 > Financial account (IIP) > Total > Assets
+71,CPGRSE01,Consumer Price Index > OECD Groups > Services > Total
+72,CPGRGO01,Consumer Price Index > OECD Groups > Goods > Total
+73,P6PIEQ01,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Net
+74,P6PIDB02,International investment position BPM6 > Portfolio investment > Debt instruments > Assets
+75,P6ADER03,International investment position BPM6 > Adjustments (reconciling items - flows) > Exchange rate changes > Liabilities
+76,P6DITT01,International investment position BPM6 > Direct investment > Total > Net
+77,P6FDTT02,International investment position BPM6 > Financial derivatives > Total > Assets
+78,P6OIOA03,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Liabilities
+79,P6TTTT01,International investment position BPM6 > Financial account (IIP) > Total > Net
+80,P6OICD02,International investment position BPM6 > Other investment > Currency and deposits > Assets
+81,P6ADOV03,International investment position BPM6 > Adjustments (reconciling items - flows) > Other volume changes > Liabilities
+82,P6OILN03,International investment position BPM6 > Other investment > Loans > Liabilities
+83,P6OIOA02,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Assets
+84,P6RATT01,International investment position BPM6 > Reserve assets > Total > Net
+85,P6ADTT02,International investment position BPM6 > Adjustments (reconciling items - flows) > Total adjustments > Assets
+86,P6DIDB03,International investment position BPM6 > Direct investment > Debt instruments > Liabilities
+87,P6OITC03,International investment position BPM6 > Other investment > Trade credit and advances > Liabilities
+88,P6OIEQ01,International investment position BPM6 > Other investment > Other equity > Net
+89,P6OITT02,International investment position BPM6 > Other investment > Total > Assets
+90,P6OITC01,International investment position BPM6 > Other investment > Trade credit and advances > Net
+91,P6RATT02,International investment position BPM6 > Reserve assets > Total > Assets
+92,P6DIDB01,International investment position BPM6 > Direct investment > Debt instruments > Net
+93,P6DIEQ03,International investment position BPM6 > Direct investment > Equity and investment fund shares > Liabilities
+94,P6DITT02,International investment position BPM6 > Direct investment > Total > Assets
+95,P6OILB03,International investment position BPM6 > Other investment > (of which) Deposit-taking corporations except the central bank > Liabilities
+96,P6OIOA01,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Net
+97,P6OILN02,International investment position BPM6 > Other investment > Loans > Assets
+98,P6PITT02,International investment position BPM6 > Portfolio investment > Total > Assets
+99,P6PITT03,International investment position BPM6 > Portfolio investment > Total > Liabilities
+100,P6ADOV01,International investment position BPM6 > Adjustments (reconciling items - flows) > Other volume changes > Net
+101,P6TTTT03,International investment position BPM6 > Financial account (IIP) > Total > Liabilities
+102,P6ADMP02,International investment position BPM6 > Adjustments (reconciling items - flows) > Market price changes > Assets
+103,P6OIEQ02,International investment position BPM6 > Other investment > Other equity > Assets
+104,P6ADTT03,International investment position BPM6 > Adjustments (reconciling items - flows) > Total adjustments > Liabilities
+105,P6OICD03,International investment position BPM6 > Other investment > Currency and deposits > Liabilities
+106,P6ADTT01,International investment position BPM6 > Adjustments (reconciling items - flows) > Total adjustments > Net
+107,P6ADOV02,International investment position BPM6 > Adjustments (reconciling items - flows) > Other volume changes > Assets
+108,P6DIDB02,International investment position BPM6 > Direct investment > Debt instruments > Assets
+109,P6DIEQ02,International investment position BPM6 > Direct investment > Equity and investment fund shares > Assets
+110,P6OIIP03,"International investment position BPM6 > Other investment > Insurance, pensions and standardised guarantee schemes > Liabilities"
+111,P6OILN01,International investment position BPM6 > Other investment > Loans > Net
+112,P6OIEQ03,International investment position BPM6 > Other investment > Other equity > Liabilties
+113,P6OILB01,International investment position BPM6 > Other investment > (of which) Deposit-taking corporations except the central bank > Net
+114,P6PIEQ03,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Liabilities
+115,P6ADMP01,International investment position BPM6 > Adjustments (reconciling items - flows) > Market price changes > Net
+116,P6OITT03,International investment position BPM6 > Other investment > Total > Liabilities
+117,P6OIIP01,"International investment position BPM6 > Other investment > Insurance, pensions and standardised guarantee schemes > Net"
+118,P6PIDB01,International investment position BPM6 > Portfolio investment > Debt instruments > Net
+119,P6DIEQ01,International investment position BPM6 > Direct investment > Equity and investment fund shares > Net
+120,P6PIDB03,International investment position BPM6 > Portfolio investment > Debt instruments > Liabilities
+121,P6OILB02,International investment position BPM6 > Other investment > (of which) Deposit-taking corporations except the central bank > Assets
+122,P6OIIP02,"International investment position BPM6 > Other investment > Insurance, pensions and standardised guarantee schemes > Assets"
+123,P6ADER02,International investment position BPM6 > Adjustments (reconciling items - flows) > Exchange rate changes > Assets
+124,P6DITT03,International investment position BPM6 > Direct investment > Total > Liabilities
+125,P6PITT01,International investment position BPM6 > Portfolio investment > Total > Net
+126,P6PIEQ02,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Assets
+127,P6ADMP03,International investment position BPM6 > Adjustments (reconciling items - flows) > Market price changes > Liabilities
+128,P6ADER01,International investment position BPM6 > Adjustments (reconciling items - flows) > Exchange rate changes > Net
+129,P6FDTT03,International investment position BPM6 > Financial derivatives > Total > Liabilities
+130,P6FDTT01,International investment position BPM6 > Financial derivatives > Total > Net
+131,P6OICD01,International investment position BPM6 > Other investment > Currency and deposits > Net
+132,P6OITC02,International investment position BPM6 > Other investment > Trade credit and advances > Assets
+133,P6OITT01,International investment position BPM6 > Other investment > Total > Net
+134,P6TTTT02,International investment position BPM6 > Financial account (IIP) > Total > Assets
