@@ -80,7 +80,7 @@ def readExcelFile(dir, default=pd.DataFrame(), acceptNoFile=True, na_filter_=Tru
             ERROR(str(err))
 
 def PRESENT(file_path):
-    if os.path.isfile(file_path) and datetime.fromtimestamp(os.path.getmtime(file_path)).strftime('%Y-%V') == datetime.today().strftime('%Y-%V'):
+    if os.path.isfile(file_path) and (datetime.fromtimestamp(os.path.getmtime(file_path)).strftime('%Y-%V') == datetime.today().strftime('%Y-%V') or datetime.fromtimestamp(os.path.getmtime(file_path)).strftime('%Y-%V') == (datetime.today()-timedelta(days=7)).strftime('%Y-%V')):
         logging.info('Present File Exists. Reading Data From Default Path.\n')
         return True
     else:
