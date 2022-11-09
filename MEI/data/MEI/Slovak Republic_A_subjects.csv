@@ -320,197 +320,198 @@
 318,CPHP0300,Consumer Price Index > Harmonised prices > Clothing and footwear (COICOP 03) > Total
 319,CP050000,"Consumer Price Index > Furnishings, household equip. and routine household maintenance (COICOP 05) > Total > Total"
 320,CPHP1000,Consumer Price Index > Harmonised prices > Education (COICOP 10) > Total
-321,CPHP0900,Consumer Price Index > Harmonised prices > Recreation and culture  (COICOP 09) > Total
-322,CPHP0700,Consumer Price Index > Harmonised prices > Transport (COICOP 07) > Total
-323,CPGRHO01,Consumer Price Index > OECD Groups > Housing > Total
-324,CPHP0200,"Consumer Price Index > Harmonised prices > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total"
-325,CPGRSE01,Consumer Price Index > OECD Groups > Services > Total
-326,CP090000,Consumer Price Index > Recreation and culture  (COICOP 09) > Total > Total
-327,CPHPLA01,"Consumer Price Index > Harmonised prices > All items less food, energy, tobacco, alcohol > Total"
-328,CP030000,Consumer Price Index > Clothing and footwear (COICOP 03) > Total > Total
-329,CP100000,Consumer Price Index > Education (COICOP 10) > Total > Total
-330,CP080000,Consumer Price Index > Communication (COICOP 08) > Total > Total
-331,CP040000,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Total > Total"
-332,CP110000,Consumer Price Index > Restaurants and hotels (COICOP 11) > Total > Total
-333,CP040400,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling > Total"
-334,CP040300,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance and repairs of the dwellings > Total"
-335,CPHP0405,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels"
-336,CPHP0401,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing"
-337,CP040100,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing > Total"
-338,CPHPEN01,Consumer Price Index > Harmonised prices > Energy > Total
-339,CPHP0500,"Consumer Price Index > Harmonised prices > Furnishings, household equip. and routine household maintenance (COICOP 05) > Total"
-340,CP040500,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels > Total"
-341,CPHP1100,Consumer Price Index > Harmonised prices > Restaurants and hotels (COICOP 11) > Total
-342,CPHP0403,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance & repairs of the dwellings"
-343,CPHPSE01,Consumer Price Index > Harmonised prices > Services > Total
-344,CPGRGO01,Consumer Price Index > OECD Groups > Goods > Total
-345,CPHP0400,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Total"
-346,CP010000,Consumer Price Index > Food and non-Alcoholic beverages (COICOP 01) > Total > Total
-347,CP060000,Consumer Price Index > Health (COICOP 06) > Total > Total
-348,CPHP0800,Consumer Price Index > Harmonised prices > Communication (COICOP 08) > Total
-349,CP120000,Consumer Price Index > Miscellaneous goods and services (COICOP 12) > Total > Total
-350,CPHP0404,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling"
-351,CP040200,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Imputed rentals for housing > Total"
-352,CPHP0702,Consumer Price Index > Harmonised prices > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment
-353,CPHP0600,Consumer Price Index > Harmonised prices > Health (COICOP 06) > Total
-354,CPHP1200,Consumer Price Index > Harmonised prices > Miscellaneous goods and services (COICOP 12) > Total
-355,CPGRHO02,Consumer Price Index > OECD Groups > Housing > Housing excluding imputed rentals for housing
-356,PWCP0710,Price Weights > Consumer Prices > Transport > Purchase of vehicles
-357,PWCP1110,Price Weights > Consumer Prices > Restaurants and hotels > Catering services
-358,PWHP0700,Price Weights > Harmonised Prices > Transport > Total
-359,PWCP1000,Price Weights > Consumer Prices > Education > Total
-360,PWCP0600,Price Weights > Consumer Prices > Health > Total
-361,PWHP1000,Price Weights > Harmonised Prices > Education > Total
-362,PWCP0630,Price Weights > Consumer Prices > Health > Hospital services
-363,PWHP0600,Price Weights > Harmonised Prices > Health > Total
-364,PWHP0100,Price Weights > Harmonised Prices > Food and non-alcoholic beverages > Total
-365,PWCP044G,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Miscellaneous services relating to the dwelling (04.4.2_3_4)"
-366,PWCP0115,Price Weights > Consumer Prices > Food and non-alcoholic beverages > Oils and fats
-367,PWCP1210,Price Weights > Consumer Prices > Miscellaneous goods and services > Personal care
-368,PWCP0118,"Price Weights > Consumer Prices > Food and non-alcoholic beverages > Sugar, jam, honey, chocolate and confectionery"
-369,PWCP1120,Price Weights > Consumer Prices > Restaurants and hotels > Restaurants and hotels / Accommodation services
-370,PWCP0112,Price Weights > Consumer Prices > Food and non-alcoholic beverages > Meat
-371,PWCP0940,Price Weights > Consumer Prices > Recreation and culture > Recreational and cultural services
-372,PWCP082G,Price Weights > Consumer Prices > Communication > Telephone and telefax equipment and services (08.2_3)
-373,PWCP0910,"Price Weights > Consumer Prices > Recreation and culture > Audio-visual, photographic and information processing equipment"
-374,PWCP0510,"Price Weights > Consumer Prices > Furnishing, Household equipment and routine maintenance > Furniture and furnishings, carpets and other floor coverings"
-375,PWCPLE01,Price Weights > Consumer Prices > All items less food less energy > Total
-376,PWCP0100,Price Weights > Consumer Prices > Food and non-alcoholic beverages > Total
-377,PWCPHO01,Price Weights > Consumer Prices > Housing > Total
-378,PWCP0950,"Price Weights > Consumer Prices > Recreation and culture > Newspapers, books and stationery"
-379,PWCP0410,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Actual Rentals for Housing"
-380,PWCP0941,Price Weights > Consumer Prices > Recreation and culture > Recreational and sporting services
-381,PWCP0920,Price Weights > Consumer Prices > Recreation and culture > Other major durables for recreation and culture
-382,PWCP0550,"Price Weights > Consumer Prices > Furnishing, Household equipment and routine maintenance > Tools and equipment for house and garden"
-383,PWCP0432,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Services for the maintenance and repair of the dwelling"
-384,PWCP0200,"Price Weights > Consumer Prices > Alcoholic beverages, Tobacco and Narcotics > Total"
-385,PWCP1230,Price Weights > Consumer Prices > Miscellaneous goods and services > Personal effects n.e.c
-386,PWCP0116,Price Weights > Consumer Prices > Food and non-alcoholic beverages > Fruit
-387,PWCP0119,Price Weights > Consumer Prices > Food and non-alcoholic beverages > Food products n.e.c.
-388,PWCP1260,Price Weights > Consumer Prices > Miscellaneous goods and services > Financial services n.e.c.
-389,NAGICE01,National Accounts > National Accounts Deflators > Private Consumption Expenditure Deflator > Implicit Price Deflator Total
-390,PWCP0720,Price Weights > Consumer Prices > Transport > Operation of personal transport equipment
-391,PWCP0722,Price Weights > Consumer Prices > Transport > Fuels and lubricants for personal transport equipment
-392,PWCP0451,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Electricity"
-393,PWCP0454,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Solid fuels"
-394,PWCP0730,Price Weights > Consumer Prices > Transport > Transport services
-395,PWCP0441,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Water supply"
-396,PWCP0431,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Materials for the maintenance and repair of the dwelling"
-397,PWHP0300,Price Weights > Harmonised Prices > Clothing and Footwear > Total
-398,PWCPGO01,Price Weights > Consumer Prices > Goods > Total
-399,PWCP0220,"Price Weights > Consumer Prices > Alcoholic beverages, Tobacco and Narcotics > Tobacco"
-400,PWCP1250,Price Weights > Consumer Prices > Miscellaneous goods and services > Insurance
-401,PWCP0810,Price Weights > Consumer Prices > Communication > Postal services
-402,PWCP0900,Price Weights > Consumer Prices > Recreation and culture > Total
-403,PWCP0540,"Price Weights > Consumer Prices > Furnishing, Household equipment and routine maintenance > Glassware, tableware and household utensils"
-404,PWCP0420,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Imputed Rentals for Housing"
-405,PWCP0300,Price Weights > Consumer Prices > Clothing and Footwear > Total
-406,PWCP0210,"Price Weights > Consumer Prices > Alcoholic beverages, Tobacco and Narcotics > Alcoholic beverages"
-407,PWCP1240,Price Weights > Consumer Prices > Miscellaneous goods and services > Social protection
-408,PWCP1270,Price Weights > Consumer Prices > Miscellaneous goods and services > Other services n.e.c.
-409,PWCP0120,Price Weights > Consumer Prices > Food and non-alcoholic beverages > Non-alcoholic beverages
-410,PWCP0610,"Price Weights > Consumer Prices > Health > Medical products, appliances and equipment"
-411,PWCP0942,Price Weights > Consumer Prices > Recreation and culture > Cultural services
-412,PWCP0960,Price Weights > Consumer Prices > Recreation and culture > Package holidays
-413,PWCP0930,"Price Weights > Consumer Prices > Recreation and culture > Other recreational items and equipment, gardens and pets"
-414,PWCP0500,"Price Weights > Consumer Prices > Furnishing, Household equipment and routine maintenance > Total"
-415,PWCP0530,"Price Weights > Consumer Prices > Furnishing, Household equipment and routine maintenance > Household appliances"
-416,PWCP0560,"Price Weights > Consumer Prices > Furnishing, Household equipment and routine maintenance > Goods and services for routine household maintenance"
-417,PWHP0900,Price Weights > Harmonised Prices > Recreation and culture > Total
-418,PWCP0430,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Maintenance and Repair of the Dwelling"
-419,PWHP0200,"Price Weights > Harmonised Prices > Alcoholic beverages, Tobacco and Narcotics > Total"
-420,PWCP0000,Price Weights > Consumer Prices > All items > Total
-421,PWCPSE01,Price Weights > Consumer Prices > Services > Total
-422,PWHP0800,Price Weights > Harmonised Prices > Communication > Total
-423,PWCP0110,Price Weights > Consumer Prices > Food and non-alcoholic beverages > Food
-424,PWCP0113,Price Weights > Consumer Prices > Food and non-alcoholic beverages > Fish and seafood
-425,PWCP0452,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Gas"
-426,PWCP0455,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Heat energy"
-427,PWCPEN01,Price Weights > Consumer Prices > Energy > Total
-428,PWCP0400,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Total"
-429,PWCP0114,"Price Weights > Consumer Prices > Food and non-alcoholic beverages > Milk, cheese and eggs"
-430,PWCP1100,Price Weights > Consumer Prices > Restaurants and hotels > Total
-431,PWCP0111,Price Weights > Consumer Prices > Food and non-alcoholic beverages > Bread and cereals
-432,PWCP1112,Price Weights > Consumer Prices > Restaurants and hotels > Canteens
-433,PWCPLR01,Price Weights > Consumer Prices > Services less housing > Total
-434,PWCP0620,Price Weights > Consumer Prices > Health > Out-patient services
-435,PWCP1111,"Price Weights > Consumer Prices > Restaurants and hotels > Restaurants, cafés and the like"
-436,PWCP0723,Price Weights > Consumer Prices > Transport > Maintenance and repair of personal transport equipment
-437,PWCP0520,"Price Weights > Consumer Prices > Furnishing, Household equipment and routine maintenance > Household textiles"
-438,PWHP0400,"Price Weights > Harmonised Prices > Housing, Water, Electricity, Gas and other Fuels > Total"
-439,PWHP0000,Price Weights > Harmonised Prices > All items > Total
-440,PWCP1200,Price Weights > Consumer Prices > Miscellaneous goods and services > Total
-441,PWCP0800,Price Weights > Consumer Prices > Communication > Total
-442,PWCP0117,Price Weights > Consumer Prices > Food and non-alcoholic beverages > Vegetables
-443,PWCP0724,Price Weights > Consumer Prices > Transport > Other services in respect of personal transport equipment
-444,PWCP0721,Price Weights > Consumer Prices > Transport > Spare parts and accessories for personal transport equipment
-445,PWHP1200,Price Weights > Harmonised Prices > Miscellaneous goods and services > Total
-446,PWCP0450,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Electricity, gas and other fuels"
-447,PWHP1100,Price Weights > Harmonised Prices > Restaurants and hotels > Total
-448,PWCP0700,Price Weights > Consumer Prices > Transport > Total
-449,PWHP0500,"Price Weights > Harmonised Prices > Furnishing, Household equipment and routine maintenance > Total"
-450,PWCP0440,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Water Supply and Miscellaneous Services relating to the Dwelling"
-451,CP070200,Consumer Price Index > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment > Total
-452,BSCURT02,Business tendency surveys (manufacturing) > Capacity utilisation > Rate of capacity utilisation > National indicator
-453,P6ADOV03,International investment position BPM6 > Adjustments (reconciling items - flows) > Other volume changes > Liabilities
-454,P6ADTT02,International investment position BPM6 > Adjustments (reconciling items - flows) > Total adjustments > Assets
-455,P6OICD03,International investment position BPM6 > Other investment > Currency and deposits > Liabilities
-456,P6ADOV01,International investment position BPM6 > Adjustments (reconciling items - flows) > Other volume changes > Net
-457,P6ADMP02,International investment position BPM6 > Adjustments (reconciling items - flows) > Market price changes > Assets
-458,P6TTTT02,International investment position BPM6 > Financial account (IIP) > Total > Assets
-459,P6OITC02,International investment position BPM6 > Other investment > Trade credit and advances > Assets
-460,P6PIDB01,International investment position BPM6 > Portfolio investment > Debt instruments > Net
-461,P6OITT03,International investment position BPM6 > Other investment > Total > Liabilities
-462,P6OIEQ02,International investment position BPM6 > Other investment > Other equity > Assets
-463,P6DIDB03,International investment position BPM6 > Direct investment > Debt instruments > Liabilities
-464,P6OITC01,International investment position BPM6 > Other investment > Trade credit and advances > Net
-465,P6OIIP03,"International investment position BPM6 > Other investment > Insurance, pensions and standardised guarantee schemes > Liabilities"
-466,P6DITT03,International investment position BPM6 > Direct investment > Total > Liabilities
-467,P6PIDB03,International investment position BPM6 > Portfolio investment > Debt instruments > Liabilities
-468,P6OILN03,International investment position BPM6 > Other investment > Loans > Liabilities
-469,P6PITT01,International investment position BPM6 > Portfolio investment > Total > Net
-470,P6PIEQ01,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Net
-471,P6ADTT03,International investment position BPM6 > Adjustments (reconciling items - flows) > Total adjustments > Liabilities
-472,P6PIDB02,International investment position BPM6 > Portfolio investment > Debt instruments > Assets
-473,P6OIOA03,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Liabilities
-474,P6OICD02,International investment position BPM6 > Other investment > Currency and deposits > Assets
-475,P6FDTT01,International investment position BPM6 > Financial derivatives > Total > Net
-476,P6DIDB01,International investment position BPM6 > Direct investment > Debt instruments > Net
-477,P6OIIP02,"International investment position BPM6 > Other investment > Insurance, pensions and standardised guarantee schemes > Assets"
-478,P6OITT02,International investment position BPM6 > Other investment > Total > Assets
-479,P6TTTT03,International investment position BPM6 > Financial account (IIP) > Total > Liabilities
-480,P6OISD02,International investment position BPM6 > Other investment > Special drawing rights > Assets
-481,P6OILN01,International investment position BPM6 > Other investment > Loans > Net
-482,P6DITT01,International investment position BPM6 > Direct investment > Total > Net
-483,P6ADER02,International investment position BPM6 > Adjustments (reconciling items - flows) > Exchange rate changes > Assets
-484,P6ADMP01,International investment position BPM6 > Adjustments (reconciling items - flows) > Market price changes > Net
-485,P6FDTT02,International investment position BPM6 > Financial derivatives > Total > Assets
-486,P6PIEQ02,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Assets
-487,P6OIOA02,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Assets
-488,P6OIOA01,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Net
-489,P6FDTT03,International investment position BPM6 > Financial derivatives > Total > Liabilities
-490,P6ADER01,International investment position BPM6 > Adjustments (reconciling items - flows) > Exchange rate changes > Net
-491,P6DITT02,International investment position BPM6 > Direct investment > Total > Assets
-492,P6DIEQ01,International investment position BPM6 > Direct investment > Equity and investment fund shares > Net
-493,P6RATT01,International investment position BPM6 > Reserve assets > Total > Net
-494,P6ADER03,International investment position BPM6 > Adjustments (reconciling items - flows) > Exchange rate changes > Liabilities
-495,P6PITT03,International investment position BPM6 > Portfolio investment > Total > Liabilities
-496,P6OIIP01,"International investment position BPM6 > Other investment > Insurance, pensions and standardised guarantee schemes > Net"
-497,P6OISD03,International investment position BPM6 > Other investment > Special drawing rights > Liabilities
-498,P6OICD01,International investment position BPM6 > Other investment > Currency and deposits > Net
-499,P6OITT01,International investment position BPM6 > Other investment > Total > Net
-500,P6OILN02,International investment position BPM6 > Other investment > Loans > Assets
-501,P6DIEQ03,International investment position BPM6 > Direct investment > Equity and investment fund shares > Liabilities
-502,P6DIEQ02,International investment position BPM6 > Direct investment > Equity and investment fund shares > Assets
-503,P6TTTT01,International investment position BPM6 > Financial account (IIP) > Total > Net
-504,P6DIDB02,International investment position BPM6 > Direct investment > Debt instruments > Assets
-505,P6ADMP03,International investment position BPM6 > Adjustments (reconciling items - flows) > Market price changes > Liabilities
-506,P6ADTT01,International investment position BPM6 > Adjustments (reconciling items - flows) > Total adjustments > Net
-507,P6RATT02,International investment position BPM6 > Reserve assets > Total > Assets
-508,P6PITT02,International investment position BPM6 > Portfolio investment > Total > Assets
-509,P6PIEQ03,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Liabilities
-510,P6OISD01,International investment position BPM6 > Other investment > Special drawing rights > Net
-511,P6OITC03,International investment position BPM6 > Other investment > Trade credit and advances > Liabilities
-512,P6ADOV02,International investment position BPM6 > Adjustments (reconciling items - flows) > Other volume changes > Assets
-513,P6OIEQ01,International investment position BPM6 > Other investment > Other equity > Net
-514,P6OIEQ03,International investment position BPM6 > Other investment > Other equity > Liabilties
+321,CPGRLH01,Consumer Price Index > OECD Groups > Services less housing > Total
+322,CPHP0900,Consumer Price Index > Harmonised prices > Recreation and culture  (COICOP 09) > Total
+323,CPHP0700,Consumer Price Index > Harmonised prices > Transport (COICOP 07) > Total
+324,CPGRHO01,Consumer Price Index > OECD Groups > Housing > Total
+325,CPHP0200,"Consumer Price Index > Harmonised prices > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total"
+326,CPGRSE01,Consumer Price Index > OECD Groups > Services > Total
+327,CP090000,Consumer Price Index > Recreation and culture  (COICOP 09) > Total > Total
+328,CPHPLA01,"Consumer Price Index > Harmonised prices > All items less food, energy, tobacco, alcohol > Total"
+329,CP030000,Consumer Price Index > Clothing and footwear (COICOP 03) > Total > Total
+330,CP100000,Consumer Price Index > Education (COICOP 10) > Total > Total
+331,CP080000,Consumer Price Index > Communication (COICOP 08) > Total > Total
+332,CP040000,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Total > Total"
+333,CP110000,Consumer Price Index > Restaurants and hotels (COICOP 11) > Total > Total
+334,CP040400,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling > Total"
+335,CP040300,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance and repairs of the dwellings > Total"
+336,CPHP0405,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels"
+337,CPHP0401,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing"
+338,CP040100,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing > Total"
+339,CPHPEN01,Consumer Price Index > Harmonised prices > Energy > Total
+340,CPHP0500,"Consumer Price Index > Harmonised prices > Furnishings, household equip. and routine household maintenance (COICOP 05) > Total"
+341,CP040500,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels > Total"
+342,CPHP1100,Consumer Price Index > Harmonised prices > Restaurants and hotels (COICOP 11) > Total
+343,CPHP0403,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance & repairs of the dwellings"
+344,CPHPSE01,Consumer Price Index > Harmonised prices > Services > Total
+345,CPGRGO01,Consumer Price Index > OECD Groups > Goods > Total
+346,CPHP0400,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Total"
+347,CP010000,Consumer Price Index > Food and non-Alcoholic beverages (COICOP 01) > Total > Total
+348,CP060000,Consumer Price Index > Health (COICOP 06) > Total > Total
+349,CPHP0800,Consumer Price Index > Harmonised prices > Communication (COICOP 08) > Total
+350,CP120000,Consumer Price Index > Miscellaneous goods and services (COICOP 12) > Total > Total
+351,CPHP0404,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling"
+352,CP040200,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Imputed rentals for housing > Total"
+353,CPHP0702,Consumer Price Index > Harmonised prices > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment
+354,CPHP0600,Consumer Price Index > Harmonised prices > Health (COICOP 06) > Total
+355,CPHP1200,Consumer Price Index > Harmonised prices > Miscellaneous goods and services (COICOP 12) > Total
+356,CPGRHO02,Consumer Price Index > OECD Groups > Housing > Housing excluding imputed rentals for housing
+357,PWCP0710,Price Weights > Consumer Prices > Transport > Purchase of vehicles
+358,PWCP1110,Price Weights > Consumer Prices > Restaurants and hotels > Catering services
+359,PWHP0700,Price Weights > Harmonised Prices > Transport > Total
+360,PWCP1000,Price Weights > Consumer Prices > Education > Total
+361,PWCP0600,Price Weights > Consumer Prices > Health > Total
+362,PWHP1000,Price Weights > Harmonised Prices > Education > Total
+363,PWCP0630,Price Weights > Consumer Prices > Health > Hospital services
+364,PWHP0600,Price Weights > Harmonised Prices > Health > Total
+365,PWHP0100,Price Weights > Harmonised Prices > Food and non-alcoholic beverages > Total
+366,PWCP044G,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Miscellaneous services relating to the dwelling (04.4.2_3_4)"
+367,PWCP0115,Price Weights > Consumer Prices > Food and non-alcoholic beverages > Oils and fats
+368,PWCP1210,Price Weights > Consumer Prices > Miscellaneous goods and services > Personal care
+369,PWCP0118,"Price Weights > Consumer Prices > Food and non-alcoholic beverages > Sugar, jam, honey, chocolate and confectionery"
+370,PWCP1120,Price Weights > Consumer Prices > Restaurants and hotels > Restaurants and hotels / Accommodation services
+371,PWCP0112,Price Weights > Consumer Prices > Food and non-alcoholic beverages > Meat
+372,PWCP0940,Price Weights > Consumer Prices > Recreation and culture > Recreational and cultural services
+373,PWCP082G,Price Weights > Consumer Prices > Communication > Telephone and telefax equipment and services (08.2_3)
+374,PWCP0910,"Price Weights > Consumer Prices > Recreation and culture > Audio-visual, photographic and information processing equipment"
+375,PWCP0510,"Price Weights > Consumer Prices > Furnishing, Household equipment and routine maintenance > Furniture and furnishings, carpets and other floor coverings"
+376,PWCPLE01,Price Weights > Consumer Prices > All items less food less energy > Total
+377,PWCP0100,Price Weights > Consumer Prices > Food and non-alcoholic beverages > Total
+378,PWCPHO01,Price Weights > Consumer Prices > Housing > Total
+379,PWCP0950,"Price Weights > Consumer Prices > Recreation and culture > Newspapers, books and stationery"
+380,PWCP0410,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Actual Rentals for Housing"
+381,PWCP0941,Price Weights > Consumer Prices > Recreation and culture > Recreational and sporting services
+382,PWCP0920,Price Weights > Consumer Prices > Recreation and culture > Other major durables for recreation and culture
+383,PWCP0550,"Price Weights > Consumer Prices > Furnishing, Household equipment and routine maintenance > Tools and equipment for house and garden"
+384,PWCP0432,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Services for the maintenance and repair of the dwelling"
+385,PWCP0200,"Price Weights > Consumer Prices > Alcoholic beverages, Tobacco and Narcotics > Total"
+386,PWCP1230,Price Weights > Consumer Prices > Miscellaneous goods and services > Personal effects n.e.c
+387,PWCP0116,Price Weights > Consumer Prices > Food and non-alcoholic beverages > Fruit
+388,PWCP0119,Price Weights > Consumer Prices > Food and non-alcoholic beverages > Food products n.e.c.
+389,PWCP1260,Price Weights > Consumer Prices > Miscellaneous goods and services > Financial services n.e.c.
+390,NAGICE01,National Accounts > National Accounts Deflators > Private Consumption Expenditure Deflator > Implicit Price Deflator Total
+391,PWCP0720,Price Weights > Consumer Prices > Transport > Operation of personal transport equipment
+392,PWCP0722,Price Weights > Consumer Prices > Transport > Fuels and lubricants for personal transport equipment
+393,PWCP0451,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Electricity"
+394,PWCP0454,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Solid fuels"
+395,PWCP0730,Price Weights > Consumer Prices > Transport > Transport services
+396,PWCP0441,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Water supply"
+397,PWCP0431,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Materials for the maintenance and repair of the dwelling"
+398,PWHP0300,Price Weights > Harmonised Prices > Clothing and Footwear > Total
+399,PWCPGO01,Price Weights > Consumer Prices > Goods > Total
+400,PWCP0220,"Price Weights > Consumer Prices > Alcoholic beverages, Tobacco and Narcotics > Tobacco"
+401,PWCP1250,Price Weights > Consumer Prices > Miscellaneous goods and services > Insurance
+402,PWCP0810,Price Weights > Consumer Prices > Communication > Postal services
+403,PWCP0900,Price Weights > Consumer Prices > Recreation and culture > Total
+404,PWCP0540,"Price Weights > Consumer Prices > Furnishing, Household equipment and routine maintenance > Glassware, tableware and household utensils"
+405,PWCP0420,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Imputed Rentals for Housing"
+406,PWCP0300,Price Weights > Consumer Prices > Clothing and Footwear > Total
+407,PWCP0210,"Price Weights > Consumer Prices > Alcoholic beverages, Tobacco and Narcotics > Alcoholic beverages"
+408,PWCP1240,Price Weights > Consumer Prices > Miscellaneous goods and services > Social protection
+409,PWCP1270,Price Weights > Consumer Prices > Miscellaneous goods and services > Other services n.e.c.
+410,PWCP0120,Price Weights > Consumer Prices > Food and non-alcoholic beverages > Non-alcoholic beverages
+411,PWCP0610,"Price Weights > Consumer Prices > Health > Medical products, appliances and equipment"
+412,PWCP0942,Price Weights > Consumer Prices > Recreation and culture > Cultural services
+413,PWCP0960,Price Weights > Consumer Prices > Recreation and culture > Package holidays
+414,PWCP0930,"Price Weights > Consumer Prices > Recreation and culture > Other recreational items and equipment, gardens and pets"
+415,PWCP0500,"Price Weights > Consumer Prices > Furnishing, Household equipment and routine maintenance > Total"
+416,PWCP0530,"Price Weights > Consumer Prices > Furnishing, Household equipment and routine maintenance > Household appliances"
+417,PWCP0560,"Price Weights > Consumer Prices > Furnishing, Household equipment and routine maintenance > Goods and services for routine household maintenance"
+418,PWHP0900,Price Weights > Harmonised Prices > Recreation and culture > Total
+419,PWCP0430,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Maintenance and Repair of the Dwelling"
+420,PWHP0200,"Price Weights > Harmonised Prices > Alcoholic beverages, Tobacco and Narcotics > Total"
+421,PWCP0000,Price Weights > Consumer Prices > All items > Total
+422,PWCPSE01,Price Weights > Consumer Prices > Services > Total
+423,PWHP0800,Price Weights > Harmonised Prices > Communication > Total
+424,PWCP0110,Price Weights > Consumer Prices > Food and non-alcoholic beverages > Food
+425,PWCP0113,Price Weights > Consumer Prices > Food and non-alcoholic beverages > Fish and seafood
+426,PWCP0452,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Gas"
+427,PWCP0455,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Heat energy"
+428,PWCPEN01,Price Weights > Consumer Prices > Energy > Total
+429,PWCP0400,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Total"
+430,PWCP0114,"Price Weights > Consumer Prices > Food and non-alcoholic beverages > Milk, cheese and eggs"
+431,PWCP1100,Price Weights > Consumer Prices > Restaurants and hotels > Total
+432,PWCP0111,Price Weights > Consumer Prices > Food and non-alcoholic beverages > Bread and cereals
+433,PWCP1112,Price Weights > Consumer Prices > Restaurants and hotels > Canteens
+434,PWCPLR01,Price Weights > Consumer Prices > Services less housing > Total
+435,PWCP0620,Price Weights > Consumer Prices > Health > Out-patient services
+436,PWCP1111,"Price Weights > Consumer Prices > Restaurants and hotels > Restaurants, cafés and the like"
+437,PWCP0723,Price Weights > Consumer Prices > Transport > Maintenance and repair of personal transport equipment
+438,PWCP0520,"Price Weights > Consumer Prices > Furnishing, Household equipment and routine maintenance > Household textiles"
+439,PWHP0400,"Price Weights > Harmonised Prices > Housing, Water, Electricity, Gas and other Fuels > Total"
+440,PWHP0000,Price Weights > Harmonised Prices > All items > Total
+441,PWCP1200,Price Weights > Consumer Prices > Miscellaneous goods and services > Total
+442,PWCP0800,Price Weights > Consumer Prices > Communication > Total
+443,PWCP0117,Price Weights > Consumer Prices > Food and non-alcoholic beverages > Vegetables
+444,PWCP0724,Price Weights > Consumer Prices > Transport > Other services in respect of personal transport equipment
+445,PWCP0721,Price Weights > Consumer Prices > Transport > Spare parts and accessories for personal transport equipment
+446,PWHP1200,Price Weights > Harmonised Prices > Miscellaneous goods and services > Total
+447,PWCP0450,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Electricity, gas and other fuels"
+448,PWHP1100,Price Weights > Harmonised Prices > Restaurants and hotels > Total
+449,PWCP0700,Price Weights > Consumer Prices > Transport > Total
+450,PWHP0500,"Price Weights > Harmonised Prices > Furnishing, Household equipment and routine maintenance > Total"
+451,PWCP0440,"Price Weights > Consumer Prices > Housing, Water, Electricity, Gas and other Fuels > Water Supply and Miscellaneous Services relating to the Dwelling"
+452,CP070200,Consumer Price Index > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment > Total
+453,BSCURT02,Business tendency surveys (manufacturing) > Capacity utilisation > Rate of capacity utilisation > National indicator
+454,P6ADOV03,International investment position BPM6 > Adjustments (reconciling items - flows) > Other volume changes > Liabilities
+455,P6ADTT02,International investment position BPM6 > Adjustments (reconciling items - flows) > Total adjustments > Assets
+456,P6OICD03,International investment position BPM6 > Other investment > Currency and deposits > Liabilities
+457,P6ADOV01,International investment position BPM6 > Adjustments (reconciling items - flows) > Other volume changes > Net
+458,P6ADMP02,International investment position BPM6 > Adjustments (reconciling items - flows) > Market price changes > Assets
+459,P6TTTT02,International investment position BPM6 > Financial account (IIP) > Total > Assets
+460,P6OITC02,International investment position BPM6 > Other investment > Trade credit and advances > Assets
+461,P6PIDB01,International investment position BPM6 > Portfolio investment > Debt instruments > Net
+462,P6OITT03,International investment position BPM6 > Other investment > Total > Liabilities
+463,P6OIEQ02,International investment position BPM6 > Other investment > Other equity > Assets
+464,P6DIDB03,International investment position BPM6 > Direct investment > Debt instruments > Liabilities
+465,P6OITC01,International investment position BPM6 > Other investment > Trade credit and advances > Net
+466,P6OIIP03,"International investment position BPM6 > Other investment > Insurance, pensions and standardised guarantee schemes > Liabilities"
+467,P6DITT03,International investment position BPM6 > Direct investment > Total > Liabilities
+468,P6PIDB03,International investment position BPM6 > Portfolio investment > Debt instruments > Liabilities
+469,P6OILN03,International investment position BPM6 > Other investment > Loans > Liabilities
+470,P6PITT01,International investment position BPM6 > Portfolio investment > Total > Net
+471,P6PIEQ01,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Net
+472,P6ADTT03,International investment position BPM6 > Adjustments (reconciling items - flows) > Total adjustments > Liabilities
+473,P6PIDB02,International investment position BPM6 > Portfolio investment > Debt instruments > Assets
+474,P6OIOA03,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Liabilities
+475,P6OICD02,International investment position BPM6 > Other investment > Currency and deposits > Assets
+476,P6FDTT01,International investment position BPM6 > Financial derivatives > Total > Net
+477,P6DIDB01,International investment position BPM6 > Direct investment > Debt instruments > Net
+478,P6OIIP02,"International investment position BPM6 > Other investment > Insurance, pensions and standardised guarantee schemes > Assets"
+479,P6OITT02,International investment position BPM6 > Other investment > Total > Assets
+480,P6TTTT03,International investment position BPM6 > Financial account (IIP) > Total > Liabilities
+481,P6OISD02,International investment position BPM6 > Other investment > Special drawing rights > Assets
+482,P6OILN01,International investment position BPM6 > Other investment > Loans > Net
+483,P6DITT01,International investment position BPM6 > Direct investment > Total > Net
+484,P6ADER02,International investment position BPM6 > Adjustments (reconciling items - flows) > Exchange rate changes > Assets
+485,P6ADMP01,International investment position BPM6 > Adjustments (reconciling items - flows) > Market price changes > Net
+486,P6FDTT02,International investment position BPM6 > Financial derivatives > Total > Assets
+487,P6PIEQ02,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Assets
+488,P6OIOA02,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Assets
+489,P6OIOA01,International investment position BPM6 > Other investment > Other accounts receivable/payable - other > Net
+490,P6FDTT03,International investment position BPM6 > Financial derivatives > Total > Liabilities
+491,P6ADER01,International investment position BPM6 > Adjustments (reconciling items - flows) > Exchange rate changes > Net
+492,P6DITT02,International investment position BPM6 > Direct investment > Total > Assets
+493,P6DIEQ01,International investment position BPM6 > Direct investment > Equity and investment fund shares > Net
+494,P6RATT01,International investment position BPM6 > Reserve assets > Total > Net
+495,P6ADER03,International investment position BPM6 > Adjustments (reconciling items - flows) > Exchange rate changes > Liabilities
+496,P6PITT03,International investment position BPM6 > Portfolio investment > Total > Liabilities
+497,P6OIIP01,"International investment position BPM6 > Other investment > Insurance, pensions and standardised guarantee schemes > Net"
+498,P6OISD03,International investment position BPM6 > Other investment > Special drawing rights > Liabilities
+499,P6OICD01,International investment position BPM6 > Other investment > Currency and deposits > Net
+500,P6OITT01,International investment position BPM6 > Other investment > Total > Net
+501,P6OILN02,International investment position BPM6 > Other investment > Loans > Assets
+502,P6DIEQ03,International investment position BPM6 > Direct investment > Equity and investment fund shares > Liabilities
+503,P6DIEQ02,International investment position BPM6 > Direct investment > Equity and investment fund shares > Assets
+504,P6TTTT01,International investment position BPM6 > Financial account (IIP) > Total > Net
+505,P6DIDB02,International investment position BPM6 > Direct investment > Debt instruments > Assets
+506,P6ADMP03,International investment position BPM6 > Adjustments (reconciling items - flows) > Market price changes > Liabilities
+507,P6ADTT01,International investment position BPM6 > Adjustments (reconciling items - flows) > Total adjustments > Net
+508,P6RATT02,International investment position BPM6 > Reserve assets > Total > Assets
+509,P6PITT02,International investment position BPM6 > Portfolio investment > Total > Assets
+510,P6PIEQ03,International investment position BPM6 > Portfolio investment > Equity and investment fund shares > Liabilities
+511,P6OISD01,International investment position BPM6 > Other investment > Special drawing rights > Net
+512,P6OITC03,International investment position BPM6 > Other investment > Trade credit and advances > Liabilities
+513,P6ADOV02,International investment position BPM6 > Adjustments (reconciling items - flows) > Other volume changes > Assets
+514,P6OIEQ01,International investment position BPM6 > Other investment > Other equity > Net
+515,P6OIEQ03,International investment position BPM6 > Other investment > Other equity > Liabilties

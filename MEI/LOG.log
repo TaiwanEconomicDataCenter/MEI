@@ -1,56 +1,56 @@
-﻿2022-10-11 01:37:13 PM excel_suffix: mysql
+﻿2022-11-08 01:33:42 PM excel_suffix: mysql
 
-2022-10-11 01:37:13 PM data_processing: False
+2022-11-08 01:33:42 PM data_processing: False
 
-2022-10-11 01:37:13 PM find_unknown: False
+2022-11-08 01:33:42 PM find_unknown: False
 
-2022-10-11 01:37:13 PM dealing_start_year: 1947
+2022-11-08 01:33:42 PM dealing_start_year: 1947
 
-2022-10-11 01:38:20 PM Process: File Merging
+2022-11-08 01:34:36 PM Process: File Merging
 
-2022-10-11 01:38:20 PM Reading main key: MEI_keyNEW.xlsx, Time: 66 s
+2022-11-08 01:34:36 PM Reading main key: MEI_keyNEW.xlsx, Time: 54 s
 
-2022-10-11 01:38:20 PM Reading main database: MEI_databaseNEW.xlsx, Time: 66 s
+2022-11-08 01:34:37 PM Reading main database: MEI_databaseNEW.xlsx, Time: 55 s
 
-2022-10-11 01:38:20 PM Merging File, Time: 66 s
+2022-11-08 01:34:37 PM Merging File, Time: 55 s
 
-2022-10-11 01:38:37 PM Setting files, Time: 84 s
+2022-11-08 01:34:56 PM Setting files, Time: 74 s
 
-2022-10-11 01:38:37 PM Concating file: MEI_key?, Time: 84 s
+2022-11-08 01:34:56 PM Concating file: MEI_key?, Time: 74 s
 
-2022-10-11 01:38:37 PM Concating file: MEI_database?, Time: 84 s
+2022-11-08 01:34:56 PM Concating file: MEI_database?, Time: 74 s
 
-2022-10-11 01:38:37 PM Time: 84 s
+2022-11-08 01:34:56 PM Time: 74 s
 
-2022-10-11 01:40:08 PM Setting new files, Time: 175 s
+2022-11-08 01:36:28 PM Setting new files, Time: 166 s
 
-2022-10-11 02:19:38 PM Concating new files: MEI_database, Time: 2544 s
+2022-11-08 02:16:03 PM Concating new files: MEI_database, Time: 2540 s
 
-2022-10-11 02:19:48 PM Process: File Updating
+2022-11-08 02:20:02 PM Process: File Updating
 
-2022-10-11 02:19:48 PM Reading main key: MEI_keyUP.xlsx, Time: 2554 s
+2022-11-08 02:20:02 PM Reading main key: MEI_keyUP.xlsx, Time: 2780 s
 
-2022-10-11 02:20:11 PM Reading main database: MEI_database_1UP, Time: 2577 s
+2022-11-08 02:20:26 PM Reading main database: MEI_database_1UP, Time: 2804 s
 
-2022-10-11 02:20:32 PM Reading main database: MEI_database_2UP, Time: 2598 s
+2022-11-08 02:20:47 PM Reading main database: MEI_database_2UP, Time: 2825 s
 
-2022-10-11 02:20:56 PM Reading main database: MEI_database_3UP, Time: 2622 s
+2022-11-08 02:21:12 PM Reading main database: MEI_database_3UP, Time: 2850 s
 
-2022-10-11 02:21:20 PM Reading main database: MEI_database_4UP, Time: 2646 s
+2022-11-08 02:21:35 PM Reading main database: MEI_database_4UP, Time: 2873 s
 
-2022-10-11 02:21:39 PM Reading main database: MEI_database_5UP, Time: 2665 s
+2022-11-08 02:21:55 PM Reading main database: MEI_database_5UP, Time: 2893 s
 
-2022-10-11 02:22:17 PM Reading main database: MEI_database_6UP, Time: 2703 s
+2022-11-08 02:22:32 PM Reading main database: MEI_database_6UP, Time: 2929 s
 
-2022-10-11 02:22:53 PM Reading main database: MEI_database_7UP, Time: 2739 s
+2022-11-08 02:23:08 PM Reading main database: MEI_database_7UP, Time: 2965 s
 
-2022-10-11 02:23:23 PM Updating file: 0 s
+2022-11-08 02:23:37 PM Updating file: 0 s
 
-2022-10-11 04:52:18 PM updated: 31976
+2022-11-08 04:52:47 PM updated: 28409
 
-2022-10-11 04:52:18 PM Time: 8935 s
+2022-11-08 04:52:47 PM Time: 8950 s
 
-2022-10-11 04:53:12 PM        databank             name   db_table  db_code  ...     snl           book                    form_e form_c
+2022-11-08 04:55:34 PM        databank             name   db_table  db_code  ...     snl           book                    form_e form_c
 0           MEI  A111B6BD20CCU.a  DB_A_0001  data001  ...       1  United States  Balance of payments BPM6    NaN
 1           MEI  A111B6BD20NCU.a  DB_A_0001  data002  ...       2  United States  Balance of payments BPM6    NaN
 2           MEI  A111B6BLPICCS.a  DB_A_0001  data003  ...       3  United States  Balance of payments BPM6    NaN
