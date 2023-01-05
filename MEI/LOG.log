@@ -1,66 +1,66 @@
-﻿2022-12-12 09:06:25 AM excel_suffix: mysql
+﻿2023-01-05 09:04:57 AM excel_suffix: mysql
 
-2022-12-12 09:06:25 AM data_processing: False
+2023-01-05 09:04:57 AM data_processing: False
 
-2022-12-12 09:06:25 AM find_unknown: False
+2023-01-05 09:04:57 AM find_unknown: False
 
-2022-12-12 09:06:25 AM dealing_start_year: 1947
+2023-01-05 09:04:57 AM dealing_start_year: 1947
 
-2022-12-12 09:07:38 AM Process: File Merging
+2023-01-05 09:05:55 AM Process: File Merging
 
-2022-12-12 09:07:38 AM Reading main key: MEI_keyNEW.xlsx, Time: 72 s
+2023-01-05 09:05:55 AM Reading main key: MEI_keyNEW.xlsx, Time: 57 s
 
-2022-12-12 09:07:38 AM Reading main database: MEI_databaseNEW.xlsx, Time: 73 s
+2023-01-05 09:05:55 AM Reading main database: MEI_databaseNEW.xlsx, Time: 58 s
 
-2022-12-12 09:07:39 AM Merging File, Time: 73 s
+2023-01-05 09:05:56 AM Merging File, Time: 58 s
 
-2022-12-12 09:07:57 AM Setting files, Time: 91 s
+2023-01-05 09:06:14 AM Setting files, Time: 77 s
 
-2022-12-12 09:07:57 AM Concating file: MEI_key?, Time: 91 s
+2023-01-05 09:06:14 AM Concating file: MEI_key?, Time: 77 s
 
-2022-12-12 09:07:57 AM Concating file: MEI_database?, Time: 92 s
+2023-01-05 09:06:15 AM Concating file: MEI_database?, Time: 77 s
 
-2022-12-12 09:07:57 AM Time: 92 s
+2023-01-05 09:06:15 AM Time: 77 s
 
-2022-12-12 09:09:31 AM Setting new files, Time: 186 s
+2023-01-05 09:07:52 AM Setting new files, Time: 174 s
 
-2022-12-12 09:41:51 AM Concating new files: MEI_database, Time: 2125 s
+2023-01-05 09:15:59 AM Concating new files: MEI_database, Time: 661 s
 
-2022-12-12 09:41:58 AM Process: File Updating
+2023-01-05 09:16:38 AM Process: File Updating
 
-2022-12-12 09:41:58 AM Reading main key: MEI_keyUP.xlsx, Time: 2133 s
+2023-01-05 09:16:38 AM Reading main key: MEI_keyUP.xlsx, Time: 700 s
 
-2022-12-12 09:42:23 AM Reading main database: MEI_database_1UP, Time: 2157 s
+2023-01-05 09:17:02 AM Reading main database: MEI_database_1UP, Time: 724 s
 
-2022-12-12 09:42:43 AM Reading main database: MEI_database_2UP, Time: 2177 s
+2023-01-05 09:17:23 AM Reading main database: MEI_database_2UP, Time: 745 s
 
-2022-12-12 09:43:07 AM Reading main database: MEI_database_3UP, Time: 2201 s
+2023-01-05 09:17:47 AM Reading main database: MEI_database_3UP, Time: 769 s
 
-2022-12-12 09:43:31 AM Reading main database: MEI_database_4UP, Time: 2225 s
+2023-01-05 09:18:11 AM Reading main database: MEI_database_4UP, Time: 793 s
 
-2022-12-12 09:43:50 AM Reading main database: MEI_database_5UP, Time: 2244 s
+2023-01-05 09:18:31 AM Reading main database: MEI_database_5UP, Time: 813 s
 
-2022-12-12 09:44:27 AM Reading main database: MEI_database_6UP, Time: 2281 s
+2023-01-05 09:19:09 AM Reading main database: MEI_database_6UP, Time: 851 s
 
-2022-12-12 09:45:03 AM Reading main database: MEI_database_7UP, Time: 2317 s
+2023-01-05 09:19:45 AM Reading main database: MEI_database_7UP, Time: 887 s
 
-2022-12-12 09:45:32 AM Updating file: 0 s
+2023-01-05 09:20:14 AM Updating file: 0 s
 
-2022-12-12 12:14:48 PM updated: 25810
+2023-01-05 11:52:38 AM updated: 22943
 
-2022-12-12 12:14:48 PM Time: 8956 s
+2023-01-05 11:52:38 AM Time: 9144 s
 
-2022-12-13 01:17:30 PM        databank             name   db_table  db_code  ...     snl           book                    form_e form_c
+2023-01-05 11:55:11 AM        databank             name   db_table  db_code  ...     snl           book                    form_e form_c
 0           MEI  A111B6BD20CCU.a  DB_A_0001  data001  ...       1  United States  Balance of payments BPM6    NaN
 1           MEI  A111B6BD20NCU.a  DB_A_0001  data002  ...       2  United States  Balance of payments BPM6    NaN
 2           MEI  A111B6BLPICCS.a  DB_A_0001  data003  ...       3  United States  Balance of payments BPM6    NaN
 3           MEI  A111B6BLPICCU.a  DB_A_0001  data004  ...       4  United States  Balance of payments BPM6    NaN
 4           MEI  A111B6BLPINCS.a  DB_A_0001  data005  ...       5  United States  Balance of payments BPM6    NaN
 ...         ...              ...        ...      ...  ...     ...            ...                       ...    ...
-106231      MEI  Q964XNVA01CXM.q  DB_Q_0203  data087  ...  106232         Poland       International Trade    NaN
-106232      MEI  Q964XNVA01NML.q  DB_Q_0203  data088  ...  106233         Poland       International Trade    NaN
-106233      MEI  Q964XNVA01NMS.q  DB_Q_0203  data089  ...  106234         Poland       International Trade    NaN
-106234      MEI  Q964XNVA01STS.q  DB_Q_0203  data090  ...  106235         Poland       International Trade    NaN
-106235      MEI   Q968CCUSMAST.q  DB_Q_0203  data091  ...  106236        Romania      Currency Conversions    NaN
+106233      MEI  Q964XNVA01CXM.q  DB_Q_0203  data087  ...  106234         Poland       International Trade    NaN
+106234      MEI  Q964XNVA01NML.q  DB_Q_0203  data088  ...  106235         Poland       International Trade    NaN
+106235      MEI  Q964XNVA01NMS.q  DB_Q_0203  data089  ...  106236         Poland       International Trade    NaN
+106236      MEI  Q964XNVA01STS.q  DB_Q_0203  data090  ...  106237         Poland       International Trade    NaN
+106237      MEI   Q968CCUSMAST.q  DB_Q_0203  data091  ...  106238        Romania      Currency Conversions    NaN
 
-[106236 rows x 15 columns]
+[106238 rows x 15 columns]
