@@ -265,54 +265,53 @@
 263,LFWATTMA,Labour Force Survey - quarterly levels > Working age population > Aged 15 and over > Males
 264,LFWATTTT,Labour Force Survey - quarterly levels > Working age population > Aged 15 and over > All persons
 265,LMJVTTNV,Labour - other labour market measures > Job vacancies > Total > New vacancies (flow)
-266,PRCNTO01,Production > Construction > Total construction > Total
-267,CP060000,Consumer Price Index > Health (COICOP 06) > Total > Total
-268,CP010000,Consumer Price Index > Food and non-Alcoholic beverages (COICOP 01) > Total > Total
-269,CP020000,"Consumer Price Index > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total > Total"
-270,CP030000,Consumer Price Index > Clothing and footwear (COICOP 03) > Total > Total
-271,CP040000,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Total > Total"
-272,CP050000,"Consumer Price Index > Furnishings, household equip. and routine household maintenance (COICOP 05) > Total > Total"
-273,CP070000,Consumer Price Index > Transport (COICOP 07) > Total > Total
-274,CP080000,Consumer Price Index > Communication (COICOP 08) > Total > Total
-275,CP090000,Consumer Price Index > Recreation and culture  (COICOP 09) > Total > Total
-276,CP100000,Consumer Price Index > Education (COICOP 10) > Total > Total
-277,CP110000,Consumer Price Index > Restaurants and hotels (COICOP 11) > Total > Total
-278,CP120000,Consumer Price Index > Miscellaneous goods and services (COICOP 12) > Total > Total
-279,CP040100,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing > Total"
-280,CP040200,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Imputed rentals for housing > Total"
-281,CP040300,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance and repairs of the dwellings > Total"
-282,CP040400,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling > Total"
-283,CP040500,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels > Total"
-284,CPGRGO01,Consumer Price Index > OECD Groups > Goods > Total
-285,CPGRHO01,Consumer Price Index > OECD Groups > Housing > Total
-286,CPGRHO02,Consumer Price Index > OECD Groups > Housing > Housing excluding imputed rentals for housing
-287,CPGRLH01,Consumer Price Index > OECD Groups > Services less housing > Total
-288,CPGRSE01,Consumer Price Index > OECD Groups > Services > Total
-289,CPSDCTGY,Consumer Price Index > Statistical discrepancy > Contribution > Annual inflation
-290,CP070200,Consumer Price Index > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment > Total
-291,CSCICP04,Consumer opinion surveys > Confidence indicators > Composite indicators > Normalised indicator
-292,CP18GRGO,Consumer Price Index > COICOP 2018 > OECD Groups > Goods
-293,CP180410,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing"
-294,CP18ALTT,Consumer Price Index > COICOP 2018 > All items > All items
-295,CP180200,"Consumer Price Index > COICOP 2018 > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total"
-296,CP180700,Consumer Price Index > COICOP 2018 > Transport (COICOP 07) > Total
-297,CP18GRSE,Consumer Price Index > COICOP 2018 > OECD Groups > Services
-298,CP180100,Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Total
-299,CP18GREN,Consumer Price Index > COICOP 2018 > OECD Groups > Energy
-300,CP181300,"Consumer Price Index > COICOP 2018 > Personal care, social protection, miscellaneous goods & services (COICOP 13 > Total"
-301,CP180900,"Consumer Price Index > COICOP 2018 > Recreation, sport and culture  (COICOP 09) > Total"
-302,CP180450,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels"
-303,CP181200,Consumer Price Index > COICOP 2018 > Insurance and financial services (COICOP 12) > Total
-304,CP18GRLE,Consumer Price Index > COICOP 2018 > OECD Groups > All items non-food non-energy
-305,CP180500,"Consumer Price Index > COICOP 2018 > Furnishings, household equipment and routine household maintenance (COICOP > Total"
-306,CP180440,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling"
-307,CP180300,Consumer Price Index > COICOP 2018 > Clothing and footwear (COICOP 03) > Total
-308,CP180430,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance, repairs & security of the dwellings"
-309,CP181100,Consumer Price Index > COICOP 2018 > Restaurants and accommodation services (COICOP 11) > Total
-310,CP180400,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Total"
-311,CP180600,Consumer Price Index > COICOP 2018 > Health (COICOP 06) > Total
-312,CP18GRL1,Consumer Price Index > COICOP 2018 > OECD Groups > Services less housing
-313,CP180800,Consumer Price Index > COICOP 2018 > Information and communication (COICOP 08) > Total
-314,CP18GRH1,Consumer Price Index > COICOP 2018 > OECD Groups > Housing
-315,CP181000,Consumer Price Index > COICOP 2018 > Education services (COICOP 10) > Total
-316,CP180420,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Imputed rentals for housing"
+266,CP060000,Consumer Price Index > Health (COICOP 06) > Total > Total
+267,CP010000,Consumer Price Index > Food and non-Alcoholic beverages (COICOP 01) > Total > Total
+268,CP020000,"Consumer Price Index > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total > Total"
+269,CP030000,Consumer Price Index > Clothing and footwear (COICOP 03) > Total > Total
+270,CP040000,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Total > Total"
+271,CP050000,"Consumer Price Index > Furnishings, household equip. and routine household maintenance (COICOP 05) > Total > Total"
+272,CP070000,Consumer Price Index > Transport (COICOP 07) > Total > Total
+273,CP080000,Consumer Price Index > Communication (COICOP 08) > Total > Total
+274,CP090000,Consumer Price Index > Recreation and culture  (COICOP 09) > Total > Total
+275,CP100000,Consumer Price Index > Education (COICOP 10) > Total > Total
+276,CP110000,Consumer Price Index > Restaurants and hotels (COICOP 11) > Total > Total
+277,CP120000,Consumer Price Index > Miscellaneous goods and services (COICOP 12) > Total > Total
+278,CP040100,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing > Total"
+279,CP040200,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Imputed rentals for housing > Total"
+280,CP040300,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance and repairs of the dwellings > Total"
+281,CP040400,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling > Total"
+282,CP040500,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels > Total"
+283,CPGRGO01,Consumer Price Index > OECD Groups > Goods > Total
+284,CPGRHO01,Consumer Price Index > OECD Groups > Housing > Total
+285,CPGRHO02,Consumer Price Index > OECD Groups > Housing > Housing excluding imputed rentals for housing
+286,CPGRLH01,Consumer Price Index > OECD Groups > Services less housing > Total
+287,CPGRSE01,Consumer Price Index > OECD Groups > Services > Total
+288,CPSDCTGY,Consumer Price Index > Statistical discrepancy > Contribution > Annual inflation
+289,CP070200,Consumer Price Index > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment > Total
+290,CSCICP04,Consumer opinion surveys > Confidence indicators > Composite indicators > Normalised indicator
+291,CP18GRGO,Consumer Price Index > COICOP 2018 > OECD Groups > Goods
+292,CP180410,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing"
+293,CP18ALTT,Consumer Price Index > COICOP 2018 > All items > All items
+294,CP180200,"Consumer Price Index > COICOP 2018 > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total"
+295,CP180700,Consumer Price Index > COICOP 2018 > Transport (COICOP 07) > Total
+296,CP18GRSE,Consumer Price Index > COICOP 2018 > OECD Groups > Services
+297,CP180100,Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Total
+298,CP18GREN,Consumer Price Index > COICOP 2018 > OECD Groups > Energy
+299,CP181300,"Consumer Price Index > COICOP 2018 > Personal care, social protection, miscellaneous goods & services (COICOP 13 > Total"
+300,CP180900,"Consumer Price Index > COICOP 2018 > Recreation, sport and culture  (COICOP 09) > Total"
+301,CP180450,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels"
+302,CP181200,Consumer Price Index > COICOP 2018 > Insurance and financial services (COICOP 12) > Total
+303,CP18GRLE,Consumer Price Index > COICOP 2018 > OECD Groups > All items non-food non-energy
+304,CP180500,"Consumer Price Index > COICOP 2018 > Furnishings, household equipment and routine household maintenance (COICOP > Total"
+305,CP180440,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling"
+306,CP180300,Consumer Price Index > COICOP 2018 > Clothing and footwear (COICOP 03) > Total
+307,CP180430,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance, repairs & security of the dwellings"
+308,CP181100,Consumer Price Index > COICOP 2018 > Restaurants and accommodation services (COICOP 11) > Total
+309,CP180400,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Total"
+310,CP180600,Consumer Price Index > COICOP 2018 > Health (COICOP 06) > Total
+311,CP18GRL1,Consumer Price Index > COICOP 2018 > OECD Groups > Services less housing
+312,CP180800,Consumer Price Index > COICOP 2018 > Information and communication (COICOP 08) > Total
+313,CP18GRH1,Consumer Price Index > COICOP 2018 > OECD Groups > Housing
+314,CP181000,Consumer Price Index > COICOP 2018 > Education services (COICOP 10) > Total
+315,CP180420,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Imputed rentals for housing"

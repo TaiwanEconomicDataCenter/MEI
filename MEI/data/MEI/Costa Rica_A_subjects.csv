@@ -320,116 +320,167 @@
 318,LFHU24FE,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 15-24 > Females
 319,CCRETT02,Currency Conversions > Real effective exchange rates > Overall Economy > ULC
 320,CCRETT01,Currency Conversions > Real effective exchange rates > Overall Economy > CPI
-321,CP180900,"Consumer Price Index > COICOP 2018 > Recreation, sport and culture  (COICOP 09) > Total"
-322,CP181100,Consumer Price Index > COICOP 2018 > Restaurants and accommodation services (COICOP 11) > Total
-323,CP181300,"Consumer Price Index > COICOP 2018 > Personal care, social protection, miscellaneous goods & services (COICOP 13 > Total"
-324,CP180100,Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Total
-325,CP180722,Consumer Price Index > COICOP 2018 > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment (ND)
-326,CP180200,"Consumer Price Index > COICOP 2018 > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total"
-327,CP18ALTT,Consumer Price Index > COICOP 2018 > All items > All items
-328,CP180440,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling"
-329,CP180400,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Total"
-330,CP180500,"Consumer Price Index > COICOP 2018 > Furnishings, household equipment and routine household maintenance (COICOP > Total"
-331,CP180410,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing"
-332,CP180700,Consumer Price Index > COICOP 2018 > Transport (COICOP 07) > Total
-333,CP180800,Consumer Price Index > COICOP 2018 > Information and communication (COICOP 08) > Total
-334,CP181000,Consumer Price Index > COICOP 2018 > Education services (COICOP 10) > Total
-335,CP180430,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance, repairs & security of the dwellings"
-336,CP180450,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels"
-337,CP18GREN,Consumer Price Index > COICOP 2018 > OECD Groups > Energy
-338,CP18GRLE,Consumer Price Index > COICOP 2018 > OECD Groups > All items non-food non-energy
-339,CP18GRH2,Consumer Price Index > COICOP 2018 > OECD Groups > Housing excluding imputed rentals for housing
-340,CP18GRL2,Consumer Price Index > COICOP 2018 > OECD Groups > Services less housing (Housing excluding imputed rentals for housing)
-341,CP18GRGO,Consumer Price Index > COICOP 2018 > OECD Groups > Goods
-342,CP18GRSE,Consumer Price Index > COICOP 2018 > OECD Groups > Services
-343,LRAC74MA,Labour Force Survey - quarterly rates > Activity rate > Aged 15-74 > Males
-344,LRAC74FE,Labour Force Survey - quarterly rates > Activity rate > Aged 15-74 > Females
-345,LRAC25TT,Labour Force Survey - quarterly rates > Activity rate > Aged 25-54 > All persons
-346,LRAC25MA,Labour Force Survey - quarterly rates > Activity rate > Aged 25-54 > Males
-347,LRAC74TT,Labour Force Survey - quarterly rates > Activity rate > Aged 15-74 > All persons
-348,LRAC64FE,Labour Force Survey - quarterly rates > Activity rate > Aged 15-64 > Females
-349,LRAC64MA,Labour Force Survey - quarterly rates > Activity rate > Aged 15-64 > Males
-350,LRAC25FE,Labour Force Survey - quarterly rates > Activity rate > Aged 25-54 > Females
-351,LRAC64TT,Labour Force Survey - quarterly rates > Activity rate > Aged 15-64 > All persons
-352,LRAC55TT,Labour Force Survey - quarterly rates > Activity rate > Aged 55-64 > All persons
-353,LRAC55FE,Labour Force Survey - quarterly rates > Activity rate > Aged 55-64 > Females
-354,LRAC55MA,Labour Force Survey - quarterly rates > Activity rate > Aged 55-64 > Males
-355,CP180300,Consumer Price Index > COICOP 2018 > Clothing and footwear (COICOP 03) > Total
-356,PW180200,"Price Weights > Consumer Prices according to COICOP 2018 > Alcoholic beverages, Tobacco and Narcotics (COICOP 02) > Total"
-357,PW180520,"Price Weights > Consumer Prices according to COICOP 2018 > Furnishing, Household equipment & routine household maintenance (COICOP 05) > Household textiles"
-358,PW18GREN,Price Weights > Consumer Prices according to COICOP 2018 > OECD Groups > Energy
-359,PW180630,Price Weights > Consumer Prices according to COICOP 2018 > Health (COICOP 06) > Inpatient care services
-360,PW181320,"Price Weights > Consumer Prices according to COICOP 2018 > Personal care, social protection, miscellaneous goods & services (COICOP 13 > Other personal effects"
-361,PW180540,"Price Weights > Consumer Prices according to COICOP 2018 > Furnishing, Household equipment & routine household maintenance (COICOP 05) > Glassware, tableware and household utensils"
-362,PW18GRLE,Price Weights > Consumer Prices according to COICOP 2018 > OECD Groups > All items less food less energy
-363,PW180320,Price Weights > Consumer Prices according to COICOP 2018 > Clothing and Footwear (COICOP 03) > Footwear
-364,PW180441,"Price Weights > Consumer Prices according to COICOP 2018 > Housing, Water, Electricity, Gas and other Fuels (COICOP 04) > Water supply (ND)"
-365,PW180430,"Price Weights > Consumer Prices according to COICOP 2018 > Housing, Water, Electricity, Gas and other Fuels (COICOP 04) > Maintenance, repair and security of the dwelling"
-366,PW180110,Price Weights > Consumer Prices according to COICOP 2018 > Food and non-alcoholic beverages (COICOP 01) > Food
-367,PW180900,"Price Weights > Consumer Prices according to COICOP 2018 > Recreation, sport and culture (COICOP 09) > Total"
-368,PW180930,"Price Weights > Consumer Prices according to COICOP 2018 > Recreation, sport and culture (COICOP 09) > Garden products and pets"
-369,PW180723,Price Weights > Consumer Prices according to COICOP 2018 > Transport (COICOP 07) > Maintenance and repair of personal transport equipment (S)
-370,PW180610,Price Weights > Consumer Prices according to COICOP 2018 > Health (COICOP 06) > Medicines and health products
-371,PW181300,"Price Weights > Consumer Prices according to COICOP 2018 > Personal care, social protection, miscellaneous goods & services (COICOP 13 > Total"
-372,PW180724,Price Weights > Consumer Prices according to COICOP 2018 > Transport (COICOP 07) > Other services in respect of personal transport equipment
-373,PW180800,Price Weights > Consumer Prices according to COICOP 2018 > Information and communication (COICOP 08) > Tota
-374,PW180720,Price Weights > Consumer Prices according to COICOP 2018 > Transport (COICOP 07) > Operation of personal transport equipment
-375,PW180120,Price Weights > Consumer Prices according to COICOP 2018 > Food and non-alcoholic beverages (COICOP 01) > Non-alcoholic beverages
-376,PW180600,Price Weights > Consumer Prices according to COICOP 2018 > Health (COICOP 06) > Total
-377,PW180560,"Price Weights > Consumer Prices according to COICOP 2018 > Furnishing, Household equipment & routine household maintenance (COICOP 05) > Goods and services for routine household maintenance"
-378,PW180722,Price Weights > Consumer Prices according to COICOP 2018 > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment (ND)
-379,PW180640,Price Weights > Consumer Prices according to COICOP 2018 > Health (COICOP 06) > Other health services
-380,PW180810,Price Weights > Consumer Prices according to COICOP 2018 > Information and communication (COICOP 08) > Information and communication equipment
-381,PW180452,"Price Weights > Consumer Prices according to COICOP 2018 > Housing, Water, Electricity, Gas and other Fuels (COICOP 04) > Gas (ND)"
-382,PW180970,"Price Weights > Consumer Prices according to COICOP 2018 > Recreation, sport and culture (COICOP 09) > Newspapers, books and stationery"
-383,PW180431,"Price Weights > Consumer Prices according to COICOP 2018 > Housing, Water, Electricity, Gas and other Fuels (COICOP 04) > Security equipment & materials for maintenance & repair of dwellings (ND)"
-384,PW180116,Price Weights > Consumer Prices according to COICOP 2018 > Food and non-alcoholic beverages (COICOP 01) > Fruit and nuts (ND)
-385,PW181210,Price Weights > Consumer Prices according to COICOP 2018 > Insurance and financial services (COICOP 12) > Insurance
-386,PW181111,"Price Weights > Consumer Prices according to COICOP 2018 > Restaurants and accommodation services (COICOP 11) > Restaurants, cafés and the like (S)"
-387,PW180980,"Price Weights > Consumer Prices according to COICOP 2018 > Recreation, sport and culture (COICOP 09) > Package holidays"
-388,PW180111,Price Weights > Consumer Prices according to COICOP 2018 > Food and non-alcoholic beverages (COICOP 01) > Cereals and cereal products (ND)
-389,PW180119,Price Weights > Consumer Prices according to COICOP 2018 > Food and non-alcoholic beverages (COICOP 01) > Ready-made food and other food products n.e.c. (ND)
-390,PW18GRH2,Price Weights > Consumer Prices according to COICOP 2018 > OECD Groups > Housing excluding imputed rent
-391,PW180830,Price Weights > Consumer Prices according to COICOP 2018 > Information and communication (COICOP 08) > Information and communication services
-392,PW181200,Price Weights > Consumer Prices according to COICOP 2018 > Insurance and financial services (COICOP 12) > Total
-393,PW180730,Price Weights > Consumer Prices according to COICOP 2018 > Transport (COICOP 07) > Passenger transport services
-394,PW180300,Price Weights > Consumer Prices according to COICOP 2018 > Clothing and Footwear (COICOP 03) > Total
-395,PW181330,"Price Weights > Consumer Prices according to COICOP 2018 > Personal care, social protection, miscellaneous goods & services (COICOP 13 > Social protection"
-396,PW180000,Price Weights > Consumer Prices according to COICOP 2018 > All items (COICOP 01-13) > Total
-397,PW180910,"Price Weights > Consumer Prices according to COICOP 2018 > Recreation, sport and culture (COICOP 09) > Recreational durables"
-398,PW180410,"Price Weights > Consumer Prices according to COICOP 2018 > Housing, Water, Electricity, Gas and other Fuels (COICOP 04) > Actual Rentals for Housing"
-399,PW180113,Price Weights > Consumer Prices according to COICOP 2018 > Food and non-alcoholic beverages (COICOP 01) > Fish and other seafood (ND)
-400,PW180112,"Price Weights > Consumer Prices according to COICOP 2018 > Food and non-alcoholic beverages (COICOP 01) > Live animals, meat and other parts of slaughtered land animals (ND)"
-401,PW180940,"Price Weights > Consumer Prices according to COICOP 2018 > Recreation, sport and culture (COICOP 09) > Recreational services"
-402,PW181110,Price Weights > Consumer Prices according to COICOP 2018 > Restaurants and accommodation services (COICOP 11) > Food and beverage serving services
-403,PW18GRL2,Price Weights > Consumer Prices according to COICOP 2018 > OECD Groups > Services less housing excluding imputed rent
-404,PW180118,"Price Weights > Consumer Prices according to COICOP 2018 > Food and non-alcoholic beverages (COICOP 01) > Sugar, confectionery and desserts (ND)"
-405,PW180100,Price Weights > Consumer Prices according to COICOP 2018 > Food and non-alcoholic beverages (COICOP 01) > Total
-406,PW180310,Price Weights > Consumer Prices according to COICOP 2018 > Clothing and Footwear (COICOP 03) > Clothing
-407,PW180440,"Price Weights > Consumer Prices according to COICOP 2018 > Housing, Water, Electricity, Gas and other Fuels (COICOP 04) > Water Supply and Miscellaneous Services relating to the Dwellings"
-408,PW180115,Price Weights > Consumer Prices according to COICOP 2018 > Food and non-alcoholic beverages (COICOP 01) > Oils and fats (ND)
-409,PW181120,Price Weights > Consumer Prices according to COICOP 2018 > Restaurants and accommodation services (COICOP 11) > Accommodation services
-410,PW181310,"Price Weights > Consumer Prices according to COICOP 2018 > Personal care, social protection, miscellaneous goods & services (COICOP 13 > Personal care"
-411,PW180530,"Price Weights > Consumer Prices according to COICOP 2018 > Furnishing, Household equipment & routine household maintenance (COICOP 05) > Household appliances"
-412,PW180451,"Price Weights > Consumer Prices according to COICOP 2018 > Housing, Water, Electricity, Gas and other Fuels (COICOP 04) > Electricity (ND)"
-413,PW180400,"Price Weights > Consumer Prices according to COICOP 2018 > Housing, Water, Electricity, Gas and other Fuels (COICOP 04) > Total"
-414,PW180114,"Price Weights > Consumer Prices according to COICOP 2018 > Food and non-alcoholic beverages (COICOP 01) > Milk, other dairy products and eggs (ND)"
-415,PW181000,Price Weights > Consumer Prices according to COICOP 2018 > Education services (COICOP 10) > Total
-416,PW180230,"Price Weights > Consumer Prices according to COICOP 2018 > Alcoholic beverages, Tobacco and Narcotics (COICOP 02) > Tobacco"
-417,PW181340,"Price Weights > Consumer Prices according to COICOP 2018 > Personal care, social protection, miscellaneous goods & services (COICOP 13 > Other services n.e.c."
-418,PW180510,"Price Weights > Consumer Prices according to COICOP 2018 > Furnishing, Household equipment & routine household maintenance (COICOP 05) > Furniture, furnishings, and loose carpets"
-419,PW181220,Price Weights > Consumer Prices according to COICOP 2018 > Insurance and financial services (COICOP 12) > Financial services
-420,PW180117,"Price Weights > Consumer Prices according to COICOP 2018 > Food and non-alcoholic beverages (COICOP 01) > Vegetables, tubers, plantains, cooking bananas and pulses (ND)"
-421,PW181100,Price Weights > Consumer Prices according to COICOP 2018 > Restaurants and accommodation services (COICOP 11) > Total
-422,PW180432,"Price Weights > Consumer Prices according to COICOP 2018 > Housing, Water, Electricity, Gas and other Fuels (COICOP 04) > Services for the maintenance, repair and security of the dwelling (S)"
-423,PW18GRSE,Price Weights > Consumer Prices according to COICOP 2018 > OECD Groups > Services
-424,PW180620,Price Weights > Consumer Prices according to COICOP 2018 > Health (COICOP 06) > Out-patient services
-425,PW180450,"Price Weights > Consumer Prices according to COICOP 2018 > Housing, Water, Electricity, Gas and other Fuels (COICOP 04) > Electricity, gas and other fuels"
-426,PW18044G,"Price Weights > Consumer Prices according to COICOP 2018 > Housing, Water, Electricity, Gas and other Fuels (COICOP 04) > Miscellaneous services relating to the dwelling (04.4.2_3_4)"
-427,PW180960,"Price Weights > Consumer Prices according to COICOP 2018 > Recreation, sport and culture (COICOP 09) > Cultural services"
-428,PW180210,"Price Weights > Consumer Prices according to COICOP 2018 > Alcoholic beverages, Tobacco and Narcotics (COICOP 02) > Alcoholic beverages"
-429,PW180721,Price Weights > Consumer Prices according to COICOP 2018 > Transport (COICOP 07) > Parts and accessories for personal transport equipment (SD)
-430,PW18GRGO,Price Weights > Consumer Prices according to COICOP 2018 > OECD Groups > Goods
-431,PW180710,Price Weights > Consumer Prices according to COICOP 2018 > Transport (COICOP 07) > Purchase of vehicles
-432,PW180500,"Price Weights > Consumer Prices according to COICOP 2018 > Furnishing, Household equipment & routine household maintenance (COICOP 05) > Total"
-433,PW180700,Price Weights > Consumer Prices according to COICOP 2018 > Transport (COICOP 07) > Total
+321,CP181000,Consumer Price Index > COICOP 2018 > Education services (COICOP 10) > Total
+322,CP180900,"Consumer Price Index > COICOP 2018 > Recreation, sport and culture  (COICOP 09) > Total"
+323,CP181100,Consumer Price Index > COICOP 2018 > Restaurants and accommodation services (COICOP 11) > Total
+324,CP181300,"Consumer Price Index > COICOP 2018 > Personal care, social protection, miscellaneous goods & services (COICOP 13 > Total"
+325,CP180800,Consumer Price Index > COICOP 2018 > Information and communication (COICOP 08) > Total
+326,CP180100,Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Total
+327,CP180722,Consumer Price Index > COICOP 2018 > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment (ND)
+328,CP180200,"Consumer Price Index > COICOP 2018 > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total"
+329,CP18ALTT,Consumer Price Index > COICOP 2018 > All items > All items
+330,CP180440,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling"
+331,CP180400,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Total"
+332,CP180450,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels"
+333,CP180430,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance, repairs & security of the dwellings"
+334,CP180500,"Consumer Price Index > COICOP 2018 > Furnishings, household equipment and routine household maintenance (COICOP > Total"
+335,CP180410,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing"
+336,CP180700,Consumer Price Index > COICOP 2018 > Transport (COICOP 07) > Total
+337,CP180600,Consumer Price Index > COICOP 2018 > Health (COICOP 06) > Total
+338,CP18GREN,Consumer Price Index > COICOP 2018 > OECD Groups > Energy
+339,CP18GRLE,Consumer Price Index > COICOP 2018 > OECD Groups > All items non-food non-energy
+340,CP18GRH2,Consumer Price Index > COICOP 2018 > OECD Groups > Housing excluding imputed rentals for housing
+341,CP18GRL2,Consumer Price Index > COICOP 2018 > OECD Groups > Services less housing (Housing excluding imputed rentals for housing)
+342,CP18GRGO,Consumer Price Index > COICOP 2018 > OECD Groups > Goods
+343,CP18GRSE,Consumer Price Index > COICOP 2018 > OECD Groups > Services
+344,LRAC74MA,Labour Force Survey - quarterly rates > Activity rate > Aged 15-74 > Males
+345,LRAC74FE,Labour Force Survey - quarterly rates > Activity rate > Aged 15-74 > Females
+346,LRAC25TT,Labour Force Survey - quarterly rates > Activity rate > Aged 25-54 > All persons
+347,LRAC25MA,Labour Force Survey - quarterly rates > Activity rate > Aged 25-54 > Males
+348,LRAC74TT,Labour Force Survey - quarterly rates > Activity rate > Aged 15-74 > All persons
+349,LRAC64FE,Labour Force Survey - quarterly rates > Activity rate > Aged 15-64 > Females
+350,LRAC64MA,Labour Force Survey - quarterly rates > Activity rate > Aged 15-64 > Males
+351,LRAC25FE,Labour Force Survey - quarterly rates > Activity rate > Aged 25-54 > Females
+352,LRAC64TT,Labour Force Survey - quarterly rates > Activity rate > Aged 15-64 > All persons
+353,LRAC55TT,Labour Force Survey - quarterly rates > Activity rate > Aged 55-64 > All persons
+354,LRAC55FE,Labour Force Survey - quarterly rates > Activity rate > Aged 55-64 > Females
+355,LRAC55MA,Labour Force Survey - quarterly rates > Activity rate > Aged 55-64 > Males
+356,CP181200,Consumer Price Index > COICOP 2018 > Insurance and financial services (COICOP 12) > Total
+357,CP180300,Consumer Price Index > COICOP 2018 > Clothing and footwear (COICOP 03) > Total
+358,PW180200,"Price Weights > Consumer Prices according to COICOP 2018 > Alcoholic beverages, Tobacco and Narcotics (COICOP 02) > Total"
+359,PW180520,"Price Weights > Consumer Prices according to COICOP 2018 > Furnishing, Household equipment & routine household maintenance (COICOP 05) > Household textiles"
+360,PW18GREN,Price Weights > Consumer Prices according to COICOP 2018 > OECD Groups > Energy
+361,PW180630,Price Weights > Consumer Prices according to COICOP 2018 > Health (COICOP 06) > Inpatient care services
+362,PW181320,"Price Weights > Consumer Prices according to COICOP 2018 > Personal care, social protection, miscellaneous goods & services (COICOP 13 > Other personal effects"
+363,PW180540,"Price Weights > Consumer Prices according to COICOP 2018 > Furnishing, Household equipment & routine household maintenance (COICOP 05) > Glassware, tableware and household utensils"
+364,PW18GRLE,Price Weights > Consumer Prices according to COICOP 2018 > OECD Groups > All items less food less energy
+365,PW180320,Price Weights > Consumer Prices according to COICOP 2018 > Clothing and Footwear (COICOP 03) > Footwear
+366,PW180441,"Price Weights > Consumer Prices according to COICOP 2018 > Housing, Water, Electricity, Gas and other Fuels (COICOP 04) > Water supply (ND)"
+367,PW180430,"Price Weights > Consumer Prices according to COICOP 2018 > Housing, Water, Electricity, Gas and other Fuels (COICOP 04) > Maintenance, repair and security of the dwelling"
+368,PW180110,Price Weights > Consumer Prices according to COICOP 2018 > Food and non-alcoholic beverages (COICOP 01) > Food
+369,PW180900,"Price Weights > Consumer Prices according to COICOP 2018 > Recreation, sport and culture (COICOP 09) > Total"
+370,PW180930,"Price Weights > Consumer Prices according to COICOP 2018 > Recreation, sport and culture (COICOP 09) > Garden products and pets"
+371,PW180723,Price Weights > Consumer Prices according to COICOP 2018 > Transport (COICOP 07) > Maintenance and repair of personal transport equipment (S)
+372,PW180610,Price Weights > Consumer Prices according to COICOP 2018 > Health (COICOP 06) > Medicines and health products
+373,PW181300,"Price Weights > Consumer Prices according to COICOP 2018 > Personal care, social protection, miscellaneous goods & services (COICOP 13 > Total"
+374,PW180724,Price Weights > Consumer Prices according to COICOP 2018 > Transport (COICOP 07) > Other services in respect of personal transport equipment
+375,PW180800,Price Weights > Consumer Prices according to COICOP 2018 > Information and communication (COICOP 08) > Tota
+376,PW180720,Price Weights > Consumer Prices according to COICOP 2018 > Transport (COICOP 07) > Operation of personal transport equipment
+377,PW180120,Price Weights > Consumer Prices according to COICOP 2018 > Food and non-alcoholic beverages (COICOP 01) > Non-alcoholic beverages
+378,PW180600,Price Weights > Consumer Prices according to COICOP 2018 > Health (COICOP 06) > Total
+379,PW180560,"Price Weights > Consumer Prices according to COICOP 2018 > Furnishing, Household equipment & routine household maintenance (COICOP 05) > Goods and services for routine household maintenance"
+380,PW180722,Price Weights > Consumer Prices according to COICOP 2018 > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment (ND)
+381,PW180640,Price Weights > Consumer Prices according to COICOP 2018 > Health (COICOP 06) > Other health services
+382,PW180810,Price Weights > Consumer Prices according to COICOP 2018 > Information and communication (COICOP 08) > Information and communication equipment
+383,PW180452,"Price Weights > Consumer Prices according to COICOP 2018 > Housing, Water, Electricity, Gas and other Fuels (COICOP 04) > Gas (ND)"
+384,PW180970,"Price Weights > Consumer Prices according to COICOP 2018 > Recreation, sport and culture (COICOP 09) > Newspapers, books and stationery"
+385,PW180431,"Price Weights > Consumer Prices according to COICOP 2018 > Housing, Water, Electricity, Gas and other Fuels (COICOP 04) > Security equipment & materials for maintenance & repair of dwellings (ND)"
+386,PW180116,Price Weights > Consumer Prices according to COICOP 2018 > Food and non-alcoholic beverages (COICOP 01) > Fruit and nuts (ND)
+387,PW181210,Price Weights > Consumer Prices according to COICOP 2018 > Insurance and financial services (COICOP 12) > Insurance
+388,PW181111,"Price Weights > Consumer Prices according to COICOP 2018 > Restaurants and accommodation services (COICOP 11) > Restaurants, cafés and the like (S)"
+389,PW180980,"Price Weights > Consumer Prices according to COICOP 2018 > Recreation, sport and culture (COICOP 09) > Package holidays"
+390,PW180111,Price Weights > Consumer Prices according to COICOP 2018 > Food and non-alcoholic beverages (COICOP 01) > Cereals and cereal products (ND)
+391,PW180119,Price Weights > Consumer Prices according to COICOP 2018 > Food and non-alcoholic beverages (COICOP 01) > Ready-made food and other food products n.e.c. (ND)
+392,PW18GRH2,Price Weights > Consumer Prices according to COICOP 2018 > OECD Groups > Housing excluding imputed rent
+393,PW180830,Price Weights > Consumer Prices according to COICOP 2018 > Information and communication (COICOP 08) > Information and communication services
+394,PW181200,Price Weights > Consumer Prices according to COICOP 2018 > Insurance and financial services (COICOP 12) > Total
+395,PW180730,Price Weights > Consumer Prices according to COICOP 2018 > Transport (COICOP 07) > Passenger transport services
+396,PW180300,Price Weights > Consumer Prices according to COICOP 2018 > Clothing and Footwear (COICOP 03) > Total
+397,PW181330,"Price Weights > Consumer Prices according to COICOP 2018 > Personal care, social protection, miscellaneous goods & services (COICOP 13 > Social protection"
+398,PW180000,Price Weights > Consumer Prices according to COICOP 2018 > All items (COICOP 01-13) > Total
+399,PW180910,"Price Weights > Consumer Prices according to COICOP 2018 > Recreation, sport and culture (COICOP 09) > Recreational durables"
+400,PW180410,"Price Weights > Consumer Prices according to COICOP 2018 > Housing, Water, Electricity, Gas and other Fuels (COICOP 04) > Actual Rentals for Housing"
+401,PW180113,Price Weights > Consumer Prices according to COICOP 2018 > Food and non-alcoholic beverages (COICOP 01) > Fish and other seafood (ND)
+402,PW180112,"Price Weights > Consumer Prices according to COICOP 2018 > Food and non-alcoholic beverages (COICOP 01) > Live animals, meat and other parts of slaughtered land animals (ND)"
+403,PW180940,"Price Weights > Consumer Prices according to COICOP 2018 > Recreation, sport and culture (COICOP 09) > Recreational services"
+404,PW181110,Price Weights > Consumer Prices according to COICOP 2018 > Restaurants and accommodation services (COICOP 11) > Food and beverage serving services
+405,PW18GRL2,Price Weights > Consumer Prices according to COICOP 2018 > OECD Groups > Services less housing excluding imputed rent
+406,PW180118,"Price Weights > Consumer Prices according to COICOP 2018 > Food and non-alcoholic beverages (COICOP 01) > Sugar, confectionery and desserts (ND)"
+407,PW180100,Price Weights > Consumer Prices according to COICOP 2018 > Food and non-alcoholic beverages (COICOP 01) > Total
+408,PW180310,Price Weights > Consumer Prices according to COICOP 2018 > Clothing and Footwear (COICOP 03) > Clothing
+409,PW180440,"Price Weights > Consumer Prices according to COICOP 2018 > Housing, Water, Electricity, Gas and other Fuels (COICOP 04) > Water Supply and Miscellaneous Services relating to the Dwellings"
+410,PW180115,Price Weights > Consumer Prices according to COICOP 2018 > Food and non-alcoholic beverages (COICOP 01) > Oils and fats (ND)
+411,PW181120,Price Weights > Consumer Prices according to COICOP 2018 > Restaurants and accommodation services (COICOP 11) > Accommodation services
+412,PW181310,"Price Weights > Consumer Prices according to COICOP 2018 > Personal care, social protection, miscellaneous goods & services (COICOP 13 > Personal care"
+413,PW180530,"Price Weights > Consumer Prices according to COICOP 2018 > Furnishing, Household equipment & routine household maintenance (COICOP 05) > Household appliances"
+414,PW180451,"Price Weights > Consumer Prices according to COICOP 2018 > Housing, Water, Electricity, Gas and other Fuels (COICOP 04) > Electricity (ND)"
+415,PW180400,"Price Weights > Consumer Prices according to COICOP 2018 > Housing, Water, Electricity, Gas and other Fuels (COICOP 04) > Total"
+416,PW180114,"Price Weights > Consumer Prices according to COICOP 2018 > Food and non-alcoholic beverages (COICOP 01) > Milk, other dairy products and eggs (ND)"
+417,PW181000,Price Weights > Consumer Prices according to COICOP 2018 > Education services (COICOP 10) > Total
+418,PW180230,"Price Weights > Consumer Prices according to COICOP 2018 > Alcoholic beverages, Tobacco and Narcotics (COICOP 02) > Tobacco"
+419,PW181340,"Price Weights > Consumer Prices according to COICOP 2018 > Personal care, social protection, miscellaneous goods & services (COICOP 13 > Other services n.e.c."
+420,PW180510,"Price Weights > Consumer Prices according to COICOP 2018 > Furnishing, Household equipment & routine household maintenance (COICOP 05) > Furniture, furnishings, and loose carpets"
+421,PW181220,Price Weights > Consumer Prices according to COICOP 2018 > Insurance and financial services (COICOP 12) > Financial services
+422,PW180117,"Price Weights > Consumer Prices according to COICOP 2018 > Food and non-alcoholic beverages (COICOP 01) > Vegetables, tubers, plantains, cooking bananas and pulses (ND)"
+423,PW181100,Price Weights > Consumer Prices according to COICOP 2018 > Restaurants and accommodation services (COICOP 11) > Total
+424,PW180432,"Price Weights > Consumer Prices according to COICOP 2018 > Housing, Water, Electricity, Gas and other Fuels (COICOP 04) > Services for the maintenance, repair and security of the dwelling (S)"
+425,PW18GRSE,Price Weights > Consumer Prices according to COICOP 2018 > OECD Groups > Services
+426,PW180620,Price Weights > Consumer Prices according to COICOP 2018 > Health (COICOP 06) > Out-patient services
+427,PW180450,"Price Weights > Consumer Prices according to COICOP 2018 > Housing, Water, Electricity, Gas and other Fuels (COICOP 04) > Electricity, gas and other fuels"
+428,PW18044G,"Price Weights > Consumer Prices according to COICOP 2018 > Housing, Water, Electricity, Gas and other Fuels (COICOP 04) > Miscellaneous services relating to the dwelling (04.4.2_3_4)"
+429,PW180960,"Price Weights > Consumer Prices according to COICOP 2018 > Recreation, sport and culture (COICOP 09) > Cultural services"
+430,PW180210,"Price Weights > Consumer Prices according to COICOP 2018 > Alcoholic beverages, Tobacco and Narcotics (COICOP 02) > Alcoholic beverages"
+431,PW180721,Price Weights > Consumer Prices according to COICOP 2018 > Transport (COICOP 07) > Parts and accessories for personal transport equipment (SD)
+432,PW18GRGO,Price Weights > Consumer Prices according to COICOP 2018 > OECD Groups > Goods
+433,PW180710,Price Weights > Consumer Prices according to COICOP 2018 > Transport (COICOP 07) > Purchase of vehicles
+434,PW180500,"Price Weights > Consumer Prices according to COICOP 2018 > Furnishing, Household equipment & routine household maintenance (COICOP 05) > Total"
+435,PW180700,Price Weights > Consumer Prices according to COICOP 2018 > Transport (COICOP 07) > Total
+436,CP180530,"Consumer Price Index > COICOP 2018 > Furnishings, household equipment and routine household maintenance (COICOP > Household appliances"
+437,CP180117,"Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Vegetables, tubers, plantains, cooking bananas and pulses (ND)"
+438,CP180114,"Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Milk, other dairy products and eggs (ND)"
+439,CP180452,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Gas (ND)"
+440,CP180432,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Services for the maintenance, repair and security of the dwelling (S)"
+441,CP180310,Consumer Price Index > COICOP 2018 > Clothing and footwear (COICOP 03) > Clothing
+442,CP180112,"Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Live animals, meat and other parts of slaughtered land animals (ND)"
+443,CP180210,"Consumer Price Index > COICOP 2018 > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Alcoholic beverages"
+444,CP180431,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Security equipment & materials for maintenance & repair of dwellings (ND)"
+445,CP180723,Consumer Price Index > COICOP 2018 > Transport (COICOP 07) > Maintenance and repair of personal transport equipment (S)
+446,CP180640,Consumer Price Index > COICOP 2018 > Health (COICOP 06) > Other health services
+447,CP180560,"Consumer Price Index > COICOP 2018 > Furnishings, household equipment and routine household maintenance (COICOP > Goods and services for routine household maintenance"
+448,CP180230,"Consumer Price Index > COICOP 2018 > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Tobacco"
+449,CP180810,Consumer Price Index > COICOP 2018 > Information and communication (COICOP 08) > Information and communication equipment
+450,CP180960,"Consumer Price Index > COICOP 2018 > Recreation, sport and culture  (COICOP 09) > Cultural services"
+451,CP180520,"Consumer Price Index > COICOP 2018 > Furnishings, household equipment and routine household maintenance (COICOP > Household textiles"
+452,CP180115,Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Oils and fats (ND)
+453,CP180510,"Consumer Price Index > COICOP 2018 > Furnishings, household equipment and routine household maintenance (COICOP > Furniture, furnishings, and loose carpets"
+454,CP180120,Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Non-Alcoholic beverages
+455,CP180540,"Consumer Price Index > COICOP 2018 > Furnishings, household equipment and routine household maintenance (COICOP > Glassware, tableware and household utensils"
+456,CP180630,Consumer Price Index > COICOP 2018 > Health (COICOP 06) > Inpatient care services
+457,CP180720,Consumer Price Index > COICOP 2018 > Transport (COICOP 07) > Operation of personal transport equipment
+458,CP180113,Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Fish and other seafood (ND)
+459,CP180320,Consumer Price Index > COICOP 2018 > Clothing and footwear (COICOP 03) > Footwear
+460,CP180119,Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Ready-made food and other food products n.e.c. (ND)
+461,CP181220,Consumer Price Index > COICOP 2018 > Insurance and financial services (COICOP 12) > Financial services
+462,CP180451,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity (ND)"
+463,CP181310,"Consumer Price Index > COICOP 2018 > Personal care, social protection, miscellaneous goods & services (COICOP 13 > Personal care"
+464,CP180116,Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Fruits and nuts (ND)
+465,CP181210,Consumer Price Index > COICOP 2018 > Insurance and financial services (COICOP 12) > Insurance
+466,CP180930,"Consumer Price Index > COICOP 2018 > Recreation, sport and culture  (COICOP 09) > Garden products and pets"
+467,CP180110,Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Food
+468,CP180980,"Consumer Price Index > COICOP 2018 > Recreation, sport and culture  (COICOP 09) > Package holidays"
+469,CP181120,Consumer Price Index > COICOP 2018 > Restaurants and accommodation services (COICOP 11) > Accommodation services
+470,CP180118,"Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Sugar, confectionery and desserts (ND)"
+471,CP180111,Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Cereals and cereal products (ND)
+472,CP181320,"Consumer Price Index > COICOP 2018 > Personal care, social protection, miscellaneous goods & services (COICOP 13 > Other personal effects"
+473,CP180730,Consumer Price Index > COICOP 2018 > Transport (COICOP 07) > Passenger transport services
+474,CP180620,Consumer Price Index > COICOP 2018 > Health (COICOP 06) > Out-patient services
+475,CP180610,Consumer Price Index > COICOP 2018 > Health (COICOP 06) > Medicines and health products
+476,CP180724,Consumer Price Index > COICOP 2018 > Transport (COICOP 07) > Other services in respect of personal transport equipment (S)
+477,CP180910,"Consumer Price Index > COICOP 2018 > Recreation, sport and culture  (COICOP 09) > Recreational durables"
+478,CP180721,Consumer Price Index > COICOP 2018 > Transport (COICOP 07) > Parts and accessories for personal transport equipment (SD)
+479,CP180940,"Consumer Price Index > COICOP 2018 > Recreation, sport and culture  (COICOP 09) > Recreational services"
+480,CP180830,Consumer Price Index > COICOP 2018 > Information and communication (COICOP 08) > Information and communication services
+481,CP181330,"Consumer Price Index > COICOP 2018 > Personal care, social protection, miscellaneous goods & services (COICOP 13 > Social protection"
+482,CP180710,Consumer Price Index > COICOP 2018 > Transport (COICOP 07) > Purchase of vehicles
+483,CP180970,"Consumer Price Index > COICOP 2018 > Recreation, sport and culture  (COICOP 09) > Newspapers, books and stationery"
+484,CP181110,Consumer Price Index > COICOP 2018 > Restaurants and accommodation services (COICOP 11) > Food and beverage serving services

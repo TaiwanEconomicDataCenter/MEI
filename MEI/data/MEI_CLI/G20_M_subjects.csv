@@ -1,1 +1,12 @@
-""
+,id,name
+0,LOLITONO,Normalised (CLI)
+1,LORSGPRT,Ratio to trend (GDP)
+2,LORSGPOR_IXOBSA,"Original, seasonally adjusted (GDP)"
+3,LOLITOTR_STSA,Trend restored (CLI)
+4,LORSGPNO,Normalised (GDP)
+5,CSCICP03,"OECD Standardised CCI, Amplitude adjusted (Long term average=100), sa"
+6,LORSGPOR_GYSA,12-month rate of change of the reference series (GDP)
+7,LOLITOAA,Amplitude adjusted (CLI)
+8,LOLITOTR_GYSA,12-month rate of change of the trend restored CLI
+9,BSCICP03,"OECD Standardised BCI, Amplitude adjusted (Long term average=100), sa"
+10,LORSGPTD,Trend (GDP)

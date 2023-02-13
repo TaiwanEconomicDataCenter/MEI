@@ -47,86 +47,69 @@
 45,PITGIG01,Producer Prices Index > Type of goods > Intermediate goods > Total
 46,PITGCD01,Producer Prices Index > Type of goods > Durable consumer goods > Total
 47,PIEAMP02,Producer Prices Index > Economic activities > Manufacturing > Domestic
-48,LOCOBDNO,Leading Indicators OECD > Component series > BTS - Demand or orders inflow > Normalised
-49,LOCOBDOR,Leading Indicators OECD > Component series > BTS - Demand or orders inflow > Original series
-50,LOCOBFNO,Leading Indicators OECD > Component series > BTS - Finished goods stocks > Normalised
-51,LOCOBPNO,Leading Indicators OECD > Component series > BTS - Production > Normalised
-52,LOCOBPOR,Leading Indicators OECD > Component series > BTS - Production > Original series
-53,LOCOCINO,Leading Indicators OECD > Component series > CS - Confidence indicator > Normalised
-54,LOCOPPNO,Leading Indicators OECD > Component series > Producer prices > Normalised
-55,LOCOPPOR,Leading Indicators OECD > Component series > Producer prices > Original series
-56,LOCOSPNO,Leading Indicators OECD > Component series > Share prices > Normalised
-57,LOCOSPOR,Leading Indicators OECD > Component series > Share prices > Original series
-58,LOLITOAA,Leading Indicators OECD > Leading indicators > CLI > Amplitude adjusted
-59,LOLITONO,Leading Indicators OECD > Leading indicators > CLI > Normalised
-60,LOLITOTR,Leading Indicators OECD > Leading indicators > CLI > Trend restored
-61,LORSGPNO,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Normalised
-62,LORSGPRT,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Ratio to trend
-63,LORSGPTD,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Trend
-64,LMJVTTUV,Labour - other labour market measures > Job vacancies > Total > Unfilled vacancies (stock)
-65,LMUNRLTT,Labour - other labour market measures > Registered unemployment > Level > Total
-66,LMUNRRTT,Labour - other labour market measures > Registered unemployment > Rate > Total
-67,BSBUCT02,Business tendency surveys (manufacturing) > Business situation > Current > National indicator
-68,BSBUFT02,Business tendency surveys (manufacturing) > Business situation > Future tendency > National indicator
-69,BCBUTE02,Business tendency surveys (construction) > Business situation - Activity > Tendency > National indicator
-70,BRBUTE02,Business tendency surveys (retail trade) > Business situation - Activity > Tendency > National indicator
-71,BRODFT02,Business tendency surveys (retail trade) > Order intentions or Demand > Future tendency > National indicator
-72,PRINTO01,Production > Industry > Total industry > Total industry excluding construction
-73,LOCOBFOR,Leading Indicators OECD > Component series > BTS - Finished goods stocks > Original series
-74,CPHP0100,Consumer Price Index > Harmonised prices > Food and non-Alcoholic beverages (COICOP 01) > Total
-75,CPHP0200,"Consumer Price Index > Harmonised prices > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total"
-76,CPHP0300,Consumer Price Index > Harmonised prices > Clothing and footwear (COICOP 03) > Total
-77,CPHP0400,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Total"
-78,CPHP0500,"Consumer Price Index > Harmonised prices > Furnishings, household equip. and routine household maintenance (COICOP 05) > Total"
-79,CPHP0600,Consumer Price Index > Harmonised prices > Health (COICOP 06) > Total
-80,CPHP0700,Consumer Price Index > Harmonised prices > Transport (COICOP 07) > Total
-81,CPHP0800,Consumer Price Index > Harmonised prices > Communication (COICOP 08) > Total
-82,CPHP0900,Consumer Price Index > Harmonised prices > Recreation and culture  (COICOP 09) > Total
-83,CPHP1000,Consumer Price Index > Harmonised prices > Education (COICOP 10) > Total
-84,CPHP1100,Consumer Price Index > Harmonised prices > Restaurants and hotels (COICOP 11) > Total
-85,CPHP1200,Consumer Price Index > Harmonised prices > Miscellaneous goods and services (COICOP 12) > Total
-86,CP060000,Consumer Price Index > Health (COICOP 06) > Total > Total
-87,CP010000,Consumer Price Index > Food and non-Alcoholic beverages (COICOP 01) > Total > Total
-88,CP020000,"Consumer Price Index > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total > Total"
-89,CP030000,Consumer Price Index > Clothing and footwear (COICOP 03) > Total > Total
-90,CP040000,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Total > Total"
-91,CP050000,"Consumer Price Index > Furnishings, household equip. and routine household maintenance (COICOP 05) > Total > Total"
-92,CP070000,Consumer Price Index > Transport (COICOP 07) > Total > Total
-93,CP080000,Consumer Price Index > Communication (COICOP 08) > Total > Total
-94,CP090000,Consumer Price Index > Recreation and culture  (COICOP 09) > Total > Total
-95,CP100000,Consumer Price Index > Education (COICOP 10) > Total > Total
-96,CP110000,Consumer Price Index > Restaurants and hotels (COICOP 11) > Total > Total
-97,CP120000,Consumer Price Index > Miscellaneous goods and services (COICOP 12) > Total > Total
-98,CPHPLA01,"Consumer Price Index > Harmonised prices > All items less food, energy, tobacco, alcohol > Total"
-99,CPHPEN01,Consumer Price Index > Harmonised prices > Energy > Total
-100,CPHPSE01,Consumer Price Index > Harmonised prices > Services > Total
-101,CP040100,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing > Total"
-102,CP040300,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance and repairs of the dwellings > Total"
-103,CP040500,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels > Total"
-104,CPGRGO01,Consumer Price Index > OECD Groups > Goods > Total
-105,CPGRHO01,Consumer Price Index > OECD Groups > Housing > Total
-106,CPGRLH01,Consumer Price Index > OECD Groups > Services less housing > Total
-107,CPGRSE01,Consumer Price Index > OECD Groups > Services > Total
-108,CPHP0401,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing"
-109,CPHP0403,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance & repairs of the dwellings"
-110,CPHP0404,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling"
-111,CPHP0405,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels"
-112,CPHP0702,Consumer Price Index > Harmonised prices > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment
-113,CP040400,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling > Total"
-114,CPSDCTGY,Consumer Price Index > Statistical discrepancy > Contribution > Annual inflation
-115,CP070200,Consumer Price Index > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment > Total
-116,BRBUFT02,Business tendency surveys (retail trade) > Business situation - Activity > Future tendency > National indicator
-117,BREMFT02,Business tendency surveys (retail trade) > Employment > Future tendency > National indicator
-118,PREND401,"Production > Energy > Production and distribution of electricity, gas, steam and air conditioning > Total"
-119,BRCICP02,Business tendency surveys (retail trade) > Confidence indicators > Composite indicators > National indicator
-120,PITGCD02,Producer Prices Index > Type of goods > Durable consumer goods > Domestic
-121,PIEAEN02,Producer Prices Index > Economic activities > Energy > Domestic
-122,PITGCG01,Producer Prices Index > Type of goods > Consumer goods > Total
-123,PITGVG02,Producer Prices Index > Type of goods > Investments goods > Domestic
-124,PITGCG02,Producer Prices Index > Type of goods > Consumer goods > Domestic
-125,PITGND02,Producer Prices Index > Type of goods > Non durable consumer goods > Domestic
-126,PITGIG02,Producer Prices Index > Type of goods > Intermediate goods > Domestic
-127,CSCICP04,Consumer opinion surveys > Confidence indicators > Composite indicators > Normalised indicator
-128,PRMITO01,Production > Mining > Total mining > Total
-129,PRENTO01,Production > Energy > Total energy > Total
-130,PRMNTO01,Production > Manufacturing > Total manufacturing > Total manufacturing
+48,LMJVTTUV,Labour - other labour market measures > Job vacancies > Total > Unfilled vacancies (stock)
+49,LMUNRLTT,Labour - other labour market measures > Registered unemployment > Level > Total
+50,LMUNRRTT,Labour - other labour market measures > Registered unemployment > Rate > Total
+51,BSBUCT02,Business tendency surveys (manufacturing) > Business situation > Current > National indicator
+52,BSBUFT02,Business tendency surveys (manufacturing) > Business situation > Future tendency > National indicator
+53,BCBUTE02,Business tendency surveys (construction) > Business situation - Activity > Tendency > National indicator
+54,BRBUTE02,Business tendency surveys (retail trade) > Business situation - Activity > Tendency > National indicator
+55,BRODFT02,Business tendency surveys (retail trade) > Order intentions or Demand > Future tendency > National indicator
+56,PRINTO01,Production > Industry > Total industry > Total industry excluding construction
+57,CPHP0100,Consumer Price Index > Harmonised prices > Food and non-Alcoholic beverages (COICOP 01) > Total
+58,CPHP0200,"Consumer Price Index > Harmonised prices > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total"
+59,CPHP0300,Consumer Price Index > Harmonised prices > Clothing and footwear (COICOP 03) > Total
+60,CPHP0400,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Total"
+61,CPHP0500,"Consumer Price Index > Harmonised prices > Furnishings, household equip. and routine household maintenance (COICOP 05) > Total"
+62,CPHP0600,Consumer Price Index > Harmonised prices > Health (COICOP 06) > Total
+63,CPHP0700,Consumer Price Index > Harmonised prices > Transport (COICOP 07) > Total
+64,CPHP0800,Consumer Price Index > Harmonised prices > Communication (COICOP 08) > Total
+65,CPHP0900,Consumer Price Index > Harmonised prices > Recreation and culture  (COICOP 09) > Total
+66,CPHP1000,Consumer Price Index > Harmonised prices > Education (COICOP 10) > Total
+67,CPHP1100,Consumer Price Index > Harmonised prices > Restaurants and hotels (COICOP 11) > Total
+68,CPHP1200,Consumer Price Index > Harmonised prices > Miscellaneous goods and services (COICOP 12) > Total
+69,CP060000,Consumer Price Index > Health (COICOP 06) > Total > Total
+70,CP010000,Consumer Price Index > Food and non-Alcoholic beverages (COICOP 01) > Total > Total
+71,CP020000,"Consumer Price Index > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total > Total"
+72,CP030000,Consumer Price Index > Clothing and footwear (COICOP 03) > Total > Total
+73,CP040000,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Total > Total"
+74,CP050000,"Consumer Price Index > Furnishings, household equip. and routine household maintenance (COICOP 05) > Total > Total"
+75,CP070000,Consumer Price Index > Transport (COICOP 07) > Total > Total
+76,CP080000,Consumer Price Index > Communication (COICOP 08) > Total > Total
+77,CP090000,Consumer Price Index > Recreation and culture  (COICOP 09) > Total > Total
+78,CP100000,Consumer Price Index > Education (COICOP 10) > Total > Total
+79,CP110000,Consumer Price Index > Restaurants and hotels (COICOP 11) > Total > Total
+80,CP120000,Consumer Price Index > Miscellaneous goods and services (COICOP 12) > Total > Total
+81,CPHPLA01,"Consumer Price Index > Harmonised prices > All items less food, energy, tobacco, alcohol > Total"
+82,CPHPEN01,Consumer Price Index > Harmonised prices > Energy > Total
+83,CPHPSE01,Consumer Price Index > Harmonised prices > Services > Total
+84,CP040100,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing > Total"
+85,CP040300,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance and repairs of the dwellings > Total"
+86,CP040500,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels > Total"
+87,CPGRGO01,Consumer Price Index > OECD Groups > Goods > Total
+88,CPGRHO01,Consumer Price Index > OECD Groups > Housing > Total
+89,CPGRLH01,Consumer Price Index > OECD Groups > Services less housing > Total
+90,CPGRSE01,Consumer Price Index > OECD Groups > Services > Total
+91,CPHP0401,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing"
+92,CPHP0403,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance & repairs of the dwellings"
+93,CPHP0404,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling"
+94,CPHP0405,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels"
+95,CPHP0702,Consumer Price Index > Harmonised prices > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment
+96,CP040400,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling > Total"
+97,CPSDCTGY,Consumer Price Index > Statistical discrepancy > Contribution > Annual inflation
+98,CP070200,Consumer Price Index > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment > Total
+99,BRBUFT02,Business tendency surveys (retail trade) > Business situation - Activity > Future tendency > National indicator
+100,BREMFT02,Business tendency surveys (retail trade) > Employment > Future tendency > National indicator
+101,PREND401,"Production > Energy > Production and distribution of electricity, gas, steam and air conditioning > Total"
+102,BRCICP02,Business tendency surveys (retail trade) > Confidence indicators > Composite indicators > National indicator
+103,PITGCD02,Producer Prices Index > Type of goods > Durable consumer goods > Domestic
+104,PIEAEN02,Producer Prices Index > Economic activities > Energy > Domestic
+105,PITGCG01,Producer Prices Index > Type of goods > Consumer goods > Total
+106,PITGVG02,Producer Prices Index > Type of goods > Investments goods > Domestic
+107,PITGCG02,Producer Prices Index > Type of goods > Consumer goods > Domestic
+108,PITGND02,Producer Prices Index > Type of goods > Non durable consumer goods > Domestic
+109,PITGIG02,Producer Prices Index > Type of goods > Intermediate goods > Domestic
+110,CSCICP04,Consumer opinion surveys > Confidence indicators > Composite indicators > Normalised indicator
+111,PRMITO01,Production > Mining > Total mining > Total
+112,PRENTO01,Production > Energy > Total energy > Total
+113,PRMNTO01,Production > Manufacturing > Total manufacturing > Total manufacturing

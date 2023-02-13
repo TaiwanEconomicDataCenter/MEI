@@ -34,117 +34,101 @@
 32,PIEATI02,Producer Prices Index > Economic activities > Industrial activities > Domestic
 33,PIEAMI02,Producer Prices Index > Economic activities > Mining and quarrying activities > Domestic
 34,PIEAMP02,Producer Prices Index > Economic activities > Manufacturing > Domestic
-35,LOCOBONO,Leading Indicators OECD > Component series > BTS - Order books > Normalised
-36,LOCOBOOR,Leading Indicators OECD > Component series > BTS - Order books > Original series
-37,LOCOBPNO,Leading Indicators OECD > Component series > BTS - Production > Normalised
-38,LOCOBPOR,Leading Indicators OECD > Component series > BTS - Production > Original series
-39,LOCOBXNO,Leading Indicators OECD > Component series > BTS - Export orders > Normalised
-40,LOCOBXOR,Leading Indicators OECD > Component series > BTS - Export orders > Original series
-41,LOCOPPNO,Leading Indicators OECD > Component series > Producer prices > Normalised
-42,LOCOSPNO,Leading Indicators OECD > Component series > Share prices > Normalised
-43,LOLITOAA,Leading Indicators OECD > Leading indicators > CLI > Amplitude adjusted
-44,LOLITONO,Leading Indicators OECD > Leading indicators > CLI > Normalised
-45,LOLITOTR,Leading Indicators OECD > Leading indicators > CLI > Trend restored
-46,LORSGPNO,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Normalised
-47,LORSGPRT,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Ratio to trend
-48,LORSGPTD,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Trend
-49,LRUN74TT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-74 > All persons
-50,LRUNTTFE,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15 and over > Females
-51,LRUNTTMA,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15 and over > Males
-52,LRUNTTTT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15 and over > All persons
-53,LFACTTFE,Labour Force Survey - quarterly levels > Active population > Aged 15 and over > Females
-54,LFACTTMA,Labour Force Survey - quarterly levels > Active population > Aged 15 and over > Males
-55,LFACTTTT,Labour Force Survey - quarterly levels > Active population > Aged 15 and over > All persons
-56,LFEAICTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Industry including construction > All persons
-57,LFEAINTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Industry excluding construction > All persons
-58,LFEASETT,Labour Force Survey - quarterly levels > Employment - by economic activity > Services > All persons
-59,LFEMTTFE,Labour Force Survey - quarterly levels > Employed population > Aged 15 and over > Females
-60,LFEMTTMA,Labour Force Survey - quarterly levels > Employed population > Aged 15 and over > Males
-61,LFEMTTTT,Labour Force Survey - quarterly levels > Employed population > Aged 15 and over > All persons
-62,LMUNRLTT,Labour - other labour market measures > Registered unemployment > Level > Total
-63,LMUNRRTT,Labour - other labour market measures > Registered unemployment > Rate > Total
-64,BSEMFT02,Business tendency surveys (manufacturing) > Employment > Future Tendency > National indicator
-65,BSCURT02,Business tendency surveys (manufacturing) > Capacity utilisation > Rate of capacity utilisation > National indicator
-66,CPGRLE01,Consumer Price Index > OECD Groups > All items non-food non-energy > Total
-67,CPGREN01,"Consumer Price Index > OECD Groups > Energy (Fuel, electricity & gasoline) > Total"
-68,CSCICP03,Consumer opinion surveys > Confidence indicators > Composite indicators > OECD Indicator
-69,LOCOSPOR,Leading Indicators OECD > Component series > Share prices > Original series
-70,LOCOPPOR,Leading Indicators OECD > Component series > Producer prices > Original series
-71,PITGND01,Producer Prices Index > Type of goods > Non durable consumer goods > Total
-72,CP100000,Consumer Price Index > Education (COICOP 10) > Total > Total
-73,CP040300,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance and repairs of the dwellings > Total"
-74,CP110000,Consumer Price Index > Restaurants and hotels (COICOP 11) > Total > Total
-75,CPGRSE01,Consumer Price Index > OECD Groups > Services > Total
-76,CP120000,Consumer Price Index > Miscellaneous goods and services (COICOP 12) > Total > Total
-77,LREM25TT,Labour Force Survey - quarterly rates > Employment rate > Aged 25-54 > All persons
-78,PITGCD01,Producer Prices Index > Type of goods > Durable consumer goods > Total
-79,CP060000,Consumer Price Index > Health (COICOP 06) > Total > Total
-80,PIEAEN01,Producer Prices Index > Economic activities > Energy > Total
-81,CP040400,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling > Total"
-82,LREMTTTT,Labour Force Survey - quarterly rates > Employment rate > Aged 15 and over > All persons
-83,CP070000,Consumer Price Index > Transport (COICOP 07) > Total > Total
-84,CP090000,Consumer Price Index > Recreation and culture  (COICOP 09) > Total > Total
-85,LREM55TT,Labour Force Survey - quarterly rates > Employment rate > Aged 55-64 > All persons
-86,PIEAMP01,Producer Prices Index > Economic activities > Manufacturing > Total
-87,CP040000,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Total > Total"
-88,PIEAMI01,Producer Prices Index > Economic activities > Mining and quarrying activities > Total
-89,PITGCG01,Producer Prices Index > Type of goods > Consumer goods > Total
-90,LREM24TT,Labour Force Survey - quarterly rates > Employment rate > Aged 15-24 > All persons
-91,CPGRHO02,Consumer Price Index > OECD Groups > Housing > Housing excluding imputed rentals for housing
-92,PIEAFD01,Producer Prices Index > Economic activities > Manufacture of food products > Total
-93,CP010000,Consumer Price Index > Food and non-Alcoholic beverages (COICOP 01) > Total > Total
-94,LREMTTFE,Labour Force Survey - quarterly rates > Employment rate > Aged 15 and over > Females
-95,CPGRLH02,Consumer Price Index > OECD Groups > Services less housing > Housing excluding imputed rentals for housing
-96,PIEATI01,Producer Prices Index > Economic activities > Industrial activities > Total
-97,LREMTTMA,Labour Force Survey - quarterly rates > Employment rate > Aged 15 and over > Males
-98,CP040100,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing > Total"
-99,PITGIG01,Producer Prices Index > Type of goods > Intermediate goods > Total
-100,CP030000,Consumer Price Index > Clothing and footwear (COICOP 03) > Total > Total
-101,CP080000,Consumer Price Index > Communication (COICOP 08) > Total > Total
-102,PITGND02,Producer Prices Index > Type of goods > Non durable consumer goods > Domestic
-103,CP020000,"Consumer Price Index > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total > Total"
-104,CP040500,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels > Total"
-105,CP050000,"Consumer Price Index > Furnishings, household equip. and routine household maintenance (COICOP 05) > Total > Total"
-106,PITGVG01,Producer Prices Index > Type of goods > Investments goods > Total
-107,PITGCD02,Producer Prices Index > Type of goods > Durable consumer goods > Domestic
-108,PIEAFD02,Producer Prices Index > Economic activities > Manufacture of food products > Domestic
-109,PITGVG02,Producer Prices Index > Type of goods > Investments goods > Domestic
-110,PITGCG02,Producer Prices Index > Type of goods > Consumer goods > Domestic
-111,PIEAEN02,Producer Prices Index > Economic activities > Energy > Domestic
-112,PITGIG02,Producer Prices Index > Type of goods > Intermediate goods > Domestic
-113,CP070200,Consumer Price Index > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment > Total
-114,LFUN24TT,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-24 > Total
-115,LFEM24FE,Labour Force Survey - quarterly levels > Employed population > Aged 15-24 > Females
-116,LFEM24TT,Labour Force Survey - quarterly levels > Employed population > Aged 15-24 > All persons
-117,LFUN24FE,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-24 > Females
-118,LFUN24MA,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-24 > Males
-119,LFEM24MA,Labour Force Survey - quarterly levels > Employed population > Aged 15-24 > Males
-120,LREM64FE,Labour Force Survey - quarterly rates > Employment rate > Aged 15-64 > Females
-121,LREM64TT,Labour Force Survey - quarterly rates > Employment rate > Aged 15-64 > All persons
-122,LREM64MA,Labour Force Survey - quarterly rates > Employment rate > Aged 15-64 > Males
-123,LFAC24TT,Labour Force Survey - quarterly levels > Active population > Aged 15-24 > All persons
-124,LRUN24TT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-24 > All persons
-125,LFAC55MA,Labour Force Survey - quarterly levels > Active population > Aged 55-64 > Males
-126,LFIN64MA,Labour Force Survey - quarterly levels > Inactive population > Aged 15-64 > Males
-127,LFAC64FE,Labour Force Survey - quarterly levels > Active population > Aged 15-64 > Females
-128,LFAC25TT,Labour Force Survey - quarterly levels > Active population > Aged 25-54 > All persons
-129,LFEM64FE,Labour Force Survey - quarterly levels > Employed population > Aged 15-64 > Females
-130,LFAC55FE,Labour Force Survey - quarterly levels > Active population > Aged 55-64 > Females
-131,LFIN64FE,Labour Force Survey - quarterly levels > Inactive population > Aged 15-64 > Females
-132,LFEM25TT,Labour Force Survey - quarterly levels > Employed population > Aged 25-54 > All persons
-133,LFAC25MA,Labour Force Survey - quarterly levels > Active population > Aged 25-54 > Males
-134,LFEM25MA,Labour Force Survey - quarterly levels > Employed population > Aged 25-54 > Males
-135,LFAC64TT,Labour Force Survey - quarterly levels > Active population > Aged 15-64 > All persons
-136,LFEM64MA,Labour Force Survey - quarterly levels > Employed population > Aged 15-64 > Males
-137,LFAC55TT,Labour Force Survey - quarterly levels > Active population > Aged 55-64 > All persons
-138,LFAC25FE,Labour Force Survey - quarterly levels > Active population > Aged 25-54 > Females
-139,LFEM55MA,Labour Force Survey - quarterly levels > Employed population > Aged 55-64 > Males
-140,LFEM25FE,Labour Force Survey - quarterly levels > Employed population > Aged 25-54 > Females
-141,LFEM55FE,Labour Force Survey - quarterly levels > Employed population > Aged 55-64 > Females
-142,LFAC24MA,Labour Force Survey - quarterly levels > Active population > Aged 15-24 > Males
-143,LFEM64TT,Labour Force Survey - quarterly levels > Employed population > Aged 15-64 > All persons
-144,LFAC64MA,Labour Force Survey - quarterly levels > Active population > Aged 15-64 > Males
-145,LFIN64TT,Labour Force Survey - quarterly levels > Inactive population > Aged 15-64 > All persons
-146,LFEM55TT,Labour Force Survey - quarterly levels > Employed population > Aged 55-64 > All persons
-147,LFAC24FE,Labour Force Survey - quarterly levels > Active population > Aged 15-24 > Females
-148,CSCICP04,Consumer opinion surveys > Confidence indicators > Composite indicators > Normalised indicator
+35,LRUN74TT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-74 > All persons
+36,LRUNTTFE,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15 and over > Females
+37,LRUNTTMA,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15 and over > Males
+38,LRUNTTTT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15 and over > All persons
+39,LFACTTFE,Labour Force Survey - quarterly levels > Active population > Aged 15 and over > Females
+40,LFACTTMA,Labour Force Survey - quarterly levels > Active population > Aged 15 and over > Males
+41,LFACTTTT,Labour Force Survey - quarterly levels > Active population > Aged 15 and over > All persons
+42,LFEAICTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Industry including construction > All persons
+43,LFEAINTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Industry excluding construction > All persons
+44,LFEASETT,Labour Force Survey - quarterly levels > Employment - by economic activity > Services > All persons
+45,LFEMTTFE,Labour Force Survey - quarterly levels > Employed population > Aged 15 and over > Females
+46,LFEMTTMA,Labour Force Survey - quarterly levels > Employed population > Aged 15 and over > Males
+47,LFEMTTTT,Labour Force Survey - quarterly levels > Employed population > Aged 15 and over > All persons
+48,LMUNRLTT,Labour - other labour market measures > Registered unemployment > Level > Total
+49,LMUNRRTT,Labour - other labour market measures > Registered unemployment > Rate > Total
+50,BSEMFT02,Business tendency surveys (manufacturing) > Employment > Future Tendency > National indicator
+51,BSCURT02,Business tendency surveys (manufacturing) > Capacity utilisation > Rate of capacity utilisation > National indicator
+52,CPGRLE01,Consumer Price Index > OECD Groups > All items non-food non-energy > Total
+53,CPGREN01,"Consumer Price Index > OECD Groups > Energy (Fuel, electricity & gasoline) > Total"
+54,CSCICP03,Consumer opinion surveys > Confidence indicators > Composite indicators > OECD Indicator
+55,PITGND01,Producer Prices Index > Type of goods > Non durable consumer goods > Total
+56,CP100000,Consumer Price Index > Education (COICOP 10) > Total > Total
+57,CP040300,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance and repairs of the dwellings > Total"
+58,CP110000,Consumer Price Index > Restaurants and hotels (COICOP 11) > Total > Total
+59,CPGRSE01,Consumer Price Index > OECD Groups > Services > Total
+60,CP120000,Consumer Price Index > Miscellaneous goods and services (COICOP 12) > Total > Total
+61,LREM25TT,Labour Force Survey - quarterly rates > Employment rate > Aged 25-54 > All persons
+62,PITGCD01,Producer Prices Index > Type of goods > Durable consumer goods > Total
+63,CP060000,Consumer Price Index > Health (COICOP 06) > Total > Total
+64,PIEAEN01,Producer Prices Index > Economic activities > Energy > Total
+65,CP040400,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling > Total"
+66,LREMTTTT,Labour Force Survey - quarterly rates > Employment rate > Aged 15 and over > All persons
+67,CP070000,Consumer Price Index > Transport (COICOP 07) > Total > Total
+68,CP090000,Consumer Price Index > Recreation and culture  (COICOP 09) > Total > Total
+69,LREM55TT,Labour Force Survey - quarterly rates > Employment rate > Aged 55-64 > All persons
+70,PIEAMP01,Producer Prices Index > Economic activities > Manufacturing > Total
+71,CP040000,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Total > Total"
+72,PIEAMI01,Producer Prices Index > Economic activities > Mining and quarrying activities > Total
+73,PITGCG01,Producer Prices Index > Type of goods > Consumer goods > Total
+74,LREM24TT,Labour Force Survey - quarterly rates > Employment rate > Aged 15-24 > All persons
+75,CPGRHO02,Consumer Price Index > OECD Groups > Housing > Housing excluding imputed rentals for housing
+76,PIEAFD01,Producer Prices Index > Economic activities > Manufacture of food products > Total
+77,CP010000,Consumer Price Index > Food and non-Alcoholic beverages (COICOP 01) > Total > Total
+78,LREMTTFE,Labour Force Survey - quarterly rates > Employment rate > Aged 15 and over > Females
+79,CPGRLH02,Consumer Price Index > OECD Groups > Services less housing > Housing excluding imputed rentals for housing
+80,PIEATI01,Producer Prices Index > Economic activities > Industrial activities > Total
+81,LREMTTMA,Labour Force Survey - quarterly rates > Employment rate > Aged 15 and over > Males
+82,CP040100,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing > Total"
+83,PITGIG01,Producer Prices Index > Type of goods > Intermediate goods > Total
+84,CP030000,Consumer Price Index > Clothing and footwear (COICOP 03) > Total > Total
+85,CP080000,Consumer Price Index > Communication (COICOP 08) > Total > Total
+86,PITGND02,Producer Prices Index > Type of goods > Non durable consumer goods > Domestic
+87,CP020000,"Consumer Price Index > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total > Total"
+88,CP040500,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels > Total"
+89,CP050000,"Consumer Price Index > Furnishings, household equip. and routine household maintenance (COICOP 05) > Total > Total"
+90,PITGVG01,Producer Prices Index > Type of goods > Investments goods > Total
+91,PITGCD02,Producer Prices Index > Type of goods > Durable consumer goods > Domestic
+92,PIEAFD02,Producer Prices Index > Economic activities > Manufacture of food products > Domestic
+93,PITGVG02,Producer Prices Index > Type of goods > Investments goods > Domestic
+94,PITGCG02,Producer Prices Index > Type of goods > Consumer goods > Domestic
+95,PIEAEN02,Producer Prices Index > Economic activities > Energy > Domestic
+96,PITGIG02,Producer Prices Index > Type of goods > Intermediate goods > Domestic
+97,CP070200,Consumer Price Index > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment > Total
+98,LFUN24TT,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-24 > Total
+99,LFEM24FE,Labour Force Survey - quarterly levels > Employed population > Aged 15-24 > Females
+100,LFEM24TT,Labour Force Survey - quarterly levels > Employed population > Aged 15-24 > All persons
+101,LFUN24FE,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-24 > Females
+102,LFUN24MA,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-24 > Males
+103,LFEM24MA,Labour Force Survey - quarterly levels > Employed population > Aged 15-24 > Males
+104,LREM64FE,Labour Force Survey - quarterly rates > Employment rate > Aged 15-64 > Females
+105,LREM64TT,Labour Force Survey - quarterly rates > Employment rate > Aged 15-64 > All persons
+106,LREM64MA,Labour Force Survey - quarterly rates > Employment rate > Aged 15-64 > Males
+107,LFAC24TT,Labour Force Survey - quarterly levels > Active population > Aged 15-24 > All persons
+108,LRUN24TT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-24 > All persons
+109,LFAC55MA,Labour Force Survey - quarterly levels > Active population > Aged 55-64 > Males
+110,LFIN64MA,Labour Force Survey - quarterly levels > Inactive population > Aged 15-64 > Males
+111,LFAC64FE,Labour Force Survey - quarterly levels > Active population > Aged 15-64 > Females
+112,LFAC25TT,Labour Force Survey - quarterly levels > Active population > Aged 25-54 > All persons
+113,LFEM64FE,Labour Force Survey - quarterly levels > Employed population > Aged 15-64 > Females
+114,LFAC55FE,Labour Force Survey - quarterly levels > Active population > Aged 55-64 > Females
+115,LFIN64FE,Labour Force Survey - quarterly levels > Inactive population > Aged 15-64 > Females
+116,LFEM25TT,Labour Force Survey - quarterly levels > Employed population > Aged 25-54 > All persons
+117,LFAC25MA,Labour Force Survey - quarterly levels > Active population > Aged 25-54 > Males
+118,LFEM25MA,Labour Force Survey - quarterly levels > Employed population > Aged 25-54 > Males
+119,LFAC64TT,Labour Force Survey - quarterly levels > Active population > Aged 15-64 > All persons
+120,LFEM64MA,Labour Force Survey - quarterly levels > Employed population > Aged 15-64 > Males
+121,LFAC55TT,Labour Force Survey - quarterly levels > Active population > Aged 55-64 > All persons
+122,LFAC25FE,Labour Force Survey - quarterly levels > Active population > Aged 25-54 > Females
+123,LFEM55MA,Labour Force Survey - quarterly levels > Employed population > Aged 55-64 > Males
+124,LFEM25FE,Labour Force Survey - quarterly levels > Employed population > Aged 25-54 > Females
+125,LFEM55FE,Labour Force Survey - quarterly levels > Employed population > Aged 55-64 > Females
+126,LFAC24MA,Labour Force Survey - quarterly levels > Active population > Aged 15-24 > Males
+127,LFEM64TT,Labour Force Survey - quarterly levels > Employed population > Aged 15-64 > All persons
+128,LFAC64MA,Labour Force Survey - quarterly levels > Active population > Aged 15-64 > Males
+129,LFIN64TT,Labour Force Survey - quarterly levels > Inactive population > Aged 15-64 > All persons
+130,LFEM55TT,Labour Force Survey - quarterly levels > Employed population > Aged 55-64 > All persons
+131,LFAC24FE,Labour Force Survey - quarterly levels > Active population > Aged 15-24 > Females
+132,CSCICP04,Consumer opinion surveys > Confidence indicators > Composite indicators > Normalised indicator

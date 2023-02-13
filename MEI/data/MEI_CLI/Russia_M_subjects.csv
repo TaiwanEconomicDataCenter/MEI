@@ -1,10 +1,3 @@
 ,id,name
 0,BSCICP03,"OECD Standardised BCI, Amplitude adjusted (Long term average=100), sa"
-1,LOLITOAA,Amplitude adjusted (CLI)
-2,LOLITONO,Normalised (CLI)
-3,LOLITOTR_STSA,Trend restored (CLI)
-4,LOLITOTR_GYSA,12-month rate of change of the trend restored CLI
-5,LORSGPRT,Ratio to trend (GDP)
-6,LORSGPNO,Normalised (GDP)
-7,LORSGPTD,Trend (GDP)
-8,CSCICP03,"OECD Standardised CCI, Amplitude adjusted (Long term average=100), sa"
+1,CSCICP03,"OECD Standardised CCI, Amplitude adjusted (Long term average=100), sa"
