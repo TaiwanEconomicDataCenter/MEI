@@ -1,2 +1,20 @@
 ,id,name
 0,CCUSMA02,Currency Conversions > US$ exchange rate > Average of daily rates > National currency:USD
+1,SPASTT01,Share Prices > All shares/broad > Total > Total
+2,IRLTLT01,Interest Rates > Long-term government bond yields > 10-year > Main (including benchmark)
+3,IR3TIB01,Interest Rates > 3-month or 90-day rates and yields > Interbank rates > Total
+4,IR3OBD01,Interest Rates > Other 3-month rates > Bank deposit rates > Total
+5,IRSTCB01,Interest Rates > Immediate rates (< 24 hrs) > Central bank rates > Total
+6,IRSTCI01,Interest Rates > Immediate rates (< 24 hrs) > Call money/interbank rate > Total
+7,PRCNTO01,Production > Construction > Total construction > Total
+8,SLRTTO01,Sales > Retail trade > Total retail trade > Volume
+9,PRMNCG03,Production > Manufacturing > Consumer goods > Non durable goods
+10,ODCNPI03,Orders > Construction > Permits issued > Dwellings / Residential buildings
+11,PRMNTO01,Production > Manufacturing > Total manufacturing > Total manufacturing
+12,PRINTO01,Production > Industry > Total industry > Total industry excluding construction
+13,PRMNVG01,Production > Manufacturing > Investment goods > Total
+14,SLRTTO02,Sales > Retail trade > Total retail trade > Value
+15,PREND401,"Production > Energy > Production and distribution of electricity, gas, steam and air conditioning > Total"
+16,PRMNIG01,Production > Manufacturing > Intermediate goods > Total
+17,PRMITO01,Production > Mining > Total mining > Total
+18,SLRTCR03,Sales > Retail trade > Car registration > Passenger cars

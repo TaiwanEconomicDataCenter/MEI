@@ -1,2 +1,12 @@
 ,id,name
 0,CCUSMA02,Currency Conversions > US$ exchange rate > Average of daily rates > National currency:USD
+1,SPASTT01,Share Prices > All shares/broad > Total > Total
+2,IRLTLT01,Interest Rates > Long-term government bond yields > 10-year > Main (including benchmark)
+3,IRSTCB01,Interest Rates > Immediate rates (< 24 hrs) > Central bank rates > Total
+4,IR3TIB01,Interest Rates > 3-month or 90-day rates and yields > Interbank rates > Total
+5,IRSTCI01,Interest Rates > Immediate rates (< 24 hrs) > Call money/interbank rate > Total
+6,PRMNTO01,Production > Manufacturing > Total manufacturing > Total manufacturing
+7,SLRTTO01,Sales > Retail trade > Total retail trade > Volume
+8,PRINTO01,Production > Industry > Total industry > Total industry excluding construction
+9,SLRTTO02,Sales > Retail trade > Total retail trade > Value
+10,PRCNTO01,Production > Construction > Total construction > Total

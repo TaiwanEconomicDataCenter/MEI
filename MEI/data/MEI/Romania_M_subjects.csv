@@ -1,2 +1,40 @@
 ,id,name
 0,CCUSMA02,Currency Conversions > US$ exchange rate > Average of daily rates > National currency:USD
+1,BSPRTE02,Business tendency surveys (manufacturing) > Production > Tendency > National indicator
+2,BSCICP02,Business tendency surveys (manufacturing) > Confidence indicators > Composite indicators > National indicator
+3,BSXRLV02,Business tendency surveys (manufacturing) > Export order books or demand > Level > National indicator
+4,BSOBLV02,Business tendency surveys (manufacturing) > Order books > Level > National indicator
+5,BSPRFT02,Business tendency surveys (manufacturing) > Production > Future Tendency > National indicator
+6,BSSPFT02,Business tendency surveys (manufacturing) > Selling prices > Future tendency > National indicator
+7,BSFGLV02,Business tendency surveys (manufacturing) > Finished goods stocks > Level > National indicator
+8,BSEMFT02,Business tendency surveys (manufacturing) > Employment > Future Tendency > National indicator
+9,SPASTT01,Share Prices > All shares/broad > Total > Total
+10,CSCICP02,Consumer opinion surveys > Confidence indicators > Composite indicators > National indicator
+11,BCOBLV02,Business tendency surveys (construction) > Order books > Level > National indicator
+12,BRVSLV02,Business tendency surveys (retail trade) > Volume of stocks > Level > National indicator
+13,BRBUTE02,Business tendency surveys (retail trade) > Business situation - Activity > Tendency > National indicator
+14,BRODFT02,Business tendency surveys (retail trade) > Order intentions or Demand > Future tendency > National indicator
+15,BREMFT02,Business tendency surveys (retail trade) > Employment > Future tendency > National indicator
+16,BVDEFT02,Business tendency surveys (services) > Demand evolution > Future tendency > National indicator
+17,BCSPFT02,Business tendency surveys (construction) > Selling prices > Future tendency > National indicator
+18,BVDETE02,Business tendency surveys (services) > Demand evolution > Tendency > National indicator
+19,CSINFT02,Consumer opinion surveys > Consumer prices (inflation) > Future tendency > National indicator
+20,BRBUFT02,Business tendency surveys (retail trade) > Business situation - Activity > Future tendency > National indicator
+21,BRCICP02,Business tendency surveys (retail trade) > Confidence indicators > Composite indicators > National indicator
+22,BVEMTE02,Business tendency surveys (services) > Employment > Tendency > National indicator
+23,CSESFT02,Consumer opinion surveys > Economic Situation > Future tendency > National indicator
+24,BCEMFT02,Business tendency surveys (construction) > Employment > Future tendency > National indicator
+25,IRLTLT01,Interest Rates > Long-term government bond yields > 10-year > Main (including benchmark)
+26,BVEMFT02,Business tendency surveys (services) > Employment > Future tendency > National indicator
+27,BCCICP02,Business tendency surveys (construction) > Confidence indicators > Composite indicators > National indicator
+28,BVBUTE02,Business tendency surveys (services) > Business situation - Activity > Tendency > National indicator
+29,BCBUTE02,Business tendency surveys (construction) > Business situation - Activity > Tendency > National indicator
+30,BVCICP02,Business tendency surveys (services) > Confidence Indicators > Composite Indicators > National indicator
+31,IR3TIB01,Interest Rates > 3-month or 90-day rates and yields > Interbank rates > Total
+32,IRSTCI01,Interest Rates > Immediate rates (< 24 hrs) > Call money/interbank rate > Total
+33,IRSTCB01,Interest Rates > Immediate rates (< 24 hrs) > Central bank rates > Total
+34,PRMNTO01,Production > Manufacturing > Total manufacturing > Total manufacturing
+35,SLRTTO01,Sales > Retail trade > Total retail trade > Volume
+36,PRCNTO01,Production > Construction > Total construction > Total
+37,PRINTO01,Production > Industry > Total industry > Total industry excluding construction
+38,SLRTTO02,Sales > Retail trade > Total retail trade > Value
