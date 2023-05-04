@@ -1,395 +1,109 @@
-﻿2023-03-31 08:57:00 PM Checking Identities: 12076 s
+﻿2023-05-03 02:22:43 PM Checking Identities: 12295 s
 
-2023-03-31 08:57:02 PM Index A134CPGH01INB.a desc_e: base updated
-2023-03-31 08:57:02 PM Index A134CPGH01INB.a form_c: base updated
-2023-03-31 08:57:13 PM The program did not fetch the latest data for: M126LOGPNO.m
-2023-03-31 08:57:13 PM The program did not fetch the latest data for: M126LOGPNOSTS.m
-2023-03-31 08:57:13 PM The program did not fetch the latest data for: M126LOGPRT.m
-2023-03-31 08:57:13 PM The program did not fetch the latest data for: M126LOGPRTSTS.m
-2023-03-31 08:57:13 PM The program did not fetch the latest data for: M126LOGPTD.m
-2023-03-31 08:57:13 PM The program did not fetch the latest data for: M126LOGPTDSTS.m
-2023-03-31 08:57:14 PM Index M134CPGH01INB.m desc_e: base updated
-2023-03-31 08:57:14 PM Index M134CPGH01INB.m form_c: base updated
-2023-03-31 08:57:17 PM The program did not fetch the latest data for: M436CPAT01GP.m
-2023-03-31 08:57:17 PM The program did not fetch the latest data for: M436CPAT01GY.m
-2023-03-31 08:57:17 PM The program did not fetch the latest data for: M436CPAT01INB.m
-2023-03-31 08:57:17 PM The program did not fetch the latest data for: M436CPAT01IOB.m
-2023-03-31 08:57:18 PM Index M918BCBUTEBLS.m desc_e inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Tendency, Balance, s.a., Units of  - Bulgaria
-2023-03-31 08:57:18 PM df_key = Tendency, Balance, s.a., Units of Percentage - Bulgaria
-2023-03-31 08:57:18 PM Index M918BCBUTEBLS.m unit inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Units of 
-2023-03-31 08:57:18 PM df_key = Units of Percentage
-2023-03-31 08:57:18 PM Index M918BCCIBLS.m desc_e inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Confidence indicators, Balance, s.a., Units of  - Bulgaria
-2023-03-31 08:57:18 PM df_key = Confidence indicators, Balance, s.a., Units of Percentage - Bulgaria
-2023-03-31 08:57:18 PM Index M918BCCIBLS.m unit inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Units of 
-2023-03-31 08:57:18 PM df_key = Units of Percentage
-2023-03-31 08:57:18 PM Index M918BCEMFTBLS.m desc_e inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Future tendency, Balance, s.a., Units of  - Bulgaria
-2023-03-31 08:57:18 PM df_key = Future tendency, Balance, s.a., Units of Percentage - Bulgaria
-2023-03-31 08:57:18 PM Index M918BCEMFTBLS.m unit inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Units of 
-2023-03-31 08:57:18 PM df_key = Units of Percentage
-2023-03-31 08:57:18 PM Index M918BCOBLVBLS.m desc_e inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Level, Balance, s.a., Units of  - Bulgaria
-2023-03-31 08:57:18 PM df_key = Level, Balance, s.a., Units of Percentage - Bulgaria
-2023-03-31 08:57:18 PM Index M918BCOBLVBLS.m unit inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Units of 
-2023-03-31 08:57:18 PM df_key = Units of Percentage
-2023-03-31 08:57:18 PM Index M918BCSPFTBLS.m desc_e inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Future tendency, Balance, s.a., Units of  - Bulgaria
-2023-03-31 08:57:18 PM df_key = Future tendency, Balance, s.a., Units of Percentage - Bulgaria
-2023-03-31 08:57:18 PM Index M918BCSPFTBLS.m unit inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Units of 
-2023-03-31 08:57:18 PM df_key = Units of Percentage
-2023-03-31 08:57:18 PM Index M918BRBUFTBLS.m desc_e inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Future tendency, Balance, s.a., Units of  - Bulgaria
-2023-03-31 08:57:18 PM df_key = Future tendency, Balance, s.a., Units of Percentage - Bulgaria
-2023-03-31 08:57:18 PM Index M918BRBUFTBLS.m unit inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Units of 
-2023-03-31 08:57:18 PM df_key = Units of Percentage
-2023-03-31 08:57:18 PM Index M918BRBUTEBLS.m desc_e inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Tendency, Balance, s.a., Units of  - Bulgaria
-2023-03-31 08:57:18 PM df_key = Tendency, Balance, s.a., Units of Percentage - Bulgaria
-2023-03-31 08:57:18 PM Index M918BRBUTEBLS.m unit inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Units of 
-2023-03-31 08:57:18 PM df_key = Units of Percentage
-2023-03-31 08:57:18 PM Index M918BRCIBLS.m desc_e inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Confidence indicators, Balance, s.a., Units of  - Bulgaria
-2023-03-31 08:57:18 PM df_key = Confidence indicators, Balance, s.a., Units of Percentage - Bulgaria
-2023-03-31 08:57:18 PM Index M918BRCIBLS.m unit inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Units of 
-2023-03-31 08:57:18 PM df_key = Units of Percentage
-2023-03-31 08:57:18 PM Index M918BREMFTBLS.m desc_e inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Future tendency, Balance, s.a., Units of  - Bulgaria
-2023-03-31 08:57:18 PM df_key = Future tendency, Balance, s.a., Units of Percentage - Bulgaria
-2023-03-31 08:57:18 PM Index M918BREMFTBLS.m unit inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Units of 
-2023-03-31 08:57:18 PM df_key = Units of Percentage
-2023-03-31 08:57:18 PM Index M918BRODFTBLS.m desc_e inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Future tendency, Balance, s.a., Units of  - Bulgaria
-2023-03-31 08:57:18 PM df_key = Future tendency, Balance, s.a., Units of Percentage - Bulgaria
-2023-03-31 08:57:18 PM Index M918BRODFTBLS.m unit inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Units of 
-2023-03-31 08:57:18 PM df_key = Units of Percentage
-2023-03-31 08:57:18 PM Index M918BRVSLVBLS.m desc_e inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Level, Balance, s.a., Units of  - Bulgaria
-2023-03-31 08:57:18 PM df_key = Level, Balance, s.a., Units of Percentage - Bulgaria
-2023-03-31 08:57:18 PM Index M918BRVSLVBLS.m unit inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Units of 
-2023-03-31 08:57:18 PM df_key = Units of Percentage
-2023-03-31 08:57:18 PM Index M918BSCIBLS.m desc_e inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Confidence indicators, Balance, s.a., Units of  - Bulgaria
-2023-03-31 08:57:18 PM df_key = Confidence indicators, Balance, s.a., Units of Percentage - Bulgaria
-2023-03-31 08:57:18 PM Index M918BSCIBLS.m unit inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Units of 
-2023-03-31 08:57:18 PM df_key = Units of Percentage
-2023-03-31 08:57:18 PM Index M918BSEMFTBLS.m desc_e inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Future tendency, Balance, s.a., Units of  - Bulgaria
-2023-03-31 08:57:18 PM df_key = Future tendency, Balance, s.a., Units of Percentage - Bulgaria
-2023-03-31 08:57:18 PM Index M918BSEMFTBLS.m unit inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Units of 
-2023-03-31 08:57:18 PM df_key = Units of Percentage
-2023-03-31 08:57:18 PM Index M918BSFGLVBLS.m desc_e inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Level, Balance, s.a., Units of  - Bulgaria
-2023-03-31 08:57:18 PM df_key = Level, Balance, s.a., Units of Percentage - Bulgaria
-2023-03-31 08:57:18 PM Index M918BSFGLVBLS.m unit inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Units of 
-2023-03-31 08:57:18 PM df_key = Units of Percentage
-2023-03-31 08:57:18 PM Index M918BSOBLVBLS.m desc_e inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Level, Balance, s.a., Units of  - Bulgaria
-2023-03-31 08:57:18 PM df_key = Level, Balance, s.a., Units of Percentage - Bulgaria
-2023-03-31 08:57:18 PM Index M918BSOBLVBLS.m unit inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Units of 
-2023-03-31 08:57:18 PM df_key = Units of Percentage
-2023-03-31 08:57:18 PM Index M918BSPRFTBLS.m desc_e inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Future tendency, Balance, s.a., Units of  - Bulgaria
-2023-03-31 08:57:18 PM df_key = Future tendency, Balance, s.a., Units of Percentage - Bulgaria
-2023-03-31 08:57:18 PM Index M918BSPRFTBLS.m unit inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Units of 
-2023-03-31 08:57:18 PM df_key = Units of Percentage
-2023-03-31 08:57:18 PM Index M918BSPRTEBLS.m desc_e inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Tendency, Balance, s.a., Units of  - Bulgaria
-2023-03-31 08:57:18 PM df_key = Tendency, Balance, s.a., Units of Percentage - Bulgaria
-2023-03-31 08:57:18 PM Index M918BSPRTEBLS.m unit inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Units of 
-2023-03-31 08:57:18 PM df_key = Units of Percentage
-2023-03-31 08:57:18 PM Index M918BSSPFTBLS.m desc_e inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Future tendency, Balance, s.a., Units of  - Bulgaria
-2023-03-31 08:57:18 PM df_key = Future tendency, Balance, s.a., Units of Percentage - Bulgaria
-2023-03-31 08:57:18 PM Index M918BSSPFTBLS.m unit inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Units of 
-2023-03-31 08:57:18 PM df_key = Units of Percentage
-2023-03-31 08:57:18 PM Index M918BSXRLVBLS.m desc_e inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Level, Balance, s.a., Units of  - Bulgaria
-2023-03-31 08:57:18 PM df_key = Level, Balance, s.a., Units of Percentage - Bulgaria
-2023-03-31 08:57:18 PM Index M918BSXRLVBLS.m unit inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Units of 
-2023-03-31 08:57:18 PM df_key = Units of Percentage
-2023-03-31 08:57:18 PM Index M918BVBUTEBLS.m desc_e inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Tendency, Balance, s.a., Units of  - Bulgaria
-2023-03-31 08:57:18 PM df_key = Tendency, Balance, s.a., Units of Percentage - Bulgaria
-2023-03-31 08:57:18 PM Index M918BVBUTEBLS.m unit inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Units of 
-2023-03-31 08:57:18 PM df_key = Units of Percentage
-2023-03-31 08:57:18 PM Index M918BVCIBLS.m desc_e inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Confidence indicators, Balance, s.a., Units of  - Bulgaria
-2023-03-31 08:57:18 PM df_key = Confidence indicators, Balance, s.a., Units of Percentage - Bulgaria
-2023-03-31 08:57:18 PM Index M918BVCIBLS.m unit inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Units of 
-2023-03-31 08:57:18 PM df_key = Units of Percentage
-2023-03-31 08:57:18 PM Index M918BVDEFTBLS.m desc_e inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Future tendency, Balance, s.a., Units of  - Bulgaria
-2023-03-31 08:57:18 PM df_key = Future tendency, Balance, s.a., Units of Percentage - Bulgaria
-2023-03-31 08:57:18 PM Index M918BVDEFTBLS.m unit inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Units of 
-2023-03-31 08:57:18 PM df_key = Units of Percentage
-2023-03-31 08:57:18 PM Index M918BVDETEBLS.m desc_e inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Tendency, Balance, s.a., Units of  - Bulgaria
-2023-03-31 08:57:18 PM df_key = Tendency, Balance, s.a., Units of Percentage - Bulgaria
-2023-03-31 08:57:18 PM Index M918BVDETEBLS.m unit inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Units of 
-2023-03-31 08:57:18 PM df_key = Units of Percentage
-2023-03-31 08:57:18 PM Index M918BVEMFTBLS.m desc_e inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Future tendency, Balance, s.a., Units of  - Bulgaria
-2023-03-31 08:57:18 PM df_key = Future tendency, Balance, s.a., Units of Percentage - Bulgaria
-2023-03-31 08:57:18 PM Index M918BVEMFTBLS.m unit inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Units of 
-2023-03-31 08:57:18 PM df_key = Units of Percentage
-2023-03-31 08:57:18 PM Index M918BVEMTEBLS.m desc_e inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Tendency, Balance, s.a., Units of  - Bulgaria
-2023-03-31 08:57:18 PM df_key = Tendency, Balance, s.a., Units of Percentage - Bulgaria
-2023-03-31 08:57:18 PM Index M918BVEMTEBLS.m unit inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Units of 
-2023-03-31 08:57:18 PM df_key = Units of Percentage
-2023-03-31 08:57:18 PM Index M918CSCC02BLS.m desc_e inconsistent
-2023-03-31 08:57:18 PM DF_KEY = National indicator, Balance, s.a., Units of  - Bulgaria
-2023-03-31 08:57:18 PM df_key = National indicator, Balance, s.a., Units of Percentage - Bulgaria
-2023-03-31 08:57:18 PM Index M918CSCC02BLS.m unit inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Units of 
-2023-03-31 08:57:18 PM df_key = Units of Percentage
-2023-03-31 08:57:18 PM Index M918CSESFTBLS.m desc_e inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Future tendency, Balance, s.a., Units of  - Bulgaria
-2023-03-31 08:57:18 PM df_key = Future tendency, Balance, s.a., Units of Percentage - Bulgaria
-2023-03-31 08:57:18 PM Index M918CSESFTBLS.m unit inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Units of 
-2023-03-31 08:57:18 PM df_key = Units of Percentage
-2023-03-31 08:57:18 PM Index M918CSINFTBLS.m desc_e inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Future tendency, Balance, s.a., Units of  - Bulgaria
-2023-03-31 08:57:18 PM df_key = Future tendency, Balance, s.a., Units of Percentage - Bulgaria
-2023-03-31 08:57:18 PM Index M918CSINFTBLS.m unit inconsistent
-2023-03-31 08:57:18 PM DF_KEY = Units of 
-2023-03-31 08:57:18 PM df_key = Units of Percentage
-2023-03-31 08:57:19 PM Index M968BCBUTEBLS.m desc_e inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Tendency, Balance, s.a., Units of  - Romania
-2023-03-31 08:57:19 PM df_key = Tendency, Balance, s.a., Units of Percentage - Romania
-2023-03-31 08:57:19 PM Index M968BCBUTEBLS.m unit inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Units of 
-2023-03-31 08:57:19 PM df_key = Units of Percentage
-2023-03-31 08:57:19 PM Index M968BCCIBLS.m desc_e inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Confidence indicators, Balance, s.a., Units of  - Romania
-2023-03-31 08:57:19 PM df_key = Confidence indicators, Balance, s.a., Units of Percentage - Romania
-2023-03-31 08:57:19 PM Index M968BCCIBLS.m unit inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Units of 
-2023-03-31 08:57:19 PM df_key = Units of Percentage
-2023-03-31 08:57:19 PM Index M968BCEMFTBLS.m desc_e inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Future tendency, Balance, s.a., Units of  - Romania
-2023-03-31 08:57:19 PM df_key = Future tendency, Balance, s.a., Units of Percentage - Romania
-2023-03-31 08:57:19 PM Index M968BCEMFTBLS.m unit inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Units of 
-2023-03-31 08:57:19 PM df_key = Units of Percentage
-2023-03-31 08:57:19 PM Index M968BCOBLVBLS.m desc_e inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Level, Balance, s.a., Units of  - Romania
-2023-03-31 08:57:19 PM df_key = Level, Balance, s.a., Units of Percentage - Romania
-2023-03-31 08:57:19 PM Index M968BCOBLVBLS.m unit inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Units of 
-2023-03-31 08:57:19 PM df_key = Units of Percentage
-2023-03-31 08:57:19 PM Index M968BCSPFTBLS.m desc_e inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Future tendency, Balance, s.a., Units of  - Romania
-2023-03-31 08:57:19 PM df_key = Future tendency, Balance, s.a., Units of Percentage - Romania
-2023-03-31 08:57:19 PM Index M968BCSPFTBLS.m unit inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Units of 
-2023-03-31 08:57:19 PM df_key = Units of Percentage
-2023-03-31 08:57:19 PM Index M968BRBUFTBLS.m desc_e inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Future tendency, Balance, s.a., Units of  - Romania
-2023-03-31 08:57:19 PM df_key = Future tendency, Balance, s.a., Units of Percentage - Romania
-2023-03-31 08:57:19 PM Index M968BRBUFTBLS.m unit inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Units of 
-2023-03-31 08:57:19 PM df_key = Units of Percentage
-2023-03-31 08:57:19 PM Index M968BRBUTEBLS.m desc_e inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Tendency, Balance, s.a., Units of  - Romania
-2023-03-31 08:57:19 PM df_key = Tendency, Balance, s.a., Units of Percentage - Romania
-2023-03-31 08:57:19 PM Index M968BRBUTEBLS.m unit inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Units of 
-2023-03-31 08:57:19 PM df_key = Units of Percentage
-2023-03-31 08:57:19 PM Index M968BRCIBLS.m desc_e inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Confidence indicators, Balance, s.a., Units of  - Romania
-2023-03-31 08:57:19 PM df_key = Confidence indicators, Balance, s.a., Units of Percentage - Romania
-2023-03-31 08:57:19 PM Index M968BRCIBLS.m unit inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Units of 
-2023-03-31 08:57:19 PM df_key = Units of Percentage
-2023-03-31 08:57:19 PM Index M968BREMFTBLS.m desc_e inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Future tendency, Balance, s.a., Units of  - Romania
-2023-03-31 08:57:19 PM df_key = Future tendency, Balance, s.a., Units of Percentage - Romania
-2023-03-31 08:57:19 PM Index M968BREMFTBLS.m unit inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Units of 
-2023-03-31 08:57:19 PM df_key = Units of Percentage
-2023-03-31 08:57:19 PM Index M968BRODFTBLS.m desc_e inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Future tendency, Balance, s.a., Units of  - Romania
-2023-03-31 08:57:19 PM df_key = Future tendency, Balance, s.a., Units of Percentage - Romania
-2023-03-31 08:57:19 PM Index M968BRODFTBLS.m unit inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Units of 
-2023-03-31 08:57:19 PM df_key = Units of Percentage
-2023-03-31 08:57:19 PM Index M968BRVSLVBLS.m desc_e inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Level, Balance, s.a., Units of  - Romania
-2023-03-31 08:57:19 PM df_key = Level, Balance, s.a., Units of Percentage - Romania
-2023-03-31 08:57:19 PM Index M968BRVSLVBLS.m unit inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Units of 
-2023-03-31 08:57:19 PM df_key = Units of Percentage
-2023-03-31 08:57:19 PM Index M968BSCIBLS.m desc_e inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Confidence indicators, Balance, s.a., Units of  - Romania
-2023-03-31 08:57:19 PM df_key = Confidence indicators, Balance, s.a., Units of Percentage - Romania
-2023-03-31 08:57:19 PM Index M968BSCIBLS.m unit inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Units of 
-2023-03-31 08:57:19 PM df_key = Units of Percentage
-2023-03-31 08:57:19 PM Index M968BSEMFTBLS.m desc_e inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Future tendency, Balance, s.a., Units of  - Romania
-2023-03-31 08:57:19 PM df_key = Future tendency, Balance, s.a., Units of Percentage - Romania
-2023-03-31 08:57:19 PM Index M968BSEMFTBLS.m unit inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Units of 
-2023-03-31 08:57:19 PM df_key = Units of Percentage
-2023-03-31 08:57:19 PM Index M968BSFGLVBLS.m desc_e inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Level, Balance, s.a., Units of  - Romania
-2023-03-31 08:57:19 PM df_key = Level, Balance, s.a., Units of Percentage - Romania
-2023-03-31 08:57:19 PM Index M968BSFGLVBLS.m unit inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Units of 
-2023-03-31 08:57:19 PM df_key = Units of Percentage
-2023-03-31 08:57:19 PM Index M968BSOBLVBLS.m desc_e inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Level, Balance, s.a., Units of  - Romania
-2023-03-31 08:57:19 PM df_key = Level, Balance, s.a., Units of Percentage - Romania
-2023-03-31 08:57:19 PM Index M968BSOBLVBLS.m unit inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Units of 
-2023-03-31 08:57:19 PM df_key = Units of Percentage
-2023-03-31 08:57:19 PM Index M968BSPRFTBLS.m desc_e inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Future tendency, Balance, s.a., Units of  - Romania
-2023-03-31 08:57:19 PM df_key = Future tendency, Balance, s.a., Units of Percentage - Romania
-2023-03-31 08:57:19 PM Index M968BSPRFTBLS.m unit inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Units of 
-2023-03-31 08:57:19 PM df_key = Units of Percentage
-2023-03-31 08:57:19 PM Index M968BSPRTEBLS.m desc_e inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Tendency, Balance, s.a., Units of  - Romania
-2023-03-31 08:57:19 PM df_key = Tendency, Balance, s.a., Units of Percentage - Romania
-2023-03-31 08:57:19 PM Index M968BSPRTEBLS.m unit inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Units of 
-2023-03-31 08:57:19 PM df_key = Units of Percentage
-2023-03-31 08:57:19 PM Index M968BSSPFTBLS.m desc_e inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Future tendency, Balance, s.a., Units of  - Romania
-2023-03-31 08:57:19 PM df_key = Future tendency, Balance, s.a., Units of Percentage - Romania
-2023-03-31 08:57:19 PM Index M968BSSPFTBLS.m unit inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Units of 
-2023-03-31 08:57:19 PM df_key = Units of Percentage
-2023-03-31 08:57:19 PM Index M968BSXRLVBLS.m desc_e inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Level, Balance, s.a., Units of  - Romania
-2023-03-31 08:57:19 PM df_key = Level, Balance, s.a., Units of Percentage - Romania
-2023-03-31 08:57:19 PM Index M968BSXRLVBLS.m unit inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Units of 
-2023-03-31 08:57:19 PM df_key = Units of Percentage
-2023-03-31 08:57:19 PM Index M968BVBUTEBLS.m desc_e inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Tendency, Balance, s.a., Units of  - Romania
-2023-03-31 08:57:19 PM df_key = Tendency, Balance, s.a., Units of Percentage - Romania
-2023-03-31 08:57:19 PM Index M968BVBUTEBLS.m unit inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Units of 
-2023-03-31 08:57:19 PM df_key = Units of Percentage
-2023-03-31 08:57:19 PM Index M968BVCIBLS.m desc_e inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Confidence indicators, Balance, s.a., Units of  - Romania
-2023-03-31 08:57:19 PM df_key = Confidence indicators, Balance, s.a., Units of Percentage - Romania
-2023-03-31 08:57:19 PM Index M968BVCIBLS.m unit inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Units of 
-2023-03-31 08:57:19 PM df_key = Units of Percentage
-2023-03-31 08:57:19 PM Index M968BVDEFTBLS.m desc_e inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Future tendency, Balance, s.a., Units of  - Romania
-2023-03-31 08:57:19 PM df_key = Future tendency, Balance, s.a., Units of Percentage - Romania
-2023-03-31 08:57:19 PM Index M968BVDEFTBLS.m unit inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Units of 
-2023-03-31 08:57:19 PM df_key = Units of Percentage
-2023-03-31 08:57:19 PM Index M968BVDETEBLS.m desc_e inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Tendency, Balance, s.a., Units of  - Romania
-2023-03-31 08:57:19 PM df_key = Tendency, Balance, s.a., Units of Percentage - Romania
-2023-03-31 08:57:19 PM Index M968BVDETEBLS.m unit inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Units of 
-2023-03-31 08:57:19 PM df_key = Units of Percentage
-2023-03-31 08:57:19 PM Index M968BVEMFTBLS.m desc_e inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Future tendency, Balance, s.a., Units of  - Romania
-2023-03-31 08:57:19 PM df_key = Future tendency, Balance, s.a., Units of Percentage - Romania
-2023-03-31 08:57:19 PM Index M968BVEMFTBLS.m unit inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Units of 
-2023-03-31 08:57:19 PM df_key = Units of Percentage
-2023-03-31 08:57:19 PM Index M968BVEMTEBLS.m desc_e inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Tendency, Balance, s.a., Units of  - Romania
-2023-03-31 08:57:19 PM df_key = Tendency, Balance, s.a., Units of Percentage - Romania
-2023-03-31 08:57:19 PM Index M968BVEMTEBLS.m unit inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Units of 
-2023-03-31 08:57:19 PM df_key = Units of Percentage
-2023-03-31 08:57:19 PM Index M968CSCC02BLS.m desc_e inconsistent
-2023-03-31 08:57:19 PM DF_KEY = National indicator, Balance, s.a., Units of  - Romania
-2023-03-31 08:57:19 PM df_key = National indicator, Balance, s.a., Units of Percentage - Romania
-2023-03-31 08:57:19 PM Index M968CSCC02BLS.m unit inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Units of 
-2023-03-31 08:57:19 PM df_key = Units of Percentage
-2023-03-31 08:57:19 PM Index M968CSESFTBLS.m desc_e inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Future tendency, Balance, s.a., Units of  - Romania
-2023-03-31 08:57:19 PM df_key = Future tendency, Balance, s.a., Units of Percentage - Romania
-2023-03-31 08:57:19 PM Index M968CSESFTBLS.m unit inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Units of 
-2023-03-31 08:57:19 PM df_key = Units of Percentage
-2023-03-31 08:57:19 PM Index M968CSINFTBLS.m desc_e inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Future tendency, Balance, s.a., Units of  - Romania
-2023-03-31 08:57:19 PM df_key = Future tendency, Balance, s.a., Units of Percentage - Romania
-2023-03-31 08:57:19 PM Index M968CSINFTBLS.m unit inconsistent
-2023-03-31 08:57:19 PM DF_KEY = Units of 
-2023-03-31 08:57:19 PM df_key = Units of Percentage
-2023-03-31 08:57:21 PM Index Q134CPGH01INB.q desc_e: base updated
-2023-03-31 08:57:21 PM Index Q134CPGH01INB.q form_c: base updated
-2023-03-31 08:57:27 PM Index Q918BSCURTBLS.q desc_e inconsistent
-2023-03-31 08:57:27 PM DF_KEY = Rate of capacity utilisation, Balance, s.a., Units of  - Bulgaria
-2023-03-31 08:57:27 PM df_key = Rate of capacity utilisation, Balance, s.a., Units of Percentage - Bulgaria
-2023-03-31 08:57:27 PM Index Q918BSCURTBLS.q unit inconsistent
-2023-03-31 08:57:27 PM DF_KEY = Units of 
-2023-03-31 08:57:27 PM df_key = Units of Percentage
-2023-03-31 08:57:27 PM Index Q918BSOITEBLS.q desc_e inconsistent
-2023-03-31 08:57:27 PM DF_KEY = Tendency, Balance, s.a., Units of  - Bulgaria
-2023-03-31 08:57:27 PM df_key = Tendency, Balance, s.a., Units of Percentage - Bulgaria
-2023-03-31 08:57:27 PM Index Q918BSOITEBLS.q unit inconsistent
-2023-03-31 08:57:27 PM DF_KEY = Units of 
-2023-03-31 08:57:27 PM df_key = Units of Percentage
-2023-03-31 08:57:29 PM Index Q968BSCURTBLS.q desc_e inconsistent
-2023-03-31 08:57:29 PM DF_KEY = Rate of capacity utilisation, Balance, s.a., Units of  - Romania
-2023-03-31 08:57:29 PM df_key = Rate of capacity utilisation, Balance, s.a., Units of Percentage - Romania
-2023-03-31 08:57:29 PM Index Q968BSCURTBLS.q unit inconsistent
-2023-03-31 08:57:29 PM DF_KEY = Units of 
-2023-03-31 08:57:29 PM df_key = Units of Percentage
-2023-03-31 08:57:29 PM Index Q968BSOITEBLS.q desc_e inconsistent
-2023-03-31 08:57:29 PM DF_KEY = Tendency, Balance, s.a., Units of  - Romania
-2023-03-31 08:57:29 PM df_key = Tendency, Balance, s.a., Units of Percentage - Romania
-2023-03-31 08:57:29 PM Index Q968BSOITEBLS.q unit inconsistent
-2023-03-31 08:57:29 PM DF_KEY = Units of 
-2023-03-31 08:57:29 PM df_key = Units of Percentage
-2023-03-31 08:57:29 PM unknown: 0
-2023-03-31 08:57:29 PM name too long: 0
-2023-03-31 08:57:29 PM inconsistent: 120
-2023-03-31 08:57:29 PM Total desc_e inconsistent: 60
-2023-03-31 08:57:29 PM Total desc_c inconsistent: 0
-2023-03-31 08:57:29 PM Total freq inconsistent: 0
-2023-03-31 08:57:29 PM Total unit inconsistent: 60
-2023-03-31 08:57:29 PM Total name_ord inconsistent: 0
-2023-03-31 08:57:29 PM Total book inconsistent: 0
-2023-03-31 08:57:29 PM Total form_e inconsistent: 0
-2023-03-31 08:57:29 PM Total form_c inconsistent: 0
-2023-03-31 08:57:29 PM inconsistent earliest: 1991
-2023-03-31 08:57:29 PM base updated: 3
-2023-03-31 08:57:29 PM data updated: 29312
-2023-03-31 08:57:29 PM including weekly: False
-2023-03-31 08:57:29 PM too many months: False
-2023-03-31 08:57:33 PM unfound: 3010
+2023-05-03 02:22:51 PM Index A436CP0100INB.a desc_e: base updated
+2023-05-03 02:22:51 PM Index A436CP0100INB.a form_c: base updated
+2023-05-03 02:22:51 PM Index A436CP0200INB.a desc_e: base updated
+2023-05-03 02:22:51 PM Index A436CP0200INB.a form_c: base updated
+2023-05-03 02:22:51 PM Index A436CP0300INB.a desc_e: base updated
+2023-05-03 02:22:51 PM Index A436CP0300INB.a form_c: base updated
+2023-05-03 02:22:51 PM Index A436CP0400INB.a desc_e: base updated
+2023-05-03 02:22:51 PM Index A436CP0400INB.a form_c: base updated
+2023-05-03 02:22:51 PM Index A436CP0500INB.a desc_e: base updated
+2023-05-03 02:22:51 PM Index A436CP0500INB.a form_c: base updated
+2023-05-03 02:22:51 PM Index A436CP0600INB.a desc_e: base updated
+2023-05-03 02:22:51 PM Index A436CP0600INB.a form_c: base updated
+2023-05-03 02:22:51 PM Index A436CP0700INB.a desc_e: base updated
+2023-05-03 02:22:51 PM Index A436CP0700INB.a form_c: base updated
+2023-05-03 02:22:51 PM Index A436CP0800INB.a desc_e: base updated
+2023-05-03 02:22:51 PM Index A436CP0800INB.a form_c: base updated
+2023-05-03 02:22:51 PM Index A436CP0900INB.a desc_e: base updated
+2023-05-03 02:22:51 PM Index A436CP0900INB.a form_c: base updated
+2023-05-03 02:22:51 PM Index A436CP1000INB.a desc_e: base updated
+2023-05-03 02:22:51 PM Index A436CP1000INB.a form_c: base updated
+2023-05-03 02:22:51 PM Index A436CP1100INB.a desc_e: base updated
+2023-05-03 02:22:51 PM Index A436CP1100INB.a form_c: base updated
+2023-05-03 02:22:51 PM Index A436CP1200INB.a desc_e: base updated
+2023-05-03 02:22:51 PM Index A436CP1200INB.a form_c: base updated
+2023-05-03 02:22:51 PM Index A436CPAT01INB.a desc_e: base updated
+2023-05-03 02:22:51 PM Index A436CPAT01INB.a form_c: base updated
+2023-05-03 02:22:59 PM Index M436CP0100INB.m desc_e: base updated
+2023-05-03 02:22:59 PM Index M436CP0100INB.m form_c: base updated
+2023-05-03 02:22:59 PM Index M436CP0200INB.m desc_e: base updated
+2023-05-03 02:22:59 PM Index M436CP0200INB.m form_c: base updated
+2023-05-03 02:22:59 PM Index M436CP0300INB.m desc_e: base updated
+2023-05-03 02:22:59 PM Index M436CP0300INB.m form_c: base updated
+2023-05-03 02:22:59 PM Index M436CP0400INB.m desc_e: base updated
+2023-05-03 02:22:59 PM Index M436CP0400INB.m form_c: base updated
+2023-05-03 02:22:59 PM Index M436CP0500INB.m desc_e: base updated
+2023-05-03 02:22:59 PM Index M436CP0500INB.m form_c: base updated
+2023-05-03 02:22:59 PM Index M436CP0600INB.m desc_e: base updated
+2023-05-03 02:22:59 PM Index M436CP0600INB.m form_c: base updated
+2023-05-03 02:22:59 PM Index M436CP0700INB.m desc_e: base updated
+2023-05-03 02:22:59 PM Index M436CP0700INB.m form_c: base updated
+2023-05-03 02:22:59 PM Index M436CP0800INB.m desc_e: base updated
+2023-05-03 02:22:59 PM Index M436CP0800INB.m form_c: base updated
+2023-05-03 02:22:59 PM Index M436CP0900INB.m desc_e: base updated
+2023-05-03 02:22:59 PM Index M436CP0900INB.m form_c: base updated
+2023-05-03 02:22:59 PM Index M436CP1000INB.m desc_e: base updated
+2023-05-03 02:22:59 PM Index M436CP1000INB.m form_c: base updated
+2023-05-03 02:22:59 PM Index M436CP1100INB.m desc_e: base updated
+2023-05-03 02:22:59 PM Index M436CP1100INB.m form_c: base updated
+2023-05-03 02:22:59 PM Index M436CP1200INB.m desc_e: base updated
+2023-05-03 02:22:59 PM Index M436CP1200INB.m form_c: base updated
+2023-05-03 02:22:59 PM Index M436CPAT01INB.m desc_e: base updated
+2023-05-03 02:22:59 PM Index M436CPAT01INB.m form_c: base updated
+2023-05-03 02:23:00 PM Index M727BSCIBLS.m desc_e inconsistent
+2023-05-03 02:23:00 PM DF_KEY = Confidence indicators, Balance, s.a., Units of  - European Union – 27 countries (from 01/02/2020)
+2023-05-03 02:23:00 PM df_key = Confidence indicators, Balance, s.a., Units of Percentage - European Union – 27 countries (from 01/02/2020)
+2023-05-03 02:23:00 PM Index M727BSCIBLS.m unit inconsistent
+2023-05-03 02:23:00 PM DF_KEY = Units of 
+2023-05-03 02:23:00 PM df_key = Units of Percentage
+2023-05-03 02:23:00 PM Index M727CSCC02BLS.m desc_e inconsistent
+2023-05-03 02:23:00 PM DF_KEY = National indicator, Balance, s.a., Units of  - European Union – 27 countries (from 01/02/2020)
+2023-05-03 02:23:00 PM df_key = National indicator, Balance, s.a., Units of Percentage - European Union – 27 countries (from 01/02/2020)
+2023-05-03 02:23:00 PM Index M727CSCC02BLS.m unit inconsistent
+2023-05-03 02:23:00 PM DF_KEY = Units of 
+2023-05-03 02:23:00 PM df_key = Units of Percentage
+2023-05-03 02:23:09 PM Index Q436CP0100INB.q desc_e: base updated
+2023-05-03 02:23:09 PM Index Q436CP0100INB.q form_c: base updated
+2023-05-03 02:23:09 PM Index Q436CP0200INB.q desc_e: base updated
+2023-05-03 02:23:09 PM Index Q436CP0200INB.q form_c: base updated
+2023-05-03 02:23:09 PM Index Q436CP0300INB.q desc_e: base updated
+2023-05-03 02:23:09 PM Index Q436CP0300INB.q form_c: base updated
+2023-05-03 02:23:09 PM Index Q436CP0400INB.q desc_e: base updated
+2023-05-03 02:23:09 PM Index Q436CP0400INB.q form_c: base updated
+2023-05-03 02:23:09 PM Index Q436CP0500INB.q desc_e: base updated
+2023-05-03 02:23:09 PM Index Q436CP0500INB.q form_c: base updated
+2023-05-03 02:23:09 PM Index Q436CP0600INB.q desc_e: base updated
+2023-05-03 02:23:09 PM Index Q436CP0600INB.q form_c: base updated
+2023-05-03 02:23:09 PM Index Q436CP0700INB.q desc_e: base updated
+2023-05-03 02:23:09 PM Index Q436CP0700INB.q form_c: base updated
+2023-05-03 02:23:09 PM Index Q436CP0800INB.q desc_e: base updated
+2023-05-03 02:23:09 PM Index Q436CP0800INB.q form_c: base updated
+2023-05-03 02:23:09 PM Index Q436CP0900INB.q desc_e: base updated
+2023-05-03 02:23:09 PM Index Q436CP0900INB.q form_c: base updated
+2023-05-03 02:23:09 PM Index Q436CP1000INB.q desc_e: base updated
+2023-05-03 02:23:09 PM Index Q436CP1000INB.q form_c: base updated
+2023-05-03 02:23:09 PM Index Q436CP1100INB.q desc_e: base updated
+2023-05-03 02:23:09 PM Index Q436CP1100INB.q form_c: base updated
+2023-05-03 02:23:09 PM Index Q436CP1200INB.q desc_e: base updated
+2023-05-03 02:23:09 PM Index Q436CP1200INB.q form_c: base updated
+2023-05-03 02:23:09 PM Index Q436CPAT01INB.q desc_e: base updated
+2023-05-03 02:23:09 PM Index Q436CPAT01INB.q form_c: base updated
+2023-05-03 02:23:12 PM unknown: 0
+2023-05-03 02:23:12 PM name too long: 0
+2023-05-03 02:23:12 PM inconsistent: 4
+2023-05-03 02:23:12 PM Total desc_e inconsistent: 2
+2023-05-03 02:23:12 PM Total desc_c inconsistent: 0
+2023-05-03 02:23:12 PM Total freq inconsistent: 0
+2023-05-03 02:23:12 PM Total unit inconsistent: 2
+2023-05-03 02:23:12 PM Total name_ord inconsistent: 0
+2023-05-03 02:23:12 PM Total book inconsistent: 0
+2023-05-03 02:23:12 PM Total form_e inconsistent: 0
+2023-05-03 02:23:12 PM Total form_c inconsistent: 0
+2023-05-03 02:23:12 PM inconsistent earliest: 1985
+2023-05-03 02:23:12 PM base updated: 39
+2023-05-03 02:23:12 PM data updated: 27787
+2023-05-03 02:23:12 PM including weekly: False
+2023-05-03 02:23:12 PM too many months: False
+2023-05-03 02:23:15 PM unfound: 3011
