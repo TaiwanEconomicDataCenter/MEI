@@ -1,21 +1,13 @@
 ,id,name
-0,STSA,"Level, rate or national currency, s.a."
-1,GP,Growth rate previous period
-2,ST,"Level, rate or national currency"
-3,GY,Growth rate same period previous year
-4,IXOB,Index 2015=100
-5,CXMLSA,"US Dollars, monthly level, s.a."
-6,GPSA,"Growth rate previous period, s.a."
-7,IXOBSA,"Index 2015=100, s.a."
-8,NCMLSA,"National currency, monthly level, s.a."
-9,NCML,"National currency, monthly level"
-10,GYSA,"Growth rate same period previous year, s.a."
-11,NCCU,"National currency, sum over component sub-periods"
-12,NCCUSA,"National currency, sum over component sub-periods s.a"
-13,CXCU,"US Dollars, sum over component sub-periods"
-14,CXCUSA,"US Dollars, sum over component sub-periods, s.a."
-15,CXML,"US Dollars, monthly level"
-16,IXNBSA,"Index source base, s.a."
-17,IXNB,Index source base
-18,IXEB,Index Eurostat base
-19,AL,Annual Level
+0,GY,Growth rate same period previous year
+1,IXOB,Index 2015=100
+2,IXOBSA,"Index 2015=100, s.a."
+3,ST,"Level, rate or national currency"
+4,STSA,"Level, rate or national currency, s.a."
+5,GPSA,"Growth rate previous period, s.a."
+6,GYSA,"Growth rate same period previous year, s.a."
+7,GP,Growth rate previous period
+8,IXNBSA,"Index source base, s.a."
+9,IXNB,Index source base
+10,NCCU,"National currency, sum over component sub-periods"
+11,CXCU,"US Dollars, sum over component sub-periods"

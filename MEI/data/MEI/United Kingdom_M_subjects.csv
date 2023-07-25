@@ -74,96 +74,78 @@
 72,PITGIG01,Producer Prices Index > Type of goods > Intermediate goods > Total
 73,PITGCD01,Producer Prices Index > Type of goods > Durable consumer goods > Total
 74,PIEAMP02,Producer Prices Index > Economic activities > Manufacturing > Domestic
-75,LOCOBPNO,Leading Indicators OECD > Component series > BTS - Production > Normalised
-76,LOCOBPOR,Leading Indicators OECD > Component series > BTS - Production > Original series
-77,LOCOCINO,Leading Indicators OECD > Component series > CS - Confidence indicator > Normalised
-78,LOCOCIOR,Leading Indicators OECD > Component series > CS - Confidence indicator > Original series
-79,LOCOSPNO,Leading Indicators OECD > Component series > Share prices > Normalised
-80,LOCOSPOR,Leading Indicators OECD > Component series > Share prices > Original series
-81,LOCOSTNO,Leading Indicators OECD > Component series > Short-term interest rate > Normalised
-82,LOCOSTOR,Leading Indicators OECD > Component series > Short-term interest rate > Original series
-83,LOCOVRNO,Leading Indicators OECD > Component series > Car registration - sales > Normalised
-84,LOCOVROR,Leading Indicators OECD > Component series > Car registration - sales > Original series
-85,LOLITOAA,Leading Indicators OECD > Leading indicators > CLI > Amplitude adjusted
-86,LOLITONO,Leading Indicators OECD > Leading indicators > CLI > Normalised
-87,LOLITOTR,Leading Indicators OECD > Leading indicators > CLI > Trend restored
-88,LORSGPNO,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Normalised
-89,LORSGPRT,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Ratio to trend
-90,LORSGPTD,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Trend
-91,LRHU24FE,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 15-24 > Females
-92,LRHU24MA,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 15-24 > Males
-93,LRHU24TT,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 15-24 > All persons
-94,LRHUADFE,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 25 and over > Females
-95,LRHUADMA,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 25 and over > Males
-96,LRHUADTT,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 25 and over > All persons
-97,LRHUTTFE,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Total > Females
-98,LRHUTTMA,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Total > Males
-99,LRHUTTTT,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Total > All persons
-100,LFHU24FE,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 15-24 > Females
-101,LFHU24MA,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 15-24 > Males
-102,LFHU24TT,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 15-24 > All persons
-103,LFHUADFE,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 25 and over > Females
-104,LFHUADMA,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 25 and over > Males
-105,LFHUADTT,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 25 and over > All persons
-106,LFHUTTFE,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Total > Females
-107,LFHUTTMA,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Total > Males
-108,LFHUTTTT,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Total > All persons
-109,LMJVTTUV,Labour - other labour market measures > Job vacancies > Total > Unfilled vacancies (stock)
-110,LMUNRLTT,Labour - other labour market measures > Registered unemployment > Level > Total
-111,LMUNRRTT,Labour - other labour market measures > Registered unemployment > Rate > Total
-112,BRODFT02,Business tendency surveys (retail trade) > Order intentions or Demand > Future tendency > National indicator
-113,BVBUTE02,Business tendency surveys (services) > Business situation - Activity > Tendency > National indicator
-114,BCBUTE02,Business tendency surveys (construction) > Business situation - Activity > Tendency > National indicator
-115,BRBUTE02,Business tendency surveys (retail trade) > Business situation - Activity > Tendency > National indicator
-116,PRCNTO01,Production > Construction > Total construction > Total
-117,PREND401,"Production > Energy > Production and distribution of electricity, gas, steam and air conditioning > Total"
-118,PRMITO01,Production > Mining > Total mining > Total
-119,CP010000,Consumer Price Index > Food and non-Alcoholic beverages (COICOP 01) > Total > Total
-120,CPGRGO01,Consumer Price Index > OECD Groups > Goods > Total
-121,CP060000,Consumer Price Index > Health (COICOP 06) > Total > Total
-122,CPGRHO02,Consumer Price Index > OECD Groups > Housing > Housing excluding imputed rentals for housing
-123,CP020000,"Consumer Price Index > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total > Total"
-124,CPGRLH02,Consumer Price Index > OECD Groups > Services less housing > Housing excluding imputed rentals for housing
-125,CPGRSE01,Consumer Price Index > OECD Groups > Services > Total
-126,CP120000,Consumer Price Index > Miscellaneous goods and services (COICOP 12) > Total > Total
-127,CP110000,Consumer Price Index > Restaurants and hotels (COICOP 11) > Total > Total
-128,CP040300,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance and repairs of the dwellings > Total"
-129,CP040500,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels > Total"
-130,CP040100,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing > Total"
-131,CP100000,Consumer Price Index > Education (COICOP 10) > Total > Total
-132,CP070000,Consumer Price Index > Transport (COICOP 07) > Total > Total
-133,CP080000,Consumer Price Index > Communication (COICOP 08) > Total > Total
-134,CP030000,Consumer Price Index > Clothing and footwear (COICOP 03) > Total > Total
-135,CP040000,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Total > Total"
-136,CP090000,Consumer Price Index > Recreation and culture  (COICOP 09) > Total > Total
-137,CP040400,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling > Total"
-138,CP050000,"Consumer Price Index > Furnishings, household equip. and routine household maintenance (COICOP 05) > Total > Total"
-139,CPHP0400,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Total"
-140,CPHP1100,Consumer Price Index > Harmonised prices > Restaurants and hotels (COICOP 11) > Total
-141,CPHP0600,Consumer Price Index > Harmonised prices > Health (COICOP 06) > Total
-142,CPHP0500,"Consumer Price Index > Harmonised prices > Furnishings, household equip. and routine household maintenance (COICOP 05) > Total"
-143,CPHP0700,Consumer Price Index > Harmonised prices > Transport (COICOP 07) > Total
-144,CPHPSE01,Consumer Price Index > Harmonised prices > Services > Total
-145,CPHP0900,Consumer Price Index > Harmonised prices > Recreation and culture  (COICOP 09) > Total
-146,CPHP0401,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing"
-147,CPHPLA01,"Consumer Price Index > Harmonised prices > All items less food, energy, tobacco, alcohol > Total"
-148,CPHP1000,Consumer Price Index > Harmonised prices > Education (COICOP 10) > Total
-149,CPHP0300,Consumer Price Index > Harmonised prices > Clothing and footwear (COICOP 03) > Total
-150,CPHP0100,Consumer Price Index > Harmonised prices > Food and non-Alcoholic beverages (COICOP 01) > Total
-151,CPHP0200,"Consumer Price Index > Harmonised prices > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total"
-152,CPHP0800,Consumer Price Index > Harmonised prices > Communication (COICOP 08) > Total
-153,CPHP1200,Consumer Price Index > Harmonised prices > Miscellaneous goods and services (COICOP 12) > Total
-154,CPHPEN01,Consumer Price Index > Harmonised prices > Energy > Total
-155,CPHP0403,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance & repairs of the dwellings"
-156,CPHP0404,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling"
-157,CPHP0405,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels"
-158,CPHP0702,Consumer Price Index > Harmonised prices > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment
-159,PRMNCG01,Production > Manufacturing > Consumer goods > Total
-160,CP040200,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Imputed rentals for housing > Total"
-161,CPGRHO01,Consumer Price Index > OECD Groups > Housing > Total
-162,CPGRLH01,Consumer Price Index > OECD Groups > Services less housing > Total
-163,CPSDCTGY,Consumer Price Index > Statistical discrepancy > Contribution > Annual inflation
-164,CP070200,Consumer Price Index > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment > Total
-165,CSCICP04,Consumer opinion surveys > Confidence indicators > Composite indicators > Normalised indicator
-166,LOCOPCNO,Leading Indicators OECD > Component series > Consumer prices > Normalised
-167,LOCOPCOR,Leading Indicators OECD > Component series > Consumer prices > Original series
+75,LRHU24FE,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 15-24 > Females
+76,LRHU24MA,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 15-24 > Males
+77,LRHU24TT,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 15-24 > All persons
+78,LRHUADFE,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 25 and over > Females
+79,LRHUADMA,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 25 and over > Males
+80,LRHUADTT,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 25 and over > All persons
+81,LRHUTTFE,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Total > Females
+82,LRHUTTMA,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Total > Males
+83,LRHUTTTT,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Total > All persons
+84,LFHU24FE,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 15-24 > Females
+85,LFHU24MA,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 15-24 > Males
+86,LFHU24TT,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 15-24 > All persons
+87,LFHUADFE,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 25 and over > Females
+88,LFHUADMA,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 25 and over > Males
+89,LFHUADTT,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 25 and over > All persons
+90,LFHUTTFE,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Total > Females
+91,LFHUTTMA,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Total > Males
+92,LFHUTTTT,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Total > All persons
+93,LMJVTTUV,Labour - other labour market measures > Job vacancies > Total > Unfilled vacancies (stock)
+94,LMUNRLTT,Labour - other labour market measures > Registered unemployment > Level > Total
+95,LMUNRRTT,Labour - other labour market measures > Registered unemployment > Rate > Total
+96,BRODFT02,Business tendency surveys (retail trade) > Order intentions or Demand > Future tendency > National indicator
+97,BVBUTE02,Business tendency surveys (services) > Business situation - Activity > Tendency > National indicator
+98,BCBUTE02,Business tendency surveys (construction) > Business situation - Activity > Tendency > National indicator
+99,BRBUTE02,Business tendency surveys (retail trade) > Business situation - Activity > Tendency > National indicator
+100,PRCNTO01,Production > Construction > Total construction > Total
+101,PREND401,"Production > Energy > Production and distribution of electricity, gas, steam and air conditioning > Total"
+102,PRMITO01,Production > Mining > Total mining > Total
+103,CP010000,Consumer Price Index > Food and non-Alcoholic beverages (COICOP 01) > Total > Total
+104,CPGRGO01,Consumer Price Index > OECD Groups > Goods > Total
+105,CP060000,Consumer Price Index > Health (COICOP 06) > Total > Total
+106,CPGRHO02,Consumer Price Index > OECD Groups > Housing > Housing excluding imputed rentals for housing
+107,CP020000,"Consumer Price Index > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total > Total"
+108,CPGRLH02,Consumer Price Index > OECD Groups > Services less housing > Housing excluding imputed rentals for housing
+109,CPGRSE01,Consumer Price Index > OECD Groups > Services > Total
+110,CP120000,Consumer Price Index > Miscellaneous goods and services (COICOP 12) > Total > Total
+111,CP110000,Consumer Price Index > Restaurants and hotels (COICOP 11) > Total > Total
+112,CP040300,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance and repairs of the dwellings > Total"
+113,CP040500,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels > Total"
+114,CP040100,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing > Total"
+115,CP100000,Consumer Price Index > Education (COICOP 10) > Total > Total
+116,CP070000,Consumer Price Index > Transport (COICOP 07) > Total > Total
+117,CP080000,Consumer Price Index > Communication (COICOP 08) > Total > Total
+118,CP030000,Consumer Price Index > Clothing and footwear (COICOP 03) > Total > Total
+119,CP040000,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Total > Total"
+120,CP090000,Consumer Price Index > Recreation and culture  (COICOP 09) > Total > Total
+121,CP040400,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling > Total"
+122,CP050000,"Consumer Price Index > Furnishings, household equip. and routine household maintenance (COICOP 05) > Total > Total"
+123,CPHP0400,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Total"
+124,CPHP1100,Consumer Price Index > Harmonised prices > Restaurants and hotels (COICOP 11) > Total
+125,CPHP0600,Consumer Price Index > Harmonised prices > Health (COICOP 06) > Total
+126,CPHP0500,"Consumer Price Index > Harmonised prices > Furnishings, household equip. and routine household maintenance (COICOP 05) > Total"
+127,CPHP0700,Consumer Price Index > Harmonised prices > Transport (COICOP 07) > Total
+128,CPHPSE01,Consumer Price Index > Harmonised prices > Services > Total
+129,CPHP0900,Consumer Price Index > Harmonised prices > Recreation and culture  (COICOP 09) > Total
+130,CPHP0401,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing"
+131,CPHPLA01,"Consumer Price Index > Harmonised prices > All items less food, energy, tobacco, alcohol > Total"
+132,CPHP1000,Consumer Price Index > Harmonised prices > Education (COICOP 10) > Total
+133,CPHP0300,Consumer Price Index > Harmonised prices > Clothing and footwear (COICOP 03) > Total
+134,CPHP0100,Consumer Price Index > Harmonised prices > Food and non-Alcoholic beverages (COICOP 01) > Total
+135,CPHP0200,"Consumer Price Index > Harmonised prices > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total"
+136,CPHP0800,Consumer Price Index > Harmonised prices > Communication (COICOP 08) > Total
+137,CPHP1200,Consumer Price Index > Harmonised prices > Miscellaneous goods and services (COICOP 12) > Total
+138,CPHPEN01,Consumer Price Index > Harmonised prices > Energy > Total
+139,CPHP0403,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance & repairs of the dwellings"
+140,CPHP0404,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling"
+141,CPHP0405,"Consumer Price Index > Harmonised prices > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels"
+142,CPHP0702,Consumer Price Index > Harmonised prices > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment
+143,PRMNCG01,Production > Manufacturing > Consumer goods > Total
+144,CP040200,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Imputed rentals for housing > Total"
+145,CPGRHO01,Consumer Price Index > OECD Groups > Housing > Total
+146,CPGRLH01,Consumer Price Index > OECD Groups > Services less housing > Total
+147,CPSDCTGY,Consumer Price Index > Statistical discrepancy > Contribution > Annual inflation
+148,CP070200,Consumer Price Index > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment > Total
+149,CSCICP04,Consumer opinion surveys > Confidence indicators > Composite indicators > Normalised indicator

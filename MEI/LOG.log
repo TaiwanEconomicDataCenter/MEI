@@ -1,66 +1,66 @@
-﻿2023-06-02 03:36:36 PM excel_suffix: mysql
+﻿2023-07-21 08:59:45 AM excel_suffix: mysql
 
-2023-06-02 03:36:36 PM data_processing: False
+2023-07-21 08:59:45 AM data_processing: False
 
-2023-06-02 03:36:36 PM find_unknown: False
+2023-07-21 08:59:45 AM find_unknown: False
 
-2023-06-02 03:36:36 PM dealing_start_year: 1947
+2023-07-21 08:59:45 AM dealing_start_year: 1947
 
-2023-06-02 03:37:29 PM Process: File Merging
+2023-07-21 09:00:35 AM Process: File Merging
 
-2023-06-02 03:37:29 PM Reading main key: MEI_keyNEW.xlsx, Time: 52 s
+2023-07-21 09:00:35 AM Reading main key: MEI_keyNEW.xlsx, Time: 49 s
 
-2023-06-02 03:37:30 PM Reading main database: MEI_databaseNEW.xlsx, Time: 53 s
+2023-07-21 09:00:36 AM Reading main database: MEI_databaseNEW.xlsx, Time: 50 s
 
-2023-06-02 03:37:30 PM Merging File, Time: 53 s
+2023-07-21 09:00:36 AM Merging File, Time: 50 s
 
-2023-06-02 03:37:48 PM Setting files, Time: 71 s
+2023-07-21 09:00:53 AM Setting files, Time: 67 s
 
-2023-06-02 03:37:48 PM Concating file: MEI_key?, Time: 71 s
+2023-07-21 09:00:53 AM Concating file: MEI_key?, Time: 67 s
 
-2023-06-02 03:37:48 PM Concating file: MEI_database?, Time: 71 s
+2023-07-21 09:00:53 AM Concating file: MEI_database?, Time: 67 s
 
-2023-06-02 03:37:48 PM Time: 71 s
+2023-07-21 09:00:53 AM Time: 67 s
 
-2023-06-02 03:39:24 PM Setting new files, Time: 167 s
+2023-07-21 09:02:19 AM Setting new files, Time: 154 s
 
-2023-06-02 03:55:36 PM Concating new files: MEI_database, Time: 1139 s
+2023-07-21 09:43:45 AM Concating new files: MEI_database, Time: 2639 s
 
-2023-06-02 03:55:44 PM Process: File Updating
+2023-07-21 09:51:10 AM Process: File Updating
 
-2023-06-02 03:55:44 PM Reading main key: MEI_keyUP.xlsx, Time: 1147 s
+2023-07-21 09:51:10 AM Reading main key: MEI_keyUP.xlsx, Time: 3084 s
 
-2023-06-02 03:56:07 PM Reading main database: MEI_database_1UP, Time: 1170 s
+2023-07-21 09:51:33 AM Reading main database: MEI_database_1UP, Time: 3107 s
 
-2023-06-02 03:56:29 PM Reading main database: MEI_database_2UP, Time: 1192 s
+2023-07-21 09:51:54 AM Reading main database: MEI_database_2UP, Time: 3128 s
 
-2023-06-02 03:56:53 PM Reading main database: MEI_database_3UP, Time: 1216 s
+2023-07-21 09:52:18 AM Reading main database: MEI_database_3UP, Time: 3153 s
 
-2023-06-02 03:57:17 PM Reading main database: MEI_database_4UP, Time: 1240 s
+2023-07-21 09:52:44 AM Reading main database: MEI_database_4UP, Time: 3179 s
 
-2023-06-02 03:57:37 PM Reading main database: MEI_database_5UP, Time: 1260 s
+2023-07-21 09:53:04 AM Reading main database: MEI_database_5UP, Time: 3199 s
 
-2023-06-02 03:58:15 PM Reading main database: MEI_database_6UP, Time: 1298 s
+2023-07-21 09:53:44 AM Reading main database: MEI_database_6UP, Time: 3239 s
 
-2023-06-02 03:58:52 PM Reading main database: MEI_database_7UP, Time: 1335 s
+2023-07-21 09:54:24 AM Reading main database: MEI_database_7UP, Time: 3278 s
 
-2023-06-02 03:59:20 PM Updating file: 0 s
+2023-07-21 09:54:51 AM Updating file: 0 s
 
-2023-06-02 06:28:23 PM updated: 20401
+2023-07-21 12:25:22 PM updated: 0
 
-2023-06-02 06:28:23 PM Time: 8943 s
+2023-07-21 12:25:22 PM Time: 9031 s
 
-2023-06-07 09:06:36 AM        databank             name   db_table  db_code  ...     snl           book                    form_e    form_c
-0           MEI  A111B6BD20CCU.a  DB_A_0001  data001  ...       1  United States  Balance of payments BPM6       NaN
-1           MEI  A111B6BD20NCU.a  DB_A_0001  data002  ...       2  United States  Balance of payments BPM6       NaN
-2           MEI  A111B6BLPICCS.a  DB_A_0001  data003  ...       3  United States  Balance of payments BPM6       NaN
-3           MEI  A111B6BLPICCU.a  DB_A_0001  data004  ...       4  United States  Balance of payments BPM6       NaN
-4           MEI  A111B6BLPINCS.a  DB_A_0001  data005  ...       5  United States  Balance of payments BPM6       NaN
-...         ...              ...        ...      ...  ...     ...            ...                       ...       ...
-106829      MEI  Q968SRTO01GYS.q  DB_Q_0204  data001  ...  106830        Romania                     Sales       NaN
-106830      MEI  Q968SRTO01IOB.q  DB_Q_0204  data002  ...  106831        Romania                     Sales  2015=100
-106831      MEI  Q968SRTO01IOS.q  DB_Q_0204  data003  ...  106832        Romania                     Sales  2015=100
-106832      MEI  Q968SRTO02IOB.q  DB_Q_0204  data004  ...  106833        Romania                     Sales  2015=100
-106833      MEI  Q968SRTO02IOS.q  DB_Q_0204  data005  ...  106834        Romania                     Sales  2015=100
+2023-07-21 01:19:46 PM        databank             name   db_table  db_code                                             desc_e  ... name_ord     snl           book                    form_e    form_c
+0           MEI  A111B6BD20CCU.a  DB_A_0001  data001  Balance of payments BPM6 > Current account Bal...  ...      USA       1  United States  Balance of payments BPM6       NaN
+1           MEI  A111B6BD20NCU.a  DB_A_0001  data002  Balance of payments BPM6 > Current account Bal...  ...      USA       2  United States  Balance of payments BPM6       NaN
+2           MEI  A111B6BLPICCS.a  DB_A_0001  data003  Balance of payments BPM6 > Current account Bal...  ...      USA       3  United States  Balance of payments BPM6       NaN
+3           MEI  A111B6BLPICCU.a  DB_A_0001  data004  Balance of payments BPM6 > Current account Bal...  ...      USA       4  United States  Balance of payments BPM6       NaN
+4           MEI  A111B6BLPINCS.a  DB_A_0001  data005  Balance of payments BPM6 > Current account Bal...  ...      USA       5  United States  Balance of payments BPM6       NaN
+...         ...              ...        ...      ...                                                ...  ...      ...     ...            ...                       ...       ...
+106842      MEI  Q968SRTO01GYS.q  DB_Q_0204  data006  Sales > Retail trade > Total retail trade > Vo...  ...      ROU  106843        Romania                     Sales       NaN
+106843      MEI  Q968SRTO01IOB.q  DB_Q_0204  data007  Sales > Retail trade > Total retail trade > Vo...  ...      ROU  106844        Romania                     Sales  2015=100
+106844      MEI  Q968SRTO01IOS.q  DB_Q_0204  data008  Sales > Retail trade > Total retail trade > Vo...  ...      ROU  106845        Romania                     Sales  2015=100
+106845      MEI  Q968SRTO02IOB.q  DB_Q_0204  data009  Sales > Retail trade > Total retail trade > Va...  ...      ROU  106846        Romania                     Sales  2015=100
+106846      MEI  Q968SRTO02IOS.q  DB_Q_0204  data010  Sales > Retail trade > Total retail trade > Va...  ...      ROU  106847        Romania                     Sales  2015=100
 
-[106834 rows x 15 columns]
+[106847 rows x 15 columns]
