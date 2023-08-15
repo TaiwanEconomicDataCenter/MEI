@@ -21,11 +21,16 @@
 19,CPALTT01,Consumer Price Index > All items > Total > Total
 20,PRINTO01,Production > Industry > Total industry > Total industry excluding construction
 21,MANMM101,Monetary aggregates and their components > Narrow money and components > M1 and components > M1
-22,CSESFT02,Consumer opinion surveys > Economic Situation > Future tendency > National indicator
-23,BSEMFT02,Business tendency surveys (manufacturing) > Employment > Future Tendency > National indicator
-24,BSCICP02,Business tendency surveys (manufacturing) > Confidence indicators > Composite indicators > National indicator
-25,PIEATI01,Producer Prices Index > Economic activities > Industrial activities > Total
-26,CP010000,Consumer Price Index > Food and non-Alcoholic beverages (COICOP 01) > Total > Total
-27,CSCICP04,Consumer opinion surveys > Confidence indicators > Composite indicators > Normalised indicator
-28,SLRTCR03,Sales > Retail trade > Car registration > Passenger cars
-29,IRLTLT01,Interest Rates > Long-term government bond yields > 10-year > Main (including benchmark)
+22,LOLITOAA,Leading Indicators OECD > Leading indicators > CLI > Amplitude adjusted
+23,LOLITONO,Leading Indicators OECD > Leading indicators > CLI > Normalised
+24,LOLITOTR,Leading Indicators OECD > Leading indicators > CLI > Trend restored
+25,LORSGPNO,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Normalised
+26,LORSGPRT,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Ratio to trend
+27,CSESFT02,Consumer opinion surveys > Economic Situation > Future tendency > National indicator
+28,BSEMFT02,Business tendency surveys (manufacturing) > Employment > Future Tendency > National indicator
+29,BSCICP02,Business tendency surveys (manufacturing) > Confidence indicators > Composite indicators > National indicator
+30,PIEATI01,Producer Prices Index > Economic activities > Industrial activities > Total
+31,CP010000,Consumer Price Index > Food and non-Alcoholic beverages (COICOP 01) > Total > Total
+32,CSCICP04,Consumer opinion surveys > Confidence indicators > Composite indicators > Normalised indicator
+33,SLRTCR03,Sales > Retail trade > Car registration > Passenger cars
+34,IRLTLT01,Interest Rates > Long-term government bond yields > 10-year > Main (including benchmark)

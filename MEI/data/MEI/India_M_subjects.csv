@@ -26,20 +26,35 @@
 24,PRMNCG03,Production > Manufacturing > Consumer goods > Non durable goods
 25,MANMM101,Monetary aggregates and their components > Narrow money and components > M1 and components > M1
 26,PRMITO01,Production > Mining > Total mining > Total
-27,IR3TIB01,Interest Rates > 3-month or 90-day rates and yields > Interbank rates > Total
-28,IRLTLT01,Interest Rates > Long-term government bond yields > 10-year > Main (including benchmark)
-29,SLRTCR03,Sales > Retail trade > Car registration > Passenger cars
-30,CPALTT02,Consumer Price Index > All items > Total > Special COICOP series
-31,CP020000,"Consumer Price Index > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total > Total"
-32,CP030000,Consumer Price Index > Clothing and footwear (COICOP 03) > Total > Total
-33,CP120000,Consumer Price Index > Miscellaneous goods and services (COICOP 12) > Total > Total
-34,CP100000,Consumer Price Index > Education (COICOP 10) > Total > Total
-35,CP110000,Consumer Price Index > Restaurants and hotels (COICOP 11) > Total > Total
-36,CP090000,Consumer Price Index > Recreation and culture  (COICOP 09) > Total > Total
-37,CP010000,Consumer Price Index > Food and non-Alcoholic beverages (COICOP 01) > Total > Total
-38,CP050000,"Consumer Price Index > Furnishings, household equip. and routine household maintenance (COICOP 05) > Total > Total"
-39,CP070000,Consumer Price Index > Transport (COICOP 07) > Total > Total
-40,CP040000,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Total > Total"
-41,CP080000,Consumer Price Index > Communication (COICOP 08) > Total > Total
-42,CP060000,Consumer Price Index > Health (COICOP 06) > Total > Total
-43,CSCICP04,Consumer opinion surveys > Confidence indicators > Composite indicators > Normalised indicator
+27,LOCOMANO,Leading Indicators OECD > Component series > Monetary Aggregates > Normalised
+28,LOCOMAOR,Leading Indicators OECD > Component series > Monetary Aggregates > Original series
+29,LOCOPGNO,Leading Indicators OECD > Component series > Production - Goods > Normalised
+30,LOCOPMNO,Leading Indicators OECD > Component series > Production - Non metallic > Normalised
+31,LOCOSPNO,Leading Indicators OECD > Component series > Share prices > Normalised
+32,LOCOSTNO,Leading Indicators OECD > Component series > Short-term interest rate > Normalised
+33,LOCOSTOR,Leading Indicators OECD > Component series > Short-term interest rate > Original series
+34,LOCOVRNO,Leading Indicators OECD > Component series > Car registration - sales > Normalised
+35,LOCOVROR,Leading Indicators OECD > Component series > Car registration - sales > Original series
+36,LOLITOAA,Leading Indicators OECD > Leading indicators > CLI > Amplitude adjusted
+37,LOLITONO,Leading Indicators OECD > Leading indicators > CLI > Normalised
+38,LOLITOTR,Leading Indicators OECD > Leading indicators > CLI > Trend restored
+39,LORSGPNO,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Normalised
+40,LORSGPRT,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Ratio to trend
+41,LORSGPTD,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Trend
+42,IR3TIB01,Interest Rates > 3-month or 90-day rates and yields > Interbank rates > Total
+43,IRLTLT01,Interest Rates > Long-term government bond yields > 10-year > Main (including benchmark)
+44,SLRTCR03,Sales > Retail trade > Car registration > Passenger cars
+45,CPALTT02,Consumer Price Index > All items > Total > Special COICOP series
+46,CP020000,"Consumer Price Index > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total > Total"
+47,CP030000,Consumer Price Index > Clothing and footwear (COICOP 03) > Total > Total
+48,CP120000,Consumer Price Index > Miscellaneous goods and services (COICOP 12) > Total > Total
+49,CP100000,Consumer Price Index > Education (COICOP 10) > Total > Total
+50,CP110000,Consumer Price Index > Restaurants and hotels (COICOP 11) > Total > Total
+51,CP090000,Consumer Price Index > Recreation and culture  (COICOP 09) > Total > Total
+52,CP010000,Consumer Price Index > Food and non-Alcoholic beverages (COICOP 01) > Total > Total
+53,CP050000,"Consumer Price Index > Furnishings, household equip. and routine household maintenance (COICOP 05) > Total > Total"
+54,CP070000,Consumer Price Index > Transport (COICOP 07) > Total > Total
+55,CP040000,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Total > Total"
+56,CP080000,Consumer Price Index > Communication (COICOP 08) > Total > Total
+57,CP060000,Consumer Price Index > Health (COICOP 06) > Total > Total
+58,CSCICP04,Consumer opinion surveys > Confidence indicators > Composite indicators > Normalised indicator

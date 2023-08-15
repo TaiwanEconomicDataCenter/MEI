@@ -40,49 +40,67 @@
 38,PRMNCG03,Production > Manufacturing > Consumer goods > Non durable goods
 39,MANMM101,Monetary aggregates and their components > Narrow money and components > M1 and components > M1
 40,PRMITO01,Production > Mining > Total mining > Total
-41,LRAC24TT,Labour Force Survey - quarterly rates > Activity rate > Aged 15-24 > All persons
-42,LRACTTTT,Labour Force Survey - quarterly rates > Activity rate > Aged 15 and over > All persons
-43,LREM24TT,Labour Force Survey - quarterly rates > Employment rate > Aged 15-24 > All persons
-44,LREMTTTT,Labour Force Survey - quarterly rates > Employment rate > Aged 15 and over > All persons
-45,LRIN24TT,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15-24 > All persons
-46,LRINTTTT,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15 and over > All persons
-47,LRUN24TT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-24 > All persons
-48,LRUNTTTT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15 and over > All persons
-49,LFAC24TT,Labour Force Survey - quarterly levels > Active population > Aged 15-24 > All persons
-50,LFACTTTT,Labour Force Survey - quarterly levels > Active population > Aged 15 and over > All persons
-51,LFEM24TT,Labour Force Survey - quarterly levels > Employed population > Aged 15-24 > All persons
-52,LFEMTTTT,Labour Force Survey - quarterly levels > Employed population > Aged 15 and over > All persons
-53,LFIN24TT,Labour Force Survey - quarterly levels > Inactive population > Aged 15-24 > All persons
-54,LFINTTTT,Labour Force Survey - quarterly levels > Inactive population > Aged 15 and over > All persons
-55,LFUN24TT,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-24 > Total
-56,LFUNTTTT,Labour Force Survey - quarterly levels > Unemployed population > Aged 15 and over > All persons
-57,LFWA24TT,Labour Force Survey - quarterly levels > Working age population > Aged 15-24 > All persons
-58,LFWATTTT,Labour Force Survey - quarterly levels > Working age population > Aged 15 and over > All persons
-59,BSBUFT02,Business tendency surveys (manufacturing) > Business situation > Future tendency > National indicator
-60,BSBUCT02,Business tendency surveys (manufacturing) > Business situation > Current > National indicator
-61,BVDEFT02,Business tendency surveys (services) > Demand evolution > Future tendency > National indicator
-62,BREMFT02,Business tendency surveys (retail trade) > Employment > Future tendency > National indicator
-63,BRCICP02,Business tendency surveys (retail trade) > Confidence indicators > Composite indicators > National indicator
-64,BRBUFT02,Business tendency surveys (retail trade) > Business situation - Activity > Future tendency > National indicator
-65,BRBUTE02,Business tendency surveys (retail trade) > Business situation - Activity > Tendency > National indicator
-66,BVBUTE02,Business tendency surveys (services) > Business situation - Activity > Tendency > National indicator
-67,BVEMFT02,Business tendency surveys (services) > Employment > Future tendency > National indicator
-68,BCBUTE02,Business tendency surveys (construction) > Business situation - Activity > Tendency > National indicator
-69,BCCICP02,Business tendency surveys (construction) > Confidence indicators > Composite indicators > National indicator
-70,BVCICP02,Business tendency surveys (services) > Confidence Indicators > Composite Indicators > National indicator
-71,CP010000,Consumer Price Index > Food and non-Alcoholic beverages (COICOP 01) > Total > Total
-72,CP120000,Consumer Price Index > Miscellaneous goods and services (COICOP 12) > Total > Total
-73,CP110000,Consumer Price Index > Restaurants and hotels (COICOP 11) > Total > Total
-74,CP050000,"Consumer Price Index > Furnishings, household equip. and routine household maintenance (COICOP 05) > Total > Total"
-75,CP060000,Consumer Price Index > Health (COICOP 06) > Total > Total
-76,CP020000,"Consumer Price Index > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total > Total"
-77,CP030000,Consumer Price Index > Clothing and footwear (COICOP 03) > Total > Total
-78,CP040000,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Total > Total"
-79,CP100000,Consumer Price Index > Education (COICOP 10) > Total > Total
-80,CP090000,Consumer Price Index > Recreation and culture  (COICOP 09) > Total > Total
-81,CP070000,Consumer Price Index > Transport (COICOP 07) > Total > Total
-82,CP080000,Consumer Price Index > Communication (COICOP 08) > Total > Total
-83,CSCICP04,Consumer opinion surveys > Confidence indicators > Composite indicators > Normalised indicator
-84,SLRTCR03,Sales > Retail trade > Car registration > Passenger cars
-85,IRLTCT01,Interest Rates > Long-term government bond yields > Combined terms > Total
-86,IRLTLT01,Interest Rates > Long-term government bond yields > 10-year > Main (including benchmark)
+41,LOCOBONO,Leading Indicators OECD > Component series > BTS - Order books > Normalised
+42,LOCOBOOR,Leading Indicators OECD > Component series > BTS - Order books > Original series
+43,LOCOBPNO,Leading Indicators OECD > Component series > BTS - Production > Normalised
+44,LOCOBPOR,Leading Indicators OECD > Component series > BTS - Production > Original series
+45,LOCONTNO,Leading Indicators OECD > Component series > Net trade > Normalised
+46,LOCONTOR,Leading Indicators OECD > Component series > Net trade > Original series
+47,LOCOSPNO,Leading Indicators OECD > Component series > Share prices > Normalised
+48,LOCOSPOR,Leading Indicators OECD > Component series > Share prices > Original series
+49,LOCOSTNO,Leading Indicators OECD > Component series > Short-term interest rate > Normalised
+50,LOCOSTOR,Leading Indicators OECD > Component series > Short-term interest rate > Original series
+51,LOLITOAA,Leading Indicators OECD > Leading indicators > CLI > Amplitude adjusted
+52,LOLITONO,Leading Indicators OECD > Leading indicators > CLI > Normalised
+53,LOLITOTR,Leading Indicators OECD > Leading indicators > CLI > Trend restored
+54,LORSGPNO,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Normalised
+55,LORSGPRT,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Ratio to trend
+56,LORSGPTD,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Trend
+57,LRAC24TT,Labour Force Survey - quarterly rates > Activity rate > Aged 15-24 > All persons
+58,LRACTTTT,Labour Force Survey - quarterly rates > Activity rate > Aged 15 and over > All persons
+59,LREM24TT,Labour Force Survey - quarterly rates > Employment rate > Aged 15-24 > All persons
+60,LREMTTTT,Labour Force Survey - quarterly rates > Employment rate > Aged 15 and over > All persons
+61,LRIN24TT,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15-24 > All persons
+62,LRINTTTT,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15 and over > All persons
+63,LRUN24TT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-24 > All persons
+64,LRUNTTTT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15 and over > All persons
+65,LFAC24TT,Labour Force Survey - quarterly levels > Active population > Aged 15-24 > All persons
+66,LFACTTTT,Labour Force Survey - quarterly levels > Active population > Aged 15 and over > All persons
+67,LFEM24TT,Labour Force Survey - quarterly levels > Employed population > Aged 15-24 > All persons
+68,LFEMTTTT,Labour Force Survey - quarterly levels > Employed population > Aged 15 and over > All persons
+69,LFIN24TT,Labour Force Survey - quarterly levels > Inactive population > Aged 15-24 > All persons
+70,LFINTTTT,Labour Force Survey - quarterly levels > Inactive population > Aged 15 and over > All persons
+71,LFUN24TT,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-24 > Total
+72,LFUNTTTT,Labour Force Survey - quarterly levels > Unemployed population > Aged 15 and over > All persons
+73,LFWA24TT,Labour Force Survey - quarterly levels > Working age population > Aged 15-24 > All persons
+74,LFWATTTT,Labour Force Survey - quarterly levels > Working age population > Aged 15 and over > All persons
+75,BSBUFT02,Business tendency surveys (manufacturing) > Business situation > Future tendency > National indicator
+76,BSBUCT02,Business tendency surveys (manufacturing) > Business situation > Current > National indicator
+77,BVDEFT02,Business tendency surveys (services) > Demand evolution > Future tendency > National indicator
+78,BREMFT02,Business tendency surveys (retail trade) > Employment > Future tendency > National indicator
+79,BRCICP02,Business tendency surveys (retail trade) > Confidence indicators > Composite indicators > National indicator
+80,BRBUFT02,Business tendency surveys (retail trade) > Business situation - Activity > Future tendency > National indicator
+81,BRBUTE02,Business tendency surveys (retail trade) > Business situation - Activity > Tendency > National indicator
+82,BVBUTE02,Business tendency surveys (services) > Business situation - Activity > Tendency > National indicator
+83,BVEMFT02,Business tendency surveys (services) > Employment > Future tendency > National indicator
+84,BCBUTE02,Business tendency surveys (construction) > Business situation - Activity > Tendency > National indicator
+85,BCCICP02,Business tendency surveys (construction) > Confidence indicators > Composite indicators > National indicator
+86,BVCICP02,Business tendency surveys (services) > Confidence Indicators > Composite Indicators > National indicator
+87,LOCOS3NO,Leading Indicators OECD > Component series > Services - Demand Expectation > Normalised
+88,LOCOS3OR,Leading Indicators OECD > Component series > Services - Demand Expectation > Original series
+89,CP010000,Consumer Price Index > Food and non-Alcoholic beverages (COICOP 01) > Total > Total
+90,CP120000,Consumer Price Index > Miscellaneous goods and services (COICOP 12) > Total > Total
+91,CP110000,Consumer Price Index > Restaurants and hotels (COICOP 11) > Total > Total
+92,CP050000,"Consumer Price Index > Furnishings, household equip. and routine household maintenance (COICOP 05) > Total > Total"
+93,CP060000,Consumer Price Index > Health (COICOP 06) > Total > Total
+94,CP020000,"Consumer Price Index > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total > Total"
+95,CP030000,Consumer Price Index > Clothing and footwear (COICOP 03) > Total > Total
+96,CP040000,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Total > Total"
+97,CP100000,Consumer Price Index > Education (COICOP 10) > Total > Total
+98,CP090000,Consumer Price Index > Recreation and culture  (COICOP 09) > Total > Total
+99,CP070000,Consumer Price Index > Transport (COICOP 07) > Total > Total
+100,CP080000,Consumer Price Index > Communication (COICOP 08) > Total > Total
+101,CSCICP04,Consumer opinion surveys > Confidence indicators > Composite indicators > Normalised indicator
+102,SLRTCR03,Sales > Retail trade > Car registration > Passenger cars
+103,IRLTCT01,Interest Rates > Long-term government bond yields > Combined terms > Total
+104,IRLTLT01,Interest Rates > Long-term government bond yields > 10-year > Main (including benchmark)

@@ -17,17 +17,34 @@
 15,CCUSMA02,Currency Conversions > US$ exchange rate > Average of daily rates > National currency:USD
 16,CPALTT01,Consumer Price Index > All items > Total > Total
 17,MANMM101,Monetary aggregates and their components > Narrow money and components > M1 and components > M1
-18,CSCICP02,Consumer opinion surveys > Confidence indicators > Composite indicators > National indicator
-19,CSCICP04,Consumer opinion surveys > Confidence indicators > Composite indicators > Normalised indicator
-20,CP060000,Consumer Price Index > Health (COICOP 06) > Total > Total
-21,CP010000,Consumer Price Index > Food and non-Alcoholic beverages (COICOP 01) > Total > Total
-22,CP030000,Consumer Price Index > Clothing and footwear (COICOP 03) > Total > Total
-23,CP040000,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Total > Total"
-24,CP050000,"Consumer Price Index > Furnishings, household equip. and routine household maintenance (COICOP 05) > Total > Total"
-25,CP070000,Consumer Price Index > Transport (COICOP 07) > Total > Total
-26,CP080000,Consumer Price Index > Communication (COICOP 08) > Total > Total
-27,CP090000,Consumer Price Index > Recreation and culture  (COICOP 09) > Total > Total
-28,CP100000,Consumer Price Index > Education (COICOP 10) > Total > Total
-29,CP110000,Consumer Price Index > Restaurants and hotels (COICOP 11) > Total > Total
-30,CP120000,Consumer Price Index > Miscellaneous goods and services (COICOP 12) > Total > Total
-31,IRLTLT01,Interest Rates > Long-term government bond yields > 10-year > Main (including benchmark)
+18,LOCOCINO,Leading Indicators OECD > Component series > CS - Confidence indicator > Normalised
+19,LOCOCIOR,Leading Indicators OECD > Component series > CS - Confidence indicator > Original series
+20,LOCOEXNO,Leading Indicators OECD > Component series > Currency conversion > Normalised
+21,LOCOEXOR,Leading Indicators OECD > Component series > Currency conversion > Original series
+22,LOCOPMNO,Leading Indicators OECD > Component series > Production - Non metallic > Normalised
+23,LOCOPPNO,Leading Indicators OECD > Component series > Producer prices > Normalised
+24,LOCOSPNO,Leading Indicators OECD > Component series > Share prices > Normalised
+25,LOCOSTNO,Leading Indicators OECD > Component series > Short-term interest rate > Normalised
+26,LOCOSTOR,Leading Indicators OECD > Component series > Short-term interest rate > Original series
+27,LOCOTANO,Leading Indicators OECD > Component series > Tourism activity > Normalised
+28,LOCOTAOR,Leading Indicators OECD > Component series > Tourism activity > Original series
+29,LOLITOAA,Leading Indicators OECD > Leading indicators > CLI > Amplitude adjusted
+30,LOLITONO,Leading Indicators OECD > Leading indicators > CLI > Normalised
+31,LOLITOTR,Leading Indicators OECD > Leading indicators > CLI > Trend restored
+32,LORSGPNO,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Normalised
+33,LORSGPRT,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Ratio to trend
+34,LORSGPTD,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Trend
+35,CSCICP02,Consumer opinion surveys > Confidence indicators > Composite indicators > National indicator
+36,CSCICP04,Consumer opinion surveys > Confidence indicators > Composite indicators > Normalised indicator
+37,CP060000,Consumer Price Index > Health (COICOP 06) > Total > Total
+38,CP010000,Consumer Price Index > Food and non-Alcoholic beverages (COICOP 01) > Total > Total
+39,CP030000,Consumer Price Index > Clothing and footwear (COICOP 03) > Total > Total
+40,CP040000,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Total > Total"
+41,CP050000,"Consumer Price Index > Furnishings, household equip. and routine household maintenance (COICOP 05) > Total > Total"
+42,CP070000,Consumer Price Index > Transport (COICOP 07) > Total > Total
+43,CP080000,Consumer Price Index > Communication (COICOP 08) > Total > Total
+44,CP090000,Consumer Price Index > Recreation and culture  (COICOP 09) > Total > Total
+45,CP100000,Consumer Price Index > Education (COICOP 10) > Total > Total
+46,CP110000,Consumer Price Index > Restaurants and hotels (COICOP 11) > Total > Total
+47,CP120000,Consumer Price Index > Miscellaneous goods and services (COICOP 12) > Total > Total
+48,IRLTLT01,Interest Rates > Long-term government bond yields > 10-year > Main (including benchmark)

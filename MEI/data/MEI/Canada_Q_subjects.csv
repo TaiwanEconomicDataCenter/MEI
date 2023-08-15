@@ -5,55 +5,55 @@
 3,CCRETT02,Currency Conversions > Real effective exchange rates > Overall Economy > ULC
 4,XTIMVA01,International Trade > Imports > Value (goods) > Total
 5,PRMNTO01,Production > Manufacturing > Total manufacturing > Total manufacturing
-6,SLRTTO01,Sales > Retail trade > Total retail trade > Volume
-7,CPGRLE01,Consumer Price Index > OECD Groups > All items non-food non-energy > Total
-8,LCULMN01,Labour Compensation > Unit Labour Cost > Manufacturing > Total
-9,MABMM301,Monetary aggregates and their components > Broad money and components > M3 > M3
-10,IRSTCI01,Interest Rates > Immediate rates (< 24 hrs) > Call money/interbank rate > Total
-11,LCEAMN06,Labour Compensation > Earnings > Manufacturing > National accounts: total
-12,PRCNTO01,Production > Construction > Total construction > Total
-13,CPGREN01,"Consumer Price Index > OECD Groups > Energy (Fuel, electricity & gasoline) > Total"
-14,STMNIS01,Short term statistics > Stocks - Manufacturing > Inventories to shipments > Total
-15,IR3TIB01,Interest Rates > 3-month or 90-day rates and yields > Interbank rates > Total
-16,BSCICP02,Business tendency surveys (manufacturing) > Confidence indicators > Composite indicators > National indicator
-17,XTEXVA01,International Trade > Exports > Value (goods) > Total
-18,CCUSSP01,"Currency Conversions > US$ exchange rate > Spot, end of period > USD:national currency"
-19,CCRETT01,Currency Conversions > Real effective exchange rates > Overall Economy > CPI
-20,IRSTPI01,Interest Rates > Immediate rates (< 24 hrs) > Prime rates > Total
-21,SPASTT01,Share Prices > All shares/broad > Total > Total
-22,HOHWMN02,Hours > Hours worked > Manufacturing > Weekly
-23,WSCNDW01,Work Started > Construction > Dwellings / Residential buildings > Total
-24,CPALCY01,Consumer Price Index > All items > All items: City > Total
-25,SLRTTO02,Sales > Retail trade > Total retail trade > Value
-26,CCUSMA02,Currency Conversions > US$ exchange rate > Average of daily rates > National currency:USD
-27,IR3TCP01,Interest Rates > 3-month or 90-day rates and yields > Commercial/corporate paper > Total
-28,ODCNPI03,Orders > Construction > Permits issued > Dwellings / Residential buildings
-29,IRLTLT01,Interest Rates > Long-term government bond yields > 10-year > Main (including benchmark)
-30,LCEAMN01,Labour Compensation > Earnings > Manufacturing > Hourly
-31,CPALTT01,Consumer Price Index > All items > Total > Total
-32,PRINTO01,Production > Industry > Total industry > Total industry excluding construction
-33,MANMM101,Monetary aggregates and their components > Narrow money and components > M1 and components > M1
-34,PIEAFD01,Producer Prices Index > Economic activities > Manufacture of food products > Total
-35,PIEAMP01,Producer Prices Index > Economic activities > Manufacturing > Total
-36,PIEAMP02,Producer Prices Index > Economic activities > Manufacturing > Domestic
-37,NAEXKP01,National Accounts > GDP by Expenditure > Constant Prices > Gross Domestic Product - Total
-38,NAEXCP06,National Accounts > GDP by Expenditure > Current Prices > Exports of Goods and Services
-39,NAEXCP04,National Accounts > GDP by Expenditure > Current Prices > Gross Fixed Capital Formation
-40,NAEXCP07,National Accounts > GDP by Expenditure > Current Prices > less: Imports of Goods and Services
-41,NAEXCP01,National Accounts > GDP by Expenditure > Current Prices > Gross Domestic Product - Total
-42,NAEXCP05,National Accounts > GDP by Expenditure > Current Prices > Changes in inventories and net acquisition of valuables
-43,NAEXCP03,National Accounts > GDP by Expenditure > Current Prices > Government Final Consumption Expenditure
-44,NAGIGP01,National Accounts > National Accounts Deflators > Gross Domestic Product > GDP Deflator
-45,NAEXCP02,National Accounts > GDP by Expenditure > Current Prices > Private Final Consumption Expenditure
-46,NAEXKP03,National Accounts > GDP by Expenditure > Constant Prices > Government Final Consumption Expenditure
-47,NAEXKP06,National Accounts > GDP by Expenditure > Constant Prices > Exports of Goods and Services
-48,NAEXKP07,National Accounts > GDP by Expenditure > Constant Prices > Less: Imports of Goods and Services
-49,NAEXKP02,National Accounts > GDP by Expenditure > Constant Prices > Private Final Consumption Expenditure
-50,NAEXKP04,National Accounts > GDP by Expenditure > Constant Prices > Gross Fixed Capital Formation
-51,NAEXKP05,National Accounts > GDP by Expenditure > Constant Prices > Changes in inventories and net acquisition of valuables
-52,ULQECU01,Unit Labour Costs > Early Estimate of Quarterly ULC indicators > Labour Compensation per Unit of Labour Input > Total
-53,ULQELP01,Unit Labour Costs > Early Estimate of Quarterly ULC indicators > Labour Productivity > Total
-54,ULQEUL01,Unit Labour Costs > Early Estimate of Quarterly ULC indicators > Unit Labour Costs > Total
+6,CPGRLE01,Consumer Price Index > OECD Groups > All items non-food non-energy > Total
+7,LCULMN01,Labour Compensation > Unit Labour Cost > Manufacturing > Total
+8,MABMM301,Monetary aggregates and their components > Broad money and components > M3 > M3
+9,IRSTCI01,Interest Rates > Immediate rates (< 24 hrs) > Call money/interbank rate > Total
+10,LCEAMN06,Labour Compensation > Earnings > Manufacturing > National accounts: total
+11,PRCNTO01,Production > Construction > Total construction > Total
+12,CPGREN01,"Consumer Price Index > OECD Groups > Energy (Fuel, electricity & gasoline) > Total"
+13,STMNIS01,Short term statistics > Stocks - Manufacturing > Inventories to shipments > Total
+14,IR3TIB01,Interest Rates > 3-month or 90-day rates and yields > Interbank rates > Total
+15,BSCICP02,Business tendency surveys (manufacturing) > Confidence indicators > Composite indicators > National indicator
+16,XTEXVA01,International Trade > Exports > Value (goods) > Total
+17,CCUSSP01,"Currency Conversions > US$ exchange rate > Spot, end of period > USD:national currency"
+18,CCRETT01,Currency Conversions > Real effective exchange rates > Overall Economy > CPI
+19,IRSTPI01,Interest Rates > Immediate rates (< 24 hrs) > Prime rates > Total
+20,SPASTT01,Share Prices > All shares/broad > Total > Total
+21,HOHWMN02,Hours > Hours worked > Manufacturing > Weekly
+22,WSCNDW01,Work Started > Construction > Dwellings / Residential buildings > Total
+23,CPALCY01,Consumer Price Index > All items > All items: City > Total
+24,SLRTTO02,Sales > Retail trade > Total retail trade > Value
+25,CCUSMA02,Currency Conversions > US$ exchange rate > Average of daily rates > National currency:USD
+26,IR3TCP01,Interest Rates > 3-month or 90-day rates and yields > Commercial/corporate paper > Total
+27,ODCNPI03,Orders > Construction > Permits issued > Dwellings / Residential buildings
+28,IRLTLT01,Interest Rates > Long-term government bond yields > 10-year > Main (including benchmark)
+29,LCEAMN01,Labour Compensation > Earnings > Manufacturing > Hourly
+30,CPALTT01,Consumer Price Index > All items > Total > Total
+31,PRINTO01,Production > Industry > Total industry > Total industry excluding construction
+32,MANMM101,Monetary aggregates and their components > Narrow money and components > M1 and components > M1
+33,PIEAFD01,Producer Prices Index > Economic activities > Manufacture of food products > Total
+34,PIEAMP01,Producer Prices Index > Economic activities > Manufacturing > Total
+35,PIEAMP02,Producer Prices Index > Economic activities > Manufacturing > Domestic
+36,NAEXKP01,National Accounts > GDP by Expenditure > Constant Prices > Gross Domestic Product - Total
+37,NAEXCP06,National Accounts > GDP by Expenditure > Current Prices > Exports of Goods and Services
+38,NAEXCP04,National Accounts > GDP by Expenditure > Current Prices > Gross Fixed Capital Formation
+39,NAEXCP07,National Accounts > GDP by Expenditure > Current Prices > less: Imports of Goods and Services
+40,NAEXCP01,National Accounts > GDP by Expenditure > Current Prices > Gross Domestic Product - Total
+41,NAEXCP05,National Accounts > GDP by Expenditure > Current Prices > Changes in inventories and net acquisition of valuables
+42,NAEXCP03,National Accounts > GDP by Expenditure > Current Prices > Government Final Consumption Expenditure
+43,NAGIGP01,National Accounts > National Accounts Deflators > Gross Domestic Product > GDP Deflator
+44,NAEXCP02,National Accounts > GDP by Expenditure > Current Prices > Private Final Consumption Expenditure
+45,NAEXKP03,National Accounts > GDP by Expenditure > Constant Prices > Government Final Consumption Expenditure
+46,NAEXKP06,National Accounts > GDP by Expenditure > Constant Prices > Exports of Goods and Services
+47,NAEXKP07,National Accounts > GDP by Expenditure > Constant Prices > Less: Imports of Goods and Services
+48,NAEXKP02,National Accounts > GDP by Expenditure > Constant Prices > Private Final Consumption Expenditure
+49,NAEXKP04,National Accounts > GDP by Expenditure > Constant Prices > Gross Fixed Capital Formation
+50,NAEXKP05,National Accounts > GDP by Expenditure > Constant Prices > Changes in inventories and net acquisition of valuables
+51,ULQECU01,Unit Labour Costs > Early Estimate of Quarterly ULC indicators > Labour Compensation per Unit of Labour Input > Total
+52,ULQELP01,Unit Labour Costs > Early Estimate of Quarterly ULC indicators > Labour Productivity > Total
+53,ULQEUL01,Unit Labour Costs > Early Estimate of Quarterly ULC indicators > Unit Labour Costs > Total
+54,LORSGPOR,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Original series
 55,LRAC24FE,Labour Force Survey - quarterly rates > Activity rate > Aged 15-24 > Females
 56,LRAC24MA,Labour Force Survey - quarterly rates > Activity rate > Aged 15-24 > Males
 57,LRAC24TT,Labour Force Survey - quarterly rates > Activity rate > Aged 15-24 > All persons

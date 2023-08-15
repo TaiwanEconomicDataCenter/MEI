@@ -1,36 +1,43 @@
 ,id,name
 0,LCEAMN01,Labour Compensation > Earnings > Manufacturing > Hourly
 1,LFHU24FE,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 15-24 > Females
-2,LFHU24TT,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 15-24 > All persons
-3,XTIMVA01,International Trade > Imports > Value (goods) > Total
-4,LRHUTTTT,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Total > All persons
-5,PRCNTO01,Production > Construction > Total construction > Total
-6,LRHU24MA,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 15-24 > Males
-7,LRHUADFE,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 25 and over > Females
-8,CPGREN01,"Consumer Price Index > OECD Groups > Energy (Fuel, electricity & gasoline) > Total"
-9,LRHUADTT,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 25 and over > All persons
-10,LRHU24FE,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 15-24 > Females
-11,PRMNTO01,Production > Manufacturing > Total manufacturing > Total manufacturing
-12,LFHU24MA,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 15-24 > Males
-13,LFHUTTFE,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Total > Females
-14,XTEXVA01,International Trade > Exports > Value (goods) > Total
-15,LFHUADFE,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 25 and over > Females
-16,LFHUTTTT,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Total > All persons
-17,PRINTO01,Production > Industry > Total industry > Total industry excluding construction
-18,BSCICP03,Business tendency surveys (manufacturing) > Confidence indicators > Composite indicators > OECD Indicator
-19,LFHUADMA,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 25 and over > Males
-20,CSCICP03,Consumer opinion surveys > Confidence indicators > Composite indicators > OECD Indicator
-21,LRHU24TT,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 15-24 > All persons
-22,LRHUTTMA,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Total > Males
-23,SLRTCR03,Sales > Retail trade > Car registration > Passenger cars
-24,LRHUTTFE,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Total > Females
-25,LRHUADMA,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 25 and over > Males
-26,PIEAMP02,Producer Prices Index > Economic activities > Manufacturing > Domestic
-27,LFHUTTMA,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Total > Males
-28,SLRTTO01,Sales > Retail trade > Total retail trade > Volume
-29,CPGRLE01,Consumer Price Index > OECD Groups > All items non-food non-energy > Total
-30,CPALTT01,Consumer Price Index > All items > Total > Total
-31,LFHUADTT,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 25 and over > All persons
-32,XTNTVA01,International Trade > Net trade > Value (goods) > Total
-33,CP010000,Consumer Price Index > Food and non-Alcoholic beverages (COICOP 01) > Total > Total
-34,CSCICP04,Consumer opinion surveys > Confidence indicators > Composite indicators > Normalised indicator
+2,LORSGPOR,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Original series
+3,LFHU24TT,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 15-24 > All persons
+4,XTIMVA01,International Trade > Imports > Value (goods) > Total
+5,LOLITONO,Leading Indicators OECD > Leading indicators > CLI > Normalised
+6,LRHUTTTT,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Total > All persons
+7,PRCNTO01,Production > Construction > Total construction > Total
+8,LRHU24MA,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 15-24 > Males
+9,LRHUADFE,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 25 and over > Females
+10,CPGREN01,"Consumer Price Index > OECD Groups > Energy (Fuel, electricity & gasoline) > Total"
+11,LRHUADTT,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 25 and over > All persons
+12,LRHU24FE,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 15-24 > Females
+13,LOLITOTR,Leading Indicators OECD > Leading indicators > CLI > Trend restored
+14,LORSGPNO,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Normalised
+15,PRMNTO01,Production > Manufacturing > Total manufacturing > Total manufacturing
+16,LFHU24MA,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 15-24 > Males
+17,LFHUTTFE,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Total > Females
+18,XTEXVA01,International Trade > Exports > Value (goods) > Total
+19,LFHUADFE,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 25 and over > Females
+20,LFHUTTTT,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Total > All persons
+21,PRINTO01,Production > Industry > Total industry > Total industry excluding construction
+22,BSCICP03,Business tendency surveys (manufacturing) > Confidence indicators > Composite indicators > OECD Indicator
+23,LFHUADMA,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 25 and over > Males
+24,LORSGPTD,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Trend
+25,CSCICP03,Consumer opinion surveys > Confidence indicators > Composite indicators > OECD Indicator
+26,LRHU24TT,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 15-24 > All persons
+27,LRHUTTMA,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Total > Males
+28,SLRTCR03,Sales > Retail trade > Car registration > Passenger cars
+29,LRHUTTFE,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Total > Females
+30,LRHUADMA,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 25 and over > Males
+31,PIEAMP02,Producer Prices Index > Economic activities > Manufacturing > Domestic
+32,LFHUTTMA,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Total > Males
+33,SLRTTO01,Sales > Retail trade > Total retail trade > Volume
+34,CPGRLE01,Consumer Price Index > OECD Groups > All items non-food non-energy > Total
+35,CPALTT01,Consumer Price Index > All items > Total > Total
+36,LFHUADTT,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 25 and over > All persons
+37,LOLITOAA,Leading Indicators OECD > Leading indicators > CLI > Amplitude adjusted
+38,LORSGPRT,Leading Indicators OECD > Reference series > Gross Domestic Product (GDP) > Ratio to trend
+39,XTNTVA01,International Trade > Net trade > Value (goods) > Total
+40,CP010000,Consumer Price Index > Food and non-Alcoholic beverages (COICOP 01) > Total > Total
+41,CSCICP04,Consumer opinion surveys > Confidence indicators > Composite indicators > Normalised indicator
