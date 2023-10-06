@@ -1,67 +1,73 @@
-﻿2023-09-04 12:25:25 PM Checking Identities: 12282 s
+﻿2023-10-03 12:37:14 PM Checking Identities: 12713 s
 
-2023-09-04 12:25:30 PM Index A156SRTO01IOS.a form_c: base updated
-2023-09-04 12:25:30 PM Index A156SRTO01MLS.a desc_e inconsistent
-2023-09-04 12:25:30 PM DF_KEY = Sales > Retail trade > Total retail trade > Volume, Monthly level, s.a., Millions of Canadian Dollar - Canada
-2023-09-04 12:25:30 PM df_key = Sales > Retail trade > Total retail trade > Volume, Monthly level, s.a., Millions of Index(2017=100) - Canada
-2023-09-04 12:25:30 PM Index A156SRTO01MLS.a unit inconsistent
-2023-09-04 12:25:30 PM DF_KEY = Millions of Canadian Dollar
-2023-09-04 12:25:30 PM df_key = Millions of Index
-2023-09-04 12:25:30 PM Index A156SRTO01MLS.a form_c inconsistent
-2023-09-04 12:25:30 PM DF_KEY = None
-2023-09-04 12:25:30 PM df_key = 2017=100
-2023-09-04 12:25:43 PM Index M156SRTO01GPS.m desc_e inconsistent
-2023-09-04 12:25:43 PM DF_KEY = Sales > Retail trade > Total retail trade > Volume, Growth rate previous period, s.a., Units of Percentage - Canada
-2023-09-04 12:25:43 PM df_key = Sales > Retail trade > Total retail trade > Volume, Growth rate previous period, s.a., Units of Index(2017=100) - Canada
-2023-09-04 12:25:43 PM Index M156SRTO01GPS.m unit inconsistent
-2023-09-04 12:25:43 PM DF_KEY = Units of Percentage
-2023-09-04 12:25:43 PM df_key = Units of Index
-2023-09-04 12:25:43 PM Index M156SRTO01GPS.m form_c inconsistent
-2023-09-04 12:25:43 PM DF_KEY = None
-2023-09-04 12:25:43 PM df_key = 2017=100
-2023-09-04 12:25:43 PM Index M156SRTO01GYS.m desc_e inconsistent
-2023-09-04 12:25:43 PM DF_KEY = Sales > Retail trade > Total retail trade > Volume, Growth rate same period previous year, s.a., Units of Percentage - Canada
-2023-09-04 12:25:43 PM df_key = Sales > Retail trade > Total retail trade > Volume, Growth rate same period previous year, s.a., Units of Index(2017=100) - Canada
-2023-09-04 12:25:43 PM Index M156SRTO01GYS.m unit inconsistent
-2023-09-04 12:25:43 PM DF_KEY = Units of Percentage
-2023-09-04 12:25:43 PM df_key = Units of Index
-2023-09-04 12:25:43 PM Index M156SRTO01GYS.m form_c inconsistent
-2023-09-04 12:25:43 PM DF_KEY = None
-2023-09-04 12:25:43 PM df_key = 2017=100
-2023-09-04 12:25:43 PM Index M156SRTO01IOS.m form_c: base updated
-2023-09-04 12:25:43 PM Index M156SRTO01MLS.m desc_e inconsistent
-2023-09-04 12:25:43 PM DF_KEY = Sales > Retail trade > Total retail trade > Volume, Monthly level, s.a., Millions of Canadian Dollar - Canada
-2023-09-04 12:25:43 PM df_key = Sales > Retail trade > Total retail trade > Volume, Monthly level, s.a., Millions of Index(2017=100) - Canada
-2023-09-04 12:25:43 PM Index M156SRTO01MLS.m unit inconsistent
-2023-09-04 12:25:43 PM DF_KEY = Millions of Canadian Dollar
-2023-09-04 12:25:43 PM df_key = Millions of Index
-2023-09-04 12:25:43 PM Index M156SRTO01MLS.m form_c inconsistent
-2023-09-04 12:25:43 PM DF_KEY = None
-2023-09-04 12:25:43 PM df_key = 2017=100
-2023-09-04 12:25:52 PM Index Q156SRTO01IOS.q form_c: base updated
-2023-09-04 12:25:52 PM Index Q156SRTO01MLS.q desc_e inconsistent
-2023-09-04 12:25:52 PM DF_KEY = Sales > Retail trade > Total retail trade > Volume, Monthly level, s.a., Millions of Canadian Dollar - Canada
-2023-09-04 12:25:52 PM df_key = Sales > Retail trade > Total retail trade > Volume, Monthly level, s.a., Millions of Index(2017=100) - Canada
-2023-09-04 12:25:52 PM Index Q156SRTO01MLS.q unit inconsistent
-2023-09-04 12:25:52 PM DF_KEY = Millions of Canadian Dollar
-2023-09-04 12:25:52 PM df_key = Millions of Index
-2023-09-04 12:25:52 PM Index Q156SRTO01MLS.q form_c inconsistent
-2023-09-04 12:25:52 PM DF_KEY = None
-2023-09-04 12:25:52 PM df_key = 2017=100
-2023-09-04 12:26:01 PM unknown: 0
-2023-09-04 12:26:01 PM name too long: 0
-2023-09-04 12:26:01 PM inconsistent: 15
-2023-09-04 12:26:01 PM Total desc_e inconsistent: 5
-2023-09-04 12:26:01 PM Total desc_c inconsistent: 0
-2023-09-04 12:26:01 PM Total freq inconsistent: 0
-2023-09-04 12:26:01 PM Total unit inconsistent: 5
-2023-09-04 12:26:01 PM Total name_ord inconsistent: 0
-2023-09-04 12:26:01 PM Total book inconsistent: 0
-2023-09-04 12:26:01 PM Total form_e inconsistent: 0
-2023-09-04 12:26:01 PM Total form_c inconsistent: 5
-2023-09-04 12:26:01 PM inconsistent earliest: 1991
-2023-09-04 12:26:01 PM base updated: 3
-2023-09-04 12:26:01 PM data updated: 13087
-2023-09-04 12:26:01 PM including weekly: False
-2023-09-04 12:26:01 PM too many months: False
-2023-09-04 12:26:04 PM unfound: 4523
+2023-10-03 12:37:19 PM Index A156SRTO01IOS.a form_c inconsistent
+2023-10-03 12:37:19 PM DF_KEY = 2017=100
+2023-10-03 12:37:19 PM df_key = 2015=100
+2023-10-03 12:37:19 PM Index A156SRTO01MLS.a desc_e inconsistent
+2023-10-03 12:37:19 PM DF_KEY = Sales > Retail trade > Total retail trade > Volume, Monthly level, s.a., Millions of Index(2017=100) - Canada
+2023-10-03 12:37:19 PM df_key = Sales > Retail trade > Total retail trade > Volume, Monthly level, s.a., Millions of Canadian Dollar - Canada
+2023-10-03 12:37:19 PM Index A156SRTO01MLS.a unit inconsistent
+2023-10-03 12:37:19 PM DF_KEY = Millions of Index
+2023-10-03 12:37:19 PM df_key = Millions of Canadian Dollar
+2023-10-03 12:37:19 PM Index A156SRTO01MLS.a form_c inconsistent
+2023-10-03 12:37:19 PM DF_KEY = 2017=100
+2023-10-03 12:37:19 PM df_key = 
+2023-10-03 12:37:30 PM Index M156SRTO01GPS.m desc_e inconsistent
+2023-10-03 12:37:30 PM DF_KEY = Sales > Retail trade > Total retail trade > Volume, Growth rate previous period, s.a., Units of Index(2017=100) - Canada
+2023-10-03 12:37:30 PM df_key = Sales > Retail trade > Total retail trade > Volume, Growth rate previous period, s.a., Units of Percentage - Canada
+2023-10-03 12:37:30 PM Index M156SRTO01GPS.m unit inconsistent
+2023-10-03 12:37:30 PM DF_KEY = Units of Index
+2023-10-03 12:37:30 PM df_key = Units of Percentage
+2023-10-03 12:37:30 PM Index M156SRTO01GPS.m form_c inconsistent
+2023-10-03 12:37:30 PM DF_KEY = 2017=100
+2023-10-03 12:37:30 PM df_key = 
+2023-10-03 12:37:30 PM Index M156SRTO01GYS.m desc_e inconsistent
+2023-10-03 12:37:30 PM DF_KEY = Sales > Retail trade > Total retail trade > Volume, Growth rate same period previous year, s.a., Units of Index(2017=100) - Canada
+2023-10-03 12:37:30 PM df_key = Sales > Retail trade > Total retail trade > Volume, Growth rate same period previous year, s.a., Units of Percentage - Canada
+2023-10-03 12:37:30 PM Index M156SRTO01GYS.m unit inconsistent
+2023-10-03 12:37:30 PM DF_KEY = Units of Index
+2023-10-03 12:37:30 PM df_key = Units of Percentage
+2023-10-03 12:37:30 PM Index M156SRTO01GYS.m form_c inconsistent
+2023-10-03 12:37:30 PM DF_KEY = 2017=100
+2023-10-03 12:37:30 PM df_key = 
+2023-10-03 12:37:30 PM Index M156SRTO01IOS.m form_c inconsistent
+2023-10-03 12:37:30 PM DF_KEY = 2017=100
+2023-10-03 12:37:30 PM df_key = 2015=100
+2023-10-03 12:37:30 PM Index M156SRTO01MLS.m desc_e inconsistent
+2023-10-03 12:37:30 PM DF_KEY = Sales > Retail trade > Total retail trade > Volume, Monthly level, s.a., Millions of Index(2017=100) - Canada
+2023-10-03 12:37:30 PM df_key = Sales > Retail trade > Total retail trade > Volume, Monthly level, s.a., Millions of Canadian Dollar - Canada
+2023-10-03 12:37:30 PM Index M156SRTO01MLS.m unit inconsistent
+2023-10-03 12:37:30 PM DF_KEY = Millions of Index
+2023-10-03 12:37:30 PM df_key = Millions of Canadian Dollar
+2023-10-03 12:37:30 PM Index M156SRTO01MLS.m form_c inconsistent
+2023-10-03 12:37:30 PM DF_KEY = 2017=100
+2023-10-03 12:37:30 PM df_key = 
+2023-10-03 12:37:39 PM Index Q156SRTO01IOS.q form_c inconsistent
+2023-10-03 12:37:39 PM DF_KEY = 2017=100
+2023-10-03 12:37:39 PM df_key = 2015=100
+2023-10-03 12:37:39 PM Index Q156SRTO01MLS.q desc_e inconsistent
+2023-10-03 12:37:39 PM DF_KEY = Sales > Retail trade > Total retail trade > Volume, Monthly level, s.a., Millions of Index(2017=100) - Canada
+2023-10-03 12:37:39 PM df_key = Sales > Retail trade > Total retail trade > Volume, Monthly level, s.a., Millions of Canadian Dollar - Canada
+2023-10-03 12:37:39 PM Index Q156SRTO01MLS.q unit inconsistent
+2023-10-03 12:37:39 PM DF_KEY = Millions of Index
+2023-10-03 12:37:39 PM df_key = Millions of Canadian Dollar
+2023-10-03 12:37:39 PM Index Q156SRTO01MLS.q form_c inconsistent
+2023-10-03 12:37:39 PM DF_KEY = 2017=100
+2023-10-03 12:37:39 PM df_key = 
+2023-10-03 12:37:46 PM unknown: 0
+2023-10-03 12:37:46 PM name too long: 0
+2023-10-03 12:37:46 PM inconsistent: 18
+2023-10-03 12:37:46 PM Total desc_e inconsistent: 5
+2023-10-03 12:37:46 PM Total desc_c inconsistent: 0
+2023-10-03 12:37:46 PM Total freq inconsistent: 0
+2023-10-03 12:37:46 PM Total unit inconsistent: 5
+2023-10-03 12:37:46 PM Total name_ord inconsistent: 0
+2023-10-03 12:37:46 PM Total book inconsistent: 0
+2023-10-03 12:37:46 PM Total form_e inconsistent: 0
+2023-10-03 12:37:46 PM Total form_c inconsistent: 8
+2023-10-03 12:37:46 PM inconsistent earliest: 1991
+2023-10-03 12:37:46 PM base updated: 0
+2023-10-03 12:37:46 PM data updated: 29032
+2023-10-03 12:37:46 PM including weekly: False
+2023-10-03 12:37:46 PM too many months: False
+2023-10-03 12:37:50 PM unfound: 4605
