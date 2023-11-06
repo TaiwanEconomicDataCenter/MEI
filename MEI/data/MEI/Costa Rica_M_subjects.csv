@@ -2,227 +2,228 @@
 0,CCUSMA02,Currency Conversions > US$ exchange rate > Average of daily rates > National currency:USD
 1,CCUSSP02,"Currency Conversions > US$ exchange rate > Spot, end of period > National currency:USD"
 2,MABMM301,Monetary aggregates and their components > Broad money and components > M3 > M3
-3,MANMM101,Monetary aggregates and their components > Narrow money and components > M1 and components > M1
-4,IRLTLT01,Interest Rates > Long-term government bond yields > 10-year > Main (including benchmark)
-5,PRMNTO01,Production > Manufacturing > Total manufacturing > Total manufacturing
-6,PRCNTO01,Production > Construction > Total construction > Total
-7,XTEXVA01,International Trade > Exports > Value (goods) > Total
-8,XTNTVA01,International Trade > Net trade > Value (goods) > Total
-9,XTIMVA01,International Trade > Imports > Value (goods) > Total
-10,IRSTLQ01,Interest Rates > Immediate rates (< 24 hrs) > Liquidity credit rates > Total
-11,CPGRLE01,Consumer Price Index > OECD Groups > All items non-food non-energy > Total
-12,CPALTT01,Consumer Price Index > All items > Total > Total
-13,PIEAMP02,Producer Prices Index > Economic activities > Manufacturing > Domestic
-14,CPGREN01,"Consumer Price Index > OECD Groups > Energy (Fuel, electricity & gasoline) > Total"
-15,IRSTCI01,Interest Rates > Immediate rates (< 24 hrs) > Call money/interbank rate > Total
-16,IR3OBD01,Interest Rates > Other 3-month rates > Bank deposit rates > Total
-17,IR3TIB01,Interest Rates > 3-month or 90-day rates and yields > Interbank rates > Total
-18,PRINTO02,Production > Industry > Total industry > Total industry including construction
-19,CP090000,Consumer Price Index > Recreation and culture  (COICOP 09) > Total > Total
-20,CP030000,Consumer Price Index > Clothing and footwear (COICOP 03) > Total > Total
-21,CP080000,Consumer Price Index > Communication (COICOP 08) > Total > Total
-22,CP070200,Consumer Price Index > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment > Total
-23,CP020000,"Consumer Price Index > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total > Total"
-24,CPGRSE01,Consumer Price Index > OECD Groups > Services > Total
-25,CP040000,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Total > Total"
-26,PIEAFD02,Producer Prices Index > Economic activities > Manufacture of food products > Domestic
-27,CP050000,"Consumer Price Index > Furnishings, household equip. and routine household maintenance (COICOP 05) > Total > Total"
-28,CP040100,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing > Total"
-29,CP040300,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance and repairs of the dwellings > Total"
-30,CP110000,Consumer Price Index > Restaurants and hotels (COICOP 11) > Total > Total
-31,CP120000,Consumer Price Index > Miscellaneous goods and services (COICOP 12) > Total > Total
-32,CP100000,Consumer Price Index > Education (COICOP 10) > Total > Total
-33,CPGRLH02,Consumer Price Index > OECD Groups > Services less housing > Housing excluding imputed rentals for housing
-34,CP060000,Consumer Price Index > Health (COICOP 06) > Total > Total
-35,CP010000,Consumer Price Index > Food and non-Alcoholic beverages (COICOP 01) > Total > Total
-36,CPGRHO02,Consumer Price Index > OECD Groups > Housing > Housing excluding imputed rentals for housing
-37,CP040500,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels > Total"
-38,CP040400,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling > Total"
-39,CP070000,Consumer Price Index > Transport (COICOP 07) > Total > Total
-40,CPGRGO01,Consumer Price Index > OECD Groups > Goods > Total
-41,LCEAPR01,Labour Compensation > Earnings > Private sector > Hourly
-42,LCEATT01,Labour Compensation > Earnings > All activities > Hourly
-43,LCEAMN01,Labour Compensation > Earnings > Manufacturing > Hourly
-44,PRMITO01,Production > Mining > Total mining > Total
-45,PITGND01,Producer Prices Index > Type of goods > Non durable consumer goods > Total
-46,PIEATI01,Producer Prices Index > Economic activities > Industrial activities > Total
-47,PITGCD02,Producer Prices Index > Type of goods > Durable consumer goods > Domestic
-48,PIEAEN01,Producer Prices Index > Economic activities > Energy > Total
-49,PIEAEN02,Producer Prices Index > Economic activities > Energy > Domestic
-50,PIEAFD01,Producer Prices Index > Economic activities > Manufacture of food products > Total
-51,PITGCG01,Producer Prices Index > Type of goods > Consumer goods > Total
-52,PITGVG02,Producer Prices Index > Type of goods > Investments goods > Domestic
-53,PITGVG01,Producer Prices Index > Type of goods > Investments goods > Total
-54,PIEAMP01,Producer Prices Index > Economic activities > Manufacturing > Total
-55,PITGCG02,Producer Prices Index > Type of goods > Consumer goods > Domestic
-56,PITGND02,Producer Prices Index > Type of goods > Non durable consumer goods > Domestic
-57,PITGIG02,Producer Prices Index > Type of goods > Intermediate goods > Domestic
-58,PITGIG01,Producer Prices Index > Type of goods > Intermediate goods > Total
-59,PITGCD01,Producer Prices Index > Type of goods > Durable consumer goods > Total
-60,PIEATI02,Producer Prices Index > Economic activities > Industrial activities > Domestic
-61,CSCICP03,Consumer opinion surveys > Confidence indicators > Composite indicators > OECD Indicator
-62,LFEMTTFE,Labour Force Survey - quarterly levels > Employed population > Aged 15 and over > Females
-63,LFUN24MA,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-24 > Males
-64,LFEM24TT,Labour Force Survey - quarterly levels > Employed population > Aged 15-24 > All persons
-65,LFUNTTFE,Labour Force Survey - quarterly levels > Unemployed population > Aged 15 and over > Females
-66,LFEMTTMA,Labour Force Survey - quarterly levels > Employed population > Aged 15 and over > Males
-67,LFUN24TT,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-24 > Total
-68,LRUNTTTT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15 and over > All persons
-69,LFUNTTMA,Labour Force Survey - quarterly levels > Unemployed population > Aged 15 and over > Males
-70,LRUN24FE,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-24 > Females
-71,LFEM24MA,Labour Force Survey - quarterly levels > Employed population > Aged 15-24 > Males
-72,LRUN24TT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-24 > All persons
-73,LFEMTTTT,Labour Force Survey - quarterly levels > Employed population > Aged 15 and over > All persons
-74,LRUNTTFE,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15 and over > Females
-75,LRUNTTMA,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15 and over > Males
-76,LRUN24MA,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-24 > Males
-77,LFUN24FE,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-24 > Females
-78,LFEM24FE,Labour Force Survey - quarterly levels > Employed population > Aged 15-24 > Females
-79,LFUNTTTT,Labour Force Survey - quarterly levels > Unemployed population > Aged 15 and over > All persons
-80,BSCICP03,Business tendency surveys (manufacturing) > Confidence indicators > Composite indicators > OECD Indicator
-81,CSCICP04,Consumer opinion surveys > Confidence indicators > Composite indicators > Normalised indicator
-82,PRENTO01,Production > Energy > Total energy > Total
-83,LFEAAGTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Agriculture > All persons
-84,LFEACNTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Construction > All persons
-85,LFEAICTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Industry including construction > All persons
-86,LFEAINTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Industry excluding construction > All persons
-87,LFEAMNTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Manufacturing > All persons
-88,LFEASETT,Labour Force Survey - quarterly levels > Employment - by economic activity > Services > All persons
-89,LFAC24FE,Labour Force Survey - quarterly levels > Active population > Aged 15-24 > Females
-90,LFAC24MA,Labour Force Survey - quarterly levels > Active population > Aged 15-24 > Males
-91,LFAC24TT,Labour Force Survey - quarterly levels > Active population > Aged 15-24 > All persons
-92,LFAC25FE,Labour Force Survey - quarterly levels > Active population > Aged 25-54 > Females
-93,LFAC25MA,Labour Force Survey - quarterly levels > Active population > Aged 25-54 > Males
-94,LFAC25TT,Labour Force Survey - quarterly levels > Active population > Aged 25-54 > All persons
-95,LFAC55FE,Labour Force Survey - quarterly levels > Active population > Aged 55-64 > Females
-96,LFAC55MA,Labour Force Survey - quarterly levels > Active population > Aged 55-64 > Males
-97,LFAC55TT,Labour Force Survey - quarterly levels > Active population > Aged 55-64 > All persons
-98,LFAC64FE,Labour Force Survey - quarterly levels > Active population > Aged 15-64 > Females
-99,LFAC64MA,Labour Force Survey - quarterly levels > Active population > Aged 15-64 > Males
-100,LFAC64TT,Labour Force Survey - quarterly levels > Active population > Aged 15-64 > All persons
-101,LFAC74FE,Labour Force Survey - quarterly levels > Active population > Aged 15-74 > Females
-102,LFAC74MA,Labour Force Survey - quarterly levels > Active population > Aged 15-74 > Males
-103,LFAC74TT,Labour Force Survey - quarterly levels > Active population > Aged 15-74 > All persons
-104,LFACTTFE,Labour Force Survey - quarterly levels > Active population > Aged 15 and over > Females
-105,LFACTTMA,Labour Force Survey - quarterly levels > Active population > Aged 15 and over > Males
-106,LFACTTTT,Labour Force Survey - quarterly levels > Active population > Aged 15 and over > All persons
-107,LRAC24FE,Labour Force Survey - quarterly rates > Activity rate > Aged 15-24 > Females
-108,LRAC24MA,Labour Force Survey - quarterly rates > Activity rate > Aged 15-24 > Males
-109,LRAC24TT,Labour Force Survey - quarterly rates > Activity rate > Aged 15-24 > All persons
-110,LRACTTFE,Labour Force Survey - quarterly rates > Activity rate > Aged 15 and over > Females
-111,LRACTTMA,Labour Force Survey - quarterly rates > Activity rate > Aged 15 and over > Males
-112,LRACTTTT,Labour Force Survey - quarterly rates > Activity rate > Aged 15 and over > All persons
-113,LREM24FE,Labour Force Survey - quarterly rates > Employment rate > Aged 15-24 > Females
-114,LREM24MA,Labour Force Survey - quarterly rates > Employment rate > Aged 15-24 > Males
-115,LREM24TT,Labour Force Survey - quarterly rates > Employment rate > Aged 15-24 > All persons
-116,LREMTTFE,Labour Force Survey - quarterly rates > Employment rate > Aged 15 and over > Females
-117,LREMTTMA,Labour Force Survey - quarterly rates > Employment rate > Aged 15 and over > Males
-118,LREMTTTT,Labour Force Survey - quarterly rates > Employment rate > Aged 15 and over > All persons
-119,LRIN24MA,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15-24 > Males
-120,LRIN24TT,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15-24 > All persons
-121,LRHU24FE,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 15-24 > Females
-122,LRHUADTT,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 25 and over > All persons
-123,LFHU24TT,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 15-24 > All persons
-124,LFHUADMA,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 25 and over > Males
-125,LFHUTTFE,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Total > Females
-126,LRHUTTMA,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Total > Males
-127,LFHUADTT,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 25 and over > All persons
-128,LFHU24FE,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 15-24 > Females
-129,LRHU24TT,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 15-24 > All persons
-130,LFHUTTMA,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Total > Males
-131,LRHUADMA,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 25 and over > Males
-132,LRHUTTFE,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Total > Females
-133,LRHU24MA,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 15-24 > Males
-134,LRHUADFE,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 25 and over > Females
-135,LFHU24MA,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 15-24 > Males
-136,LFHUADFE,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 25 and over > Females
-137,LRHUTTTT,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Total > All persons
-138,LFHUTTTT,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Total > All persons
-139,CCRETT01,Currency Conversions > Real effective exchange rates > Overall Economy > CPI
-140,CP180540,"Consumer Price Index > COICOP 2018 > Furnishings, household equipment and routine household maintenance (COICOP > Glassware, tableware and household utensils"
-141,CP180450,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels"
-142,CP180430,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance, repairs & security of the dwellings"
-143,CP180510,"Consumer Price Index > COICOP 2018 > Furnishings, household equipment and routine household maintenance (COICOP > Furniture, furnishings, and loose carpets"
-144,CP180120,Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Non-Alcoholic beverages
-145,CP180115,Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Oils and fats (ND)
-146,CP180118,"Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Sugar, confectionery and desserts (ND)"
-147,CP180320,Consumer Price Index > COICOP 2018 > Clothing and footwear (COICOP 03) > Footwear
-148,CP180700,Consumer Price Index > COICOP 2018 > Transport (COICOP 07) > Total
-149,CP180520,"Consumer Price Index > COICOP 2018 > Furnishings, household equipment and routine household maintenance (COICOP > Household textiles"
-150,CP180210,"Consumer Price Index > COICOP 2018 > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Alcoholic beverages"
-151,CP180431,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Security equipment & materials for maintenance & repair of dwellings (ND)"
-152,CP180230,"Consumer Price Index > COICOP 2018 > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Tobacco"
-153,CP180600,Consumer Price Index > COICOP 2018 > Health (COICOP 06) > Total
-154,CP180640,Consumer Price Index > COICOP 2018 > Health (COICOP 06) > Other health services
-155,CP180560,"Consumer Price Index > COICOP 2018 > Furnishings, household equipment and routine household maintenance (COICOP > Goods and services for routine household maintenance"
-156,CP180116,Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Fruits and nuts (ND)
-157,CP180410,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing"
-158,CP180451,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity (ND)"
-159,CP180810,Consumer Price Index > COICOP 2018 > Information and communication (COICOP 08) > Information and communication equipment
-160,CP180730,Consumer Price Index > COICOP 2018 > Transport (COICOP 07) > Passenger transport services
-161,CP180610,Consumer Price Index > COICOP 2018 > Health (COICOP 06) > Medicines and health products
-162,CP180530,"Consumer Price Index > COICOP 2018 > Furnishings, household equipment and routine household maintenance (COICOP > Household appliances"
-163,CP180452,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Gas (ND)"
-164,CP180724,Consumer Price Index > COICOP 2018 > Transport (COICOP 07) > Other services in respect of personal transport equipment (S)
-165,CP180620,Consumer Price Index > COICOP 2018 > Health (COICOP 06) > Out-patient services
-166,CP180500,"Consumer Price Index > COICOP 2018 > Furnishings, household equipment and routine household maintenance (COICOP > Total"
-167,CP180721,Consumer Price Index > COICOP 2018 > Transport (COICOP 07) > Parts and accessories for personal transport equipment (SD)
-168,CP180910,"Consumer Price Index > COICOP 2018 > Recreation, sport and culture  (COICOP 09) > Recreational durables"
-169,CP180432,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Services for the maintenance, repair and security of the dwelling (S)"
-170,CP180310,Consumer Price Index > COICOP 2018 > Clothing and footwear (COICOP 03) > Clothing
-171,CP180117,"Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Vegetables, tubers, plantains, cooking bananas and pulses (ND)"
-172,CP180114,"Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Milk, other dairy products and eggs (ND)"
-173,CP18ALTT,Consumer Price Index > COICOP 2018 > All items > All items
-174,CP180400,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Total"
-175,CP180112,"Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Live animals, meat and other parts of slaughtered land animals (ND)"
-176,CP180440,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling"
-177,CP180200,"Consumer Price Index > COICOP 2018 > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total"
-178,CP180110,Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Food
-179,CP180960,"Consumer Price Index > COICOP 2018 > Recreation, sport and culture  (COICOP 09) > Cultural services"
-180,CP181120,Consumer Price Index > COICOP 2018 > Restaurants and accommodation services (COICOP 11) > Accommodation services
-181,CP180930,"Consumer Price Index > COICOP 2018 > Recreation, sport and culture  (COICOP 09) > Garden products and pets"
-182,CP180722,Consumer Price Index > COICOP 2018 > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment (ND)
-183,CP180100,Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Total
-184,CP180723,Consumer Price Index > COICOP 2018 > Transport (COICOP 07) > Maintenance and repair of personal transport equipment (S)
-185,CP180980,"Consumer Price Index > COICOP 2018 > Recreation, sport and culture  (COICOP 09) > Package holidays"
-186,CP181210,Consumer Price Index > COICOP 2018 > Insurance and financial services (COICOP 12) > Insurance
-187,CP180113,Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Fish and other seafood (ND)
-188,CP180970,"Consumer Price Index > COICOP 2018 > Recreation, sport and culture  (COICOP 09) > Newspapers, books and stationery"
-189,CP180119,Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Ready-made food and other food products n.e.c. (ND)
-190,CP181310,"Consumer Price Index > COICOP 2018 > Personal care, social protection, miscellaneous goods & services (COICOP 13 > Personal care"
-191,CP181110,Consumer Price Index > COICOP 2018 > Restaurants and accommodation services (COICOP 11) > Food and beverage serving services
-192,CP181330,"Consumer Price Index > COICOP 2018 > Personal care, social protection, miscellaneous goods & services (COICOP 13 > Social protection"
-193,CP181220,Consumer Price Index > COICOP 2018 > Insurance and financial services (COICOP 12) > Financial services
-194,CP181100,Consumer Price Index > COICOP 2018 > Restaurants and accommodation services (COICOP 11) > Total
-195,CP181300,"Consumer Price Index > COICOP 2018 > Personal care, social protection, miscellaneous goods & services (COICOP 13 > Total"
-196,CP181200,Consumer Price Index > COICOP 2018 > Insurance and financial services (COICOP 12) > Total
-197,CP181320,"Consumer Price Index > COICOP 2018 > Personal care, social protection, miscellaneous goods & services (COICOP 13 > Other personal effects"
-198,CP180111,Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Cereals and cereal products (ND)
-199,CP180900,"Consumer Price Index > COICOP 2018 > Recreation, sport and culture  (COICOP 09) > Total"
-200,CP180630,Consumer Price Index > COICOP 2018 > Health (COICOP 06) > Inpatient care services
-201,CP180940,"Consumer Price Index > COICOP 2018 > Recreation, sport and culture  (COICOP 09) > Recreational services"
-202,CP180830,Consumer Price Index > COICOP 2018 > Information and communication (COICOP 08) > Information and communication services
-203,CP180710,Consumer Price Index > COICOP 2018 > Transport (COICOP 07) > Purchase of vehicles
-204,CP181000,Consumer Price Index > COICOP 2018 > Education services (COICOP 10) > Total
-205,CP180720,Consumer Price Index > COICOP 2018 > Transport (COICOP 07) > Operation of personal transport equipment
-206,CP180800,Consumer Price Index > COICOP 2018 > Information and communication (COICOP 08) > Total
-207,CP18GRL2,Consumer Price Index > COICOP 2018 > OECD Groups > Services less housing (Housing excluding imputed rentals for housing)
-208,CP18GRLE,Consumer Price Index > COICOP 2018 > OECD Groups > All items non-food non-energy
-209,CP18GRGO,Consumer Price Index > COICOP 2018 > OECD Groups > Goods
-210,CP18GREN,Consumer Price Index > COICOP 2018 > OECD Groups > Energy
-211,CP18GRH2,Consumer Price Index > COICOP 2018 > OECD Groups > Housing excluding imputed rentals for housing
-212,CP18GRSE,Consumer Price Index > COICOP 2018 > OECD Groups > Services
-213,LRAC74TT,Labour Force Survey - quarterly rates > Activity rate > Aged 15-74 > All persons
-214,LRAC55MA,Labour Force Survey - quarterly rates > Activity rate > Aged 55-64 > Males
-215,LRAC64FE,Labour Force Survey - quarterly rates > Activity rate > Aged 15-64 > Females
-216,LRAC25TT,Labour Force Survey - quarterly rates > Activity rate > Aged 25-54 > All persons
-217,LRAC74FE,Labour Force Survey - quarterly rates > Activity rate > Aged 15-74 > Females
-218,LRAC64MA,Labour Force Survey - quarterly rates > Activity rate > Aged 15-64 > Males
-219,LRAC55TT,Labour Force Survey - quarterly rates > Activity rate > Aged 55-64 > All persons
-220,LRAC25FE,Labour Force Survey - quarterly rates > Activity rate > Aged 25-54 > Females
-221,LRAC74MA,Labour Force Survey - quarterly rates > Activity rate > Aged 15-74 > Males
-222,LRAC64TT,Labour Force Survey - quarterly rates > Activity rate > Aged 15-64 > All persons
-223,LRAC25MA,Labour Force Survey - quarterly rates > Activity rate > Aged 25-54 > Males
-224,LRAC55FE,Labour Force Survey - quarterly rates > Activity rate > Aged 55-64 > Females
-225,CP180300,Consumer Price Index > COICOP 2018 > Clothing and footwear (COICOP 03) > Total
-226,CP18SDCT,Consumer Price Index > COICOP 2018 > Statistical discrepancy > Annual inflation
+3,SPASTT01,Share Prices > All shares/broad > Total > Total
+4,MANMM101,Monetary aggregates and their components > Narrow money and components > M1 and components > M1
+5,IRLTLT01,Interest Rates > Long-term government bond yields > 10-year > Main (including benchmark)
+6,PRMNTO01,Production > Manufacturing > Total manufacturing > Total manufacturing
+7,PRCNTO01,Production > Construction > Total construction > Total
+8,XTEXVA01,International Trade > Exports > Value (goods) > Total
+9,XTNTVA01,International Trade > Net trade > Value (goods) > Total
+10,XTIMVA01,International Trade > Imports > Value (goods) > Total
+11,IRSTLQ01,Interest Rates > Immediate rates (< 24 hrs) > Liquidity credit rates > Total
+12,CPGRLE01,Consumer Price Index > OECD Groups > All items non-food non-energy > Total
+13,CPALTT01,Consumer Price Index > All items > Total > Total
+14,PIEAMP02,Producer Prices Index > Economic activities > Manufacturing > Domestic
+15,CPGREN01,"Consumer Price Index > OECD Groups > Energy (Fuel, electricity & gasoline) > Total"
+16,IRSTCI01,Interest Rates > Immediate rates (< 24 hrs) > Call money/interbank rate > Total
+17,IR3OBD01,Interest Rates > Other 3-month rates > Bank deposit rates > Total
+18,IR3TIB01,Interest Rates > 3-month or 90-day rates and yields > Interbank rates > Total
+19,PRINTO02,Production > Industry > Total industry > Total industry including construction
+20,CP090000,Consumer Price Index > Recreation and culture  (COICOP 09) > Total > Total
+21,CP030000,Consumer Price Index > Clothing and footwear (COICOP 03) > Total > Total
+22,CP080000,Consumer Price Index > Communication (COICOP 08) > Total > Total
+23,CP070200,Consumer Price Index > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment > Total
+24,CP020000,"Consumer Price Index > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total > Total"
+25,CPGRSE01,Consumer Price Index > OECD Groups > Services > Total
+26,CP040000,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Total > Total"
+27,PIEAFD02,Producer Prices Index > Economic activities > Manufacture of food products > Domestic
+28,CP050000,"Consumer Price Index > Furnishings, household equip. and routine household maintenance (COICOP 05) > Total > Total"
+29,CP040100,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing > Total"
+30,CP040300,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance and repairs of the dwellings > Total"
+31,CP110000,Consumer Price Index > Restaurants and hotels (COICOP 11) > Total > Total
+32,CP120000,Consumer Price Index > Miscellaneous goods and services (COICOP 12) > Total > Total
+33,CP100000,Consumer Price Index > Education (COICOP 10) > Total > Total
+34,CPGRLH02,Consumer Price Index > OECD Groups > Services less housing > Housing excluding imputed rentals for housing
+35,CP060000,Consumer Price Index > Health (COICOP 06) > Total > Total
+36,CP010000,Consumer Price Index > Food and non-Alcoholic beverages (COICOP 01) > Total > Total
+37,CPGRHO02,Consumer Price Index > OECD Groups > Housing > Housing excluding imputed rentals for housing
+38,CP040500,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels > Total"
+39,CP040400,"Consumer Price Index > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling > Total"
+40,CP070000,Consumer Price Index > Transport (COICOP 07) > Total > Total
+41,CPGRGO01,Consumer Price Index > OECD Groups > Goods > Total
+42,LCEAPR01,Labour Compensation > Earnings > Private sector > Hourly
+43,LCEATT01,Labour Compensation > Earnings > All activities > Hourly
+44,LCEAMN01,Labour Compensation > Earnings > Manufacturing > Hourly
+45,PRMITO01,Production > Mining > Total mining > Total
+46,PITGND01,Producer Prices Index > Type of goods > Non durable consumer goods > Total
+47,PIEATI01,Producer Prices Index > Economic activities > Industrial activities > Total
+48,PITGCD02,Producer Prices Index > Type of goods > Durable consumer goods > Domestic
+49,PIEAEN01,Producer Prices Index > Economic activities > Energy > Total
+50,PIEAEN02,Producer Prices Index > Economic activities > Energy > Domestic
+51,PIEAFD01,Producer Prices Index > Economic activities > Manufacture of food products > Total
+52,PITGCG01,Producer Prices Index > Type of goods > Consumer goods > Total
+53,PITGVG02,Producer Prices Index > Type of goods > Investments goods > Domestic
+54,PITGVG01,Producer Prices Index > Type of goods > Investments goods > Total
+55,PIEAMP01,Producer Prices Index > Economic activities > Manufacturing > Total
+56,PITGCG02,Producer Prices Index > Type of goods > Consumer goods > Domestic
+57,PITGND02,Producer Prices Index > Type of goods > Non durable consumer goods > Domestic
+58,PITGIG02,Producer Prices Index > Type of goods > Intermediate goods > Domestic
+59,PITGIG01,Producer Prices Index > Type of goods > Intermediate goods > Total
+60,PITGCD01,Producer Prices Index > Type of goods > Durable consumer goods > Total
+61,PIEATI02,Producer Prices Index > Economic activities > Industrial activities > Domestic
+62,CSCICP03,Consumer opinion surveys > Confidence indicators > Composite indicators > OECD Indicator
+63,LFEMTTFE,Labour Force Survey - quarterly levels > Employed population > Aged 15 and over > Females
+64,LFUN24MA,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-24 > Males
+65,LFEM24TT,Labour Force Survey - quarterly levels > Employed population > Aged 15-24 > All persons
+66,LFUNTTFE,Labour Force Survey - quarterly levels > Unemployed population > Aged 15 and over > Females
+67,LFEMTTMA,Labour Force Survey - quarterly levels > Employed population > Aged 15 and over > Males
+68,LFUN24TT,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-24 > Total
+69,LRUNTTTT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15 and over > All persons
+70,LFUNTTMA,Labour Force Survey - quarterly levels > Unemployed population > Aged 15 and over > Males
+71,LRUN24FE,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-24 > Females
+72,LFEM24MA,Labour Force Survey - quarterly levels > Employed population > Aged 15-24 > Males
+73,LRUN24TT,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-24 > All persons
+74,LFEMTTTT,Labour Force Survey - quarterly levels > Employed population > Aged 15 and over > All persons
+75,LRUNTTFE,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15 and over > Females
+76,LRUNTTMA,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15 and over > Males
+77,LRUN24MA,Labour Force Survey - quarterly rates > Unemployment rate > Aged 15-24 > Males
+78,LFUN24FE,Labour Force Survey - quarterly levels > Unemployed population > Aged 15-24 > Females
+79,LFEM24FE,Labour Force Survey - quarterly levels > Employed population > Aged 15-24 > Females
+80,LFUNTTTT,Labour Force Survey - quarterly levels > Unemployed population > Aged 15 and over > All persons
+81,BSCICP03,Business tendency surveys (manufacturing) > Confidence indicators > Composite indicators > OECD Indicator
+82,CSCICP04,Consumer opinion surveys > Confidence indicators > Composite indicators > Normalised indicator
+83,PRENTO01,Production > Energy > Total energy > Total
+84,LFEAAGTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Agriculture > All persons
+85,LFEACNTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Construction > All persons
+86,LFEAICTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Industry including construction > All persons
+87,LFEAINTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Industry excluding construction > All persons
+88,LFEAMNTT,Labour Force Survey - quarterly levels > Employment - by economic activity > Manufacturing > All persons
+89,LFEASETT,Labour Force Survey - quarterly levels > Employment - by economic activity > Services > All persons
+90,LFAC24FE,Labour Force Survey - quarterly levels > Active population > Aged 15-24 > Females
+91,LFAC24MA,Labour Force Survey - quarterly levels > Active population > Aged 15-24 > Males
+92,LFAC24TT,Labour Force Survey - quarterly levels > Active population > Aged 15-24 > All persons
+93,LFAC25FE,Labour Force Survey - quarterly levels > Active population > Aged 25-54 > Females
+94,LFAC25MA,Labour Force Survey - quarterly levels > Active population > Aged 25-54 > Males
+95,LFAC25TT,Labour Force Survey - quarterly levels > Active population > Aged 25-54 > All persons
+96,LFAC55FE,Labour Force Survey - quarterly levels > Active population > Aged 55-64 > Females
+97,LFAC55MA,Labour Force Survey - quarterly levels > Active population > Aged 55-64 > Males
+98,LFAC55TT,Labour Force Survey - quarterly levels > Active population > Aged 55-64 > All persons
+99,LFAC64FE,Labour Force Survey - quarterly levels > Active population > Aged 15-64 > Females
+100,LFAC64MA,Labour Force Survey - quarterly levels > Active population > Aged 15-64 > Males
+101,LFAC64TT,Labour Force Survey - quarterly levels > Active population > Aged 15-64 > All persons
+102,LFAC74FE,Labour Force Survey - quarterly levels > Active population > Aged 15-74 > Females
+103,LFAC74MA,Labour Force Survey - quarterly levels > Active population > Aged 15-74 > Males
+104,LFAC74TT,Labour Force Survey - quarterly levels > Active population > Aged 15-74 > All persons
+105,LFACTTFE,Labour Force Survey - quarterly levels > Active population > Aged 15 and over > Females
+106,LFACTTMA,Labour Force Survey - quarterly levels > Active population > Aged 15 and over > Males
+107,LFACTTTT,Labour Force Survey - quarterly levels > Active population > Aged 15 and over > All persons
+108,LRAC24FE,Labour Force Survey - quarterly rates > Activity rate > Aged 15-24 > Females
+109,LRAC24MA,Labour Force Survey - quarterly rates > Activity rate > Aged 15-24 > Males
+110,LRAC24TT,Labour Force Survey - quarterly rates > Activity rate > Aged 15-24 > All persons
+111,LRACTTFE,Labour Force Survey - quarterly rates > Activity rate > Aged 15 and over > Females
+112,LRACTTMA,Labour Force Survey - quarterly rates > Activity rate > Aged 15 and over > Males
+113,LRACTTTT,Labour Force Survey - quarterly rates > Activity rate > Aged 15 and over > All persons
+114,LREM24FE,Labour Force Survey - quarterly rates > Employment rate > Aged 15-24 > Females
+115,LREM24MA,Labour Force Survey - quarterly rates > Employment rate > Aged 15-24 > Males
+116,LREM24TT,Labour Force Survey - quarterly rates > Employment rate > Aged 15-24 > All persons
+117,LREMTTFE,Labour Force Survey - quarterly rates > Employment rate > Aged 15 and over > Females
+118,LREMTTMA,Labour Force Survey - quarterly rates > Employment rate > Aged 15 and over > Males
+119,LREMTTTT,Labour Force Survey - quarterly rates > Employment rate > Aged 15 and over > All persons
+120,LRIN24MA,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15-24 > Males
+121,LRIN24TT,Labour Force Survey - quarterly rates > Inactivity rate > Aged 15-24 > All persons
+122,LRHU24FE,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 15-24 > Females
+123,LRHUADTT,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 25 and over > All persons
+124,LFHU24TT,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 15-24 > All persons
+125,LFHUADMA,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 25 and over > Males
+126,LFHUTTFE,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Total > Females
+127,LRHUTTMA,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Total > Males
+128,LFHUADTT,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 25 and over > All persons
+129,LFHU24FE,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 15-24 > Females
+130,LRHU24TT,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 15-24 > All persons
+131,LFHUTTMA,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Total > Males
+132,LRHUADMA,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 25 and over > Males
+133,LRHUTTFE,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Total > Females
+134,LRHU24MA,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 15-24 > Males
+135,LRHUADFE,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Aged 25 and over > Females
+136,LFHU24MA,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 15-24 > Males
+137,LFHUADFE,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Aged 25 and over > Females
+138,LRHUTTTT,Labour Force Survey - quarterly rates > Harmonised unemployment - monthly rates > Total > All persons
+139,LFHUTTTT,Labour Force Survey - quarterly levels > Harmonised unemployment - monthly levels > Total > All persons
+140,CCRETT01,Currency Conversions > Real effective exchange rates > Overall Economy > CPI
+141,CP180540,"Consumer Price Index > COICOP 2018 > Furnishings, household equipment and routine household maintenance (COICOP > Glassware, tableware and household utensils"
+142,CP180450,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity, gas and other fuels"
+143,CP180430,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Maintenance, repairs & security of the dwellings"
+144,CP180510,"Consumer Price Index > COICOP 2018 > Furnishings, household equipment and routine household maintenance (COICOP > Furniture, furnishings, and loose carpets"
+145,CP180120,Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Non-Alcoholic beverages
+146,CP180115,Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Oils and fats (ND)
+147,CP180118,"Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Sugar, confectionery and desserts (ND)"
+148,CP180320,Consumer Price Index > COICOP 2018 > Clothing and footwear (COICOP 03) > Footwear
+149,CP180700,Consumer Price Index > COICOP 2018 > Transport (COICOP 07) > Total
+150,CP180520,"Consumer Price Index > COICOP 2018 > Furnishings, household equipment and routine household maintenance (COICOP > Household textiles"
+151,CP180210,"Consumer Price Index > COICOP 2018 > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Alcoholic beverages"
+152,CP180431,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Security equipment & materials for maintenance & repair of dwellings (ND)"
+153,CP180230,"Consumer Price Index > COICOP 2018 > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Tobacco"
+154,CP180600,Consumer Price Index > COICOP 2018 > Health (COICOP 06) > Total
+155,CP180640,Consumer Price Index > COICOP 2018 > Health (COICOP 06) > Other health services
+156,CP180560,"Consumer Price Index > COICOP 2018 > Furnishings, household equipment and routine household maintenance (COICOP > Goods and services for routine household maintenance"
+157,CP180116,Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Fruits and nuts (ND)
+158,CP180410,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Actual rentals for housing"
+159,CP180451,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Electricity (ND)"
+160,CP180810,Consumer Price Index > COICOP 2018 > Information and communication (COICOP 08) > Information and communication equipment
+161,CP180730,Consumer Price Index > COICOP 2018 > Transport (COICOP 07) > Passenger transport services
+162,CP180610,Consumer Price Index > COICOP 2018 > Health (COICOP 06) > Medicines and health products
+163,CP180530,"Consumer Price Index > COICOP 2018 > Furnishings, household equipment and routine household maintenance (COICOP > Household appliances"
+164,CP180452,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Gas (ND)"
+165,CP180724,Consumer Price Index > COICOP 2018 > Transport (COICOP 07) > Other services in respect of personal transport equipment (S)
+166,CP180620,Consumer Price Index > COICOP 2018 > Health (COICOP 06) > Out-patient services
+167,CP180500,"Consumer Price Index > COICOP 2018 > Furnishings, household equipment and routine household maintenance (COICOP > Total"
+168,CP180721,Consumer Price Index > COICOP 2018 > Transport (COICOP 07) > Parts and accessories for personal transport equipment (SD)
+169,CP180910,"Consumer Price Index > COICOP 2018 > Recreation, sport and culture  (COICOP 09) > Recreational durables"
+170,CP180432,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Services for the maintenance, repair and security of the dwelling (S)"
+171,CP180310,Consumer Price Index > COICOP 2018 > Clothing and footwear (COICOP 03) > Clothing
+172,CP180117,"Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Vegetables, tubers, plantains, cooking bananas and pulses (ND)"
+173,CP180114,"Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Milk, other dairy products and eggs (ND)"
+174,CP18ALTT,Consumer Price Index > COICOP 2018 > All items > All items
+175,CP180400,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Total"
+176,CP180112,"Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Live animals, meat and other parts of slaughtered land animals (ND)"
+177,CP180440,"Consumer Price Index > COICOP 2018 > Housing, water, electricity, gas and other fuels (COICOP 04) > Water supply and miscellaneous services relating to the dwelling"
+178,CP180200,"Consumer Price Index > COICOP 2018 > Alcoholic beverages, tobacco and narcotics (COICOP 02) > Total"
+179,CP180110,Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Food
+180,CP180960,"Consumer Price Index > COICOP 2018 > Recreation, sport and culture  (COICOP 09) > Cultural services"
+181,CP181120,Consumer Price Index > COICOP 2018 > Restaurants and accommodation services (COICOP 11) > Accommodation services
+182,CP180930,"Consumer Price Index > COICOP 2018 > Recreation, sport and culture  (COICOP 09) > Garden products and pets"
+183,CP180722,Consumer Price Index > COICOP 2018 > Transport (COICOP 07) > Fuels and lubricants for personal transport equipment (ND)
+184,CP180100,Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Total
+185,CP180723,Consumer Price Index > COICOP 2018 > Transport (COICOP 07) > Maintenance and repair of personal transport equipment (S)
+186,CP180980,"Consumer Price Index > COICOP 2018 > Recreation, sport and culture  (COICOP 09) > Package holidays"
+187,CP181210,Consumer Price Index > COICOP 2018 > Insurance and financial services (COICOP 12) > Insurance
+188,CP180113,Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Fish and other seafood (ND)
+189,CP180970,"Consumer Price Index > COICOP 2018 > Recreation, sport and culture  (COICOP 09) > Newspapers, books and stationery"
+190,CP180119,Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Ready-made food and other food products n.e.c. (ND)
+191,CP181310,"Consumer Price Index > COICOP 2018 > Personal care, social protection, miscellaneous goods & services (COICOP 13 > Personal care"
+192,CP181110,Consumer Price Index > COICOP 2018 > Restaurants and accommodation services (COICOP 11) > Food and beverage serving services
+193,CP181330,"Consumer Price Index > COICOP 2018 > Personal care, social protection, miscellaneous goods & services (COICOP 13 > Social protection"
+194,CP181220,Consumer Price Index > COICOP 2018 > Insurance and financial services (COICOP 12) > Financial services
+195,CP181100,Consumer Price Index > COICOP 2018 > Restaurants and accommodation services (COICOP 11) > Total
+196,CP181300,"Consumer Price Index > COICOP 2018 > Personal care, social protection, miscellaneous goods & services (COICOP 13 > Total"
+197,CP181200,Consumer Price Index > COICOP 2018 > Insurance and financial services (COICOP 12) > Total
+198,CP181320,"Consumer Price Index > COICOP 2018 > Personal care, social protection, miscellaneous goods & services (COICOP 13 > Other personal effects"
+199,CP180111,Consumer Price Index > COICOP 2018 > Food and non-Alcoholic beverages (COICOP 01) > Cereals and cereal products (ND)
+200,CP180900,"Consumer Price Index > COICOP 2018 > Recreation, sport and culture  (COICOP 09) > Total"
+201,CP180630,Consumer Price Index > COICOP 2018 > Health (COICOP 06) > Inpatient care services
+202,CP180940,"Consumer Price Index > COICOP 2018 > Recreation, sport and culture  (COICOP 09) > Recreational services"
+203,CP180830,Consumer Price Index > COICOP 2018 > Information and communication (COICOP 08) > Information and communication services
+204,CP180710,Consumer Price Index > COICOP 2018 > Transport (COICOP 07) > Purchase of vehicles
+205,CP181000,Consumer Price Index > COICOP 2018 > Education services (COICOP 10) > Total
+206,CP180720,Consumer Price Index > COICOP 2018 > Transport (COICOP 07) > Operation of personal transport equipment
+207,CP180800,Consumer Price Index > COICOP 2018 > Information and communication (COICOP 08) > Total
+208,CP18GRL2,Consumer Price Index > COICOP 2018 > OECD Groups > Services less housing (Housing excluding imputed rentals for housing)
+209,CP18GRLE,Consumer Price Index > COICOP 2018 > OECD Groups > All items non-food non-energy
+210,CP18GRGO,Consumer Price Index > COICOP 2018 > OECD Groups > Goods
+211,CP18GREN,Consumer Price Index > COICOP 2018 > OECD Groups > Energy
+212,CP18GRH2,Consumer Price Index > COICOP 2018 > OECD Groups > Housing excluding imputed rentals for housing
+213,CP18GRSE,Consumer Price Index > COICOP 2018 > OECD Groups > Services
+214,LRAC74TT,Labour Force Survey - quarterly rates > Activity rate > Aged 15-74 > All persons
+215,LRAC55MA,Labour Force Survey - quarterly rates > Activity rate > Aged 55-64 > Males
+216,LRAC64FE,Labour Force Survey - quarterly rates > Activity rate > Aged 15-64 > Females
+217,LRAC25TT,Labour Force Survey - quarterly rates > Activity rate > Aged 25-54 > All persons
+218,LRAC74FE,Labour Force Survey - quarterly rates > Activity rate > Aged 15-74 > Females
+219,LRAC64MA,Labour Force Survey - quarterly rates > Activity rate > Aged 15-64 > Males
+220,LRAC55TT,Labour Force Survey - quarterly rates > Activity rate > Aged 55-64 > All persons
+221,LRAC25FE,Labour Force Survey - quarterly rates > Activity rate > Aged 25-54 > Females
+222,LRAC74MA,Labour Force Survey - quarterly rates > Activity rate > Aged 15-74 > Males
+223,LRAC64TT,Labour Force Survey - quarterly rates > Activity rate > Aged 15-64 > All persons
+224,LRAC25MA,Labour Force Survey - quarterly rates > Activity rate > Aged 25-54 > Males
+225,LRAC55FE,Labour Force Survey - quarterly rates > Activity rate > Aged 55-64 > Females
+226,CP180300,Consumer Price Index > COICOP 2018 > Clothing and footwear (COICOP 03) > Total
+227,CP18SDCT,Consumer Price Index > COICOP 2018 > Statistical discrepancy > Annual inflation

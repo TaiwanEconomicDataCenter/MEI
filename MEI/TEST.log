@@ -1,73 +1,61 @@
-﻿2023-10-03 12:37:14 PM Checking Identities: 12713 s
+﻿2023-11-03 02:17:13 PM Checking Identities: 12984 s
 
-2023-10-03 12:37:19 PM Index A156SRTO01IOS.a form_c inconsistent
-2023-10-03 12:37:19 PM DF_KEY = 2017=100
-2023-10-03 12:37:19 PM df_key = 2015=100
-2023-10-03 12:37:19 PM Index A156SRTO01MLS.a desc_e inconsistent
-2023-10-03 12:37:19 PM DF_KEY = Sales > Retail trade > Total retail trade > Volume, Monthly level, s.a., Millions of Index(2017=100) - Canada
-2023-10-03 12:37:19 PM df_key = Sales > Retail trade > Total retail trade > Volume, Monthly level, s.a., Millions of Canadian Dollar - Canada
-2023-10-03 12:37:19 PM Index A156SRTO01MLS.a unit inconsistent
-2023-10-03 12:37:19 PM DF_KEY = Millions of Index
-2023-10-03 12:37:19 PM df_key = Millions of Canadian Dollar
-2023-10-03 12:37:19 PM Index A156SRTO01MLS.a form_c inconsistent
-2023-10-03 12:37:19 PM DF_KEY = 2017=100
-2023-10-03 12:37:19 PM df_key = 
-2023-10-03 12:37:30 PM Index M156SRTO01GPS.m desc_e inconsistent
-2023-10-03 12:37:30 PM DF_KEY = Sales > Retail trade > Total retail trade > Volume, Growth rate previous period, s.a., Units of Index(2017=100) - Canada
-2023-10-03 12:37:30 PM df_key = Sales > Retail trade > Total retail trade > Volume, Growth rate previous period, s.a., Units of Percentage - Canada
-2023-10-03 12:37:30 PM Index M156SRTO01GPS.m unit inconsistent
-2023-10-03 12:37:30 PM DF_KEY = Units of Index
-2023-10-03 12:37:30 PM df_key = Units of Percentage
-2023-10-03 12:37:30 PM Index M156SRTO01GPS.m form_c inconsistent
-2023-10-03 12:37:30 PM DF_KEY = 2017=100
-2023-10-03 12:37:30 PM df_key = 
-2023-10-03 12:37:30 PM Index M156SRTO01GYS.m desc_e inconsistent
-2023-10-03 12:37:30 PM DF_KEY = Sales > Retail trade > Total retail trade > Volume, Growth rate same period previous year, s.a., Units of Index(2017=100) - Canada
-2023-10-03 12:37:30 PM df_key = Sales > Retail trade > Total retail trade > Volume, Growth rate same period previous year, s.a., Units of Percentage - Canada
-2023-10-03 12:37:30 PM Index M156SRTO01GYS.m unit inconsistent
-2023-10-03 12:37:30 PM DF_KEY = Units of Index
-2023-10-03 12:37:30 PM df_key = Units of Percentage
-2023-10-03 12:37:30 PM Index M156SRTO01GYS.m form_c inconsistent
-2023-10-03 12:37:30 PM DF_KEY = 2017=100
-2023-10-03 12:37:30 PM df_key = 
-2023-10-03 12:37:30 PM Index M156SRTO01IOS.m form_c inconsistent
-2023-10-03 12:37:30 PM DF_KEY = 2017=100
-2023-10-03 12:37:30 PM df_key = 2015=100
-2023-10-03 12:37:30 PM Index M156SRTO01MLS.m desc_e inconsistent
-2023-10-03 12:37:30 PM DF_KEY = Sales > Retail trade > Total retail trade > Volume, Monthly level, s.a., Millions of Index(2017=100) - Canada
-2023-10-03 12:37:30 PM df_key = Sales > Retail trade > Total retail trade > Volume, Monthly level, s.a., Millions of Canadian Dollar - Canada
-2023-10-03 12:37:30 PM Index M156SRTO01MLS.m unit inconsistent
-2023-10-03 12:37:30 PM DF_KEY = Millions of Index
-2023-10-03 12:37:30 PM df_key = Millions of Canadian Dollar
-2023-10-03 12:37:30 PM Index M156SRTO01MLS.m form_c inconsistent
-2023-10-03 12:37:30 PM DF_KEY = 2017=100
-2023-10-03 12:37:30 PM df_key = 
-2023-10-03 12:37:39 PM Index Q156SRTO01IOS.q form_c inconsistent
-2023-10-03 12:37:39 PM DF_KEY = 2017=100
-2023-10-03 12:37:39 PM df_key = 2015=100
-2023-10-03 12:37:39 PM Index Q156SRTO01MLS.q desc_e inconsistent
-2023-10-03 12:37:39 PM DF_KEY = Sales > Retail trade > Total retail trade > Volume, Monthly level, s.a., Millions of Index(2017=100) - Canada
-2023-10-03 12:37:39 PM df_key = Sales > Retail trade > Total retail trade > Volume, Monthly level, s.a., Millions of Canadian Dollar - Canada
-2023-10-03 12:37:39 PM Index Q156SRTO01MLS.q unit inconsistent
-2023-10-03 12:37:39 PM DF_KEY = Millions of Index
-2023-10-03 12:37:39 PM df_key = Millions of Canadian Dollar
-2023-10-03 12:37:39 PM Index Q156SRTO01MLS.q form_c inconsistent
-2023-10-03 12:37:39 PM DF_KEY = 2017=100
-2023-10-03 12:37:39 PM df_key = 
-2023-10-03 12:37:46 PM unknown: 0
-2023-10-03 12:37:46 PM name too long: 0
-2023-10-03 12:37:46 PM inconsistent: 18
-2023-10-03 12:37:46 PM Total desc_e inconsistent: 5
-2023-10-03 12:37:46 PM Total desc_c inconsistent: 0
-2023-10-03 12:37:46 PM Total freq inconsistent: 0
-2023-10-03 12:37:46 PM Total unit inconsistent: 5
-2023-10-03 12:37:46 PM Total name_ord inconsistent: 0
-2023-10-03 12:37:46 PM Total book inconsistent: 0
-2023-10-03 12:37:46 PM Total form_e inconsistent: 0
-2023-10-03 12:37:46 PM Total form_c inconsistent: 8
-2023-10-03 12:37:46 PM inconsistent earliest: 1991
-2023-10-03 12:37:46 PM base updated: 0
-2023-10-03 12:37:46 PM data updated: 29032
-2023-10-03 12:37:46 PM including weekly: False
-2023-10-03 12:37:46 PM too many months: False
-2023-10-03 12:37:50 PM unfound: 4605
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LC24FESTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LC24MASTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LC24TTSTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LCTTFEGPS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LCTTFESTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LCTTMAGPS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LCTTMASTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LCTTTTGPS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LCTTTTSTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LH24FESTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LH24MASTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LH24TTSTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LHADFESTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LHADMASTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LHADTTSTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LHTTFESTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LHTTMASTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LHTTTTSTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LM24FEGPS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LM24FESTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LM24MAGPS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LM24MASTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LM24TTGPS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LM24TTSTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LMTTFEGPS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LMTTFESTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LMTTMAGPS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LMTTMASTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LMTTTTGPS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LMTTTTSTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LN24FESTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LN24MASTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LN24TTSTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LNTTFESTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LNTTMASTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LNTTTTSTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LT24FESTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LT24MASTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LT24TTSTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LTTTFESTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LTTTMASTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LTTTTTSTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LU24FESTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LU24MASTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LU24TTSTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LUADFESTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LUADMASTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LUADTTSTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LUTTFESTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LUTTMASTS.q
+2023-11-03 02:17:46 PM The program did not fetch the latest data for: Q146LUTTTTSTS.q
+2023-11-03 02:17:57 PM unknown: 0
+2023-11-03 02:17:57 PM name too long: 0
+2023-11-03 02:17:57 PM inconsistent: 0
+2023-11-03 02:17:57 PM base updated: 0
+2023-11-03 02:17:57 PM data updated: 28154
+2023-11-03 02:17:57 PM including weekly: False
+2023-11-03 02:17:57 PM too many months: False
+2023-11-03 02:18:01 PM unfound: 4538
