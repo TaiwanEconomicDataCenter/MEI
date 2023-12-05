@@ -1,66 +1,66 @@
-﻿2023-11-03 02:19:16 PM excel_suffix: mysql
+﻿2023-12-04 09:01:21 AM excel_suffix: mysql
 
-2023-11-03 02:19:16 PM data_processing: False
+2023-12-04 09:01:21 AM data_processing: False
 
-2023-11-03 02:19:16 PM find_unknown: False
+2023-12-04 09:01:21 AM find_unknown: False
 
-2023-11-03 02:19:16 PM dealing_start_year: 1947
+2023-12-04 09:01:21 AM dealing_start_year: 1947
 
-2023-11-03 02:20:56 PM Process: File Merging
+2023-12-04 09:02:19 AM Process: File Merging
 
-2023-11-03 02:20:56 PM Reading main key: MEI_keyNEW.xlsx, Time: 100 s
+2023-12-04 09:02:19 AM Reading main key: MEI_keyNEW.xlsx, Time: 57 s
 
-2023-11-03 02:20:57 PM Reading main database: MEI_databaseNEW.xlsx, Time: 101 s
+2023-12-04 09:02:19 AM Reading main database: MEI_databaseNEW.xlsx, Time: 58 s
 
-2023-11-03 02:20:57 PM Merging File, Time: 101 s
+2023-12-04 09:02:19 AM Merging File, Time: 58 s
 
-2023-11-03 02:21:16 PM Setting files, Time: 120 s
+2023-12-04 09:02:38 AM Setting files, Time: 76 s
 
-2023-11-03 02:21:16 PM Concating file: MEI_key?, Time: 120 s
+2023-12-04 09:02:38 AM Concating file: MEI_key?, Time: 76 s
 
-2023-11-03 02:21:16 PM Concating file: MEI_database?, Time: 120 s
+2023-12-04 09:02:38 AM Concating file: MEI_database?, Time: 76 s
 
-2023-11-03 02:21:16 PM Time: 120 s
+2023-12-04 09:02:38 AM Time: 76 s
 
-2023-11-03 02:23:10 PM Setting new files, Time: 234 s
+2023-12-04 09:04:09 AM Setting new files, Time: 168 s
 
-2023-11-03 03:08:56 PM Concating new files: MEI_database, Time: 2980 s
+2023-12-04 09:47:05 AM Concating new files: MEI_database, Time: 2743 s
 
-2023-11-03 03:11:22 PM Process: File Updating
+2023-12-04 09:48:51 AM Process: File Updating
 
-2023-11-03 03:11:22 PM Reading main key: MEI_keyUP.xlsx, Time: 3126 s
+2023-12-04 09:48:51 AM Reading main key: MEI_keyUP.xlsx, Time: 2850 s
 
-2023-11-03 03:11:46 PM Reading main database: MEI_database_1UP, Time: 3150 s
+2023-12-04 09:49:20 AM Reading main database: MEI_database_1UP, Time: 2878 s
 
-2023-11-03 03:12:08 PM Reading main database: MEI_database_2UP, Time: 3172 s
+2023-12-04 09:49:46 AM Reading main database: MEI_database_2UP, Time: 2905 s
 
-2023-11-03 03:12:33 PM Reading main database: MEI_database_3UP, Time: 3197 s
+2023-12-04 09:50:19 AM Reading main database: MEI_database_3UP, Time: 2937 s
 
-2023-11-03 03:12:58 PM Reading main database: MEI_database_4UP, Time: 3222 s
+2023-12-04 09:50:51 AM Reading main database: MEI_database_4UP, Time: 2969 s
 
-2023-11-03 03:13:17 PM Reading main database: MEI_database_5UP, Time: 3241 s
+2023-12-04 09:51:16 AM Reading main database: MEI_database_5UP, Time: 2994 s
 
-2023-11-03 03:13:55 PM Reading main database: MEI_database_6UP, Time: 3279 s
+2023-12-04 09:52:06 AM Reading main database: MEI_database_6UP, Time: 3044 s
 
-2023-11-03 03:14:33 PM Reading main database: MEI_database_7UP, Time: 3317 s
+2023-12-04 09:52:55 AM Reading main database: MEI_database_7UP, Time: 3093 s
 
-2023-11-03 03:15:00 PM Updating file: 0 s
+2023-12-04 09:53:31 AM Updating file: 0 s
 
-2023-11-03 05:51:31 PM updated: 28187
+2023-12-04 12:25:41 PM updated: 20200
 
-2023-11-03 05:51:31 PM Time: 9391 s
+2023-12-04 12:25:41 PM Time: 9130 s
 
-2023-11-06 08:54:59 AM        databank             name   db_table  db_code                                             desc_e          desc_c freq    start     last                   unit name_ord     snl           book                    form_e    form_c
-0           MEI  A111B6BD20CCU.a  DB_A_0001  data001  Balance of payments BPM6 > Current account Bal...    B6BLTD20CXCU    A     1999     2022  Millions of US Dollar      USA       1  United States  Balance of payments BPM6       NaN
-1           MEI  A111B6BD20NCU.a  DB_A_0001  data002  Balance of payments BPM6 > Current account Bal...    B6BLTD20NCCU    A     1999     2022  Millions of US Dollar      USA       2  United States  Balance of payments BPM6       NaN
-2           MEI  A111B6BLPICCS.a  DB_A_0001  data003  Balance of payments BPM6 > Current account Bal...  B6BLPI01CXCUSA    A     1960     2022  Millions of US Dollar      USA       3  United States  Balance of payments BPM6       NaN
-3           MEI  A111B6BLPICCU.a  DB_A_0001  data004  Balance of payments BPM6 > Current account Bal...    B6BLPI01CXCU    A     1960     2022  Millions of US Dollar      USA       4  United States  Balance of payments BPM6       NaN
-4           MEI  A111B6BLPINCS.a  DB_A_0001  data005  Balance of payments BPM6 > Current account Bal...  B6BLPI01NCCUSA    A     1960     2022  Millions of US Dollar      USA       5  United States  Balance of payments BPM6       NaN
-...         ...              ...        ...      ...                                                ...             ...  ...      ...      ...                    ...      ...     ...            ...                       ...       ...
-106966      MEI  Q968SRTO01GYS.q  DB_Q_0204  data044  Sales > Retail trade > Total retail trade > Vo...    SLRTTO01GYSA    Q  2001-Q1  2023-Q2    Units of Percentage      ROU  106967        Romania                     Sales       NaN
-106967      MEI  Q968SRTO01IOB.q  DB_Q_0204  data045  Sales > Retail trade > Total retail trade > Vo...    SLRTTO01IXOB    Q  2000-Q1  2023-Q2         Units of Index      ROU  106968        Romania                     Sales  2015=100
-106968      MEI  Q968SRTO01IOS.q  DB_Q_0204  data046  Sales > Retail trade > Total retail trade > Vo...  SLRTTO01IXOBSA    Q  2000-Q1  2023-Q2         Units of Index      ROU  106969        Romania                     Sales  2015=100
-106969      MEI  Q968SRTO02IOB.q  DB_Q_0204  data047  Sales > Retail trade > Total retail trade > Va...    SLRTTO02IXOB    Q  2000-Q1  2023-Q2         Units of Index      ROU  106970        Romania                     Sales  2015=100
-106970      MEI  Q968SRTO02IOS.q  DB_Q_0204  data048  Sales > Retail trade > Total retail trade > Va...  SLRTTO02IXOBSA    Q  2000-Q1  2023-Q2         Units of Index      ROU  106971        Romania                     Sales  2015=100
+2023-12-05 08:57:16 AM        databank             name   db_table  db_code                                             desc_e          desc_c freq  ...     last                   unit name_ord     snl           book                    form_e    form_c
+0           MEI  A111B6BD20CCU.a  DB_A_0001  data001  Balance of payments BPM6 > Current account Bal...    B6BLTD20CXCU    A  ...     2022  Millions of US Dollar      USA       1  United States  Balance of payments BPM6       NaN
+1           MEI  A111B6BD20NCU.a  DB_A_0001  data002  Balance of payments BPM6 > Current account Bal...    B6BLTD20NCCU    A  ...     2022  Millions of US Dollar      USA       2  United States  Balance of payments BPM6       NaN
+2           MEI  A111B6BLPICCS.a  DB_A_0001  data003  Balance of payments BPM6 > Current account Bal...  B6BLPI01CXCUSA    A  ...     2022  Millions of US Dollar      USA       3  United States  Balance of payments BPM6       NaN
+3           MEI  A111B6BLPICCU.a  DB_A_0001  data004  Balance of payments BPM6 > Current account Bal...    B6BLPI01CXCU    A  ...     2022  Millions of US Dollar      USA       4  United States  Balance of payments BPM6       NaN
+4           MEI  A111B6BLPINCS.a  DB_A_0001  data005  Balance of payments BPM6 > Current account Bal...  B6BLPI01NCCUSA    A  ...     2022  Millions of US Dollar      USA       5  United States  Balance of payments BPM6       NaN
+...         ...              ...        ...      ...                                                ...             ...  ...  ...      ...                    ...      ...     ...            ...                       ...       ...
+106997      MEI  Q968SRTO01GYS.q  DB_Q_0204  data054  Sales > Retail trade > Total retail trade > Vo...    SLRTTO01GYSA    Q  ...  2023-Q3    Units of Percentage      ROU  106998        Romania                     Sales       NaN
+106998      MEI  Q968SRTO01IOB.q  DB_Q_0204  data055  Sales > Retail trade > Total retail trade > Vo...    SLRTTO01IXOB    Q  ...  2023-Q3         Units of Index      ROU  106999        Romania                     Sales  2015=100
+106999      MEI  Q968SRTO01IOS.q  DB_Q_0204  data056  Sales > Retail trade > Total retail trade > Vo...  SLRTTO01IXOBSA    Q  ...  2023-Q3         Units of Index      ROU  107000        Romania                     Sales  2015=100
+107000      MEI  Q968SRTO02IOB.q  DB_Q_0204  data057  Sales > Retail trade > Total retail trade > Va...    SLRTTO02IXOB    Q  ...  2023-Q3         Units of Index      ROU  107001        Romania                     Sales  2015=100
+107001      MEI  Q968SRTO02IOS.q  DB_Q_0204  data058  Sales > Retail trade > Total retail trade > Va...  SLRTTO02IXOBSA    Q  ...  2023-Q3         Units of Index      ROU  107002        Romania                     Sales  2015=100
 
-[106971 rows x 15 columns]
+[107002 rows x 15 columns]
