@@ -1,52 +1,173 @@
-﻿2023-12-01 06:40:35 PM Checking Identities: 12829 s
+﻿2024-01-05 01:50:22 PM Checking Identities: 12271 s
 
-2023-12-01 06:40:54 PM Index M542PMTO01GPS.m desc_e inconsistent
-2023-12-01 06:40:54 PM DF_KEY = Production > Manufacturing > Total manufacturing > Total manufacturing, Growth rate previous period, s.a., Units of Percentage - Korea
-2023-12-01 06:40:54 PM df_key = Production > Manufacturing > Total manufacturing > Total manufacturing, Growth rate previous period, s.a., Units of Index(2015=100) - Korea
-2023-12-01 06:40:54 PM Index M542PMTO01GPS.m unit inconsistent
-2023-12-01 06:40:54 PM DF_KEY = Units of Percentage
-2023-12-01 06:40:54 PM df_key = Units of Index
-2023-12-01 06:40:54 PM Index M542PMTO01GPS.m form_c inconsistent
-2023-12-01 06:40:54 PM DF_KEY = None
-2023-12-01 06:40:54 PM df_key = 2015=100
-2023-12-01 06:40:54 PM Index M542PMTO01GYS.m desc_e inconsistent
-2023-12-01 06:40:54 PM DF_KEY = Production > Manufacturing > Total manufacturing > Total manufacturing, Growth rate same period previous year, s.a., Units of Percentage - Korea
-2023-12-01 06:40:54 PM df_key = Production > Manufacturing > Total manufacturing > Total manufacturing, Growth rate same period previous year, s.a., Units of Index(2015=100) - Korea
-2023-12-01 06:40:54 PM Index M542PMTO01GYS.m unit inconsistent
-2023-12-01 06:40:54 PM DF_KEY = Units of Percentage
-2023-12-01 06:40:54 PM df_key = Units of Index
-2023-12-01 06:40:54 PM Index M542PMTO01GYS.m form_c inconsistent
-2023-12-01 06:40:54 PM DF_KEY = None
-2023-12-01 06:40:54 PM df_key = 2015=100
-2023-12-01 06:40:54 PM Index M542PRIT01GYS.m desc_e inconsistent
-2023-12-01 06:40:54 PM DF_KEY = Production > Industry > Total industry > Total industry excluding construction, Growth rate same period previous year, s.a., Units of Percentage - Korea
-2023-12-01 06:40:54 PM df_key = Production > Industry > Total industry > Total industry excluding construction, Growth rate same period previous year, s.a., Units of Index(2015=100) - Korea
-2023-12-01 06:40:54 PM Index M542PRIT01GYS.m unit inconsistent
-2023-12-01 06:40:54 PM DF_KEY = Units of Percentage
-2023-12-01 06:40:54 PM df_key = Units of Index
-2023-12-01 06:40:54 PM Index M542PRIT01GYS.m form_c inconsistent
-2023-12-01 06:40:54 PM DF_KEY = None
-2023-12-01 06:40:54 PM df_key = 2015=100
-2023-12-01 06:40:58 PM The program did not fetch the latest data for: Q128LM24FEGPS.q
-2023-12-01 06:40:58 PM The program did not fetch the latest data for: Q128LM24FESTS.q
-2023-12-01 06:40:58 PM The program did not fetch the latest data for: Q128LM24MAGPS.q
-2023-12-01 06:40:58 PM The program did not fetch the latest data for: Q128LM24MASTS.q
-2023-12-01 06:40:58 PM The program did not fetch the latest data for: Q128LM24TTGPS.q
-2023-12-01 06:40:58 PM The program did not fetch the latest data for: Q128LM24TTSTS.q
-2023-12-01 06:41:08 PM unknown: 0
-2023-12-01 06:41:08 PM name too long: 0
-2023-12-01 06:41:08 PM inconsistent: 9
-2023-12-01 06:41:08 PM Total desc_e inconsistent: 3
-2023-12-01 06:41:08 PM Total desc_c inconsistent: 0
-2023-12-01 06:41:08 PM Total freq inconsistent: 0
-2023-12-01 06:41:08 PM Total unit inconsistent: 3
-2023-12-01 06:41:08 PM Total name_ord inconsistent: 0
-2023-12-01 06:41:08 PM Total book inconsistent: 0
-2023-12-01 06:41:08 PM Total form_e inconsistent: 0
-2023-12-01 06:41:08 PM Total form_c inconsistent: 3
-2023-12-01 06:41:08 PM inconsistent earliest: 1990
-2023-12-01 06:41:08 PM base updated: 0
-2023-12-01 06:41:08 PM data updated: 20198
-2023-12-01 06:41:08 PM including weekly: False
-2023-12-01 06:41:08 PM too many months: False
-2023-12-01 06:41:11 PM unfound: 4603
+2024-01-05 01:50:28 PM Index A156PMTO01IOB.a desc_e inconsistent
+2024-01-05 01:50:28 PM DF_KEY = Production > Manufacturing > Total manufacturing > Total manufacturing, Index 2015=100, Units of Index - Canada
+2024-01-05 01:50:28 PM df_key = Production > Manufacturing > Total manufacturing > Total manufacturing, Index 2015=100, Units of Canadian Dollar - Canada
+2024-01-05 01:50:28 PM Index A156PMTO01IOB.a unit inconsistent
+2024-01-05 01:50:28 PM DF_KEY = Units of Index
+2024-01-05 01:50:28 PM df_key = Units of Canadian Dollar
+2024-01-05 01:50:28 PM Index A156PMTO01IOS.a desc_e inconsistent
+2024-01-05 01:50:28 PM DF_KEY = Production > Manufacturing > Total manufacturing > Total manufacturing, Index 2015=100, s.a., Units of Index - Canada
+2024-01-05 01:50:28 PM df_key = Production > Manufacturing > Total manufacturing > Total manufacturing, Index 2015=100, s.a., Units of Canadian Dollar - Canada
+2024-01-05 01:50:28 PM Index A156PMTO01IOS.a unit inconsistent
+2024-01-05 01:50:28 PM DF_KEY = Units of Index
+2024-01-05 01:50:28 PM df_key = Units of Canadian Dollar
+2024-01-05 01:50:28 PM Index A156PRCNTOIOS.a desc_e inconsistent
+2024-01-05 01:50:28 PM DF_KEY = Production > Construction > Total construction > Total, Index 2015=100, s.a., Units of Index - Canada
+2024-01-05 01:50:28 PM df_key = Production > Construction > Total construction > Total, Index 2015=100, s.a., Units of Canadian Dollar - Canada
+2024-01-05 01:50:28 PM Index A156PRCNTOIOS.a unit inconsistent
+2024-01-05 01:50:28 PM DF_KEY = Units of Index
+2024-01-05 01:50:28 PM df_key = Units of Canadian Dollar
+2024-01-05 01:50:28 PM Index A156PRIT01GYS.a desc_e inconsistent
+2024-01-05 01:50:28 PM DF_KEY = Production > Industry > Total industry > Total industry excluding construction, Growth rate same period previous year, s.a., Units of Percentage points - Canada
+2024-01-05 01:50:28 PM df_key = Production > Industry > Total industry > Total industry excluding construction, Growth rate same period previous year, s.a., Units of Percentage - Canada
+2024-01-05 01:50:28 PM Index A156PRIT01GYS.a unit inconsistent
+2024-01-05 01:50:28 PM DF_KEY = Units of Percentage points
+2024-01-05 01:50:28 PM df_key = Units of Percentage
+2024-01-05 01:50:28 PM Index A156PRIT01IOB.a desc_e inconsistent
+2024-01-05 01:50:28 PM DF_KEY = Production > Industry > Total industry > Total industry excluding construction, Index 2015=100, Units of Index - Canada
+2024-01-05 01:50:28 PM df_key = Production > Industry > Total industry > Total industry excluding construction, Index 2015=100, Units of Canadian Dollar - Canada
+2024-01-05 01:50:28 PM Index A156PRIT01IOB.a unit inconsistent
+2024-01-05 01:50:28 PM DF_KEY = Units of Index
+2024-01-05 01:50:28 PM df_key = Units of Canadian Dollar
+2024-01-05 01:50:28 PM Index A156PRIT01IOS.a desc_e inconsistent
+2024-01-05 01:50:28 PM DF_KEY = Production > Industry > Total industry > Total industry excluding construction, Index 2015=100, s.a., Units of Index - Canada
+2024-01-05 01:50:28 PM df_key = Production > Industry > Total industry > Total industry excluding construction, Index 2015=100, s.a., Units of Canadian Dollar - Canada
+2024-01-05 01:50:28 PM Index A156PRIT01IOS.a unit inconsistent
+2024-01-05 01:50:28 PM DF_KEY = Units of Index
+2024-01-05 01:50:28 PM df_key = Units of Canadian Dollar
+2024-01-05 01:50:41 PM Index M156PMTO01IOB.m desc_e inconsistent
+2024-01-05 01:50:41 PM DF_KEY = Production > Manufacturing > Total manufacturing > Total manufacturing, Index 2015=100, Units of Index - Canada
+2024-01-05 01:50:41 PM df_key = Production > Manufacturing > Total manufacturing > Total manufacturing, Index 2015=100, Units of Canadian Dollar - Canada
+2024-01-05 01:50:41 PM Index M156PMTO01IOB.m unit inconsistent
+2024-01-05 01:50:41 PM DF_KEY = Units of Index
+2024-01-05 01:50:41 PM df_key = Units of Canadian Dollar
+2024-01-05 01:50:41 PM Index M156PMTO01IOS.m desc_e inconsistent
+2024-01-05 01:50:41 PM DF_KEY = Production > Manufacturing > Total manufacturing > Total manufacturing, Index 2015=100, s.a., Units of Index - Canada
+2024-01-05 01:50:41 PM df_key = Production > Manufacturing > Total manufacturing > Total manufacturing, Index 2015=100, s.a., Units of Canadian Dollar - Canada
+2024-01-05 01:50:41 PM Index M156PMTO01IOS.m unit inconsistent
+2024-01-05 01:50:41 PM DF_KEY = Units of Index
+2024-01-05 01:50:41 PM df_key = Units of Canadian Dollar
+2024-01-05 01:50:41 PM Index M156PRCNTOIOS.m desc_e inconsistent
+2024-01-05 01:50:41 PM DF_KEY = Production > Construction > Total construction > Total, Index 2015=100, s.a., Units of Index - Canada
+2024-01-05 01:50:41 PM df_key = Production > Construction > Total construction > Total, Index 2015=100, s.a., Units of Canadian Dollar - Canada
+2024-01-05 01:50:41 PM Index M156PRCNTOIOS.m unit inconsistent
+2024-01-05 01:50:41 PM DF_KEY = Units of Index
+2024-01-05 01:50:41 PM df_key = Units of Canadian Dollar
+2024-01-05 01:50:41 PM Index M156PRIT01GYS.m desc_e inconsistent
+2024-01-05 01:50:41 PM DF_KEY = Production > Industry > Total industry > Total industry excluding construction, Growth rate same period previous year, s.a., Units of Percentage points - Canada
+2024-01-05 01:50:41 PM df_key = Production > Industry > Total industry > Total industry excluding construction, Growth rate same period previous year, s.a., Units of Percentage - Canada
+2024-01-05 01:50:41 PM Index M156PRIT01GYS.m unit inconsistent
+2024-01-05 01:50:41 PM DF_KEY = Units of Percentage points
+2024-01-05 01:50:41 PM df_key = Units of Percentage
+2024-01-05 01:50:41 PM Index M156PRIT01IOB.m desc_e inconsistent
+2024-01-05 01:50:41 PM DF_KEY = Production > Industry > Total industry > Total industry excluding construction, Index 2015=100, Units of Index - Canada
+2024-01-05 01:50:41 PM df_key = Production > Industry > Total industry > Total industry excluding construction, Index 2015=100, Units of Canadian Dollar - Canada
+2024-01-05 01:50:41 PM Index M156PRIT01IOB.m unit inconsistent
+2024-01-05 01:50:41 PM DF_KEY = Units of Index
+2024-01-05 01:50:41 PM df_key = Units of Canadian Dollar
+2024-01-05 01:50:41 PM Index M156PRIT01IOS.m desc_e inconsistent
+2024-01-05 01:50:41 PM DF_KEY = Production > Industry > Total industry > Total industry excluding construction, Index 2015=100, s.a., Units of Index - Canada
+2024-01-05 01:50:41 PM df_key = Production > Industry > Total industry > Total industry excluding construction, Index 2015=100, s.a., Units of Canadian Dollar - Canada
+2024-01-05 01:50:41 PM Index M156PRIT01IOS.m unit inconsistent
+2024-01-05 01:50:41 PM DF_KEY = Units of Index
+2024-01-05 01:50:41 PM df_key = Units of Canadian Dollar
+2024-01-05 01:50:41 PM Index M158PRIT01GPS.m desc_e inconsistent
+2024-01-05 01:50:41 PM DF_KEY = Production > Industry > Total industry > Total industry excluding construction, Growth rate previous period, s.a., Units of Index(2015=100) - Japan
+2024-01-05 01:50:41 PM df_key = Production > Industry > Total industry > Total industry excluding construction, Growth rate previous period, s.a., Units of Percentage - Japan
+2024-01-05 01:50:41 PM Index M158PRIT01GPS.m unit inconsistent
+2024-01-05 01:50:41 PM DF_KEY = Units of Index
+2024-01-05 01:50:41 PM df_key = Units of Percentage
+2024-01-05 01:50:41 PM Index M158PRIT01GPS.m form_c inconsistent
+2024-01-05 01:50:41 PM DF_KEY = 2015=100
+2024-01-05 01:50:41 PM df_key = 
+2024-01-05 01:50:41 PM Index M158PRIT01GYS.m desc_e inconsistent
+2024-01-05 01:50:41 PM DF_KEY = Production > Industry > Total industry > Total industry excluding construction, Growth rate same period previous year, s.a., Units of Index(2015=100) - Japan
+2024-01-05 01:50:41 PM df_key = Production > Industry > Total industry > Total industry excluding construction, Growth rate same period previous year, s.a., Units of Percentage - Japan
+2024-01-05 01:50:41 PM Index M158PRIT01GYS.m unit inconsistent
+2024-01-05 01:50:41 PM DF_KEY = Units of Index
+2024-01-05 01:50:41 PM df_key = Units of Percentage
+2024-01-05 01:50:41 PM Index M158PRIT01GYS.m form_c inconsistent
+2024-01-05 01:50:41 PM DF_KEY = 2015=100
+2024-01-05 01:50:41 PM df_key = 
+2024-01-05 01:50:44 PM The program did not fetch the latest data for: M536LOTANOSTS.m
+2024-01-05 01:50:44 PM Index M542PMTO01GPS.m desc_e inconsistent
+2024-01-05 01:50:44 PM DF_KEY = Production > Manufacturing > Total manufacturing > Total manufacturing, Growth rate previous period, s.a., Units of Index(2015=100) - Korea
+2024-01-05 01:50:44 PM df_key = Production > Manufacturing > Total manufacturing > Total manufacturing, Growth rate previous period, s.a., Units of Percentage - Korea
+2024-01-05 01:50:44 PM Index M542PMTO01GPS.m unit inconsistent
+2024-01-05 01:50:44 PM DF_KEY = Units of Index
+2024-01-05 01:50:44 PM df_key = Units of Percentage
+2024-01-05 01:50:44 PM Index M542PMTO01GPS.m form_c inconsistent
+2024-01-05 01:50:44 PM DF_KEY = 2015=100
+2024-01-05 01:50:44 PM df_key = 
+2024-01-05 01:50:44 PM Index M542PMTO01GYS.m desc_e inconsistent
+2024-01-05 01:50:44 PM DF_KEY = Production > Manufacturing > Total manufacturing > Total manufacturing, Growth rate same period previous year, s.a., Units of Index(2015=100) - Korea
+2024-01-05 01:50:44 PM df_key = Production > Manufacturing > Total manufacturing > Total manufacturing, Growth rate same period previous year, s.a., Units of Percentage - Korea
+2024-01-05 01:50:44 PM Index M542PMTO01GYS.m unit inconsistent
+2024-01-05 01:50:44 PM DF_KEY = Units of Index
+2024-01-05 01:50:44 PM df_key = Units of Percentage
+2024-01-05 01:50:44 PM Index M542PMTO01GYS.m form_c inconsistent
+2024-01-05 01:50:44 PM DF_KEY = 2015=100
+2024-01-05 01:50:44 PM df_key = 
+2024-01-05 01:50:44 PM Index M542PRIT01GYS.m desc_e inconsistent
+2024-01-05 01:50:44 PM DF_KEY = Production > Industry > Total industry > Total industry excluding construction, Growth rate same period previous year, s.a., Units of Index(2015=100) - Korea
+2024-01-05 01:50:44 PM df_key = Production > Industry > Total industry > Total industry excluding construction, Growth rate same period previous year, s.a., Units of Percentage - Korea
+2024-01-05 01:50:44 PM Index M542PRIT01GYS.m unit inconsistent
+2024-01-05 01:50:44 PM DF_KEY = Units of Index
+2024-01-05 01:50:44 PM df_key = Units of Percentage
+2024-01-05 01:50:44 PM Index M542PRIT01GYS.m form_c inconsistent
+2024-01-05 01:50:44 PM DF_KEY = 2015=100
+2024-01-05 01:50:44 PM df_key = 
+2024-01-05 01:50:51 PM Index Q156PMTO01IOB.q desc_e inconsistent
+2024-01-05 01:50:51 PM DF_KEY = Production > Manufacturing > Total manufacturing > Total manufacturing, Index 2015=100, Units of Index - Canada
+2024-01-05 01:50:51 PM df_key = Production > Manufacturing > Total manufacturing > Total manufacturing, Index 2015=100, Units of Canadian Dollar - Canada
+2024-01-05 01:50:51 PM Index Q156PMTO01IOB.q unit inconsistent
+2024-01-05 01:50:51 PM DF_KEY = Units of Index
+2024-01-05 01:50:51 PM df_key = Units of Canadian Dollar
+2024-01-05 01:50:51 PM Index Q156PMTO01IOS.q desc_e inconsistent
+2024-01-05 01:50:51 PM DF_KEY = Production > Manufacturing > Total manufacturing > Total manufacturing, Index 2015=100, s.a., Units of Index - Canada
+2024-01-05 01:50:51 PM df_key = Production > Manufacturing > Total manufacturing > Total manufacturing, Index 2015=100, s.a., Units of Canadian Dollar - Canada
+2024-01-05 01:50:51 PM Index Q156PMTO01IOS.q unit inconsistent
+2024-01-05 01:50:51 PM DF_KEY = Units of Index
+2024-01-05 01:50:51 PM df_key = Units of Canadian Dollar
+2024-01-05 01:50:51 PM Index Q156PRCNTOIOS.q desc_e inconsistent
+2024-01-05 01:50:51 PM DF_KEY = Production > Construction > Total construction > Total, Index 2015=100, s.a., Units of Index - Canada
+2024-01-05 01:50:51 PM df_key = Production > Construction > Total construction > Total, Index 2015=100, s.a., Units of Canadian Dollar - Canada
+2024-01-05 01:50:51 PM Index Q156PRCNTOIOS.q unit inconsistent
+2024-01-05 01:50:51 PM DF_KEY = Units of Index
+2024-01-05 01:50:51 PM df_key = Units of Canadian Dollar
+2024-01-05 01:50:51 PM Index Q156PRIT01GYS.q desc_e inconsistent
+2024-01-05 01:50:51 PM DF_KEY = Production > Industry > Total industry > Total industry excluding construction, Growth rate same period previous year, s.a., Units of Percentage points - Canada
+2024-01-05 01:50:51 PM df_key = Production > Industry > Total industry > Total industry excluding construction, Growth rate same period previous year, s.a., Units of Percentage - Canada
+2024-01-05 01:50:51 PM Index Q156PRIT01GYS.q unit inconsistent
+2024-01-05 01:50:51 PM DF_KEY = Units of Percentage points
+2024-01-05 01:50:51 PM df_key = Units of Percentage
+2024-01-05 01:50:51 PM Index Q156PRIT01IOB.q desc_e inconsistent
+2024-01-05 01:50:51 PM DF_KEY = Production > Industry > Total industry > Total industry excluding construction, Index 2015=100, Units of Index - Canada
+2024-01-05 01:50:51 PM df_key = Production > Industry > Total industry > Total industry excluding construction, Index 2015=100, Units of Canadian Dollar - Canada
+2024-01-05 01:50:51 PM Index Q156PRIT01IOB.q unit inconsistent
+2024-01-05 01:50:51 PM DF_KEY = Units of Index
+2024-01-05 01:50:51 PM df_key = Units of Canadian Dollar
+2024-01-05 01:50:51 PM Index Q156PRIT01IOS.q desc_e inconsistent
+2024-01-05 01:50:51 PM DF_KEY = Production > Industry > Total industry > Total industry excluding construction, Index 2015=100, s.a., Units of Index - Canada
+2024-01-05 01:50:51 PM df_key = Production > Industry > Total industry > Total industry excluding construction, Index 2015=100, s.a., Units of Canadian Dollar - Canada
+2024-01-05 01:50:51 PM Index Q156PRIT01IOS.q unit inconsistent
+2024-01-05 01:50:51 PM DF_KEY = Units of Index
+2024-01-05 01:50:51 PM df_key = Units of Canadian Dollar
+2024-01-05 01:50:59 PM unknown: 0
+2024-01-05 01:50:59 PM name too long: 0
+2024-01-05 01:50:59 PM inconsistent: 51
+2024-01-05 01:50:59 PM Total desc_e inconsistent: 23
+2024-01-05 01:50:59 PM Total desc_c inconsistent: 0
+2024-01-05 01:50:59 PM Total freq inconsistent: 0
+2024-01-05 01:50:59 PM Total unit inconsistent: 23
+2024-01-05 01:50:59 PM Total name_ord inconsistent: 0
+2024-01-05 01:50:59 PM Total book inconsistent: 0
+2024-01-05 01:50:59 PM Total form_e inconsistent: 0
+2024-01-05 01:50:59 PM Total form_c inconsistent: 5
+2024-01-05 01:50:59 PM inconsistent earliest: 1955
+2024-01-05 01:50:59 PM base updated: 0
+2024-01-05 01:50:59 PM data updated: 26529
+2024-01-05 01:50:59 PM including weekly: False
+2024-01-05 01:50:59 PM too many months: False
+2024-01-05 01:51:04 PM unfound: 4603
