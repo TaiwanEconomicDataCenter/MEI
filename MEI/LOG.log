@@ -1,56 +1,56 @@
-﻿2024-02-05 01:26:39 PM excel_suffix: mysql
+﻿2024-03-04 01:40:00 PM excel_suffix: mysql
 
-2024-02-05 01:26:39 PM data_processing: False
+2024-03-04 01:40:00 PM data_processing: False
 
-2024-02-05 01:26:39 PM find_unknown: False
+2024-03-04 01:40:00 PM find_unknown: False
 
-2024-02-05 01:26:39 PM dealing_start_year: 1947
+2024-03-04 01:40:00 PM dealing_start_year: 1947
 
-2024-02-05 01:27:42 PM Process: File Merging
+2024-03-04 01:41:34 PM Process: File Merging
 
-2024-02-05 01:27:42 PM Reading main key: MEI_keyNEW.xlsx, Time: 62 s
+2024-03-04 01:41:34 PM Reading main key: MEI_keyNEW.xlsx, Time: 94 s
 
-2024-02-05 01:27:42 PM Reading main database: MEI_databaseNEW.xlsx, Time: 63 s
+2024-03-04 01:41:35 PM Reading main database: MEI_databaseNEW.xlsx, Time: 94 s
 
-2024-02-05 01:27:42 PM Merging File, Time: 63 s
+2024-03-04 01:41:35 PM Merging File, Time: 94 s
 
-2024-02-05 01:28:02 PM Setting files, Time: 82 s
+2024-03-04 01:41:52 PM Setting files, Time: 112 s
 
-2024-02-05 01:28:02 PM Concating file: MEI_key?, Time: 82 s
+2024-03-04 01:41:52 PM Concating file: MEI_key?, Time: 112 s
 
-2024-02-05 01:28:02 PM Concating file: MEI_database?, Time: 82 s
+2024-03-04 01:41:52 PM Concating file: MEI_database?, Time: 112 s
 
-2024-02-05 01:28:02 PM Time: 82 s
+2024-03-04 01:41:52 PM Time: 112 s
 
-2024-02-05 01:29:32 PM Setting new files, Time: 173 s
+2024-03-04 01:43:24 PM Setting new files, Time: 204 s
 
-2024-02-05 01:54:52 PM Concating new files: MEI_database, Time: 1692 s
+2024-03-04 02:08:50 PM Concating new files: MEI_database, Time: 1730 s
 
-2024-02-05 01:56:09 PM Process: File Updating
+2024-03-04 02:09:12 PM Process: File Updating
 
-2024-02-05 01:56:09 PM Reading main key: MEI_keyUP.xlsx, Time: 1770 s
+2024-03-04 02:09:12 PM Reading main key: MEI_keyUP.xlsx, Time: 1752 s
 
-2024-02-05 01:56:38 PM Reading main database: MEI_database_1UP, Time: 1798 s
+2024-03-04 02:09:41 PM Reading main database: MEI_database_1UP, Time: 1780 s
 
-2024-02-05 01:57:04 PM Reading main database: MEI_database_2UP, Time: 1825 s
+2024-03-04 02:10:08 PM Reading main database: MEI_database_2UP, Time: 1807 s
 
-2024-02-05 01:57:37 PM Reading main database: MEI_database_3UP, Time: 1857 s
+2024-03-04 02:10:40 PM Reading main database: MEI_database_3UP, Time: 1840 s
 
-2024-02-05 01:58:09 PM Reading main database: MEI_database_4UP, Time: 1889 s
+2024-03-04 02:11:12 PM Reading main database: MEI_database_4UP, Time: 1872 s
 
-2024-02-05 01:58:35 PM Reading main database: MEI_database_5UP, Time: 1915 s
+2024-03-04 02:11:37 PM Reading main database: MEI_database_5UP, Time: 1897 s
 
-2024-02-05 01:59:25 PM Reading main database: MEI_database_6UP, Time: 1965 s
+2024-03-04 02:12:27 PM Reading main database: MEI_database_6UP, Time: 1947 s
 
-2024-02-05 02:00:13 PM Reading main database: MEI_database_7UP, Time: 2014 s
+2024-03-04 02:13:16 PM Reading main database: MEI_database_7UP, Time: 1995 s
 
-2024-02-05 02:00:49 PM Updating file: 0 s
+2024-03-04 02:14:00 PM Updating file: 0 s
 
-2024-02-05 04:35:08 PM updated: 37261
+2024-03-04 04:50:00 PM updated: 4589
 
-2024-02-05 04:35:08 PM Time: 9258 s
+2024-03-04 04:50:00 PM Time: 9360 s
 
-2024-02-05 04:35:16 PM        databank             name   db_table  db_code                                             desc_e          desc_c freq  ...     last                   unit name_ord     snl           book                    form_e    form_c
+2024-03-04 04:52:13 PM        databank             name   db_table  db_code                                             desc_e          desc_c freq  ...     last                   unit name_ord     snl           book                    form_e    form_c
 0           MEI  A111B6BD20CCU.a  DB_A_0001  data001  Balance of payments BPM6 > Current account Bal...    B6BLTD20CXCU    A  ...     2022  Millions of US Dollar      USA       1  United States  Balance of payments BPM6       NaN
 1           MEI  A111B6BD20NCU.a  DB_A_0001  data002  Balance of payments BPM6 > Current account Bal...    B6BLTD20NCCU    A  ...     2022  Millions of US Dollar      USA       2  United States  Balance of payments BPM6       NaN
 2           MEI  A111B6BLPICCS.a  DB_A_0001  data003  Balance of payments BPM6 > Current account Bal...  B6BLPI01CXCUSA    A  ...     2022  Millions of US Dollar      USA       3  United States  Balance of payments BPM6       NaN
